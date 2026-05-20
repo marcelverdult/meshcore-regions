@@ -24,7 +24,7 @@
     },
     {
       "code": "nl-dr",
-      "name": "dr",
+      "name": "Drenthe",
       "regions": []
     },
     {
@@ -34,17 +34,17 @@
     },
     {
       "code": "nl-fl",
-      "name": "fl",
+      "name": "Flevoland",
       "regions": []
     },
     {
       "code": "nl-fr",
-      "name": "fr",
+      "name": "Friesland",
       "regions": []
     },
     {
       "code": "nl-ge",
-      "name": "ge",
+      "name": "Gelderland",
       "regions": [
         {
           "code": "nl-ge-ede",
@@ -65,7 +65,7 @@
     },
     {
       "code": "nl-gr",
-      "name": "gr",
+      "name": "Groningen",
       "regions": [
         {
           "code": "nl-gr-les",
@@ -105,18 +105,23 @@
       "regions": []
     },
     {
+      "code": "nl-li",
+      "name": "Limburg",
+      "regions": []
+    },
+    {
       "code": "nl-lid",
       "name": "lid",
       "regions": []
     },
     {
       "code": "nl-nb",
-      "name": "nb",
+      "name": "Noord-Brabant",
       "regions": []
     },
     {
       "code": "nl-nh",
-      "name": "nh",
+      "name": "Noord-Holland",
       "regions": [
         {
           "code": "nl-nh-asd",
@@ -132,7 +137,7 @@
     },
     {
       "code": "nl-ov",
-      "name": "ov",
+      "name": "Overijssel",
       "regions": [
         {
           "code": "nl-ov-sew",
@@ -153,7 +158,7 @@
     },
     {
       "code": "nl-ut",
-      "name": "ut",
+      "name": "Utrecht",
       "regions": [
         {
           "code": "nl-ut-doo",
@@ -189,12 +194,12 @@
     },
     {
       "code": "nl-ze",
-      "name": "ze",
+      "name": "Zeeland",
       "regions": []
     },
     {
       "code": "nl-zh",
-      "name": "zh",
+      "name": "Zuid-Holland",
       "regions": [
         {
           "code": "nl-zh-dor",

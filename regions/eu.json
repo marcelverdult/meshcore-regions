@@ -1,0 +1,16 @@
+{
+  "code": "eu",
+  "name": "Europe",
+  "regions": [
+    {
+      "code": "eu-europa",
+      "name": "Europa",
+      "regions": []
+    },
+    {
+      "code": "eu-europe",
+      "name": "Europe",
+      "regions": []
+    }
+  ]
+}

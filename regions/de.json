@@ -19,7 +19,7 @@
     },
     {
       "code": "de-bb",
-      "name": "bb",
+      "name": "Brandenburg",
       "regions": [
         {
           "code": "de-bb-bar",
@@ -55,7 +55,7 @@
     },
     {
       "code": "de-be",
-      "name": "be",
+      "name": "Berlin",
       "regions": []
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "code": "de-bw",
-      "name": "bw",
+      "name": "Baden-Württemberg",
       "regions": [
         {
           "code": "de-bw-adk",
@@ -241,7 +241,7 @@
     },
     {
       "code": "de-by",
-      "name": "by",
+      "name": "Bayern",
       "regions": [
         {
           "code": "de-by-aux",
@@ -392,6 +392,11 @@
       "regions": []
     },
     {
+      "code": "de-hansemesh",
+      "name": "Hansemesh",
+      "regions": []
+    },
+    {
       "code": "de-hartz",
       "name": "hartz",
       "regions": []
@@ -403,12 +408,12 @@
     },
     {
       "code": "de-hb",
-      "name": "hb",
+      "name": "Bremen",
       "regions": []
     },
     {
       "code": "de-he",
-      "name": "he",
+      "name": "Hessen",
       "regions": [
         {
           "code": "de-he-gi",
@@ -430,7 +435,7 @@
     },
     {
       "code": "de-hh",
-      "name": "hh",
+      "name": "Hamburg",
       "regions": []
     },
     {
@@ -460,7 +465,7 @@
     },
     {
       "code": "de-mitte",
-      "name": "mitte",
+      "name": "Mitteldeutschland",
       "regions": []
     },
     {
@@ -470,7 +475,7 @@
     },
     {
       "code": "de-mv",
-      "name": "mv",
+      "name": "Mecklenburg-Vorpommern",
       "regions": [
         {
           "code": "de-mv-dbr",
@@ -506,7 +511,7 @@
     },
     {
       "code": "de-ni",
-      "name": "ni",
+      "name": "Niedersachsen",
       "regions": [
         {
           "code": "de-ni-bs",
@@ -607,7 +612,7 @@
     },
     {
       "code": "de-nord",
-      "name": "nord",
+      "name": "Norddeutschland",
       "regions": []
     },
     {
@@ -622,7 +627,7 @@
     },
     {
       "code": "de-nw",
-      "name": "nw",
+      "name": "Nordrhein-Westfalen",
       "regions": [
         {
           "code": "de-nw-bi",
@@ -714,7 +719,7 @@
     },
     {
       "code": "de-ost",
-      "name": "ost",
+      "name": "Ostdeutschland",
       "regions": []
     },
     {
@@ -740,7 +745,7 @@
     },
     {
       "code": "de-rp",
-      "name": "rp",
+      "name": "Rheinland-Pfalz",
       "regions": [
         {
           "code": "de-rp-dbg",
@@ -781,7 +786,7 @@
     },
     {
       "code": "de-sh",
-      "name": "sh",
+      "name": "Schleswig-Holstein",
       "regions": [
         {
           "code": "de-sh-eck",
@@ -827,12 +832,12 @@
     },
     {
       "code": "de-sl",
-      "name": "sl",
+      "name": "Saarland",
       "regions": []
     },
     {
       "code": "de-sn",
-      "name": "sn",
+      "name": "Sachsen",
       "regions": [
         {
           "code": "de-sn-bz",
@@ -893,7 +898,7 @@
     },
     {
       "code": "de-st",
-      "name": "st",
+      "name": "Sachsen-Anhalt",
       "regions": [
         {
           "code": "de-st-hbs",
@@ -919,7 +924,7 @@
     },
     {
       "code": "de-sued",
-      "name": "sued",
+      "name": "Süddeutschland",
       "regions": []
     },
     {
@@ -929,7 +934,7 @@
     },
     {
       "code": "de-th",
-      "name": "th",
+      "name": "Thüringen",
       "regions": [
         {
           "code": "de-th-ef",
@@ -995,7 +1000,7 @@
     },
     {
       "code": "de-west",
-      "name": "west",
+      "name": "Westdeutschland",
       "regions": []
     },
     {
