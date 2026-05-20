@@ -392,11 +392,6 @@
       "regions": []
     },
     {
-      "code": "de-hansemesh",
-      "name": "Hansemesh",
-      "regions": []
-    },
-    {
       "code": "de-hartz",
       "name": "hartz",
       "regions": []
@@ -1006,6 +1001,11 @@
     {
       "code": "de-wtm",
       "name": "wtm",
+      "regions": []
+    },
+    {
+      "code": "hansemesh",
+      "name": "Hansemesh",
       "regions": []
     }
   ]

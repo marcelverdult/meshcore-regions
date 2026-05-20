@@ -4,7 +4,7 @@ Canonical, community-editable catalog of MeshCore regions used worldwide.
 
 ## What this is
 
-A simple JSON catalog of region identifiers used across the MeshCore ecosystem. Each region has a `code` (the fully qualified hyphenated path, e.g. `de-hh-attraktor`), a human-readable `name` (the leaf label, e.g. `Attraktor`), and optional nested children.
+A simple JSON catalog of region identifiers used across the MeshCore ecosystem. Each region has a stable `code` (e.g. `de-hh-attraktor` or `hansemesh`), a human-readable `name` (the leaf label, e.g. `Attraktor`), and optional nested children. A region's `code` never changes once published, even if it gets re-nested under a different parent.
 
 ## How to consume
 
@@ -25,7 +25,7 @@ Each region node has this shape:
 }
 ```
 
-`code` is the full hyphenated path from the root. A child's `code` always starts with its parent's `code` followed by `-`. The `flat` array in `index.json` lists every node as `{ "path": "de-hh-attraktor", "name": "Attraktor" }` for quick lookups.
+`code` is stable and unique across the catalog. It usually mirrors the path from the root (e.g. `de-hh-attraktor`), but named networks that span multiple parents may keep a standalone code (e.g. `hansemesh` nested under `de`). The `flat` array in `index.json` lists every node as `{ "path": "<code>", "name": "<name>" }` for quick lookups; `path` equals the node's `code`.
 
 ## How to contribute
 
@@ -42,7 +42,7 @@ Rules enforced automatically by CI:
 - **No deletions** in `regions/`. Once a region is in the tree, it stays.
 - **Moves require approval.** If your PR moves a node from one parent to another, a maintainer adds the `approved-move` label before merge.
 - **Subdivision additions and name edits are free.** Add subdivisions under existing parents, fix a display name — no label needed.
-- Codes are lowercase ASCII letters, digits, and hyphens. A child's `code` must start with its parent's `code` followed by `-`. Total length capped at 64 characters.
+- Codes are lowercase ASCII letters, digits, and hyphens. Total length capped at 64 characters. A region's `code` is immutable — once published, it does not change, even if the node is re-nested under a different parent.
 - Children of any node are sorted by `code`.
 
 ## How sync works

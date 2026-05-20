@@ -31,16 +31,6 @@ function checkNode(node, parentCode, file) {
     if (!ROOT_CODE_RE.test(node.code)) {
       err(`${file}: root code "${node.code}" must be a single segment (no hyphens)`);
     }
-  } else {
-    const expectedPrefix = `${parentCode}-`;
-    if (!node.code.startsWith(expectedPrefix)) {
-      err(`${file}: child code "${node.code}" must start with "${expectedPrefix}"`);
-    } else {
-      const leaf = node.code.slice(expectedPrefix.length);
-      if (!LEAF_RE.test(leaf)) {
-        err(`${file}: child code "${node.code}" final segment "${leaf}" must match [a-z0-9]+`);
-      }
-    }
   }
   if (typeof node.name !== 'string' || node.name.length === 0) {
     err(`${file}: missing/empty name at "${node.code}"`);

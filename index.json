@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T18:08:05Z",
+  "generated_at": "2026-05-20T21:15:47Z",
   "tree": [
     {
       "code": "ad",
@@ -888,11 +888,6 @@
           "regions": []
         },
         {
-          "code": "de-hansemesh",
-          "name": "Hansemesh",
-          "regions": []
-        },
-        {
           "code": "de-hartz",
           "name": "hartz",
           "regions": []
@@ -1502,6 +1497,11 @@
         {
           "code": "de-wtm",
           "name": "wtm",
+          "regions": []
+        },
+        {
+          "code": "hansemesh",
+          "name": "Hansemesh",
           "regions": []
         }
       ]
@@ -3602,10 +3602,6 @@
       "name": "goe"
     },
     {
-      "path": "de-hansemesh",
-      "name": "Hansemesh"
-    },
-    {
       "path": "de-hartz",
       "name": "hartz"
     },
@@ -4276,6 +4272,10 @@
     {
       "path": "gy",
       "name": "Guyana"
+    },
+    {
+      "path": "hansemesh",
+      "name": "Hansemesh"
     },
     {
       "path": "hk",
