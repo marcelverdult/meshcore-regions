@@ -4,7 +4,7 @@ Canonical, community-editable catalog of MeshCore regions used worldwide.
 
 ## What this is
 
-A simple JSON catalog of region identifiers used across the MeshCore ecosystem. Each region has a short `code`, a human-readable `name`, and optional nested children. The full region string used by MeshCore tooling is built by joining the ancestor codes with `-`, e.g. `de-hh-attraktor`.
+A simple JSON catalog of region identifiers used across the MeshCore ecosystem. Each region has a `code` (the fully qualified hyphenated path, e.g. `de-hh-attraktor`), a human-readable `name` (the leaf label, e.g. `Attraktor`), and optional nested children.
 
 ## How to consume
 
@@ -19,13 +19,13 @@ Each region node has this shape:
 
 ```json
 {
-  "code": "<leaf-segment>",
-  "name": "<display name>",
+  "code": "de-hh-attraktor",
+  "name": "Attraktor",
   "regions": [ /* same shape, optional */ ]
 }
 ```
 
-The `flat` array in `index.json` lists every node as `{ "path": "de-hh-attraktor", "name": "Attraktor" }` for quick lookups.
+`code` is the full hyphenated path from the root. A child's `code` always starts with its parent's `code` followed by `-`. The `flat` array in `index.json` lists every node as `{ "path": "de-hh-attraktor", "name": "Attraktor" }` for quick lookups.
 
 ## How to contribute
 
@@ -42,7 +42,7 @@ Rules enforced automatically by CI:
 - **No deletions** in `regions/`. Once a region is in the tree, it stays.
 - **Moves require approval.** If your PR moves a node from one parent to another, a maintainer adds the `approved-move` label before merge.
 - **Subdivision additions and name edits are free.** Add subdivisions under existing parents, fix a display name — no label needed.
-- Codes are lowercase, ASCII letters/digits only, joined paths must stay under 64 characters.
+- Codes are lowercase ASCII letters, digits, and hyphens. A child's `code` must start with its parent's `code` followed by `-`. Total length capped at 64 characters.
 - Children of any node are sorted by `code`.
 
 ## How sync works

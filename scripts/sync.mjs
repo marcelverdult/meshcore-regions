@@ -149,16 +149,18 @@ function rewriteReadmeBlock(stats) {
 }
 
 function recentActivityRows() {
-  // Best-effort: parse last 20 commits on HEAD. Sync commits start with "sync:".
+  // Best-effort: parse last 20 commits on HEAD. Commits authored by the sync
+  // bot count as "sync"; everything else is "manual".
   let out;
-  try { out = execSync('git log -n 50 --pretty=format:%H%x09%cI%x09%s', { cwd: ROOT, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] }); }
+  try { out = execSync('git log -n 50 --pretty=format:%H%x09%cI%x09%aN%x09%s', { cwd: ROOT, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] }); }
   catch { return []; }
   const rows = [];
   for (const line of out.split('\n')) {
-    const [sha, when, ...subjectParts] = line.split('\t');
-    if (!sha) continue;
+    const parts = line.split('\t');
+    if (parts.length < 4) continue;
+    const [sha, when, author, ...subjectParts] = parts;
     const subject = subjectParts.join('\t');
-    const kind = subject.startsWith('sync:') ? 'sync' : 'manual';
+    const kind = author === 'github-actions[bot]' ? 'sync' : 'manual';
     rows.push({ when: when.replace(/\.\d{3}Z?$/, 'Z').replace(/[+-]\d{2}:\d{2}$/, 'Z'), kind, path: sha.slice(0, 7), note: subject });
     if (rows.length >= 20) break;
   }
