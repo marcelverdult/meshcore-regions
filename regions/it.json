@@ -1,0 +1,86 @@
+{
+  "code": "it",
+  "name": "Italy",
+  "regions": [
+    {
+      "code": "emr",
+      "name": "emr",
+      "regions": [
+        {
+          "code": "pr",
+          "name": "pr",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "li",
+      "name": "li",
+      "regions": []
+    },
+    {
+      "code": "lig",
+      "name": "lig",
+      "regions": [
+        {
+          "code": "sp",
+          "name": "sp",
+          "regions": []
+        },
+        {
+          "code": "vz",
+          "name": "vz",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "lom",
+      "name": "lom",
+      "regions": []
+    },
+    {
+      "code": "pi",
+      "name": "pi",
+      "regions": [
+        {
+          "code": "os",
+          "name": "os",
+          "regions": []
+        },
+        {
+          "code": "to",
+          "name": "to",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "pie",
+      "name": "pie",
+      "regions": [
+        {
+          "code": "os",
+          "name": "os",
+          "regions": []
+        },
+        {
+          "code": "to",
+          "name": "to",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "tos",
+      "name": "tos",
+      "regions": [
+        {
+          "code": "ms",
+          "name": "ms",
+          "regions": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/marcelverdult/meshcore-regions/schema/region.schema.json",
+  "title": "Region",
+  "type": "object",
+  "required": ["code", "name"],
+  "additionalProperties": false,
+  "properties": {
+    "code": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+$",
+      "maxLength": 64
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "regions": {
+      "type": "array",
+      "items": { "$ref": "#" }
+    }
+  }
+}

@@ -1,0 +1,5139 @@
+{
+  "generated_at": "2026-05-20T16:01:05Z",
+  "tree": [
+    {
+      "code": "ad",
+      "name": "Andorra",
+      "regions": []
+    },
+    {
+      "code": "ae",
+      "name": "United Arab Emirates",
+      "regions": []
+    },
+    {
+      "code": "af",
+      "name": "Afghanistan",
+      "regions": []
+    },
+    {
+      "code": "ag",
+      "name": "Antigua & Barbuda",
+      "regions": []
+    },
+    {
+      "code": "ai",
+      "name": "Anguilla",
+      "regions": []
+    },
+    {
+      "code": "al",
+      "name": "Albania",
+      "regions": []
+    },
+    {
+      "code": "am",
+      "name": "Armenia",
+      "regions": []
+    },
+    {
+      "code": "ao",
+      "name": "Angola",
+      "regions": []
+    },
+    {
+      "code": "aq",
+      "name": "Antarctica",
+      "regions": []
+    },
+    {
+      "code": "ar",
+      "name": "Argentina",
+      "regions": []
+    },
+    {
+      "code": "as",
+      "name": "American Samoa",
+      "regions": []
+    },
+    {
+      "code": "at",
+      "name": "Austria",
+      "regions": [
+        {
+          "code": "bgld",
+          "name": "bgld",
+          "regions": []
+        },
+        {
+          "code": "de",
+          "name": "de",
+          "regions": []
+        },
+        {
+          "code": "noe",
+          "name": "noe",
+          "regions": []
+        },
+        {
+          "code": "ooe",
+          "name": "ooe",
+          "regions": [
+            {
+              "code": "fr",
+              "name": "fr",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "ost",
+          "name": "ost",
+          "regions": []
+        },
+        {
+          "code": "sbg",
+          "name": "sbg",
+          "regions": []
+        },
+        {
+          "code": "stmk",
+          "name": "stmk",
+          "regions": []
+        },
+        {
+          "code": "sued",
+          "name": "sued",
+          "regions": []
+        },
+        {
+          "code": "t",
+          "name": "t",
+          "regions": []
+        },
+        {
+          "code": "vlbg",
+          "name": "vlbg",
+          "regions": []
+        },
+        {
+          "code": "w",
+          "name": "w",
+          "regions": []
+        },
+        {
+          "code": "west",
+          "name": "west",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "au",
+      "name": "Australia",
+      "regions": [
+        {
+          "code": "act",
+          "name": "act",
+          "regions": []
+        },
+        {
+          "code": "nsw",
+          "name": "nsw",
+          "regions": []
+        },
+        {
+          "code": "qld",
+          "name": "qld",
+          "regions": []
+        },
+        {
+          "code": "wa",
+          "name": "wa",
+          "regions": [
+            {
+              "code": "buy",
+              "name": "buy",
+              "regions": []
+            },
+            {
+              "code": "per",
+              "name": "per",
+              "regions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "aw",
+      "name": "Aruba",
+      "regions": []
+    },
+    {
+      "code": "ax",
+      "name": "Åland Islands",
+      "regions": []
+    },
+    {
+      "code": "az",
+      "name": "Azerbaijan",
+      "regions": []
+    },
+    {
+      "code": "ba",
+      "name": "Bosnia & Herzegovina",
+      "regions": []
+    },
+    {
+      "code": "bb",
+      "name": "Barbados",
+      "regions": []
+    },
+    {
+      "code": "bd",
+      "name": "Bangladesh",
+      "regions": []
+    },
+    {
+      "code": "be",
+      "name": "Belgium",
+      "regions": [
+        {
+          "code": "bru",
+          "name": "bru",
+          "regions": []
+        },
+        {
+          "code": "lgg",
+          "name": "lgg",
+          "regions": []
+        },
+        {
+          "code": "lie",
+          "name": "lie",
+          "regions": []
+        },
+        {
+          "code": "so",
+          "name": "so",
+          "regions": []
+        },
+        {
+          "code": "van",
+          "name": "van",
+          "regions": []
+        },
+        {
+          "code": "vbr",
+          "name": "vbr",
+          "regions": []
+        },
+        {
+          "code": "vov",
+          "name": "vov",
+          "regions": []
+        },
+        {
+          "code": "vwv",
+          "name": "vwv",
+          "regions": []
+        },
+        {
+          "code": "wal",
+          "name": "wal",
+          "regions": []
+        },
+        {
+          "code": "wbr",
+          "name": "wbr",
+          "regions": []
+        },
+        {
+          "code": "wht",
+          "name": "wht",
+          "regions": []
+        },
+        {
+          "code": "wlg",
+          "name": "wlg",
+          "regions": []
+        },
+        {
+          "code": "wna",
+          "name": "wna",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "bf",
+      "name": "Burkina Faso",
+      "regions": []
+    },
+    {
+      "code": "bg",
+      "name": "Bulgaria",
+      "regions": []
+    },
+    {
+      "code": "bh",
+      "name": "Bahrain",
+      "regions": []
+    },
+    {
+      "code": "bi",
+      "name": "Burundi",
+      "regions": []
+    },
+    {
+      "code": "bj",
+      "name": "Benin",
+      "regions": []
+    },
+    {
+      "code": "bl",
+      "name": "St. Barthélemy",
+      "regions": []
+    },
+    {
+      "code": "bm",
+      "name": "Bermuda",
+      "regions": []
+    },
+    {
+      "code": "bn",
+      "name": "Brunei",
+      "regions": []
+    },
+    {
+      "code": "bo",
+      "name": "Bolivia",
+      "regions": []
+    },
+    {
+      "code": "bq",
+      "name": "Caribbean Netherlands",
+      "regions": []
+    },
+    {
+      "code": "br",
+      "name": "Brazil",
+      "regions": []
+    },
+    {
+      "code": "bs",
+      "name": "Bahamas",
+      "regions": []
+    },
+    {
+      "code": "bt",
+      "name": "Bhutan",
+      "regions": []
+    },
+    {
+      "code": "bv",
+      "name": "Bouvet Island",
+      "regions": []
+    },
+    {
+      "code": "bw",
+      "name": "Botswana",
+      "regions": []
+    },
+    {
+      "code": "by",
+      "name": "Belarus",
+      "regions": []
+    },
+    {
+      "code": "bz",
+      "name": "Belize",
+      "regions": []
+    },
+    {
+      "code": "ca",
+      "name": "Canada",
+      "regions": []
+    },
+    {
+      "code": "cc",
+      "name": "Cocos (Keeling) Islands",
+      "regions": []
+    },
+    {
+      "code": "cd",
+      "name": "Congo - Kinshasa",
+      "regions": []
+    },
+    {
+      "code": "cf",
+      "name": "Central African Republic",
+      "regions": []
+    },
+    {
+      "code": "cg",
+      "name": "Congo - Brazzaville",
+      "regions": []
+    },
+    {
+      "code": "ch",
+      "name": "Switzerland",
+      "regions": [
+        {
+          "code": "de",
+          "name": "de",
+          "regions": []
+        },
+        {
+          "code": "fr",
+          "name": "fr",
+          "regions": []
+        },
+        {
+          "code": "ge",
+          "name": "ge",
+          "regions": []
+        },
+        {
+          "code": "it",
+          "name": "it",
+          "regions": []
+        },
+        {
+          "code": "vd",
+          "name": "vd",
+          "regions": [
+            {
+              "code": "stc",
+              "name": "stc",
+              "regions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ci",
+      "name": "Côte d’Ivoire",
+      "regions": []
+    },
+    {
+      "code": "ck",
+      "name": "Cook Islands",
+      "regions": []
+    },
+    {
+      "code": "cl",
+      "name": "Chile",
+      "regions": []
+    },
+    {
+      "code": "cm",
+      "name": "Cameroon",
+      "regions": []
+    },
+    {
+      "code": "cn",
+      "name": "China",
+      "regions": []
+    },
+    {
+      "code": "co",
+      "name": "Colombia",
+      "regions": []
+    },
+    {
+      "code": "cr",
+      "name": "Costa Rica",
+      "regions": []
+    },
+    {
+      "code": "cu",
+      "name": "Cuba",
+      "regions": []
+    },
+    {
+      "code": "cv",
+      "name": "Cape Verde",
+      "regions": []
+    },
+    {
+      "code": "cw",
+      "name": "Curaçao",
+      "regions": []
+    },
+    {
+      "code": "cx",
+      "name": "Christmas Island",
+      "regions": []
+    },
+    {
+      "code": "cy",
+      "name": "Cyprus",
+      "regions": []
+    },
+    {
+      "code": "cz",
+      "name": "Czechia",
+      "regions": [
+        {
+          "code": "jmk",
+          "name": "jmk",
+          "regions": []
+        },
+        {
+          "code": "pha",
+          "name": "pha",
+          "regions": []
+        },
+        {
+          "code": "stc",
+          "name": "stc",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "de",
+      "name": "Germany",
+      "regions": [
+        {
+          "code": "abo",
+          "name": "abo",
+          "regions": []
+        },
+        {
+          "code": "at",
+          "name": "at",
+          "regions": []
+        },
+        {
+          "code": "aur",
+          "name": "aur",
+          "regions": []
+        },
+        {
+          "code": "bb",
+          "name": "bb",
+          "regions": [
+            {
+              "code": "bar",
+              "name": "bar",
+              "regions": []
+            },
+            {
+              "code": "ee",
+              "name": "ee",
+              "regions": []
+            },
+            {
+              "code": "mol",
+              "name": "mol",
+              "regions": []
+            },
+            {
+              "code": "ohv",
+              "name": "ohv",
+              "regions": []
+            },
+            {
+              "code": "osl",
+              "name": "osl",
+              "regions": []
+            },
+            {
+              "code": "um",
+              "name": "um",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "be",
+          "name": "be",
+          "regions": []
+        },
+        {
+          "code": "bebb",
+          "name": "bebb",
+          "regions": []
+        },
+        {
+          "code": "ber",
+          "name": "ber",
+          "regions": []
+        },
+        {
+          "code": "bw",
+          "name": "bw",
+          "regions": [
+            {
+              "code": "adk",
+              "name": "adk",
+              "regions": []
+            },
+            {
+              "code": "bad",
+              "name": "bad",
+              "regions": []
+            },
+            {
+              "code": "bb",
+              "name": "bb",
+              "regions": []
+            },
+            {
+              "code": "bc",
+              "name": "bc",
+              "regions": []
+            },
+            {
+              "code": "bk",
+              "name": "bk",
+              "regions": []
+            },
+            {
+              "code": "cw",
+              "name": "cw",
+              "regions": []
+            },
+            {
+              "code": "em",
+              "name": "em",
+              "regions": []
+            },
+            {
+              "code": "es",
+              "name": "es",
+              "regions": []
+            },
+            {
+              "code": "fds",
+              "name": "fds",
+              "regions": []
+            },
+            {
+              "code": "fr",
+              "name": "fr",
+              "regions": []
+            },
+            {
+              "code": "gp",
+              "name": "gp",
+              "regions": []
+            },
+            {
+              "code": "hor",
+              "name": "hor",
+              "regions": []
+            },
+            {
+              "code": "ka",
+              "name": "ka",
+              "regions": []
+            },
+            {
+              "code": "lb",
+              "name": "lb",
+              "regions": []
+            },
+            {
+              "code": "leo",
+              "name": "leo",
+              "regions": []
+            },
+            {
+              "code": "og",
+              "name": "og",
+              "regions": []
+            },
+            {
+              "code": "pf",
+              "name": "pf",
+              "regions": []
+            },
+            {
+              "code": "ra",
+              "name": "ra",
+              "regions": []
+            },
+            {
+              "code": "rw",
+              "name": "rw",
+              "regions": []
+            },
+            {
+              "code": "s",
+              "name": "s",
+              "regions": []
+            },
+            {
+              "code": "sbh",
+              "name": "sbh",
+              "regions": []
+            },
+            {
+              "code": "sha",
+              "name": "sha",
+              "regions": []
+            },
+            {
+              "code": "str",
+              "name": "str",
+              "regions": []
+            },
+            {
+              "code": "sued",
+              "name": "sued",
+              "regions": []
+            },
+            {
+              "code": "tue",
+              "name": "tue",
+              "regions": []
+            },
+            {
+              "code": "tut",
+              "name": "tut",
+              "regions": []
+            },
+            {
+              "code": "ul",
+              "name": "ul",
+              "regions": []
+            },
+            {
+              "code": "ulm",
+              "name": "ulm",
+              "regions": []
+            },
+            {
+              "code": "vai",
+              "name": "vai",
+              "regions": []
+            },
+            {
+              "code": "vs",
+              "name": "vs",
+              "regions": []
+            },
+            {
+              "code": "wn",
+              "name": "wn",
+              "regions": []
+            },
+            {
+              "code": "wt",
+              "name": "wt",
+              "regions": []
+            },
+            {
+              "code": "zak",
+              "name": "zak",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "by",
+          "name": "by",
+          "regions": [
+            {
+              "code": "aux",
+              "name": "aux",
+              "regions": []
+            },
+            {
+              "code": "dah",
+              "name": "dah",
+              "regions": []
+            },
+            {
+              "code": "ed",
+              "name": "ed",
+              "regions": []
+            },
+            {
+              "code": "emm",
+              "name": "emm",
+              "regions": []
+            },
+            {
+              "code": "fr",
+              "name": "fr",
+              "regions": []
+            },
+            {
+              "code": "gz",
+              "name": "gz",
+              "regions": []
+            },
+            {
+              "code": "ill",
+              "name": "ill",
+              "regions": []
+            },
+            {
+              "code": "la",
+              "name": "la",
+              "regions": []
+            },
+            {
+              "code": "li",
+              "name": "li",
+              "regions": []
+            },
+            {
+              "code": "mfr",
+              "name": "mfr",
+              "regions": [
+                {
+                  "code": "er",
+                  "name": "er",
+                  "regions": []
+                },
+                {
+                  "code": "erh",
+                  "name": "erh",
+                  "regions": []
+                }
+              ]
+            },
+            {
+              "code": "mn",
+              "name": "mn",
+              "regions": []
+            },
+            {
+              "code": "muc",
+              "name": "muc",
+              "regions": []
+            },
+            {
+              "code": "nbay",
+              "name": "nbay",
+              "regions": []
+            },
+            {
+              "code": "ndb",
+              "name": "ndb",
+              "regions": []
+            },
+            {
+              "code": "nu",
+              "name": "nu",
+              "regions": []
+            },
+            {
+              "code": "oa",
+              "name": "oa",
+              "regions": []
+            },
+            {
+              "code": "oal",
+              "name": "oal",
+              "regions": []
+            },
+            {
+              "code": "schw",
+              "name": "schw",
+              "regions": []
+            },
+            {
+              "code": "sr",
+              "name": "sr",
+              "regions": []
+            },
+            {
+              "code": "ufr",
+              "name": "ufr",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "ch",
+          "name": "ch",
+          "regions": []
+        },
+        {
+          "code": "de",
+          "name": "de",
+          "regions": []
+        },
+        {
+          "code": "debb",
+          "name": "debb",
+          "regions": []
+        },
+        {
+          "code": "dk",
+          "name": "dk",
+          "regions": []
+        },
+        {
+          "code": "emd",
+          "name": "emd",
+          "regions": []
+        },
+        {
+          "code": "fri",
+          "name": "fri",
+          "regions": []
+        },
+        {
+          "code": "goe",
+          "name": "goe",
+          "regions": []
+        },
+        {
+          "code": "hartz",
+          "name": "hartz",
+          "regions": []
+        },
+        {
+          "code": "harz",
+          "name": "harz",
+          "regions": []
+        },
+        {
+          "code": "hb",
+          "name": "hb",
+          "regions": []
+        },
+        {
+          "code": "he",
+          "name": "he",
+          "regions": [
+            {
+              "code": "gi",
+              "name": "gi",
+              "regions": [
+                {
+                  "code": "gi",
+                  "name": "gi",
+                  "regions": []
+                }
+              ]
+            },
+            {
+              "code": "mtk",
+              "name": "mtk",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "hh",
+          "name": "hh",
+          "regions": []
+        },
+        {
+          "code": "ki",
+          "name": "ki",
+          "regions": []
+        },
+        {
+          "code": "kiel",
+          "name": "kiel",
+          "regions": []
+        },
+        {
+          "code": "ko",
+          "name": "ko",
+          "regions": []
+        },
+        {
+          "code": "koblenz",
+          "name": "koblenz",
+          "regions": []
+        },
+        {
+          "code": "laho",
+          "name": "laho",
+          "regions": []
+        },
+        {
+          "code": "mitte",
+          "name": "mitte",
+          "regions": []
+        },
+        {
+          "code": "mpids",
+          "name": "mpids",
+          "regions": []
+        },
+        {
+          "code": "mv",
+          "name": "mv",
+          "regions": [
+            {
+              "code": "dbr",
+              "name": "dbr",
+              "regions": []
+            },
+            {
+              "code": "hro",
+              "name": "hro",
+              "regions": []
+            },
+            {
+              "code": "hst",
+              "name": "hst",
+              "regions": []
+            },
+            {
+              "code": "sbg",
+              "name": "sbg",
+              "regions": []
+            },
+            {
+              "code": "vg",
+              "name": "vg",
+              "regions": []
+            },
+            {
+              "code": "vr",
+              "name": "vr",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "ni",
+          "name": "ni",
+          "regions": [
+            {
+              "code": "bs",
+              "name": "bs",
+              "regions": []
+            },
+            {
+              "code": "fri",
+              "name": "fri",
+              "regions": []
+            },
+            {
+              "code": "goe",
+              "name": "goe",
+              "regions": []
+            },
+            {
+              "code": "gs",
+              "name": "gs",
+              "regions": []
+            },
+            {
+              "code": "h",
+              "name": "h",
+              "regions": []
+            },
+            {
+              "code": "he",
+              "name": "he",
+              "regions": []
+            },
+            {
+              "code": "hi",
+              "name": "hi",
+              "regions": []
+            },
+            {
+              "code": "hm",
+              "name": "hm",
+              "regions": []
+            },
+            {
+              "code": "hol",
+              "name": "hol",
+              "regions": []
+            },
+            {
+              "code": "lg",
+              "name": "lg",
+              "regions": []
+            },
+            {
+              "code": "nom",
+              "name": "nom",
+              "regions": []
+            },
+            {
+              "code": "oha",
+              "name": "oha",
+              "regions": []
+            },
+            {
+              "code": "ohz",
+              "name": "ohz",
+              "regions": []
+            },
+            {
+              "code": "shg",
+              "name": "shg",
+              "regions": []
+            },
+            {
+              "code": "sz",
+              "name": "sz",
+              "regions": []
+            },
+            {
+              "code": "wf",
+              "name": "wf",
+              "regions": []
+            },
+            {
+              "code": "wob",
+              "name": "wob",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "nom",
+          "name": "nom",
+          "regions": []
+        },
+        {
+          "code": "nor",
+          "name": "nor",
+          "regions": []
+        },
+        {
+          "code": "nord",
+          "name": "nord",
+          "regions": []
+        },
+        {
+          "code": "nrw",
+          "name": "nrw",
+          "regions": []
+        },
+        {
+          "code": "ns",
+          "name": "ns",
+          "regions": []
+        },
+        {
+          "code": "nw",
+          "name": "nw",
+          "regions": [
+            {
+              "code": "bi",
+              "name": "bi",
+              "regions": []
+            },
+            {
+              "code": "bo",
+              "name": "bo",
+              "regions": []
+            },
+            {
+              "code": "e",
+              "name": "e",
+              "regions": []
+            },
+            {
+              "code": "gl",
+              "name": "gl",
+              "regions": []
+            },
+            {
+              "code": "gt",
+              "name": "gt",
+              "regions": []
+            },
+            {
+              "code": "hf",
+              "name": "hf",
+              "regions": []
+            },
+            {
+              "code": "hsk",
+              "name": "hsk",
+              "regions": []
+            },
+            {
+              "code": "hx",
+              "name": "hx",
+              "regions": []
+            },
+            {
+              "code": "lip",
+              "name": "lip",
+              "regions": [
+                {
+                  "code": "dt",
+                  "name": "dt",
+                  "regions": []
+                }
+              ]
+            },
+            {
+              "code": "mi",
+              "name": "mi",
+              "regions": []
+            },
+            {
+              "code": "mitte",
+              "name": "mitte",
+              "regions": []
+            },
+            {
+              "code": "ms",
+              "name": "ms",
+              "regions": []
+            },
+            {
+              "code": "oe",
+              "name": "oe",
+              "regions": []
+            },
+            {
+              "code": "owl",
+              "name": "owl",
+              "regions": []
+            },
+            {
+              "code": "pb",
+              "name": "pb",
+              "regions": []
+            },
+            {
+              "code": "so",
+              "name": "so",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "ost",
+          "name": "ost",
+          "regions": []
+        },
+        {
+          "code": "ostfriesland",
+          "name": "ostfriesland",
+          "regions": []
+        },
+        {
+          "code": "owl",
+          "name": "owl",
+          "regions": []
+        },
+        {
+          "code": "rlp",
+          "name": "rlp",
+          "regions": [
+            {
+              "code": "dbg",
+              "name": "dbg",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "rp",
+          "name": "rp",
+          "regions": [
+            {
+              "code": "dbg",
+              "name": "dbg",
+              "regions": []
+            },
+            {
+              "code": "ger",
+              "name": "ger",
+              "regions": []
+            },
+            {
+              "code": "ingelheim",
+              "name": "ingelheim",
+              "regions": []
+            },
+            {
+              "code": "kl",
+              "name": "kl",
+              "regions": []
+            },
+            {
+              "code": "koblenz",
+              "name": "koblenz",
+              "regions": []
+            },
+            {
+              "code": "ww",
+              "name": "ww",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "saa",
+          "name": "saa",
+          "regions": []
+        },
+        {
+          "code": "sh",
+          "name": "sh",
+          "regions": [
+            {
+              "code": "eck",
+              "name": "eck",
+              "regions": []
+            },
+            {
+              "code": "hl",
+              "name": "hl",
+              "regions": []
+            },
+            {
+              "code": "ki",
+              "name": "ki",
+              "regions": []
+            },
+            {
+              "code": "oh",
+              "name": "oh",
+              "regions": []
+            },
+            {
+              "code": "pi",
+              "name": "pi",
+              "regions": []
+            },
+            {
+              "code": "ploe",
+              "name": "ploe",
+              "regions": []
+            },
+            {
+              "code": "rd",
+              "name": "rd",
+              "regions": []
+            },
+            {
+              "code": "slfl",
+              "name": "slfl",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "sl",
+          "name": "sl",
+          "regions": []
+        },
+        {
+          "code": "sn",
+          "name": "sn",
+          "regions": [
+            {
+              "code": "bz",
+              "name": "bz",
+              "regions": []
+            },
+            {
+              "code": "c",
+              "name": "c",
+              "regions": []
+            },
+            {
+              "code": "dd",
+              "name": "dd",
+              "regions": []
+            },
+            {
+              "code": "erz",
+              "name": "erz",
+              "regions": []
+            },
+            {
+              "code": "fg",
+              "name": "fg",
+              "regions": []
+            },
+            {
+              "code": "leipzig",
+              "name": "leipzig",
+              "regions": []
+            },
+            {
+              "code": "mei",
+              "name": "mei",
+              "regions": []
+            },
+            {
+              "code": "msn",
+              "name": "msn",
+              "regions": []
+            },
+            {
+              "code": "pir",
+              "name": "pir",
+              "regions": []
+            },
+            {
+              "code": "vvo",
+              "name": "vvo",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "solling",
+          "name": "solling",
+          "regions": []
+        },
+        {
+          "code": "st",
+          "name": "st",
+          "regions": [
+            {
+              "code": "hbs",
+              "name": "hbs",
+              "regions": []
+            },
+            {
+              "code": "hz",
+              "name": "hz",
+              "regions": []
+            },
+            {
+              "code": "md",
+              "name": "md",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "str",
+          "name": "str",
+          "regions": []
+        },
+        {
+          "code": "sued",
+          "name": "sued",
+          "regions": []
+        },
+        {
+          "code": "test",
+          "name": "test",
+          "regions": []
+        },
+        {
+          "code": "th",
+          "name": "th",
+          "regions": [
+            {
+              "code": "ef",
+              "name": "ef",
+              "regions": []
+            },
+            {
+              "code": "gth",
+              "name": "gth",
+              "regions": []
+            },
+            {
+              "code": "hbn",
+              "name": "hbn",
+              "regions": []
+            },
+            {
+              "code": "j",
+              "name": "j",
+              "regions": []
+            },
+            {
+              "code": "shk",
+              "name": "shk",
+              "regions": []
+            },
+            {
+              "code": "shl",
+              "name": "shl",
+              "regions": []
+            },
+            {
+              "code": "slz",
+              "name": "slz",
+              "regions": []
+            },
+            {
+              "code": "sm",
+              "name": "sm",
+              "regions": []
+            },
+            {
+              "code": "sok",
+              "name": "sok",
+              "regions": []
+            },
+            {
+              "code": "themar",
+              "name": "themar",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "thecore",
+          "name": "thecore",
+          "regions": []
+        },
+        {
+          "code": "w",
+          "name": "w",
+          "regions": []
+        },
+        {
+          "code": "west",
+          "name": "west",
+          "regions": []
+        },
+        {
+          "code": "wtm",
+          "name": "wtm",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "dj",
+      "name": "Djibouti",
+      "regions": []
+    },
+    {
+      "code": "dk",
+      "name": "Denmark",
+      "regions": [
+        {
+          "code": "sdk",
+          "name": "sdk",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "dm",
+      "name": "Dominica",
+      "regions": []
+    },
+    {
+      "code": "do",
+      "name": "Dominican Republic",
+      "regions": []
+    },
+    {
+      "code": "dz",
+      "name": "Algeria",
+      "regions": []
+    },
+    {
+      "code": "ec",
+      "name": "Ecuador",
+      "regions": []
+    },
+    {
+      "code": "ee",
+      "name": "Estonia",
+      "regions": []
+    },
+    {
+      "code": "eg",
+      "name": "Egypt",
+      "regions": []
+    },
+    {
+      "code": "eh",
+      "name": "Western Sahara",
+      "regions": []
+    },
+    {
+      "code": "er",
+      "name": "Eritrea",
+      "regions": []
+    },
+    {
+      "code": "es",
+      "name": "Spain",
+      "regions": []
+    },
+    {
+      "code": "et",
+      "name": "Ethiopia",
+      "regions": []
+    },
+    {
+      "code": "fi",
+      "name": "Finland",
+      "regions": []
+    },
+    {
+      "code": "fj",
+      "name": "Fiji",
+      "regions": []
+    },
+    {
+      "code": "fk",
+      "name": "Falkland Islands",
+      "regions": []
+    },
+    {
+      "code": "fm",
+      "name": "Micronesia",
+      "regions": []
+    },
+    {
+      "code": "fo",
+      "name": "Faroe Islands",
+      "regions": []
+    },
+    {
+      "code": "fr",
+      "name": "France",
+      "regions": [
+        {
+          "code": "01",
+          "name": "01",
+          "regions": []
+        },
+        {
+          "code": "25",
+          "name": "25",
+          "regions": []
+        },
+        {
+          "code": "69",
+          "name": "69",
+          "regions": []
+        },
+        {
+          "code": "74",
+          "name": "74",
+          "regions": []
+        },
+        {
+          "code": "ara",
+          "name": "ara",
+          "regions": []
+        },
+        {
+          "code": "bfc",
+          "name": "bfc",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "ga",
+      "name": "Gabon",
+      "regions": []
+    },
+    {
+      "code": "gb",
+      "name": "United Kingdom",
+      "regions": [
+        {
+          "code": "est",
+          "name": "est",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "gd",
+      "name": "Grenada",
+      "regions": []
+    },
+    {
+      "code": "ge",
+      "name": "Georgia",
+      "regions": []
+    },
+    {
+      "code": "gf",
+      "name": "French Guiana",
+      "regions": []
+    },
+    {
+      "code": "gg",
+      "name": "Guernsey",
+      "regions": []
+    },
+    {
+      "code": "gh",
+      "name": "Ghana",
+      "regions": []
+    },
+    {
+      "code": "gi",
+      "name": "Gibraltar",
+      "regions": []
+    },
+    {
+      "code": "gl",
+      "name": "Greenland",
+      "regions": []
+    },
+    {
+      "code": "gm",
+      "name": "Gambia",
+      "regions": []
+    },
+    {
+      "code": "gn",
+      "name": "Guinea",
+      "regions": []
+    },
+    {
+      "code": "gp",
+      "name": "Guadeloupe",
+      "regions": []
+    },
+    {
+      "code": "gq",
+      "name": "Equatorial Guinea",
+      "regions": []
+    },
+    {
+      "code": "gr",
+      "name": "Greece",
+      "regions": []
+    },
+    {
+      "code": "gs",
+      "name": "South Georgia & South Sandwich Islands",
+      "regions": []
+    },
+    {
+      "code": "gt",
+      "name": "Guatemala",
+      "regions": []
+    },
+    {
+      "code": "gu",
+      "name": "Guam",
+      "regions": []
+    },
+    {
+      "code": "gw",
+      "name": "Guinea-Bissau",
+      "regions": []
+    },
+    {
+      "code": "gy",
+      "name": "Guyana",
+      "regions": []
+    },
+    {
+      "code": "hk",
+      "name": "Hong Kong SAR China",
+      "regions": []
+    },
+    {
+      "code": "hm",
+      "name": "Heard & McDonald Islands",
+      "regions": []
+    },
+    {
+      "code": "hn",
+      "name": "Honduras",
+      "regions": []
+    },
+    {
+      "code": "hr",
+      "name": "Croatia",
+      "regions": []
+    },
+    {
+      "code": "ht",
+      "name": "Haiti",
+      "regions": []
+    },
+    {
+      "code": "hu",
+      "name": "Hungary",
+      "regions": []
+    },
+    {
+      "code": "id",
+      "name": "Indonesia",
+      "regions": []
+    },
+    {
+      "code": "ie",
+      "name": "Ireland",
+      "regions": []
+    },
+    {
+      "code": "il",
+      "name": "Israel",
+      "regions": []
+    },
+    {
+      "code": "im",
+      "name": "Isle of Man",
+      "regions": []
+    },
+    {
+      "code": "in",
+      "name": "India",
+      "regions": []
+    },
+    {
+      "code": "io",
+      "name": "British Indian Ocean Territory",
+      "regions": []
+    },
+    {
+      "code": "ioi",
+      "name": "Island of Ireland",
+      "regions": [
+        {
+          "code": "admin",
+          "name": "admin",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "iq",
+      "name": "Iraq",
+      "regions": []
+    },
+    {
+      "code": "ir",
+      "name": "Iran",
+      "regions": []
+    },
+    {
+      "code": "is",
+      "name": "Iceland",
+      "regions": []
+    },
+    {
+      "code": "it",
+      "name": "Italy",
+      "regions": [
+        {
+          "code": "emr",
+          "name": "emr",
+          "regions": [
+            {
+              "code": "pr",
+              "name": "pr",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "li",
+          "name": "li",
+          "regions": []
+        },
+        {
+          "code": "lig",
+          "name": "lig",
+          "regions": [
+            {
+              "code": "sp",
+              "name": "sp",
+              "regions": []
+            },
+            {
+              "code": "vz",
+              "name": "vz",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "lom",
+          "name": "lom",
+          "regions": []
+        },
+        {
+          "code": "pi",
+          "name": "pi",
+          "regions": [
+            {
+              "code": "os",
+              "name": "os",
+              "regions": []
+            },
+            {
+              "code": "to",
+              "name": "to",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "pie",
+          "name": "pie",
+          "regions": [
+            {
+              "code": "os",
+              "name": "os",
+              "regions": []
+            },
+            {
+              "code": "to",
+              "name": "to",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "tos",
+          "name": "tos",
+          "regions": [
+            {
+              "code": "ms",
+              "name": "ms",
+              "regions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "je",
+      "name": "Jersey",
+      "regions": []
+    },
+    {
+      "code": "jm",
+      "name": "Jamaica",
+      "regions": []
+    },
+    {
+      "code": "jo",
+      "name": "Jordan",
+      "regions": []
+    },
+    {
+      "code": "jp",
+      "name": "Japan",
+      "regions": []
+    },
+    {
+      "code": "ke",
+      "name": "Kenya",
+      "regions": []
+    },
+    {
+      "code": "kg",
+      "name": "Kyrgyzstan",
+      "regions": []
+    },
+    {
+      "code": "kh",
+      "name": "Cambodia",
+      "regions": []
+    },
+    {
+      "code": "ki",
+      "name": "Kiribati",
+      "regions": []
+    },
+    {
+      "code": "km",
+      "name": "Comoros",
+      "regions": []
+    },
+    {
+      "code": "kn",
+      "name": "St. Kitts & Nevis",
+      "regions": []
+    },
+    {
+      "code": "kp",
+      "name": "North Korea",
+      "regions": []
+    },
+    {
+      "code": "kr",
+      "name": "South Korea",
+      "regions": []
+    },
+    {
+      "code": "kw",
+      "name": "Kuwait",
+      "regions": []
+    },
+    {
+      "code": "ky",
+      "name": "Cayman Islands",
+      "regions": []
+    },
+    {
+      "code": "kz",
+      "name": "Kazakhstan",
+      "regions": []
+    },
+    {
+      "code": "la",
+      "name": "Laos",
+      "regions": []
+    },
+    {
+      "code": "lb",
+      "name": "Lebanon",
+      "regions": []
+    },
+    {
+      "code": "lc",
+      "name": "St. Lucia",
+      "regions": []
+    },
+    {
+      "code": "li",
+      "name": "Liechtenstein",
+      "regions": []
+    },
+    {
+      "code": "lk",
+      "name": "Sri Lanka",
+      "regions": [
+        {
+          "code": "stade",
+          "name": "stade",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "lr",
+      "name": "Liberia",
+      "regions": []
+    },
+    {
+      "code": "ls",
+      "name": "Lesotho",
+      "regions": []
+    },
+    {
+      "code": "lt",
+      "name": "Lithuania",
+      "regions": []
+    },
+    {
+      "code": "lu",
+      "name": "Luxembourg",
+      "regions": []
+    },
+    {
+      "code": "lv",
+      "name": "Latvia",
+      "regions": []
+    },
+    {
+      "code": "ly",
+      "name": "Libya",
+      "regions": []
+    },
+    {
+      "code": "ma",
+      "name": "Morocco",
+      "regions": []
+    },
+    {
+      "code": "mc",
+      "name": "Monaco",
+      "regions": []
+    },
+    {
+      "code": "md",
+      "name": "Moldova",
+      "regions": []
+    },
+    {
+      "code": "me",
+      "name": "Montenegro",
+      "regions": []
+    },
+    {
+      "code": "mf",
+      "name": "St. Martin",
+      "regions": []
+    },
+    {
+      "code": "mg",
+      "name": "Madagascar",
+      "regions": []
+    },
+    {
+      "code": "mh",
+      "name": "Marshall Islands",
+      "regions": []
+    },
+    {
+      "code": "mk",
+      "name": "North Macedonia",
+      "regions": []
+    },
+    {
+      "code": "ml",
+      "name": "Mali",
+      "regions": []
+    },
+    {
+      "code": "mm",
+      "name": "Myanmar (Burma)",
+      "regions": []
+    },
+    {
+      "code": "mn",
+      "name": "Mongolia",
+      "regions": []
+    },
+    {
+      "code": "mo",
+      "name": "Macao SAR China",
+      "regions": []
+    },
+    {
+      "code": "mp",
+      "name": "Northern Mariana Islands",
+      "regions": []
+    },
+    {
+      "code": "mq",
+      "name": "Martinique",
+      "regions": []
+    },
+    {
+      "code": "mr",
+      "name": "Mauritania",
+      "regions": []
+    },
+    {
+      "code": "ms",
+      "name": "Montserrat",
+      "regions": []
+    },
+    {
+      "code": "mt",
+      "name": "Malta",
+      "regions": []
+    },
+    {
+      "code": "mu",
+      "name": "Mauritius",
+      "regions": []
+    },
+    {
+      "code": "mv",
+      "name": "Maldives",
+      "regions": []
+    },
+    {
+      "code": "mw",
+      "name": "Malawi",
+      "regions": []
+    },
+    {
+      "code": "mx",
+      "name": "Mexico",
+      "regions": []
+    },
+    {
+      "code": "my",
+      "name": "Malaysia",
+      "regions": []
+    },
+    {
+      "code": "mz",
+      "name": "Mozambique",
+      "regions": []
+    },
+    {
+      "code": "na",
+      "name": "Namibia",
+      "regions": []
+    },
+    {
+      "code": "nc",
+      "name": "New Caledonia",
+      "regions": []
+    },
+    {
+      "code": "ne",
+      "name": "Niger",
+      "regions": []
+    },
+    {
+      "code": "nf",
+      "name": "Norfolk Island",
+      "regions": []
+    },
+    {
+      "code": "ng",
+      "name": "Nigeria",
+      "regions": []
+    },
+    {
+      "code": "ni",
+      "name": "Nicaragua",
+      "regions": []
+    },
+    {
+      "code": "nl",
+      "name": "Netherlands",
+      "regions": [
+        {
+          "code": "ame",
+          "name": "ame",
+          "regions": []
+        },
+        {
+          "code": "ams",
+          "name": "ams",
+          "regions": []
+        },
+        {
+          "code": "cpi",
+          "name": "cpi",
+          "regions": []
+        },
+        {
+          "code": "dor",
+          "name": "dor",
+          "regions": []
+        },
+        {
+          "code": "dr",
+          "name": "dr",
+          "regions": []
+        },
+        {
+          "code": "ede",
+          "name": "ede",
+          "regions": []
+        },
+        {
+          "code": "fl",
+          "name": "fl",
+          "regions": []
+        },
+        {
+          "code": "fr",
+          "name": "fr",
+          "regions": []
+        },
+        {
+          "code": "ge",
+          "name": "ge",
+          "regions": [
+            {
+              "code": "ede",
+              "name": "ede",
+              "regions": []
+            },
+            {
+              "code": "hrd",
+              "name": "hrd",
+              "regions": []
+            },
+            {
+              "code": "ltn",
+              "name": "ltn",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "gr",
+          "name": "gr",
+          "regions": [
+            {
+              "code": "les",
+              "name": "les",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "grq",
+          "name": "grq",
+          "regions": []
+        },
+        {
+          "code": "haa",
+          "name": "haa",
+          "regions": []
+        },
+        {
+          "code": "hag",
+          "name": "hag",
+          "regions": []
+        },
+        {
+          "code": "hrd",
+          "name": "hrd",
+          "regions": []
+        },
+        {
+          "code": "hrv",
+          "name": "hrv",
+          "regions": []
+        },
+        {
+          "code": "ley",
+          "name": "ley",
+          "regions": []
+        },
+        {
+          "code": "lid",
+          "name": "lid",
+          "regions": []
+        },
+        {
+          "code": "nb",
+          "name": "nb",
+          "regions": []
+        },
+        {
+          "code": "nh",
+          "name": "nh",
+          "regions": [
+            {
+              "code": "asd",
+              "name": "asd",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "noord",
+          "name": "noord",
+          "regions": []
+        },
+        {
+          "code": "ov",
+          "name": "ov",
+          "regions": [
+            {
+              "code": "sew",
+              "name": "sew",
+              "regions": []
+            },
+            {
+              "code": "stw",
+              "name": "stw",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "rhe",
+          "name": "rhe",
+          "regions": []
+        },
+        {
+          "code": "ut",
+          "name": "ut",
+          "regions": [
+            {
+              "code": "doo",
+              "name": "doo",
+              "regions": []
+            },
+            {
+              "code": "drb",
+              "name": "drb",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "utc",
+          "name": "utc",
+          "regions": []
+        },
+        {
+          "code": "varu",
+          "name": "varu",
+          "regions": []
+        },
+        {
+          "code": "vee",
+          "name": "vee",
+          "regions": []
+        },
+        {
+          "code": "wgw",
+          "name": "wgw",
+          "regions": []
+        },
+        {
+          "code": "ze",
+          "name": "ze",
+          "regions": []
+        },
+        {
+          "code": "zh",
+          "name": "zh",
+          "regions": [
+            {
+              "code": "dor",
+              "name": "dor",
+              "regions": []
+            },
+            {
+              "code": "wss",
+              "name": "wss",
+              "regions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "no",
+      "name": "Norway",
+      "regions": []
+    },
+    {
+      "code": "np",
+      "name": "Nepal",
+      "regions": []
+    },
+    {
+      "code": "nr",
+      "name": "Nauru",
+      "regions": []
+    },
+    {
+      "code": "nu",
+      "name": "Niue",
+      "regions": []
+    },
+    {
+      "code": "nz",
+      "name": "New Zealand",
+      "regions": []
+    },
+    {
+      "code": "om",
+      "name": "Oman",
+      "regions": []
+    },
+    {
+      "code": "pa",
+      "name": "Panama",
+      "regions": []
+    },
+    {
+      "code": "pe",
+      "name": "Peru",
+      "regions": []
+    },
+    {
+      "code": "pf",
+      "name": "French Polynesia",
+      "regions": []
+    },
+    {
+      "code": "pg",
+      "name": "Papua New Guinea",
+      "regions": []
+    },
+    {
+      "code": "ph",
+      "name": "Philippines",
+      "regions": []
+    },
+    {
+      "code": "pk",
+      "name": "Pakistan",
+      "regions": []
+    },
+    {
+      "code": "pl",
+      "name": "Poland",
+      "regions": [
+        {
+          "code": "kra",
+          "name": "kra",
+          "regions": []
+        },
+        {
+          "code": "krk",
+          "name": "krk",
+          "regions": []
+        },
+        {
+          "code": "ld",
+          "name": "ld",
+          "regions": []
+        },
+        {
+          "code": "ma",
+          "name": "ma",
+          "regions": []
+        },
+        {
+          "code": "mz",
+          "name": "mz",
+          "regions": []
+        },
+        {
+          "code": "wp",
+          "name": "wp",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "pm",
+      "name": "St. Pierre & Miquelon",
+      "regions": []
+    },
+    {
+      "code": "pn",
+      "name": "Pitcairn Islands",
+      "regions": []
+    },
+    {
+      "code": "pr",
+      "name": "Puerto Rico",
+      "regions": []
+    },
+    {
+      "code": "ps",
+      "name": "Palestinian Territories",
+      "regions": []
+    },
+    {
+      "code": "pt",
+      "name": "Portugal",
+      "regions": []
+    },
+    {
+      "code": "pw",
+      "name": "Palau",
+      "regions": []
+    },
+    {
+      "code": "py",
+      "name": "Paraguay",
+      "regions": []
+    },
+    {
+      "code": "qa",
+      "name": "Qatar",
+      "regions": []
+    },
+    {
+      "code": "re",
+      "name": "Réunion",
+      "regions": []
+    },
+    {
+      "code": "ro",
+      "name": "Romania",
+      "regions": []
+    },
+    {
+      "code": "rs",
+      "name": "Serbia",
+      "regions": []
+    },
+    {
+      "code": "ru",
+      "name": "Russia",
+      "regions": []
+    },
+    {
+      "code": "rw",
+      "name": "Rwanda",
+      "regions": []
+    },
+    {
+      "code": "sa",
+      "name": "Saudi Arabia",
+      "regions": []
+    },
+    {
+      "code": "sb",
+      "name": "Solomon Islands",
+      "regions": []
+    },
+    {
+      "code": "sc",
+      "name": "Seychelles",
+      "regions": []
+    },
+    {
+      "code": "sco",
+      "name": "Scotland",
+      "regions": []
+    },
+    {
+      "code": "sd",
+      "name": "Sudan",
+      "regions": []
+    },
+    {
+      "code": "se",
+      "name": "Sweden",
+      "regions": []
+    },
+    {
+      "code": "sg",
+      "name": "Singapore",
+      "regions": [
+        {
+          "code": "tostedt",
+          "name": "tostedt",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "sh",
+      "name": "St. Helena",
+      "regions": [
+        {
+          "code": "kel",
+          "name": "kel",
+          "regions": []
+        },
+        {
+          "code": "ki",
+          "name": "ki",
+          "regions": []
+        },
+        {
+          "code": "kiel",
+          "name": "kiel",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "si",
+      "name": "Slovenia",
+      "regions": []
+    },
+    {
+      "code": "sj",
+      "name": "Svalbard & Jan Mayen",
+      "regions": []
+    },
+    {
+      "code": "sk",
+      "name": "Slovakia",
+      "regions": []
+    },
+    {
+      "code": "sl",
+      "name": "Sierra Leone",
+      "regions": []
+    },
+    {
+      "code": "sm",
+      "name": "San Marino",
+      "regions": []
+    },
+    {
+      "code": "sn",
+      "name": "Senegal",
+      "regions": []
+    },
+    {
+      "code": "so",
+      "name": "Somalia",
+      "regions": []
+    },
+    {
+      "code": "sr",
+      "name": "Suriname",
+      "regions": []
+    },
+    {
+      "code": "ss",
+      "name": "South Sudan",
+      "regions": []
+    },
+    {
+      "code": "st",
+      "name": "São Tomé & Príncipe",
+      "regions": []
+    },
+    {
+      "code": "sv",
+      "name": "El Salvador",
+      "regions": []
+    },
+    {
+      "code": "sx",
+      "name": "Sint Maarten",
+      "regions": []
+    },
+    {
+      "code": "sy",
+      "name": "Syria",
+      "regions": []
+    },
+    {
+      "code": "sz",
+      "name": "Eswatini",
+      "regions": []
+    },
+    {
+      "code": "tc",
+      "name": "Turks & Caicos Islands",
+      "regions": []
+    },
+    {
+      "code": "td",
+      "name": "Chad",
+      "regions": []
+    },
+    {
+      "code": "tf",
+      "name": "French Southern Territories",
+      "regions": []
+    },
+    {
+      "code": "tg",
+      "name": "Togo",
+      "regions": []
+    },
+    {
+      "code": "th",
+      "name": "Thailand",
+      "regions": []
+    },
+    {
+      "code": "tj",
+      "name": "Tajikistan",
+      "regions": []
+    },
+    {
+      "code": "tk",
+      "name": "Tokelau",
+      "regions": []
+    },
+    {
+      "code": "tl",
+      "name": "Timor-Leste",
+      "regions": []
+    },
+    {
+      "code": "tm",
+      "name": "Turkmenistan",
+      "regions": []
+    },
+    {
+      "code": "tn",
+      "name": "Tunisia",
+      "regions": []
+    },
+    {
+      "code": "to",
+      "name": "Tonga",
+      "regions": []
+    },
+    {
+      "code": "tr",
+      "name": "Türkiye",
+      "regions": []
+    },
+    {
+      "code": "tt",
+      "name": "Trinidad & Tobago",
+      "regions": []
+    },
+    {
+      "code": "tv",
+      "name": "Tuvalu",
+      "regions": []
+    },
+    {
+      "code": "tw",
+      "name": "Taiwan",
+      "regions": []
+    },
+    {
+      "code": "tz",
+      "name": "Tanzania",
+      "regions": []
+    },
+    {
+      "code": "ua",
+      "name": "Ukraine",
+      "regions": []
+    },
+    {
+      "code": "ug",
+      "name": "Uganda",
+      "regions": []
+    },
+    {
+      "code": "um",
+      "name": "U.S. Outlying Islands",
+      "regions": []
+    },
+    {
+      "code": "us",
+      "name": "United States",
+      "regions": [
+        {
+          "code": "wa",
+          "name": "wa",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "uy",
+      "name": "Uruguay",
+      "regions": []
+    },
+    {
+      "code": "uz",
+      "name": "Uzbekistan",
+      "regions": []
+    },
+    {
+      "code": "va",
+      "name": "Vatican City",
+      "regions": []
+    },
+    {
+      "code": "vc",
+      "name": "St. Vincent & Grenadines",
+      "regions": []
+    },
+    {
+      "code": "ve",
+      "name": "Venezuela",
+      "regions": []
+    },
+    {
+      "code": "vg",
+      "name": "British Virgin Islands",
+      "regions": []
+    },
+    {
+      "code": "vi",
+      "name": "U.S. Virgin Islands",
+      "regions": []
+    },
+    {
+      "code": "vn",
+      "name": "Vietnam",
+      "regions": []
+    },
+    {
+      "code": "vu",
+      "name": "Vanuatu",
+      "regions": []
+    },
+    {
+      "code": "wf",
+      "name": "Wallis & Futuna",
+      "regions": []
+    },
+    {
+      "code": "ws",
+      "name": "Samoa",
+      "regions": []
+    },
+    {
+      "code": "ye",
+      "name": "Yemen",
+      "regions": []
+    },
+    {
+      "code": "yt",
+      "name": "Mayotte",
+      "regions": []
+    },
+    {
+      "code": "za",
+      "name": "South Africa",
+      "regions": []
+    },
+    {
+      "code": "zm",
+      "name": "Zambia",
+      "regions": []
+    },
+    {
+      "code": "zw",
+      "name": "Zimbabwe",
+      "regions": []
+    }
+  ],
+  "flat": [
+    {
+      "path": "ad",
+      "name": "Andorra"
+    },
+    {
+      "path": "ae",
+      "name": "United Arab Emirates"
+    },
+    {
+      "path": "af",
+      "name": "Afghanistan"
+    },
+    {
+      "path": "ag",
+      "name": "Antigua & Barbuda"
+    },
+    {
+      "path": "ai",
+      "name": "Anguilla"
+    },
+    {
+      "path": "al",
+      "name": "Albania"
+    },
+    {
+      "path": "am",
+      "name": "Armenia"
+    },
+    {
+      "path": "ao",
+      "name": "Angola"
+    },
+    {
+      "path": "aq",
+      "name": "Antarctica"
+    },
+    {
+      "path": "ar",
+      "name": "Argentina"
+    },
+    {
+      "path": "as",
+      "name": "American Samoa"
+    },
+    {
+      "path": "at",
+      "name": "Austria"
+    },
+    {
+      "path": "at-bgld",
+      "name": "bgld"
+    },
+    {
+      "path": "at-de",
+      "name": "de"
+    },
+    {
+      "path": "at-noe",
+      "name": "noe"
+    },
+    {
+      "path": "at-ooe",
+      "name": "ooe"
+    },
+    {
+      "path": "at-ooe-fr",
+      "name": "fr"
+    },
+    {
+      "path": "at-ost",
+      "name": "ost"
+    },
+    {
+      "path": "at-sbg",
+      "name": "sbg"
+    },
+    {
+      "path": "at-stmk",
+      "name": "stmk"
+    },
+    {
+      "path": "at-sued",
+      "name": "sued"
+    },
+    {
+      "path": "at-t",
+      "name": "t"
+    },
+    {
+      "path": "at-vlbg",
+      "name": "vlbg"
+    },
+    {
+      "path": "at-w",
+      "name": "w"
+    },
+    {
+      "path": "at-west",
+      "name": "west"
+    },
+    {
+      "path": "au",
+      "name": "Australia"
+    },
+    {
+      "path": "au-act",
+      "name": "act"
+    },
+    {
+      "path": "au-nsw",
+      "name": "nsw"
+    },
+    {
+      "path": "au-qld",
+      "name": "qld"
+    },
+    {
+      "path": "au-wa",
+      "name": "wa"
+    },
+    {
+      "path": "au-wa-buy",
+      "name": "buy"
+    },
+    {
+      "path": "au-wa-per",
+      "name": "per"
+    },
+    {
+      "path": "aw",
+      "name": "Aruba"
+    },
+    {
+      "path": "ax",
+      "name": "Åland Islands"
+    },
+    {
+      "path": "az",
+      "name": "Azerbaijan"
+    },
+    {
+      "path": "ba",
+      "name": "Bosnia & Herzegovina"
+    },
+    {
+      "path": "bb",
+      "name": "Barbados"
+    },
+    {
+      "path": "bd",
+      "name": "Bangladesh"
+    },
+    {
+      "path": "be",
+      "name": "Belgium"
+    },
+    {
+      "path": "be-bru",
+      "name": "bru"
+    },
+    {
+      "path": "be-lgg",
+      "name": "lgg"
+    },
+    {
+      "path": "be-lie",
+      "name": "lie"
+    },
+    {
+      "path": "be-so",
+      "name": "so"
+    },
+    {
+      "path": "be-van",
+      "name": "van"
+    },
+    {
+      "path": "be-vbr",
+      "name": "vbr"
+    },
+    {
+      "path": "be-vov",
+      "name": "vov"
+    },
+    {
+      "path": "be-vwv",
+      "name": "vwv"
+    },
+    {
+      "path": "be-wal",
+      "name": "wal"
+    },
+    {
+      "path": "be-wbr",
+      "name": "wbr"
+    },
+    {
+      "path": "be-wht",
+      "name": "wht"
+    },
+    {
+      "path": "be-wlg",
+      "name": "wlg"
+    },
+    {
+      "path": "be-wna",
+      "name": "wna"
+    },
+    {
+      "path": "bf",
+      "name": "Burkina Faso"
+    },
+    {
+      "path": "bg",
+      "name": "Bulgaria"
+    },
+    {
+      "path": "bh",
+      "name": "Bahrain"
+    },
+    {
+      "path": "bi",
+      "name": "Burundi"
+    },
+    {
+      "path": "bj",
+      "name": "Benin"
+    },
+    {
+      "path": "bl",
+      "name": "St. Barthélemy"
+    },
+    {
+      "path": "bm",
+      "name": "Bermuda"
+    },
+    {
+      "path": "bn",
+      "name": "Brunei"
+    },
+    {
+      "path": "bo",
+      "name": "Bolivia"
+    },
+    {
+      "path": "bq",
+      "name": "Caribbean Netherlands"
+    },
+    {
+      "path": "br",
+      "name": "Brazil"
+    },
+    {
+      "path": "bs",
+      "name": "Bahamas"
+    },
+    {
+      "path": "bt",
+      "name": "Bhutan"
+    },
+    {
+      "path": "bv",
+      "name": "Bouvet Island"
+    },
+    {
+      "path": "bw",
+      "name": "Botswana"
+    },
+    {
+      "path": "by",
+      "name": "Belarus"
+    },
+    {
+      "path": "bz",
+      "name": "Belize"
+    },
+    {
+      "path": "ca",
+      "name": "Canada"
+    },
+    {
+      "path": "cc",
+      "name": "Cocos (Keeling) Islands"
+    },
+    {
+      "path": "cd",
+      "name": "Congo - Kinshasa"
+    },
+    {
+      "path": "cf",
+      "name": "Central African Republic"
+    },
+    {
+      "path": "cg",
+      "name": "Congo - Brazzaville"
+    },
+    {
+      "path": "ch",
+      "name": "Switzerland"
+    },
+    {
+      "path": "ch-de",
+      "name": "de"
+    },
+    {
+      "path": "ch-fr",
+      "name": "fr"
+    },
+    {
+      "path": "ch-ge",
+      "name": "ge"
+    },
+    {
+      "path": "ch-it",
+      "name": "it"
+    },
+    {
+      "path": "ch-vd",
+      "name": "vd"
+    },
+    {
+      "path": "ch-vd-stc",
+      "name": "stc"
+    },
+    {
+      "path": "ci",
+      "name": "Côte d’Ivoire"
+    },
+    {
+      "path": "ck",
+      "name": "Cook Islands"
+    },
+    {
+      "path": "cl",
+      "name": "Chile"
+    },
+    {
+      "path": "cm",
+      "name": "Cameroon"
+    },
+    {
+      "path": "cn",
+      "name": "China"
+    },
+    {
+      "path": "co",
+      "name": "Colombia"
+    },
+    {
+      "path": "cr",
+      "name": "Costa Rica"
+    },
+    {
+      "path": "cu",
+      "name": "Cuba"
+    },
+    {
+      "path": "cv",
+      "name": "Cape Verde"
+    },
+    {
+      "path": "cw",
+      "name": "Curaçao"
+    },
+    {
+      "path": "cx",
+      "name": "Christmas Island"
+    },
+    {
+      "path": "cy",
+      "name": "Cyprus"
+    },
+    {
+      "path": "cz",
+      "name": "Czechia"
+    },
+    {
+      "path": "cz-jmk",
+      "name": "jmk"
+    },
+    {
+      "path": "cz-pha",
+      "name": "pha"
+    },
+    {
+      "path": "cz-stc",
+      "name": "stc"
+    },
+    {
+      "path": "de",
+      "name": "Germany"
+    },
+    {
+      "path": "de-abo",
+      "name": "abo"
+    },
+    {
+      "path": "de-at",
+      "name": "at"
+    },
+    {
+      "path": "de-aur",
+      "name": "aur"
+    },
+    {
+      "path": "de-bb",
+      "name": "bb"
+    },
+    {
+      "path": "de-bb-bar",
+      "name": "bar"
+    },
+    {
+      "path": "de-bb-ee",
+      "name": "ee"
+    },
+    {
+      "path": "de-bb-mol",
+      "name": "mol"
+    },
+    {
+      "path": "de-bb-ohv",
+      "name": "ohv"
+    },
+    {
+      "path": "de-bb-osl",
+      "name": "osl"
+    },
+    {
+      "path": "de-bb-um",
+      "name": "um"
+    },
+    {
+      "path": "de-be",
+      "name": "be"
+    },
+    {
+      "path": "de-bebb",
+      "name": "bebb"
+    },
+    {
+      "path": "de-ber",
+      "name": "ber"
+    },
+    {
+      "path": "de-bw",
+      "name": "bw"
+    },
+    {
+      "path": "de-bw-adk",
+      "name": "adk"
+    },
+    {
+      "path": "de-bw-bad",
+      "name": "bad"
+    },
+    {
+      "path": "de-bw-bb",
+      "name": "bb"
+    },
+    {
+      "path": "de-bw-bc",
+      "name": "bc"
+    },
+    {
+      "path": "de-bw-bk",
+      "name": "bk"
+    },
+    {
+      "path": "de-bw-cw",
+      "name": "cw"
+    },
+    {
+      "path": "de-bw-em",
+      "name": "em"
+    },
+    {
+      "path": "de-bw-es",
+      "name": "es"
+    },
+    {
+      "path": "de-bw-fds",
+      "name": "fds"
+    },
+    {
+      "path": "de-bw-fr",
+      "name": "fr"
+    },
+    {
+      "path": "de-bw-gp",
+      "name": "gp"
+    },
+    {
+      "path": "de-bw-hor",
+      "name": "hor"
+    },
+    {
+      "path": "de-bw-ka",
+      "name": "ka"
+    },
+    {
+      "path": "de-bw-lb",
+      "name": "lb"
+    },
+    {
+      "path": "de-bw-leo",
+      "name": "leo"
+    },
+    {
+      "path": "de-bw-og",
+      "name": "og"
+    },
+    {
+      "path": "de-bw-pf",
+      "name": "pf"
+    },
+    {
+      "path": "de-bw-ra",
+      "name": "ra"
+    },
+    {
+      "path": "de-bw-rw",
+      "name": "rw"
+    },
+    {
+      "path": "de-bw-s",
+      "name": "s"
+    },
+    {
+      "path": "de-bw-sbh",
+      "name": "sbh"
+    },
+    {
+      "path": "de-bw-sha",
+      "name": "sha"
+    },
+    {
+      "path": "de-bw-str",
+      "name": "str"
+    },
+    {
+      "path": "de-bw-sued",
+      "name": "sued"
+    },
+    {
+      "path": "de-bw-tue",
+      "name": "tue"
+    },
+    {
+      "path": "de-bw-tut",
+      "name": "tut"
+    },
+    {
+      "path": "de-bw-ul",
+      "name": "ul"
+    },
+    {
+      "path": "de-bw-ulm",
+      "name": "ulm"
+    },
+    {
+      "path": "de-bw-vai",
+      "name": "vai"
+    },
+    {
+      "path": "de-bw-vs",
+      "name": "vs"
+    },
+    {
+      "path": "de-bw-wn",
+      "name": "wn"
+    },
+    {
+      "path": "de-bw-wt",
+      "name": "wt"
+    },
+    {
+      "path": "de-bw-zak",
+      "name": "zak"
+    },
+    {
+      "path": "de-by",
+      "name": "by"
+    },
+    {
+      "path": "de-by-aux",
+      "name": "aux"
+    },
+    {
+      "path": "de-by-dah",
+      "name": "dah"
+    },
+    {
+      "path": "de-by-ed",
+      "name": "ed"
+    },
+    {
+      "path": "de-by-emm",
+      "name": "emm"
+    },
+    {
+      "path": "de-by-fr",
+      "name": "fr"
+    },
+    {
+      "path": "de-by-gz",
+      "name": "gz"
+    },
+    {
+      "path": "de-by-ill",
+      "name": "ill"
+    },
+    {
+      "path": "de-by-la",
+      "name": "la"
+    },
+    {
+      "path": "de-by-li",
+      "name": "li"
+    },
+    {
+      "path": "de-by-mfr",
+      "name": "mfr"
+    },
+    {
+      "path": "de-by-mfr-er",
+      "name": "er"
+    },
+    {
+      "path": "de-by-mfr-erh",
+      "name": "erh"
+    },
+    {
+      "path": "de-by-mn",
+      "name": "mn"
+    },
+    {
+      "path": "de-by-muc",
+      "name": "muc"
+    },
+    {
+      "path": "de-by-nbay",
+      "name": "nbay"
+    },
+    {
+      "path": "de-by-ndb",
+      "name": "ndb"
+    },
+    {
+      "path": "de-by-nu",
+      "name": "nu"
+    },
+    {
+      "path": "de-by-oa",
+      "name": "oa"
+    },
+    {
+      "path": "de-by-oal",
+      "name": "oal"
+    },
+    {
+      "path": "de-by-schw",
+      "name": "schw"
+    },
+    {
+      "path": "de-by-sr",
+      "name": "sr"
+    },
+    {
+      "path": "de-by-ufr",
+      "name": "ufr"
+    },
+    {
+      "path": "de-ch",
+      "name": "ch"
+    },
+    {
+      "path": "de-de",
+      "name": "de"
+    },
+    {
+      "path": "de-debb",
+      "name": "debb"
+    },
+    {
+      "path": "de-dk",
+      "name": "dk"
+    },
+    {
+      "path": "de-emd",
+      "name": "emd"
+    },
+    {
+      "path": "de-fri",
+      "name": "fri"
+    },
+    {
+      "path": "de-goe",
+      "name": "goe"
+    },
+    {
+      "path": "de-hartz",
+      "name": "hartz"
+    },
+    {
+      "path": "de-harz",
+      "name": "harz"
+    },
+    {
+      "path": "de-hb",
+      "name": "hb"
+    },
+    {
+      "path": "de-he",
+      "name": "he"
+    },
+    {
+      "path": "de-he-gi",
+      "name": "gi"
+    },
+    {
+      "path": "de-he-gi-gi",
+      "name": "gi"
+    },
+    {
+      "path": "de-he-mtk",
+      "name": "mtk"
+    },
+    {
+      "path": "de-hh",
+      "name": "hh"
+    },
+    {
+      "path": "de-ki",
+      "name": "ki"
+    },
+    {
+      "path": "de-kiel",
+      "name": "kiel"
+    },
+    {
+      "path": "de-ko",
+      "name": "ko"
+    },
+    {
+      "path": "de-koblenz",
+      "name": "koblenz"
+    },
+    {
+      "path": "de-laho",
+      "name": "laho"
+    },
+    {
+      "path": "de-mitte",
+      "name": "mitte"
+    },
+    {
+      "path": "de-mpids",
+      "name": "mpids"
+    },
+    {
+      "path": "de-mv",
+      "name": "mv"
+    },
+    {
+      "path": "de-mv-dbr",
+      "name": "dbr"
+    },
+    {
+      "path": "de-mv-hro",
+      "name": "hro"
+    },
+    {
+      "path": "de-mv-hst",
+      "name": "hst"
+    },
+    {
+      "path": "de-mv-sbg",
+      "name": "sbg"
+    },
+    {
+      "path": "de-mv-vg",
+      "name": "vg"
+    },
+    {
+      "path": "de-mv-vr",
+      "name": "vr"
+    },
+    {
+      "path": "de-ni",
+      "name": "ni"
+    },
+    {
+      "path": "de-ni-bs",
+      "name": "bs"
+    },
+    {
+      "path": "de-ni-fri",
+      "name": "fri"
+    },
+    {
+      "path": "de-ni-goe",
+      "name": "goe"
+    },
+    {
+      "path": "de-ni-gs",
+      "name": "gs"
+    },
+    {
+      "path": "de-ni-h",
+      "name": "h"
+    },
+    {
+      "path": "de-ni-he",
+      "name": "he"
+    },
+    {
+      "path": "de-ni-hi",
+      "name": "hi"
+    },
+    {
+      "path": "de-ni-hm",
+      "name": "hm"
+    },
+    {
+      "path": "de-ni-hol",
+      "name": "hol"
+    },
+    {
+      "path": "de-ni-lg",
+      "name": "lg"
+    },
+    {
+      "path": "de-ni-nom",
+      "name": "nom"
+    },
+    {
+      "path": "de-ni-oha",
+      "name": "oha"
+    },
+    {
+      "path": "de-ni-ohz",
+      "name": "ohz"
+    },
+    {
+      "path": "de-ni-shg",
+      "name": "shg"
+    },
+    {
+      "path": "de-ni-sz",
+      "name": "sz"
+    },
+    {
+      "path": "de-ni-wf",
+      "name": "wf"
+    },
+    {
+      "path": "de-ni-wob",
+      "name": "wob"
+    },
+    {
+      "path": "de-nom",
+      "name": "nom"
+    },
+    {
+      "path": "de-nor",
+      "name": "nor"
+    },
+    {
+      "path": "de-nord",
+      "name": "nord"
+    },
+    {
+      "path": "de-nrw",
+      "name": "nrw"
+    },
+    {
+      "path": "de-ns",
+      "name": "ns"
+    },
+    {
+      "path": "de-nw",
+      "name": "nw"
+    },
+    {
+      "path": "de-nw-bi",
+      "name": "bi"
+    },
+    {
+      "path": "de-nw-bo",
+      "name": "bo"
+    },
+    {
+      "path": "de-nw-e",
+      "name": "e"
+    },
+    {
+      "path": "de-nw-gl",
+      "name": "gl"
+    },
+    {
+      "path": "de-nw-gt",
+      "name": "gt"
+    },
+    {
+      "path": "de-nw-hf",
+      "name": "hf"
+    },
+    {
+      "path": "de-nw-hsk",
+      "name": "hsk"
+    },
+    {
+      "path": "de-nw-hx",
+      "name": "hx"
+    },
+    {
+      "path": "de-nw-lip",
+      "name": "lip"
+    },
+    {
+      "path": "de-nw-lip-dt",
+      "name": "dt"
+    },
+    {
+      "path": "de-nw-mi",
+      "name": "mi"
+    },
+    {
+      "path": "de-nw-mitte",
+      "name": "mitte"
+    },
+    {
+      "path": "de-nw-ms",
+      "name": "ms"
+    },
+    {
+      "path": "de-nw-oe",
+      "name": "oe"
+    },
+    {
+      "path": "de-nw-owl",
+      "name": "owl"
+    },
+    {
+      "path": "de-nw-pb",
+      "name": "pb"
+    },
+    {
+      "path": "de-nw-so",
+      "name": "so"
+    },
+    {
+      "path": "de-ost",
+      "name": "ost"
+    },
+    {
+      "path": "de-ostfriesland",
+      "name": "ostfriesland"
+    },
+    {
+      "path": "de-owl",
+      "name": "owl"
+    },
+    {
+      "path": "de-rlp",
+      "name": "rlp"
+    },
+    {
+      "path": "de-rlp-dbg",
+      "name": "dbg"
+    },
+    {
+      "path": "de-rp",
+      "name": "rp"
+    },
+    {
+      "path": "de-rp-dbg",
+      "name": "dbg"
+    },
+    {
+      "path": "de-rp-ger",
+      "name": "ger"
+    },
+    {
+      "path": "de-rp-ingelheim",
+      "name": "ingelheim"
+    },
+    {
+      "path": "de-rp-kl",
+      "name": "kl"
+    },
+    {
+      "path": "de-rp-koblenz",
+      "name": "koblenz"
+    },
+    {
+      "path": "de-rp-ww",
+      "name": "ww"
+    },
+    {
+      "path": "de-saa",
+      "name": "saa"
+    },
+    {
+      "path": "de-sh",
+      "name": "sh"
+    },
+    {
+      "path": "de-sh-eck",
+      "name": "eck"
+    },
+    {
+      "path": "de-sh-hl",
+      "name": "hl"
+    },
+    {
+      "path": "de-sh-ki",
+      "name": "ki"
+    },
+    {
+      "path": "de-sh-oh",
+      "name": "oh"
+    },
+    {
+      "path": "de-sh-pi",
+      "name": "pi"
+    },
+    {
+      "path": "de-sh-ploe",
+      "name": "ploe"
+    },
+    {
+      "path": "de-sh-rd",
+      "name": "rd"
+    },
+    {
+      "path": "de-sh-slfl",
+      "name": "slfl"
+    },
+    {
+      "path": "de-sl",
+      "name": "sl"
+    },
+    {
+      "path": "de-sn",
+      "name": "sn"
+    },
+    {
+      "path": "de-sn-bz",
+      "name": "bz"
+    },
+    {
+      "path": "de-sn-c",
+      "name": "c"
+    },
+    {
+      "path": "de-sn-dd",
+      "name": "dd"
+    },
+    {
+      "path": "de-sn-erz",
+      "name": "erz"
+    },
+    {
+      "path": "de-sn-fg",
+      "name": "fg"
+    },
+    {
+      "path": "de-sn-leipzig",
+      "name": "leipzig"
+    },
+    {
+      "path": "de-sn-mei",
+      "name": "mei"
+    },
+    {
+      "path": "de-sn-msn",
+      "name": "msn"
+    },
+    {
+      "path": "de-sn-pir",
+      "name": "pir"
+    },
+    {
+      "path": "de-sn-vvo",
+      "name": "vvo"
+    },
+    {
+      "path": "de-solling",
+      "name": "solling"
+    },
+    {
+      "path": "de-st",
+      "name": "st"
+    },
+    {
+      "path": "de-st-hbs",
+      "name": "hbs"
+    },
+    {
+      "path": "de-st-hz",
+      "name": "hz"
+    },
+    {
+      "path": "de-st-md",
+      "name": "md"
+    },
+    {
+      "path": "de-str",
+      "name": "str"
+    },
+    {
+      "path": "de-sued",
+      "name": "sued"
+    },
+    {
+      "path": "de-test",
+      "name": "test"
+    },
+    {
+      "path": "de-th",
+      "name": "th"
+    },
+    {
+      "path": "de-th-ef",
+      "name": "ef"
+    },
+    {
+      "path": "de-th-gth",
+      "name": "gth"
+    },
+    {
+      "path": "de-th-hbn",
+      "name": "hbn"
+    },
+    {
+      "path": "de-th-j",
+      "name": "j"
+    },
+    {
+      "path": "de-th-shk",
+      "name": "shk"
+    },
+    {
+      "path": "de-th-shl",
+      "name": "shl"
+    },
+    {
+      "path": "de-th-slz",
+      "name": "slz"
+    },
+    {
+      "path": "de-th-sm",
+      "name": "sm"
+    },
+    {
+      "path": "de-th-sok",
+      "name": "sok"
+    },
+    {
+      "path": "de-th-themar",
+      "name": "themar"
+    },
+    {
+      "path": "de-thecore",
+      "name": "thecore"
+    },
+    {
+      "path": "de-w",
+      "name": "w"
+    },
+    {
+      "path": "de-west",
+      "name": "west"
+    },
+    {
+      "path": "de-wtm",
+      "name": "wtm"
+    },
+    {
+      "path": "dj",
+      "name": "Djibouti"
+    },
+    {
+      "path": "dk",
+      "name": "Denmark"
+    },
+    {
+      "path": "dk-sdk",
+      "name": "sdk"
+    },
+    {
+      "path": "dm",
+      "name": "Dominica"
+    },
+    {
+      "path": "do",
+      "name": "Dominican Republic"
+    },
+    {
+      "path": "dz",
+      "name": "Algeria"
+    },
+    {
+      "path": "ec",
+      "name": "Ecuador"
+    },
+    {
+      "path": "ee",
+      "name": "Estonia"
+    },
+    {
+      "path": "eg",
+      "name": "Egypt"
+    },
+    {
+      "path": "eh",
+      "name": "Western Sahara"
+    },
+    {
+      "path": "er",
+      "name": "Eritrea"
+    },
+    {
+      "path": "es",
+      "name": "Spain"
+    },
+    {
+      "path": "et",
+      "name": "Ethiopia"
+    },
+    {
+      "path": "fi",
+      "name": "Finland"
+    },
+    {
+      "path": "fj",
+      "name": "Fiji"
+    },
+    {
+      "path": "fk",
+      "name": "Falkland Islands"
+    },
+    {
+      "path": "fm",
+      "name": "Micronesia"
+    },
+    {
+      "path": "fo",
+      "name": "Faroe Islands"
+    },
+    {
+      "path": "fr",
+      "name": "France"
+    },
+    {
+      "path": "fr-01",
+      "name": "01"
+    },
+    {
+      "path": "fr-25",
+      "name": "25"
+    },
+    {
+      "path": "fr-69",
+      "name": "69"
+    },
+    {
+      "path": "fr-74",
+      "name": "74"
+    },
+    {
+      "path": "fr-ara",
+      "name": "ara"
+    },
+    {
+      "path": "fr-bfc",
+      "name": "bfc"
+    },
+    {
+      "path": "ga",
+      "name": "Gabon"
+    },
+    {
+      "path": "gb",
+      "name": "United Kingdom"
+    },
+    {
+      "path": "gb-est",
+      "name": "est"
+    },
+    {
+      "path": "gd",
+      "name": "Grenada"
+    },
+    {
+      "path": "ge",
+      "name": "Georgia"
+    },
+    {
+      "path": "gf",
+      "name": "French Guiana"
+    },
+    {
+      "path": "gg",
+      "name": "Guernsey"
+    },
+    {
+      "path": "gh",
+      "name": "Ghana"
+    },
+    {
+      "path": "gi",
+      "name": "Gibraltar"
+    },
+    {
+      "path": "gl",
+      "name": "Greenland"
+    },
+    {
+      "path": "gm",
+      "name": "Gambia"
+    },
+    {
+      "path": "gn",
+      "name": "Guinea"
+    },
+    {
+      "path": "gp",
+      "name": "Guadeloupe"
+    },
+    {
+      "path": "gq",
+      "name": "Equatorial Guinea"
+    },
+    {
+      "path": "gr",
+      "name": "Greece"
+    },
+    {
+      "path": "gs",
+      "name": "South Georgia & South Sandwich Islands"
+    },
+    {
+      "path": "gt",
+      "name": "Guatemala"
+    },
+    {
+      "path": "gu",
+      "name": "Guam"
+    },
+    {
+      "path": "gw",
+      "name": "Guinea-Bissau"
+    },
+    {
+      "path": "gy",
+      "name": "Guyana"
+    },
+    {
+      "path": "hk",
+      "name": "Hong Kong SAR China"
+    },
+    {
+      "path": "hm",
+      "name": "Heard & McDonald Islands"
+    },
+    {
+      "path": "hn",
+      "name": "Honduras"
+    },
+    {
+      "path": "hr",
+      "name": "Croatia"
+    },
+    {
+      "path": "ht",
+      "name": "Haiti"
+    },
+    {
+      "path": "hu",
+      "name": "Hungary"
+    },
+    {
+      "path": "id",
+      "name": "Indonesia"
+    },
+    {
+      "path": "ie",
+      "name": "Ireland"
+    },
+    {
+      "path": "il",
+      "name": "Israel"
+    },
+    {
+      "path": "im",
+      "name": "Isle of Man"
+    },
+    {
+      "path": "in",
+      "name": "India"
+    },
+    {
+      "path": "io",
+      "name": "British Indian Ocean Territory"
+    },
+    {
+      "path": "ioi",
+      "name": "Island of Ireland"
+    },
+    {
+      "path": "ioi-admin",
+      "name": "admin"
+    },
+    {
+      "path": "iq",
+      "name": "Iraq"
+    },
+    {
+      "path": "ir",
+      "name": "Iran"
+    },
+    {
+      "path": "is",
+      "name": "Iceland"
+    },
+    {
+      "path": "it",
+      "name": "Italy"
+    },
+    {
+      "path": "it-emr",
+      "name": "emr"
+    },
+    {
+      "path": "it-emr-pr",
+      "name": "pr"
+    },
+    {
+      "path": "it-li",
+      "name": "li"
+    },
+    {
+      "path": "it-lig",
+      "name": "lig"
+    },
+    {
+      "path": "it-lig-sp",
+      "name": "sp"
+    },
+    {
+      "path": "it-lig-vz",
+      "name": "vz"
+    },
+    {
+      "path": "it-lom",
+      "name": "lom"
+    },
+    {
+      "path": "it-pi",
+      "name": "pi"
+    },
+    {
+      "path": "it-pi-os",
+      "name": "os"
+    },
+    {
+      "path": "it-pi-to",
+      "name": "to"
+    },
+    {
+      "path": "it-pie",
+      "name": "pie"
+    },
+    {
+      "path": "it-pie-os",
+      "name": "os"
+    },
+    {
+      "path": "it-pie-to",
+      "name": "to"
+    },
+    {
+      "path": "it-tos",
+      "name": "tos"
+    },
+    {
+      "path": "it-tos-ms",
+      "name": "ms"
+    },
+    {
+      "path": "je",
+      "name": "Jersey"
+    },
+    {
+      "path": "jm",
+      "name": "Jamaica"
+    },
+    {
+      "path": "jo",
+      "name": "Jordan"
+    },
+    {
+      "path": "jp",
+      "name": "Japan"
+    },
+    {
+      "path": "ke",
+      "name": "Kenya"
+    },
+    {
+      "path": "kg",
+      "name": "Kyrgyzstan"
+    },
+    {
+      "path": "kh",
+      "name": "Cambodia"
+    },
+    {
+      "path": "ki",
+      "name": "Kiribati"
+    },
+    {
+      "path": "km",
+      "name": "Comoros"
+    },
+    {
+      "path": "kn",
+      "name": "St. Kitts & Nevis"
+    },
+    {
+      "path": "kp",
+      "name": "North Korea"
+    },
+    {
+      "path": "kr",
+      "name": "South Korea"
+    },
+    {
+      "path": "kw",
+      "name": "Kuwait"
+    },
+    {
+      "path": "ky",
+      "name": "Cayman Islands"
+    },
+    {
+      "path": "kz",
+      "name": "Kazakhstan"
+    },
+    {
+      "path": "la",
+      "name": "Laos"
+    },
+    {
+      "path": "lb",
+      "name": "Lebanon"
+    },
+    {
+      "path": "lc",
+      "name": "St. Lucia"
+    },
+    {
+      "path": "li",
+      "name": "Liechtenstein"
+    },
+    {
+      "path": "lk",
+      "name": "Sri Lanka"
+    },
+    {
+      "path": "lk-stade",
+      "name": "stade"
+    },
+    {
+      "path": "lr",
+      "name": "Liberia"
+    },
+    {
+      "path": "ls",
+      "name": "Lesotho"
+    },
+    {
+      "path": "lt",
+      "name": "Lithuania"
+    },
+    {
+      "path": "lu",
+      "name": "Luxembourg"
+    },
+    {
+      "path": "lv",
+      "name": "Latvia"
+    },
+    {
+      "path": "ly",
+      "name": "Libya"
+    },
+    {
+      "path": "ma",
+      "name": "Morocco"
+    },
+    {
+      "path": "mc",
+      "name": "Monaco"
+    },
+    {
+      "path": "md",
+      "name": "Moldova"
+    },
+    {
+      "path": "me",
+      "name": "Montenegro"
+    },
+    {
+      "path": "mf",
+      "name": "St. Martin"
+    },
+    {
+      "path": "mg",
+      "name": "Madagascar"
+    },
+    {
+      "path": "mh",
+      "name": "Marshall Islands"
+    },
+    {
+      "path": "mk",
+      "name": "North Macedonia"
+    },
+    {
+      "path": "ml",
+      "name": "Mali"
+    },
+    {
+      "path": "mm",
+      "name": "Myanmar (Burma)"
+    },
+    {
+      "path": "mn",
+      "name": "Mongolia"
+    },
+    {
+      "path": "mo",
+      "name": "Macao SAR China"
+    },
+    {
+      "path": "mp",
+      "name": "Northern Mariana Islands"
+    },
+    {
+      "path": "mq",
+      "name": "Martinique"
+    },
+    {
+      "path": "mr",
+      "name": "Mauritania"
+    },
+    {
+      "path": "ms",
+      "name": "Montserrat"
+    },
+    {
+      "path": "mt",
+      "name": "Malta"
+    },
+    {
+      "path": "mu",
+      "name": "Mauritius"
+    },
+    {
+      "path": "mv",
+      "name": "Maldives"
+    },
+    {
+      "path": "mw",
+      "name": "Malawi"
+    },
+    {
+      "path": "mx",
+      "name": "Mexico"
+    },
+    {
+      "path": "my",
+      "name": "Malaysia"
+    },
+    {
+      "path": "mz",
+      "name": "Mozambique"
+    },
+    {
+      "path": "na",
+      "name": "Namibia"
+    },
+    {
+      "path": "nc",
+      "name": "New Caledonia"
+    },
+    {
+      "path": "ne",
+      "name": "Niger"
+    },
+    {
+      "path": "nf",
+      "name": "Norfolk Island"
+    },
+    {
+      "path": "ng",
+      "name": "Nigeria"
+    },
+    {
+      "path": "ni",
+      "name": "Nicaragua"
+    },
+    {
+      "path": "nl",
+      "name": "Netherlands"
+    },
+    {
+      "path": "nl-ame",
+      "name": "ame"
+    },
+    {
+      "path": "nl-ams",
+      "name": "ams"
+    },
+    {
+      "path": "nl-cpi",
+      "name": "cpi"
+    },
+    {
+      "path": "nl-dor",
+      "name": "dor"
+    },
+    {
+      "path": "nl-dr",
+      "name": "dr"
+    },
+    {
+      "path": "nl-ede",
+      "name": "ede"
+    },
+    {
+      "path": "nl-fl",
+      "name": "fl"
+    },
+    {
+      "path": "nl-fr",
+      "name": "fr"
+    },
+    {
+      "path": "nl-ge",
+      "name": "ge"
+    },
+    {
+      "path": "nl-ge-ede",
+      "name": "ede"
+    },
+    {
+      "path": "nl-ge-hrd",
+      "name": "hrd"
+    },
+    {
+      "path": "nl-ge-ltn",
+      "name": "ltn"
+    },
+    {
+      "path": "nl-gr",
+      "name": "gr"
+    },
+    {
+      "path": "nl-gr-les",
+      "name": "les"
+    },
+    {
+      "path": "nl-grq",
+      "name": "grq"
+    },
+    {
+      "path": "nl-haa",
+      "name": "haa"
+    },
+    {
+      "path": "nl-hag",
+      "name": "hag"
+    },
+    {
+      "path": "nl-hrd",
+      "name": "hrd"
+    },
+    {
+      "path": "nl-hrv",
+      "name": "hrv"
+    },
+    {
+      "path": "nl-ley",
+      "name": "ley"
+    },
+    {
+      "path": "nl-lid",
+      "name": "lid"
+    },
+    {
+      "path": "nl-nb",
+      "name": "nb"
+    },
+    {
+      "path": "nl-nh",
+      "name": "nh"
+    },
+    {
+      "path": "nl-nh-asd",
+      "name": "asd"
+    },
+    {
+      "path": "nl-noord",
+      "name": "noord"
+    },
+    {
+      "path": "nl-ov",
+      "name": "ov"
+    },
+    {
+      "path": "nl-ov-sew",
+      "name": "sew"
+    },
+    {
+      "path": "nl-ov-stw",
+      "name": "stw"
+    },
+    {
+      "path": "nl-rhe",
+      "name": "rhe"
+    },
+    {
+      "path": "nl-ut",
+      "name": "ut"
+    },
+    {
+      "path": "nl-ut-doo",
+      "name": "doo"
+    },
+    {
+      "path": "nl-ut-drb",
+      "name": "drb"
+    },
+    {
+      "path": "nl-utc",
+      "name": "utc"
+    },
+    {
+      "path": "nl-varu",
+      "name": "varu"
+    },
+    {
+      "path": "nl-vee",
+      "name": "vee"
+    },
+    {
+      "path": "nl-wgw",
+      "name": "wgw"
+    },
+    {
+      "path": "nl-ze",
+      "name": "ze"
+    },
+    {
+      "path": "nl-zh",
+      "name": "zh"
+    },
+    {
+      "path": "nl-zh-dor",
+      "name": "dor"
+    },
+    {
+      "path": "nl-zh-wss",
+      "name": "wss"
+    },
+    {
+      "path": "no",
+      "name": "Norway"
+    },
+    {
+      "path": "np",
+      "name": "Nepal"
+    },
+    {
+      "path": "nr",
+      "name": "Nauru"
+    },
+    {
+      "path": "nu",
+      "name": "Niue"
+    },
+    {
+      "path": "nz",
+      "name": "New Zealand"
+    },
+    {
+      "path": "om",
+      "name": "Oman"
+    },
+    {
+      "path": "pa",
+      "name": "Panama"
+    },
+    {
+      "path": "pe",
+      "name": "Peru"
+    },
+    {
+      "path": "pf",
+      "name": "French Polynesia"
+    },
+    {
+      "path": "pg",
+      "name": "Papua New Guinea"
+    },
+    {
+      "path": "ph",
+      "name": "Philippines"
+    },
+    {
+      "path": "pk",
+      "name": "Pakistan"
+    },
+    {
+      "path": "pl",
+      "name": "Poland"
+    },
+    {
+      "path": "pl-kra",
+      "name": "kra"
+    },
+    {
+      "path": "pl-krk",
+      "name": "krk"
+    },
+    {
+      "path": "pl-ld",
+      "name": "ld"
+    },
+    {
+      "path": "pl-ma",
+      "name": "ma"
+    },
+    {
+      "path": "pl-mz",
+      "name": "mz"
+    },
+    {
+      "path": "pl-wp",
+      "name": "wp"
+    },
+    {
+      "path": "pm",
+      "name": "St. Pierre & Miquelon"
+    },
+    {
+      "path": "pn",
+      "name": "Pitcairn Islands"
+    },
+    {
+      "path": "pr",
+      "name": "Puerto Rico"
+    },
+    {
+      "path": "ps",
+      "name": "Palestinian Territories"
+    },
+    {
+      "path": "pt",
+      "name": "Portugal"
+    },
+    {
+      "path": "pw",
+      "name": "Palau"
+    },
+    {
+      "path": "py",
+      "name": "Paraguay"
+    },
+    {
+      "path": "qa",
+      "name": "Qatar"
+    },
+    {
+      "path": "re",
+      "name": "Réunion"
+    },
+    {
+      "path": "ro",
+      "name": "Romania"
+    },
+    {
+      "path": "rs",
+      "name": "Serbia"
+    },
+    {
+      "path": "ru",
+      "name": "Russia"
+    },
+    {
+      "path": "rw",
+      "name": "Rwanda"
+    },
+    {
+      "path": "sa",
+      "name": "Saudi Arabia"
+    },
+    {
+      "path": "sb",
+      "name": "Solomon Islands"
+    },
+    {
+      "path": "sc",
+      "name": "Seychelles"
+    },
+    {
+      "path": "sco",
+      "name": "Scotland"
+    },
+    {
+      "path": "sd",
+      "name": "Sudan"
+    },
+    {
+      "path": "se",
+      "name": "Sweden"
+    },
+    {
+      "path": "sg",
+      "name": "Singapore"
+    },
+    {
+      "path": "sg-tostedt",
+      "name": "tostedt"
+    },
+    {
+      "path": "sh",
+      "name": "St. Helena"
+    },
+    {
+      "path": "sh-kel",
+      "name": "kel"
+    },
+    {
+      "path": "sh-ki",
+      "name": "ki"
+    },
+    {
+      "path": "sh-kiel",
+      "name": "kiel"
+    },
+    {
+      "path": "si",
+      "name": "Slovenia"
+    },
+    {
+      "path": "sj",
+      "name": "Svalbard & Jan Mayen"
+    },
+    {
+      "path": "sk",
+      "name": "Slovakia"
+    },
+    {
+      "path": "sl",
+      "name": "Sierra Leone"
+    },
+    {
+      "path": "sm",
+      "name": "San Marino"
+    },
+    {
+      "path": "sn",
+      "name": "Senegal"
+    },
+    {
+      "path": "so",
+      "name": "Somalia"
+    },
+    {
+      "path": "sr",
+      "name": "Suriname"
+    },
+    {
+      "path": "ss",
+      "name": "South Sudan"
+    },
+    {
+      "path": "st",
+      "name": "São Tomé & Príncipe"
+    },
+    {
+      "path": "sv",
+      "name": "El Salvador"
+    },
+    {
+      "path": "sx",
+      "name": "Sint Maarten"
+    },
+    {
+      "path": "sy",
+      "name": "Syria"
+    },
+    {
+      "path": "sz",
+      "name": "Eswatini"
+    },
+    {
+      "path": "tc",
+      "name": "Turks & Caicos Islands"
+    },
+    {
+      "path": "td",
+      "name": "Chad"
+    },
+    {
+      "path": "tf",
+      "name": "French Southern Territories"
+    },
+    {
+      "path": "tg",
+      "name": "Togo"
+    },
+    {
+      "path": "th",
+      "name": "Thailand"
+    },
+    {
+      "path": "tj",
+      "name": "Tajikistan"
+    },
+    {
+      "path": "tk",
+      "name": "Tokelau"
+    },
+    {
+      "path": "tl",
+      "name": "Timor-Leste"
+    },
+    {
+      "path": "tm",
+      "name": "Turkmenistan"
+    },
+    {
+      "path": "tn",
+      "name": "Tunisia"
+    },
+    {
+      "path": "to",
+      "name": "Tonga"
+    },
+    {
+      "path": "tr",
+      "name": "Türkiye"
+    },
+    {
+      "path": "tt",
+      "name": "Trinidad & Tobago"
+    },
+    {
+      "path": "tv",
+      "name": "Tuvalu"
+    },
+    {
+      "path": "tw",
+      "name": "Taiwan"
+    },
+    {
+      "path": "tz",
+      "name": "Tanzania"
+    },
+    {
+      "path": "ua",
+      "name": "Ukraine"
+    },
+    {
+      "path": "ug",
+      "name": "Uganda"
+    },
+    {
+      "path": "um",
+      "name": "U.S. Outlying Islands"
+    },
+    {
+      "path": "us",
+      "name": "United States"
+    },
+    {
+      "path": "us-wa",
+      "name": "wa"
+    },
+    {
+      "path": "uy",
+      "name": "Uruguay"
+    },
+    {
+      "path": "uz",
+      "name": "Uzbekistan"
+    },
+    {
+      "path": "va",
+      "name": "Vatican City"
+    },
+    {
+      "path": "vc",
+      "name": "St. Vincent & Grenadines"
+    },
+    {
+      "path": "ve",
+      "name": "Venezuela"
+    },
+    {
+      "path": "vg",
+      "name": "British Virgin Islands"
+    },
+    {
+      "path": "vi",
+      "name": "U.S. Virgin Islands"
+    },
+    {
+      "path": "vn",
+      "name": "Vietnam"
+    },
+    {
+      "path": "vu",
+      "name": "Vanuatu"
+    },
+    {
+      "path": "wf",
+      "name": "Wallis & Futuna"
+    },
+    {
+      "path": "ws",
+      "name": "Samoa"
+    },
+    {
+      "path": "ye",
+      "name": "Yemen"
+    },
+    {
+      "path": "yt",
+      "name": "Mayotte"
+    },
+    {
+      "path": "za",
+      "name": "South Africa"
+    },
+    {
+      "path": "zm",
+      "name": "Zambia"
+    },
+    {
+      "path": "zw",
+      "name": "Zimbabwe"
+    }
+  ]
+}

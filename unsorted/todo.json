@@ -1,0 +1,1031 @@
+{
+  "generated_at": "2026-05-20T16:01:05Z",
+  "buckets": {
+    "a": [
+      {
+        "raw": "aachen",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "adrasec",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "agh",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "allgaeu",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "altes-land",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ayr",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "b": [
+      {
+        "raw": "b",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "becar",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "becet",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "becgx",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "begem",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "belas",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bemsu",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "beoti",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bergischesland",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bergstrasse",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "berix",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bevlv",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bewha",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bewvr",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bhd",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bochum",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bonn",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "braunschweig",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bremesh",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bsmesh",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "buechenbronn",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bx",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "c": [
+      {
+        "raw": "canterbury",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "cen",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "cqf",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "d": [
+      {
+        "raw": "d-a-c-h",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "dach",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "darmstadt",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "de-by-dah-obenamhuegel-links",
+        "reason": "missing_parent:de-by-dah-obenamhuegel",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "de-h-hi",
+        "reason": "missing_parent:de-h",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "de-he-gi-gi-allendorf-lahn",
+        "reason": "missing_parent:de-he-gi-gi-allendorf",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "de-ks-goe",
+        "reason": "missing_parent:de-ks",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "dl-mitte",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "dmt",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "dn-sn",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "dn-sn-dd",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "do9ck",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "dortmund",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "dresden",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "drielande",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "du",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "dub",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "duisburg",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "dun",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "e": [
+      {
+        "raw": "edi",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "eifel",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "emergency",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "eng-ne",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "eng-yh",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "enzkreis",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "erz",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "erzgebirge",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "essen",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "eu",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "europa",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "europe",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "f": [
+      {
+        "raw": "fal",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "fca",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ffm",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ffnw",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "fif",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "fischmarkt",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "flathead-valley",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "florian43",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "fr-73-74",
+        "reason": "missing_parent:fr-73",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "fra",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "frankfurt",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "friesland",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "funkfeuer",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "g": [
+      {
+        "raw": "geg",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "gla",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "h": [
+      {
+        "raw": "had",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ham",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "hannover",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "hansemesh",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "he",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "heidemesh",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "helmstedt",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "hildesheim",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "hofheim",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "homburg",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "hundsrueck",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "hunsrueck",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "i": [
+      {
+        "raw": "illingen",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "iom",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "isarmesh",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "j": [
+      {
+        "raw": "jlo-admin",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "k": [
+      {
+        "raw": "kel",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "kiel",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "koeln",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "l": [
+      {
+        "raw": "landkreis-harburg",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ldz",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "leverkusen",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "local",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "luz",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "m": [
+      {
+        "raw": "mab-70-99-jo60op",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "magdeburg",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "milkyway",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "molfsee",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "mosel",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "mtk",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "murrhardt",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "n": [
+      {
+        "raw": "nfn",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "niederrhein",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "noc",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "nordbaden",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "nordharz",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "norsingen",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "northwestskane",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "o": [
+      {
+        "raw": "oberberg",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "osnabrueck",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ost",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ostfriesland",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "p": [
+      {
+        "raw": "paderborn",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "pamina",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "peine",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "per",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "pforzheim",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ping",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "pnwd",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "portugal",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "prc",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "public",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "puw",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "puw-01-r",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "puw-02r",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "q": [],
+    "r": [
+      {
+        "raw": "rennsteigmesh",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "rentnerhuegel",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "rhein-main",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "rhein-neckar",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "rheinberg",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "rheingebiet",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "rheinland",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "rhine",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "robot",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "rp",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ruhrgebiet",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "s": [
+      {
+        "raw": "saarbruecken",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "saarland",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "saarlorlux",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "sauerland",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "sbh",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "schwarzwald",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se12",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se1278",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se1292",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se13",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se1315",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se1380",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se1381",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se1382",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se1383",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se1384",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "seevetal",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "snn",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "solingen",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "stadt-abg",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "sti",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "stuttgart",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "suedbaden",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "swsw",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "t": [
+      {
+        "raw": "taunus",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "tay",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "test",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "test-21035",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "trier",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "trontano",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "u": [
+      {
+        "raw": "unna",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "upper-rhine",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "v": [
+      {
+        "raw": "vai",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "valle",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "vulkaneifel",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "w": [
+      {
+        "raw": "wa",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "waw",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "weissach",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "wermelskirchen",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "west",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "westerwald",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "westpfalz",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "wie",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "wlkp",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "wolfsburg",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ww",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "x": [],
+    "y": [
+      {
+        "raw": "yorkshire",
+        "reason": "no_root",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ],
+    "z": [],
+    "_": [
+      {
+        "raw": "*",
+        "reason": "invalid_chars",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "BNE",
+        "reason": "invalid_chars",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "F",
+        "reason": "invalid_chars",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "Luebeck",
+        "reason": "invalid_chars",
+        "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "OOL",
+        "reason": "invalid_chars",
+        "first_seen": "2026-05-20T16:01:05Z"
+      }
+    ]
+  }
+}

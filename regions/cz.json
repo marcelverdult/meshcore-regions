@@ -1,0 +1,21 @@
+{
+  "code": "cz",
+  "name": "Czechia",
+  "regions": [
+    {
+      "code": "jmk",
+      "name": "jmk",
+      "regions": []
+    },
+    {
+      "code": "pha",
+      "name": "pha",
+      "regions": []
+    },
+    {
+      "code": "stc",
+      "name": "stc",
+      "regions": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "code": "pl",
+  "name": "Poland",
+  "regions": [
+    {
+      "code": "kra",
+      "name": "kra",
+      "regions": []
+    },
+    {
+      "code": "krk",
+      "name": "krk",
+      "regions": []
+    },
+    {
+      "code": "ld",
+      "name": "ld",
+      "regions": []
+    },
+    {
+      "code": "ma",
+      "name": "ma",
+      "regions": []
+    },
+    {
+      "code": "mz",
+      "name": "mz",
+      "regions": []
+    },
+    {
+      "code": "wp",
+      "name": "wp",
+      "regions": []
+    }
+  ]
+}

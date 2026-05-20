@@ -1,0 +1,72 @@
+{
+  "code": "at",
+  "name": "Austria",
+  "regions": [
+    {
+      "code": "bgld",
+      "name": "bgld",
+      "regions": []
+    },
+    {
+      "code": "de",
+      "name": "de",
+      "regions": []
+    },
+    {
+      "code": "noe",
+      "name": "noe",
+      "regions": []
+    },
+    {
+      "code": "ooe",
+      "name": "ooe",
+      "regions": [
+        {
+          "code": "fr",
+          "name": "fr",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "ost",
+      "name": "ost",
+      "regions": []
+    },
+    {
+      "code": "sbg",
+      "name": "sbg",
+      "regions": []
+    },
+    {
+      "code": "stmk",
+      "name": "stmk",
+      "regions": []
+    },
+    {
+      "code": "sued",
+      "name": "sued",
+      "regions": []
+    },
+    {
+      "code": "t",
+      "name": "t",
+      "regions": []
+    },
+    {
+      "code": "vlbg",
+      "name": "vlbg",
+      "regions": []
+    },
+    {
+      "code": "w",
+      "name": "w",
+      "regions": []
+    },
+    {
+      "code": "west",
+      "name": "west",
+      "regions": []
+    }
+  ]
+}

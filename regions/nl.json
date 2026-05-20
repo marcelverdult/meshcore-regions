@@ -1,0 +1,212 @@
+{
+  "code": "nl",
+  "name": "Netherlands",
+  "regions": [
+    {
+      "code": "ame",
+      "name": "ame",
+      "regions": []
+    },
+    {
+      "code": "ams",
+      "name": "ams",
+      "regions": []
+    },
+    {
+      "code": "cpi",
+      "name": "cpi",
+      "regions": []
+    },
+    {
+      "code": "dor",
+      "name": "dor",
+      "regions": []
+    },
+    {
+      "code": "dr",
+      "name": "dr",
+      "regions": []
+    },
+    {
+      "code": "ede",
+      "name": "ede",
+      "regions": []
+    },
+    {
+      "code": "fl",
+      "name": "fl",
+      "regions": []
+    },
+    {
+      "code": "fr",
+      "name": "fr",
+      "regions": []
+    },
+    {
+      "code": "ge",
+      "name": "ge",
+      "regions": [
+        {
+          "code": "ede",
+          "name": "ede",
+          "regions": []
+        },
+        {
+          "code": "hrd",
+          "name": "hrd",
+          "regions": []
+        },
+        {
+          "code": "ltn",
+          "name": "ltn",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "gr",
+      "name": "gr",
+      "regions": [
+        {
+          "code": "les",
+          "name": "les",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "grq",
+      "name": "grq",
+      "regions": []
+    },
+    {
+      "code": "haa",
+      "name": "haa",
+      "regions": []
+    },
+    {
+      "code": "hag",
+      "name": "hag",
+      "regions": []
+    },
+    {
+      "code": "hrd",
+      "name": "hrd",
+      "regions": []
+    },
+    {
+      "code": "hrv",
+      "name": "hrv",
+      "regions": []
+    },
+    {
+      "code": "ley",
+      "name": "ley",
+      "regions": []
+    },
+    {
+      "code": "lid",
+      "name": "lid",
+      "regions": []
+    },
+    {
+      "code": "nb",
+      "name": "nb",
+      "regions": []
+    },
+    {
+      "code": "nh",
+      "name": "nh",
+      "regions": [
+        {
+          "code": "asd",
+          "name": "asd",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "noord",
+      "name": "noord",
+      "regions": []
+    },
+    {
+      "code": "ov",
+      "name": "ov",
+      "regions": [
+        {
+          "code": "sew",
+          "name": "sew",
+          "regions": []
+        },
+        {
+          "code": "stw",
+          "name": "stw",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "rhe",
+      "name": "rhe",
+      "regions": []
+    },
+    {
+      "code": "ut",
+      "name": "ut",
+      "regions": [
+        {
+          "code": "doo",
+          "name": "doo",
+          "regions": []
+        },
+        {
+          "code": "drb",
+          "name": "drb",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "utc",
+      "name": "utc",
+      "regions": []
+    },
+    {
+      "code": "varu",
+      "name": "varu",
+      "regions": []
+    },
+    {
+      "code": "vee",
+      "name": "vee",
+      "regions": []
+    },
+    {
+      "code": "wgw",
+      "name": "wgw",
+      "regions": []
+    },
+    {
+      "code": "ze",
+      "name": "ze",
+      "regions": []
+    },
+    {
+      "code": "zh",
+      "name": "zh",
+      "regions": [
+        {
+          "code": "dor",
+          "name": "dor",
+          "regions": []
+        },
+        {
+          "code": "wss",
+          "name": "wss",
+          "regions": []
+        }
+      ]
+    }
+  ]
+}

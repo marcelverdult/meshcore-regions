@@ -1,0 +1,21 @@
+{
+  "code": "sh",
+  "name": "St. Helena",
+  "regions": [
+    {
+      "code": "kel",
+      "name": "kel",
+      "regions": []
+    },
+    {
+      "code": "ki",
+      "name": "ki",
+      "regions": []
+    },
+    {
+      "code": "kiel",
+      "name": "kiel",
+      "regions": []
+    }
+  ]
+}

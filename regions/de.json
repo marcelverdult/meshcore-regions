@@ -1,0 +1,1007 @@
+{
+  "code": "de",
+  "name": "Germany",
+  "regions": [
+    {
+      "code": "abo",
+      "name": "abo",
+      "regions": []
+    },
+    {
+      "code": "at",
+      "name": "at",
+      "regions": []
+    },
+    {
+      "code": "aur",
+      "name": "aur",
+      "regions": []
+    },
+    {
+      "code": "bb",
+      "name": "bb",
+      "regions": [
+        {
+          "code": "bar",
+          "name": "bar",
+          "regions": []
+        },
+        {
+          "code": "ee",
+          "name": "ee",
+          "regions": []
+        },
+        {
+          "code": "mol",
+          "name": "mol",
+          "regions": []
+        },
+        {
+          "code": "ohv",
+          "name": "ohv",
+          "regions": []
+        },
+        {
+          "code": "osl",
+          "name": "osl",
+          "regions": []
+        },
+        {
+          "code": "um",
+          "name": "um",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "be",
+      "name": "be",
+      "regions": []
+    },
+    {
+      "code": "bebb",
+      "name": "bebb",
+      "regions": []
+    },
+    {
+      "code": "ber",
+      "name": "ber",
+      "regions": []
+    },
+    {
+      "code": "bw",
+      "name": "bw",
+      "regions": [
+        {
+          "code": "adk",
+          "name": "adk",
+          "regions": []
+        },
+        {
+          "code": "bad",
+          "name": "bad",
+          "regions": []
+        },
+        {
+          "code": "bb",
+          "name": "bb",
+          "regions": []
+        },
+        {
+          "code": "bc",
+          "name": "bc",
+          "regions": []
+        },
+        {
+          "code": "bk",
+          "name": "bk",
+          "regions": []
+        },
+        {
+          "code": "cw",
+          "name": "cw",
+          "regions": []
+        },
+        {
+          "code": "em",
+          "name": "em",
+          "regions": []
+        },
+        {
+          "code": "es",
+          "name": "es",
+          "regions": []
+        },
+        {
+          "code": "fds",
+          "name": "fds",
+          "regions": []
+        },
+        {
+          "code": "fr",
+          "name": "fr",
+          "regions": []
+        },
+        {
+          "code": "gp",
+          "name": "gp",
+          "regions": []
+        },
+        {
+          "code": "hor",
+          "name": "hor",
+          "regions": []
+        },
+        {
+          "code": "ka",
+          "name": "ka",
+          "regions": []
+        },
+        {
+          "code": "lb",
+          "name": "lb",
+          "regions": []
+        },
+        {
+          "code": "leo",
+          "name": "leo",
+          "regions": []
+        },
+        {
+          "code": "og",
+          "name": "og",
+          "regions": []
+        },
+        {
+          "code": "pf",
+          "name": "pf",
+          "regions": []
+        },
+        {
+          "code": "ra",
+          "name": "ra",
+          "regions": []
+        },
+        {
+          "code": "rw",
+          "name": "rw",
+          "regions": []
+        },
+        {
+          "code": "s",
+          "name": "s",
+          "regions": []
+        },
+        {
+          "code": "sbh",
+          "name": "sbh",
+          "regions": []
+        },
+        {
+          "code": "sha",
+          "name": "sha",
+          "regions": []
+        },
+        {
+          "code": "str",
+          "name": "str",
+          "regions": []
+        },
+        {
+          "code": "sued",
+          "name": "sued",
+          "regions": []
+        },
+        {
+          "code": "tue",
+          "name": "tue",
+          "regions": []
+        },
+        {
+          "code": "tut",
+          "name": "tut",
+          "regions": []
+        },
+        {
+          "code": "ul",
+          "name": "ul",
+          "regions": []
+        },
+        {
+          "code": "ulm",
+          "name": "ulm",
+          "regions": []
+        },
+        {
+          "code": "vai",
+          "name": "vai",
+          "regions": []
+        },
+        {
+          "code": "vs",
+          "name": "vs",
+          "regions": []
+        },
+        {
+          "code": "wn",
+          "name": "wn",
+          "regions": []
+        },
+        {
+          "code": "wt",
+          "name": "wt",
+          "regions": []
+        },
+        {
+          "code": "zak",
+          "name": "zak",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "by",
+      "name": "by",
+      "regions": [
+        {
+          "code": "aux",
+          "name": "aux",
+          "regions": []
+        },
+        {
+          "code": "dah",
+          "name": "dah",
+          "regions": []
+        },
+        {
+          "code": "ed",
+          "name": "ed",
+          "regions": []
+        },
+        {
+          "code": "emm",
+          "name": "emm",
+          "regions": []
+        },
+        {
+          "code": "fr",
+          "name": "fr",
+          "regions": []
+        },
+        {
+          "code": "gz",
+          "name": "gz",
+          "regions": []
+        },
+        {
+          "code": "ill",
+          "name": "ill",
+          "regions": []
+        },
+        {
+          "code": "la",
+          "name": "la",
+          "regions": []
+        },
+        {
+          "code": "li",
+          "name": "li",
+          "regions": []
+        },
+        {
+          "code": "mfr",
+          "name": "mfr",
+          "regions": [
+            {
+              "code": "er",
+              "name": "er",
+              "regions": []
+            },
+            {
+              "code": "erh",
+              "name": "erh",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "mn",
+          "name": "mn",
+          "regions": []
+        },
+        {
+          "code": "muc",
+          "name": "muc",
+          "regions": []
+        },
+        {
+          "code": "nbay",
+          "name": "nbay",
+          "regions": []
+        },
+        {
+          "code": "ndb",
+          "name": "ndb",
+          "regions": []
+        },
+        {
+          "code": "nu",
+          "name": "nu",
+          "regions": []
+        },
+        {
+          "code": "oa",
+          "name": "oa",
+          "regions": []
+        },
+        {
+          "code": "oal",
+          "name": "oal",
+          "regions": []
+        },
+        {
+          "code": "schw",
+          "name": "schw",
+          "regions": []
+        },
+        {
+          "code": "sr",
+          "name": "sr",
+          "regions": []
+        },
+        {
+          "code": "ufr",
+          "name": "ufr",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "ch",
+      "name": "ch",
+      "regions": []
+    },
+    {
+      "code": "de",
+      "name": "de",
+      "regions": []
+    },
+    {
+      "code": "debb",
+      "name": "debb",
+      "regions": []
+    },
+    {
+      "code": "dk",
+      "name": "dk",
+      "regions": []
+    },
+    {
+      "code": "emd",
+      "name": "emd",
+      "regions": []
+    },
+    {
+      "code": "fri",
+      "name": "fri",
+      "regions": []
+    },
+    {
+      "code": "goe",
+      "name": "goe",
+      "regions": []
+    },
+    {
+      "code": "hartz",
+      "name": "hartz",
+      "regions": []
+    },
+    {
+      "code": "harz",
+      "name": "harz",
+      "regions": []
+    },
+    {
+      "code": "hb",
+      "name": "hb",
+      "regions": []
+    },
+    {
+      "code": "he",
+      "name": "he",
+      "regions": [
+        {
+          "code": "gi",
+          "name": "gi",
+          "regions": [
+            {
+              "code": "gi",
+              "name": "gi",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "mtk",
+          "name": "mtk",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "hh",
+      "name": "hh",
+      "regions": []
+    },
+    {
+      "code": "ki",
+      "name": "ki",
+      "regions": []
+    },
+    {
+      "code": "kiel",
+      "name": "kiel",
+      "regions": []
+    },
+    {
+      "code": "ko",
+      "name": "ko",
+      "regions": []
+    },
+    {
+      "code": "koblenz",
+      "name": "koblenz",
+      "regions": []
+    },
+    {
+      "code": "laho",
+      "name": "laho",
+      "regions": []
+    },
+    {
+      "code": "mitte",
+      "name": "mitte",
+      "regions": []
+    },
+    {
+      "code": "mpids",
+      "name": "mpids",
+      "regions": []
+    },
+    {
+      "code": "mv",
+      "name": "mv",
+      "regions": [
+        {
+          "code": "dbr",
+          "name": "dbr",
+          "regions": []
+        },
+        {
+          "code": "hro",
+          "name": "hro",
+          "regions": []
+        },
+        {
+          "code": "hst",
+          "name": "hst",
+          "regions": []
+        },
+        {
+          "code": "sbg",
+          "name": "sbg",
+          "regions": []
+        },
+        {
+          "code": "vg",
+          "name": "vg",
+          "regions": []
+        },
+        {
+          "code": "vr",
+          "name": "vr",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "ni",
+      "name": "ni",
+      "regions": [
+        {
+          "code": "bs",
+          "name": "bs",
+          "regions": []
+        },
+        {
+          "code": "fri",
+          "name": "fri",
+          "regions": []
+        },
+        {
+          "code": "goe",
+          "name": "goe",
+          "regions": []
+        },
+        {
+          "code": "gs",
+          "name": "gs",
+          "regions": []
+        },
+        {
+          "code": "h",
+          "name": "h",
+          "regions": []
+        },
+        {
+          "code": "he",
+          "name": "he",
+          "regions": []
+        },
+        {
+          "code": "hi",
+          "name": "hi",
+          "regions": []
+        },
+        {
+          "code": "hm",
+          "name": "hm",
+          "regions": []
+        },
+        {
+          "code": "hol",
+          "name": "hol",
+          "regions": []
+        },
+        {
+          "code": "lg",
+          "name": "lg",
+          "regions": []
+        },
+        {
+          "code": "nom",
+          "name": "nom",
+          "regions": []
+        },
+        {
+          "code": "oha",
+          "name": "oha",
+          "regions": []
+        },
+        {
+          "code": "ohz",
+          "name": "ohz",
+          "regions": []
+        },
+        {
+          "code": "shg",
+          "name": "shg",
+          "regions": []
+        },
+        {
+          "code": "sz",
+          "name": "sz",
+          "regions": []
+        },
+        {
+          "code": "wf",
+          "name": "wf",
+          "regions": []
+        },
+        {
+          "code": "wob",
+          "name": "wob",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "nom",
+      "name": "nom",
+      "regions": []
+    },
+    {
+      "code": "nor",
+      "name": "nor",
+      "regions": []
+    },
+    {
+      "code": "nord",
+      "name": "nord",
+      "regions": []
+    },
+    {
+      "code": "nrw",
+      "name": "nrw",
+      "regions": []
+    },
+    {
+      "code": "ns",
+      "name": "ns",
+      "regions": []
+    },
+    {
+      "code": "nw",
+      "name": "nw",
+      "regions": [
+        {
+          "code": "bi",
+          "name": "bi",
+          "regions": []
+        },
+        {
+          "code": "bo",
+          "name": "bo",
+          "regions": []
+        },
+        {
+          "code": "e",
+          "name": "e",
+          "regions": []
+        },
+        {
+          "code": "gl",
+          "name": "gl",
+          "regions": []
+        },
+        {
+          "code": "gt",
+          "name": "gt",
+          "regions": []
+        },
+        {
+          "code": "hf",
+          "name": "hf",
+          "regions": []
+        },
+        {
+          "code": "hsk",
+          "name": "hsk",
+          "regions": []
+        },
+        {
+          "code": "hx",
+          "name": "hx",
+          "regions": []
+        },
+        {
+          "code": "lip",
+          "name": "lip",
+          "regions": [
+            {
+              "code": "dt",
+              "name": "dt",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "mi",
+          "name": "mi",
+          "regions": []
+        },
+        {
+          "code": "mitte",
+          "name": "mitte",
+          "regions": []
+        },
+        {
+          "code": "ms",
+          "name": "ms",
+          "regions": []
+        },
+        {
+          "code": "oe",
+          "name": "oe",
+          "regions": []
+        },
+        {
+          "code": "owl",
+          "name": "owl",
+          "regions": []
+        },
+        {
+          "code": "pb",
+          "name": "pb",
+          "regions": []
+        },
+        {
+          "code": "so",
+          "name": "so",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "ost",
+      "name": "ost",
+      "regions": []
+    },
+    {
+      "code": "ostfriesland",
+      "name": "ostfriesland",
+      "regions": []
+    },
+    {
+      "code": "owl",
+      "name": "owl",
+      "regions": []
+    },
+    {
+      "code": "rlp",
+      "name": "rlp",
+      "regions": [
+        {
+          "code": "dbg",
+          "name": "dbg",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "rp",
+      "name": "rp",
+      "regions": [
+        {
+          "code": "dbg",
+          "name": "dbg",
+          "regions": []
+        },
+        {
+          "code": "ger",
+          "name": "ger",
+          "regions": []
+        },
+        {
+          "code": "ingelheim",
+          "name": "ingelheim",
+          "regions": []
+        },
+        {
+          "code": "kl",
+          "name": "kl",
+          "regions": []
+        },
+        {
+          "code": "koblenz",
+          "name": "koblenz",
+          "regions": []
+        },
+        {
+          "code": "ww",
+          "name": "ww",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "saa",
+      "name": "saa",
+      "regions": []
+    },
+    {
+      "code": "sh",
+      "name": "sh",
+      "regions": [
+        {
+          "code": "eck",
+          "name": "eck",
+          "regions": []
+        },
+        {
+          "code": "hl",
+          "name": "hl",
+          "regions": []
+        },
+        {
+          "code": "ki",
+          "name": "ki",
+          "regions": []
+        },
+        {
+          "code": "oh",
+          "name": "oh",
+          "regions": []
+        },
+        {
+          "code": "pi",
+          "name": "pi",
+          "regions": []
+        },
+        {
+          "code": "ploe",
+          "name": "ploe",
+          "regions": []
+        },
+        {
+          "code": "rd",
+          "name": "rd",
+          "regions": []
+        },
+        {
+          "code": "slfl",
+          "name": "slfl",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "sl",
+      "name": "sl",
+      "regions": []
+    },
+    {
+      "code": "sn",
+      "name": "sn",
+      "regions": [
+        {
+          "code": "bz",
+          "name": "bz",
+          "regions": []
+        },
+        {
+          "code": "c",
+          "name": "c",
+          "regions": []
+        },
+        {
+          "code": "dd",
+          "name": "dd",
+          "regions": []
+        },
+        {
+          "code": "erz",
+          "name": "erz",
+          "regions": []
+        },
+        {
+          "code": "fg",
+          "name": "fg",
+          "regions": []
+        },
+        {
+          "code": "leipzig",
+          "name": "leipzig",
+          "regions": []
+        },
+        {
+          "code": "mei",
+          "name": "mei",
+          "regions": []
+        },
+        {
+          "code": "msn",
+          "name": "msn",
+          "regions": []
+        },
+        {
+          "code": "pir",
+          "name": "pir",
+          "regions": []
+        },
+        {
+          "code": "vvo",
+          "name": "vvo",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "solling",
+      "name": "solling",
+      "regions": []
+    },
+    {
+      "code": "st",
+      "name": "st",
+      "regions": [
+        {
+          "code": "hbs",
+          "name": "hbs",
+          "regions": []
+        },
+        {
+          "code": "hz",
+          "name": "hz",
+          "regions": []
+        },
+        {
+          "code": "md",
+          "name": "md",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "str",
+      "name": "str",
+      "regions": []
+    },
+    {
+      "code": "sued",
+      "name": "sued",
+      "regions": []
+    },
+    {
+      "code": "test",
+      "name": "test",
+      "regions": []
+    },
+    {
+      "code": "th",
+      "name": "th",
+      "regions": [
+        {
+          "code": "ef",
+          "name": "ef",
+          "regions": []
+        },
+        {
+          "code": "gth",
+          "name": "gth",
+          "regions": []
+        },
+        {
+          "code": "hbn",
+          "name": "hbn",
+          "regions": []
+        },
+        {
+          "code": "j",
+          "name": "j",
+          "regions": []
+        },
+        {
+          "code": "shk",
+          "name": "shk",
+          "regions": []
+        },
+        {
+          "code": "shl",
+          "name": "shl",
+          "regions": []
+        },
+        {
+          "code": "slz",
+          "name": "slz",
+          "regions": []
+        },
+        {
+          "code": "sm",
+          "name": "sm",
+          "regions": []
+        },
+        {
+          "code": "sok",
+          "name": "sok",
+          "regions": []
+        },
+        {
+          "code": "themar",
+          "name": "themar",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "thecore",
+      "name": "thecore",
+      "regions": []
+    },
+    {
+      "code": "w",
+      "name": "w",
+      "regions": []
+    },
+    {
+      "code": "west",
+      "name": "west",
+      "regions": []
+    },
+    {
+      "code": "wtm",
+      "name": "wtm",
+      "regions": []
+    }
+  ]
+}

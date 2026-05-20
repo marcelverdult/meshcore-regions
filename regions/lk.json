@@ -1,0 +1,11 @@
+{
+  "code": "lk",
+  "name": "Sri Lanka",
+  "regions": [
+    {
+      "code": "stade",
+      "name": "stade",
+      "regions": []
+    }
+  ]
+}

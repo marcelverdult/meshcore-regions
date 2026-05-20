@@ -1,0 +1,11 @@
+{
+  "code": "us",
+  "name": "United States",
+  "regions": [
+    {
+      "code": "wa",
+      "name": "wa",
+      "regions": []
+    }
+  ]
+}

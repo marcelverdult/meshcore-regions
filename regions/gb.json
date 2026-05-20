@@ -1,0 +1,11 @@
+{
+  "code": "gb",
+  "name": "United Kingdom",
+  "regions": [
+    {
+      "code": "est",
+      "name": "est",
+      "regions": []
+    }
+  ]
+}

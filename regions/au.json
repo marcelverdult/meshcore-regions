@@ -1,0 +1,37 @@
+{
+  "code": "au",
+  "name": "Australia",
+  "regions": [
+    {
+      "code": "act",
+      "name": "act",
+      "regions": []
+    },
+    {
+      "code": "nsw",
+      "name": "nsw",
+      "regions": []
+    },
+    {
+      "code": "qld",
+      "name": "qld",
+      "regions": []
+    },
+    {
+      "code": "wa",
+      "name": "wa",
+      "regions": [
+        {
+          "code": "buy",
+          "name": "buy",
+          "regions": []
+        },
+        {
+          "code": "per",
+          "name": "per",
+          "regions": []
+        }
+      ]
+    }
+  ]
+}

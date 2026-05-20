@@ -1,0 +1,71 @@
+{
+  "code": "be",
+  "name": "Belgium",
+  "regions": [
+    {
+      "code": "bru",
+      "name": "bru",
+      "regions": []
+    },
+    {
+      "code": "lgg",
+      "name": "lgg",
+      "regions": []
+    },
+    {
+      "code": "lie",
+      "name": "lie",
+      "regions": []
+    },
+    {
+      "code": "so",
+      "name": "so",
+      "regions": []
+    },
+    {
+      "code": "van",
+      "name": "van",
+      "regions": []
+    },
+    {
+      "code": "vbr",
+      "name": "vbr",
+      "regions": []
+    },
+    {
+      "code": "vov",
+      "name": "vov",
+      "regions": []
+    },
+    {
+      "code": "vwv",
+      "name": "vwv",
+      "regions": []
+    },
+    {
+      "code": "wal",
+      "name": "wal",
+      "regions": []
+    },
+    {
+      "code": "wbr",
+      "name": "wbr",
+      "regions": []
+    },
+    {
+      "code": "wht",
+      "name": "wht",
+      "regions": []
+    },
+    {
+      "code": "wlg",
+      "name": "wlg",
+      "regions": []
+    },
+    {
+      "code": "wna",
+      "name": "wna",
+      "regions": []
+    }
+  ]
+}

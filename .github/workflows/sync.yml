@@ -1,0 +1,62 @@
+name: sync
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+
+      - name: Configure git
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Run sync
+        id: run
+        env:
+          KIEKR_MAP_API_URL: ${{ secrets.KIEKR_MAP_API_URL }}
+        run: |
+          set -o pipefail
+          node scripts/sync.mjs | tee sync.log
+          summary="$(grep '^SUMMARY ' sync.log | tail -n1 | sed 's/^SUMMARY //')"
+          {
+            echo "summary=$summary"
+            echo "added=$(echo "$summary" | node -e 'let s=""; process.stdin.on("data",d=>s+=d).on("end",()=>{const o=JSON.parse(s);process.stdout.write(String(o.added))})')"
+            echo "resolved=$(echo "$summary" | node -e 'let s=""; process.stdin.on("data",d=>s+=d).on("end",()=>{const o=JSON.parse(s);process.stdout.write(String(o.resolved))})')"
+            echo "unsorted=$(echo "$summary" | node -e 'let s=""; process.stdin.on("data",d=>s+=d).on("end",()=>{const o=JSON.parse(s);process.stdout.write(String(o.unsorted_total))})')"
+          } >> "$GITHUB_OUTPUT"
+          rm -f sync.log
+
+      - name: Commit and push if changed
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "committed: none (no diff)"
+            exit 0
+          fi
+          git add -A regions/ unsorted/ index.json README.md
+          msg="sync: ${{ steps.run.outputs.added }} added, ${{ steps.run.outputs.resolved }} resolved, ${{ steps.run.outputs.unsorted }} unsorted"
+          git commit -m "$msg"
+          git push origin main:main
+          echo "committed: $(git rev-parse HEAD)"

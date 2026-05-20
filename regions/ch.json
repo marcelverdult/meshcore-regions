@@ -1,0 +1,37 @@
+{
+  "code": "ch",
+  "name": "Switzerland",
+  "regions": [
+    {
+      "code": "de",
+      "name": "de",
+      "regions": []
+    },
+    {
+      "code": "fr",
+      "name": "fr",
+      "regions": []
+    },
+    {
+      "code": "ge",
+      "name": "ge",
+      "regions": []
+    },
+    {
+      "code": "it",
+      "name": "it",
+      "regions": []
+    },
+    {
+      "code": "vd",
+      "name": "vd",
+      "regions": [
+        {
+          "code": "stc",
+          "name": "stc",
+          "regions": []
+        }
+      ]
+    }
+  ]
+}

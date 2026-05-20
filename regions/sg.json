@@ -1,0 +1,11 @@
+{
+  "code": "sg",
+  "name": "Singapore",
+  "regions": [
+    {
+      "code": "tostedt",
+      "name": "tostedt",
+      "regions": []
+    }
+  ]
+}
