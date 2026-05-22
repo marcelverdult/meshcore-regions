@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-05-21T04:30:14Z`
+- Last sync: `2026-05-22T04:30:37Z`
 - Roots: 252
-- Total nodes: 573
-- Unsorted entries: 195
+- Total nodes: 593
+- Unsorted entries: 202
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-05-21T04:30:20Z | sync | e9d5d2c | Merge pull request #2 from marcelverdult/sync/auto |
+| 2026-05-21T04:30:15Z | sync | b670f71 | sync: 3 added, 2 resolved, 195 unsorted |
 | 2026-05-20T23:51:50Z | manual | 5540ef7 | schema: cap code segments at 29 chars, drop arbitrary 64 total |
 | 2026-05-20T23:17:31Z | manual | 51071d3 | regions: preserve hansemesh code under de; drop parent-prefix rule |
 | 2026-05-20T20:08:37Z | manual | fc2d3bd | regions: add nl-li, eu root, de-hansemesh; humanize labels |

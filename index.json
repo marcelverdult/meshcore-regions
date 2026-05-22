@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T04:30:14Z",
+  "generated_at": "2026-05-22T04:30:37Z",
   "tree": [
     {
       "code": "ad",
@@ -109,6 +109,11 @@
         {
           "code": "at-t",
           "name": "t",
+          "regions": []
+        },
+        {
+          "code": "at-vbg",
+          "name": "vbg",
           "regions": []
         },
         {
@@ -483,8 +488,43 @@
       "name": "Czechia",
       "regions": [
         {
+          "code": "cz-hkk",
+          "name": "hkk",
+          "regions": []
+        },
+        {
+          "code": "cz-jhc",
+          "name": "jhc",
+          "regions": []
+        },
+        {
           "code": "cz-jmk",
           "name": "jmk",
+          "regions": []
+        },
+        {
+          "code": "cz-kvk",
+          "name": "kvk",
+          "regions": []
+        },
+        {
+          "code": "cz-lbk",
+          "name": "lbk",
+          "regions": []
+        },
+        {
+          "code": "cz-msk",
+          "name": "msk",
+          "regions": []
+        },
+        {
+          "code": "cz-olk",
+          "name": "olk",
+          "regions": []
+        },
+        {
+          "code": "cz-pak",
+          "name": "pak",
           "regions": []
         },
         {
@@ -493,8 +533,28 @@
           "regions": []
         },
         {
+          "code": "cz-plz",
+          "name": "plz",
+          "regions": []
+        },
+        {
           "code": "cz-stc",
           "name": "stc",
+          "regions": []
+        },
+        {
+          "code": "cz-ulk",
+          "name": "ulk",
+          "regions": []
+        },
+        {
+          "code": "cz-vys",
+          "name": "vys",
+          "regions": []
+        },
+        {
+          "code": "cz-zlk",
+          "name": "zlk",
           "regions": []
         }
       ]
@@ -639,6 +699,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-l",
+              "name": "l",
+              "regions": []
+            },
+            {
               "code": "de-bw-lb",
               "name": "lb",
               "regions": []
@@ -646,6 +711,11 @@
             {
               "code": "de-bw-leo",
               "name": "leo",
+              "regions": []
+            },
+            {
+              "code": "de-bw-muel",
+              "name": "muel",
               "regions": []
             },
             {
@@ -801,6 +871,21 @@
                 {
                   "code": "de-by-mfr-erh",
                   "name": "erh",
+                  "regions": []
+                },
+                {
+                  "code": "de-by-mfr-fue",
+                  "name": "fue",
+                  "regions": []
+                },
+                {
+                  "code": "de-by-mfr-n",
+                  "name": "n",
+                  "regions": []
+                },
+                {
+                  "code": "de-by-mfr-nea",
+                  "name": "nea",
                   "regions": []
                 }
               ]
@@ -1209,6 +1294,16 @@
             {
               "code": "de-nw-so",
               "name": "so",
+              "regions": []
+            },
+            {
+              "code": "de-nw-st",
+              "name": "st",
+              "regions": []
+            },
+            {
+              "code": "de-nw-te",
+              "name": "te",
               "regions": []
             }
           ]
@@ -1891,7 +1986,13 @@
         {
           "code": "it-lom",
           "name": "lom",
-          "regions": []
+          "regions": [
+            {
+              "code": "it-lom-mi",
+              "name": "mi",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "it-pi",
@@ -3006,6 +3107,10 @@
       "name": "t"
     },
     {
+      "path": "at-vbg",
+      "name": "vbg"
+    },
+    {
       "path": "at-vlbg",
       "name": "vlbg"
     },
@@ -3298,16 +3403,60 @@
       "name": "Czechia"
     },
     {
+      "path": "cz-hkk",
+      "name": "hkk"
+    },
+    {
+      "path": "cz-jhc",
+      "name": "jhc"
+    },
+    {
       "path": "cz-jmk",
       "name": "jmk"
+    },
+    {
+      "path": "cz-kvk",
+      "name": "kvk"
+    },
+    {
+      "path": "cz-lbk",
+      "name": "lbk"
+    },
+    {
+      "path": "cz-msk",
+      "name": "msk"
+    },
+    {
+      "path": "cz-olk",
+      "name": "olk"
+    },
+    {
+      "path": "cz-pak",
+      "name": "pak"
     },
     {
       "path": "cz-pha",
       "name": "pha"
     },
     {
+      "path": "cz-plz",
+      "name": "plz"
+    },
+    {
       "path": "cz-stc",
       "name": "stc"
+    },
+    {
+      "path": "cz-ulk",
+      "name": "ulk"
+    },
+    {
+      "path": "cz-vys",
+      "name": "vys"
+    },
+    {
+      "path": "cz-zlk",
+      "name": "zlk"
     },
     {
       "path": "de",
@@ -3422,12 +3571,20 @@
       "name": "ka"
     },
     {
+      "path": "de-bw-l",
+      "name": "l"
+    },
+    {
       "path": "de-bw-lb",
       "name": "lb"
     },
     {
       "path": "de-bw-leo",
       "name": "leo"
+    },
+    {
+      "path": "de-bw-muel",
+      "name": "muel"
     },
     {
       "path": "de-bw-og",
@@ -3552,6 +3709,18 @@
     {
       "path": "de-by-mfr-erh",
       "name": "erh"
+    },
+    {
+      "path": "de-by-mfr-fue",
+      "name": "fue"
+    },
+    {
+      "path": "de-by-mfr-n",
+      "name": "n"
+    },
+    {
+      "path": "de-by-mfr-nea",
+      "name": "nea"
     },
     {
       "path": "de-by-mn",
@@ -3872,6 +4041,14 @@
     {
       "path": "de-nw-so",
       "name": "so"
+    },
+    {
+      "path": "de-nw-st",
+      "name": "st"
+    },
+    {
+      "path": "de-nw-te",
+      "name": "te"
     },
     {
       "path": "de-ost",
@@ -4404,6 +4581,10 @@
     {
       "path": "it-lom",
       "name": "lom"
+    },
+    {
+      "path": "it-lom-mi",
+      "name": "mi"
     },
     {
       "path": "it-pi",

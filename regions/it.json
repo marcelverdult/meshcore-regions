@@ -37,7 +37,13 @@
     {
       "code": "it-lom",
       "name": "lom",
-      "regions": []
+      "regions": [
+        {
+          "code": "it-lom-mi",
+          "name": "mi",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "it-pi",

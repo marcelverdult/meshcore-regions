@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T04:30:14Z",
+  "generated_at": "2026-05-22T04:30:37Z",
   "buckets": {
     "a": [
       {
@@ -113,6 +113,11 @@
         "raw": "bochum",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "bodensee",
+        "reason": "no_root",
+        "first_seen": "2026-05-22T04:30:37Z"
       },
       {
         "raw": "bonn",
@@ -348,6 +353,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "fl",
+        "reason": "no_root",
+        "first_seen": "2026-05-22T04:30:37Z"
+      },
+      {
         "raw": "flathead-valley",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -373,6 +383,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "freiburg",
+        "reason": "no_root",
+        "first_seen": "2026-05-22T04:30:37Z"
+      },
+      {
         "raw": "friesland",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -388,6 +403,11 @@
         "raw": "geg",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "germany",
+        "reason": "no_root",
+        "first_seen": "2026-05-22T04:30:37Z"
       },
       {
         "raw": "gla",
@@ -419,7 +439,7 @@
       {
         "raw": "hansemesh",
         "reason": "no_root",
-        "first_seen": "2026-05-21T04:30:14Z"
+        "first_seen": "2026-05-22T04:30:37Z"
       },
       {
         "raw": "he",
@@ -496,6 +516,11 @@
         "raw": "kiel",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "koblenzmesh",
+        "reason": "no_root",
+        "first_seen": "2026-05-22T04:30:37Z"
       },
       {
         "raw": "koeln",
@@ -736,6 +761,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "riedberg",
+        "reason": "no_root",
+        "first_seen": "2026-05-22T04:30:37Z"
+      },
+      {
         "raw": "robot",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -791,6 +821,11 @@
         "raw": "se1278",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "se1283",
+        "reason": "no_root",
+        "first_seen": "2026-05-22T04:30:37Z"
       },
       {
         "raw": "se1292",
