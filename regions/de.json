@@ -138,6 +138,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-l",
+          "name": "l",
+          "regions": []
+        },
+        {
           "code": "de-bw-lb",
           "name": "lb",
           "regions": []
@@ -145,6 +150,11 @@
         {
           "code": "de-bw-leo",
           "name": "leo",
+          "regions": []
+        },
+        {
+          "code": "de-bw-muel",
+          "name": "muel",
           "regions": []
         },
         {
@@ -300,6 +310,21 @@
             {
               "code": "de-by-mfr-erh",
               "name": "erh",
+              "regions": []
+            },
+            {
+              "code": "de-by-mfr-fue",
+              "name": "fue",
+              "regions": []
+            },
+            {
+              "code": "de-by-mfr-n",
+              "name": "n",
+              "regions": []
+            },
+            {
+              "code": "de-by-mfr-nea",
+              "name": "nea",
               "regions": []
             }
           ]
@@ -708,6 +733,16 @@
         {
           "code": "de-nw-so",
           "name": "so",
+          "regions": []
+        },
+        {
+          "code": "de-nw-st",
+          "name": "st",
+          "regions": []
+        },
+        {
+          "code": "de-nw-te",
+          "name": "te",
           "regions": []
         }
       ]

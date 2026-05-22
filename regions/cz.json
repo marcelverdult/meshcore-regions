@@ -3,8 +3,43 @@
   "name": "Czechia",
   "regions": [
     {
+      "code": "cz-hkk",
+      "name": "hkk",
+      "regions": []
+    },
+    {
+      "code": "cz-jhc",
+      "name": "jhc",
+      "regions": []
+    },
+    {
       "code": "cz-jmk",
       "name": "jmk",
+      "regions": []
+    },
+    {
+      "code": "cz-kvk",
+      "name": "kvk",
+      "regions": []
+    },
+    {
+      "code": "cz-lbk",
+      "name": "lbk",
+      "regions": []
+    },
+    {
+      "code": "cz-msk",
+      "name": "msk",
+      "regions": []
+    },
+    {
+      "code": "cz-olk",
+      "name": "olk",
+      "regions": []
+    },
+    {
+      "code": "cz-pak",
+      "name": "pak",
       "regions": []
     },
     {
@@ -13,8 +48,28 @@
       "regions": []
     },
     {
+      "code": "cz-plz",
+      "name": "plz",
+      "regions": []
+    },
+    {
       "code": "cz-stc",
       "name": "stc",
+      "regions": []
+    },
+    {
+      "code": "cz-ulk",
+      "name": "ulk",
+      "regions": []
+    },
+    {
+      "code": "cz-vys",
+      "name": "vys",
+      "regions": []
+    },
+    {
+      "code": "cz-zlk",
+      "name": "zlk",
       "regions": []
     }
   ]
