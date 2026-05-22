@@ -80,4 +80,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 ## License
 
-To be determined.
+[CC0 1.0 Universal](LICENSE) — public-domain dedication. This catalog is
+released with no rights reserved: copy, modify, redistribute, and embed it
+(including in firmware) for any purpose, with no attribution required.
