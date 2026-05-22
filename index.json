@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T04:30:37Z",
+  "generated_at": "2026-05-22T10:48:55Z",
   "tree": [
     {
       "code": "ad",
@@ -1283,7 +1283,7 @@
             },
             {
               "code": "de-nw-owl",
-              "name": "owl",
+              "name": "Ostwestfalen-Lippe",
               "regions": []
             },
             {
@@ -4032,7 +4032,7 @@
     },
     {
       "path": "de-nw-owl",
-      "name": "owl"
+      "name": "Ostwestfalen-Lippe"
     },
     {
       "path": "de-nw-pb",
