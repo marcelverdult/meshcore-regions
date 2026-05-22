@@ -84,8 +84,8 @@
         },
         {
           "code": "de-bw-bb",
-          "name": "bb",
-          "regions": []
+          "name": "Böblingen",
+          "regions": [de-bw-str, de-bw-bb]
         },
         {
           "code": "de-bw-bc",
@@ -94,12 +94,12 @@
         },
         {
           "code": "de-bw-bk",
-          "name": "bk",
+          "name": "Backnang",
           "regions": []
         },
         {
           "code": "de-bw-cw",
-          "name": "cw",
+          "name": "Calw",
           "regions": []
         },
         {
@@ -109,8 +109,8 @@
         },
         {
           "code": "de-bw-es",
-          "name": "es",
-          "regions": []
+          "name": "Esslingen",
+          "regions": [de-bw-str, de-bw-es]
         },
         {
           "code": "de-bw-fds",
@@ -124,8 +124,8 @@
         },
         {
           "code": "de-bw-gp",
-          "name": "gp",
-          "regions": []
+          "name": "Göppingen",
+          "regions": [de-bw-str, de-bw-gp]
         },
         {
           "code": "de-bw-hor",
@@ -134,7 +134,7 @@
         },
         {
           "code": "de-bw-ka",
-          "name": "ka",
+          "name": "Karlsruhe",
           "regions": []
         },
         {
@@ -144,13 +144,13 @@
         },
         {
           "code": "de-bw-lb",
-          "name": "lb",
-          "regions": []
+          "name": "Ludwigsburg",
+          "regions": [de-bw-str, de-bw-lb]
         },
         {
           "code": "de-bw-leo",
-          "name": "leo",
-          "regions": []
+          "name": "Leonberg",
+          "regions": [de-bw-str]
         },
         {
           "code": "de-bw-muel",
@@ -164,7 +164,7 @@
         },
         {
           "code": "de-bw-pf",
-          "name": "pf",
+          "name": "Pforzheim",
           "regions": []
         },
         {
@@ -189,13 +189,13 @@
         },
         {
           "code": "de-bw-sha",
-          "name": "sha",
+          "name": "Schwäbisch Hall",
           "regions": []
         },
         {
           "code": "de-bw-str",
-          "name": "str",
-          "regions": []
+          "name": "Metropol Region Stuttgart",
+          "regions": [de-bw-str]
         },
         {
           "code": "de-bw-sued",
@@ -219,7 +219,7 @@
         },
         {
           "code": "de-bw-ulm",
-          "name": "ulm",
+          "name": "Ulm",
           "regions": []
         },
         {
@@ -233,9 +233,9 @@
           "regions": []
         },
         {
-          "code": "de-bw-wn",
-          "name": "wn",
-          "regions": []
+          "code": "de-bw-str",
+          "name": "Rems-Murr-Kreis",
+          "regions": [de-bw-str, de-bw-wn]
         },
         {
           "code": "de-bw-wt",
