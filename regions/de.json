@@ -356,6 +356,11 @@
           "regions": []
         },
         {
+          "code": "de-by-nbg",
+          "name": "nbg",
+          "regions": []
+        },
+        {
           "code": "de-by-ndb",
           "name": "ndb",
           "regions": []
@@ -436,6 +441,17 @@
       "code": "de-goe",
       "name": "goe",
       "regions": []
+    },
+    {
+      "code": "de-h",
+      "name": "h",
+      "regions": [
+        {
+          "code": "de-h-hi",
+          "name": "hi",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-hartz",
@@ -804,6 +820,11 @@
       ]
     },
     {
+      "code": "de-oa",
+      "name": "oa",
+      "regions": []
+    },
+    {
       "code": "de-ost",
       "name": "Ostdeutschland",
       "regions": []
@@ -973,6 +994,11 @@
         {
           "code": "de-sn-pir",
           "name": "pir",
+          "regions": []
+        },
+        {
+          "code": "de-sn-to",
+          "name": "to",
           "regions": []
         },
         {

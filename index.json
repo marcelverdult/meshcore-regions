@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T04:17:08Z",
+  "generated_at": "2026-05-24T04:28:11Z",
   "tree": [
     {
       "code": "ad",
@@ -114,6 +114,11 @@
         {
           "code": "at-vbg",
           "name": "vbg",
+          "regions": []
+        },
+        {
+          "code": "at-vie",
+          "name": "vie",
           "regions": []
         },
         {
@@ -393,6 +398,11 @@
         {
           "code": "ch-de",
           "name": "de",
+          "regions": []
+        },
+        {
+          "code": "ch-dr",
+          "name": "dr",
           "regions": []
         },
         {
@@ -917,6 +927,11 @@
               "regions": []
             },
             {
+              "code": "de-by-nbg",
+              "name": "nbg",
+              "regions": []
+            },
+            {
               "code": "de-by-ndb",
               "name": "ndb",
               "regions": []
@@ -997,6 +1012,17 @@
           "code": "de-goe",
           "name": "goe",
           "regions": []
+        },
+        {
+          "code": "de-h",
+          "name": "h",
+          "regions": [
+            {
+              "code": "de-h-hi",
+              "name": "hi",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-hartz",
@@ -1365,6 +1391,11 @@
           ]
         },
         {
+          "code": "de-oa",
+          "name": "oa",
+          "regions": []
+        },
+        {
           "code": "de-ost",
           "name": "Ostdeutschland",
           "regions": []
@@ -1534,6 +1565,11 @@
             {
               "code": "de-sn-pir",
               "name": "pir",
+              "regions": []
+            },
+            {
+              "code": "de-sn-to",
+              "name": "to",
               "regions": []
             },
             {
@@ -2110,6 +2146,11 @@
           "code": "it-pie",
           "name": "pie",
           "regions": [
+            {
+              "code": "it-pie-at",
+              "name": "at",
+              "regions": []
+            },
             {
               "code": "it-pie-os",
               "name": "os",
@@ -3228,6 +3269,10 @@
       "name": "vbg"
     },
     {
+      "path": "at-vie",
+      "name": "vie"
+    },
+    {
       "path": "at-vlbg",
       "name": "vlbg"
     },
@@ -3450,6 +3495,10 @@
     {
       "path": "ch-de",
       "name": "de"
+    },
+    {
+      "path": "ch-dr",
+      "name": "dr"
     },
     {
       "path": "ch-fr",
@@ -3864,6 +3913,10 @@
       "name": "nbay"
     },
     {
+      "path": "de-by-nbg",
+      "name": "nbg"
+    },
+    {
       "path": "de-by-ndb",
       "name": "ndb"
     },
@@ -3926,6 +3979,14 @@
     {
       "path": "de-goe",
       "name": "goe"
+    },
+    {
+      "path": "de-h",
+      "name": "h"
+    },
+    {
+      "path": "de-h-hi",
+      "name": "hi"
     },
     {
       "path": "de-hartz",
@@ -4196,6 +4257,10 @@
       "name": "te"
     },
     {
+      "path": "de-oa",
+      "name": "oa"
+    },
+    {
       "path": "de-ost",
       "name": "Ostdeutschland"
     },
@@ -4330,6 +4395,10 @@
     {
       "path": "de-sn-pir",
       "name": "pir"
+    },
+    {
+      "path": "de-sn-to",
+      "name": "to"
     },
     {
       "path": "de-sn-vvo",
@@ -4774,6 +4843,10 @@
     {
       "path": "it-pie",
       "name": "pie"
+    },
+    {
+      "path": "it-pie-at",
+      "name": "at"
     },
     {
       "path": "it-pie-os",
