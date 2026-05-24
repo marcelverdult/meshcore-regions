@@ -4,11 +4,11 @@
   "regions": [
     {
       "code": "it-emr",
-      "name": "emr",
+      "name": "Emilia Romagna",
       "regions": [
         {
           "code": "it-emr-pr",
-          "name": "pr",
+          "name": "Parma",
           "regions": []
         }
       ]
@@ -20,27 +20,27 @@
     },
     {
       "code": "it-lig",
-      "name": "lig",
+      "name": "Liguria",
       "regions": [
         {
           "code": "it-lig-sp",
-          "name": "sp",
+          "name": "Spezia",
           "regions": []
         },
         {
           "code": "it-lig-vz",
-          "name": "vz",
+          "name": "Varazze",
           "regions": []
         }
       ]
     },
     {
       "code": "it-lom",
-      "name": "lom",
+      "name": "Lombardia",
       "regions": [
         {
           "code": "it-lom-mi",
-          "name": "mi",
+          "name": "Milano",
           "regions": []
         }
       ]
@@ -63,11 +63,11 @@
     },
     {
       "code": "it-pie",
-      "name": "pie",
+      "name": "Piemonte",
       "regions": [
         {
           "code": "it-pie-at",
-          "name": "at",
+          "name": "Asti",
           "regions": []
         },
         {
@@ -77,18 +77,18 @@
         },
         {
           "code": "it-pie-to",
-          "name": "to",
+          "name": "Torino",
           "regions": []
         }
       ]
     },
     {
       "code": "it-tos",
-      "name": "tos",
+      "name": "Toscana",
       "regions": [
         {
           "code": "it-tos-ms",
-          "name": "ms",
+          "name": "Massa",
           "regions": []
         }
       ]
