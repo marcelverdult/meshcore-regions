@@ -1,5 +1,11 @@
 {
   "code": "hr",
   "name": "Croatia",
-  "regions": []
+  "regions": [
+    {
+      "code": "hr-rjk",
+      "name": "rjk",
+      "regions": []
+    }
+  ]
 }

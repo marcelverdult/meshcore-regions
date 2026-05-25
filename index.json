@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T04:28:11Z",
+  "generated_at": "2026-05-25T04:30:44Z",
   "tree": [
     {
       "code": "ad",
@@ -395,6 +395,11 @@
       "code": "ch",
       "name": "Switzerland",
       "regions": [
+        {
+          "code": "ch-be",
+          "name": "be",
+          "regions": []
+        },
         {
           "code": "ch-de",
           "name": "de",
@@ -954,6 +959,16 @@
             {
               "code": "de-by-obb",
               "name": "obb",
+              "regions": []
+            },
+            {
+              "code": "de-by-ofr",
+              "name": "ofr",
+              "regions": []
+            },
+            {
+              "code": "de-by-opf",
+              "name": "opf",
               "regions": []
             },
             {
@@ -1739,6 +1754,11 @@
           ]
         },
         {
+          "code": "dk-jylland",
+          "name": "jylland",
+          "regions": []
+        },
+        {
           "code": "dk-sdk",
           "name": "sdk",
           "regions": []
@@ -2011,7 +2031,13 @@
     {
       "code": "hr",
       "name": "Croatia",
-      "regions": []
+      "regions": [
+        {
+          "code": "hr-rjk",
+          "name": "rjk",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "ht",
@@ -2085,11 +2111,11 @@
       "regions": [
         {
           "code": "it-emr",
-          "name": "emr",
+          "name": "Emilia Romagna",
           "regions": [
             {
               "code": "it-emr-pr",
-              "name": "pr",
+              "name": "Parma",
               "regions": []
             }
           ]
@@ -2101,27 +2127,27 @@
         },
         {
           "code": "it-lig",
-          "name": "lig",
+          "name": "Liguria",
           "regions": [
             {
               "code": "it-lig-sp",
-              "name": "sp",
+              "name": "Spezia",
               "regions": []
             },
             {
               "code": "it-lig-vz",
-              "name": "vz",
+              "name": "Varazze",
               "regions": []
             }
           ]
         },
         {
           "code": "it-lom",
-          "name": "lom",
+          "name": "Lombardia",
           "regions": [
             {
               "code": "it-lom-mi",
-              "name": "mi",
+              "name": "Milano",
               "regions": []
             }
           ]
@@ -2144,11 +2170,11 @@
         },
         {
           "code": "it-pie",
-          "name": "pie",
+          "name": "Piemonte",
           "regions": [
             {
               "code": "it-pie-at",
-              "name": "at",
+              "name": "Asti",
               "regions": []
             },
             {
@@ -2158,18 +2184,18 @@
             },
             {
               "code": "it-pie-to",
-              "name": "to",
+              "name": "Torino",
               "regions": []
             }
           ]
         },
         {
           "code": "it-tos",
-          "name": "tos",
+          "name": "Toscana",
           "regions": [
             {
               "code": "it-tos-ms",
-              "name": "ms",
+              "name": "Massa",
               "regions": []
             }
           ]
@@ -2599,6 +2625,11 @@
           "name": "Noord-Holland",
           "regions": [
             {
+              "code": "nl-nh-ams",
+              "name": "ams",
+              "regions": []
+            },
+            {
               "code": "nl-nh-asd",
               "name": "asd",
               "regions": []
@@ -2782,6 +2813,11 @@
         {
           "code": "pl-mz",
           "name": "mz",
+          "regions": []
+        },
+        {
+          "code": "pl-pm",
+          "name": "pm",
           "regions": []
         },
         {
@@ -3493,6 +3529,10 @@
       "name": "Switzerland"
     },
     {
+      "path": "ch-be",
+      "name": "be"
+    },
+    {
       "path": "ch-de",
       "name": "de"
     },
@@ -3935,6 +3975,14 @@
     {
       "path": "de-by-obb",
       "name": "obb"
+    },
+    {
+      "path": "de-by-ofr",
+      "name": "ofr"
+    },
+    {
+      "path": "de-by-opf",
+      "name": "opf"
     },
     {
       "path": "de-by-ro",
@@ -4513,6 +4561,10 @@
       "name": "svendborg"
     },
     {
+      "path": "dk-jylland",
+      "name": "jylland"
+    },
+    {
       "path": "dk-sdk",
       "name": "sdk"
     },
@@ -4741,6 +4793,10 @@
       "name": "Croatia"
     },
     {
+      "path": "hr-rjk",
+      "name": "rjk"
+    },
+    {
       "path": "ht",
       "name": "Haiti"
     },
@@ -4798,11 +4854,11 @@
     },
     {
       "path": "it-emr",
-      "name": "emr"
+      "name": "Emilia Romagna"
     },
     {
       "path": "it-emr-pr",
-      "name": "pr"
+      "name": "Parma"
     },
     {
       "path": "it-li",
@@ -4810,23 +4866,23 @@
     },
     {
       "path": "it-lig",
-      "name": "lig"
+      "name": "Liguria"
     },
     {
       "path": "it-lig-sp",
-      "name": "sp"
+      "name": "Spezia"
     },
     {
       "path": "it-lig-vz",
-      "name": "vz"
+      "name": "Varazze"
     },
     {
       "path": "it-lom",
-      "name": "lom"
+      "name": "Lombardia"
     },
     {
       "path": "it-lom-mi",
-      "name": "mi"
+      "name": "Milano"
     },
     {
       "path": "it-pi",
@@ -4842,11 +4898,11 @@
     },
     {
       "path": "it-pie",
-      "name": "pie"
+      "name": "Piemonte"
     },
     {
       "path": "it-pie-at",
-      "name": "at"
+      "name": "Asti"
     },
     {
       "path": "it-pie-os",
@@ -4854,15 +4910,15 @@
     },
     {
       "path": "it-pie-to",
-      "name": "to"
+      "name": "Torino"
     },
     {
       "path": "it-tos",
-      "name": "tos"
+      "name": "Toscana"
     },
     {
       "path": "it-tos-ms",
-      "name": "ms"
+      "name": "Massa"
     },
     {
       "path": "je",
@@ -5213,6 +5269,10 @@
       "name": "Noord-Holland"
     },
     {
+      "path": "nl-nh-ams",
+      "name": "ams"
+    },
+    {
       "path": "nl-nh-asd",
       "name": "asd"
     },
@@ -5355,6 +5415,10 @@
     {
       "path": "pl-mz",
       "name": "mz"
+    },
+    {
+      "path": "pl-pm",
+      "name": "pm"
     },
     {
       "path": "pl-wp",

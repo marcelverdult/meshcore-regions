@@ -140,6 +140,11 @@
       "name": "Noord-Holland",
       "regions": [
         {
+          "code": "nl-nh-ams",
+          "name": "ams",
+          "regions": []
+        },
+        {
           "code": "nl-nh-asd",
           "name": "asd",
           "regions": []

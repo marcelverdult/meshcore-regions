@@ -386,6 +386,16 @@
           "regions": []
         },
         {
+          "code": "de-by-ofr",
+          "name": "ofr",
+          "regions": []
+        },
+        {
+          "code": "de-by-opf",
+          "name": "opf",
+          "regions": []
+        },
+        {
           "code": "de-by-ro",
           "name": "ro",
           "regions": []

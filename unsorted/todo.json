@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T04:28:11Z",
+  "generated_at": "2026-05-25T04:30:44Z",
   "buckets": {
     "a": [
       {
@@ -127,7 +127,7 @@
       {
         "raw": "bonn",
         "reason": "no_root",
-        "first_seen": "2026-05-24T04:28:11Z"
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "braunschweig",
@@ -271,7 +271,7 @@
       {
         "raw": "drielande",
         "reason": "no_root",
-        "first_seen": "2026-05-24T04:28:11Z"
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "dt",
@@ -287,6 +287,11 @@
         "raw": "dub",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "duesseldorf",
+        "reason": "no_root",
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "duisburg",
@@ -313,7 +318,7 @@
       {
         "raw": "eifel",
         "reason": "no_root",
-        "first_seen": "2026-05-24T04:28:11Z"
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "emergency",
@@ -450,6 +455,11 @@
     ],
     "g": [
       {
+        "raw": "gdn",
+        "reason": "no_root",
+        "first_seen": "2026-05-25T04:30:44Z"
+      },
+      {
         "raw": "geg",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -489,7 +499,7 @@
       {
         "raw": "hansemesh",
         "reason": "no_root",
-        "first_seen": "2026-05-24T04:28:11Z"
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "he",
@@ -554,6 +564,11 @@
         "raw": "jlo-admin",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "jobox",
+        "reason": "no_root",
+        "first_seen": "2026-05-25T04:30:44Z"
       }
     ],
     "k": [
@@ -580,7 +595,12 @@
       {
         "raw": "koeln",
         "reason": "no_root",
-        "first_seen": "2026-05-24T04:28:11Z"
+        "first_seen": "2026-05-25T04:30:44Z"
+      },
+      {
+        "raw": "krk",
+        "reason": "no_root",
+        "first_seen": "2026-05-25T04:30:44Z"
       }
     ],
     "l": [
@@ -602,7 +622,7 @@
       {
         "raw": "leverkusen",
         "reason": "no_root",
-        "first_seen": "2026-05-24T04:28:11Z"
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "local",
@@ -630,6 +650,11 @@
         "raw": "magdeburg",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "men",
+        "reason": "no_root",
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "milkyway",
@@ -671,7 +696,7 @@
       {
         "raw": "niederrhein",
         "reason": "no_root",
-        "first_seen": "2026-05-24T04:28:11Z"
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "noc",
@@ -828,7 +853,7 @@
       {
         "raw": "rheinland",
         "reason": "no_root",
-        "first_seen": "2026-05-24T04:28:11Z"
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "rhine",
@@ -839,6 +864,11 @@
         "raw": "riedberg",
         "reason": "no_root",
         "first_seen": "2026-05-22T04:30:37Z"
+      },
+      {
+        "raw": "rijeka",
+        "reason": "no_root",
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "robot",
@@ -853,7 +883,7 @@
       {
         "raw": "ruhrgebiet",
         "reason": "no_root",
-        "first_seen": "2026-05-24T04:28:11Z"
+        "first_seen": "2026-05-25T04:30:44Z"
       }
     ],
     "s": [
@@ -1064,6 +1094,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "vr-vraa",
+        "reason": "no_root",
+        "first_seen": "2026-05-25T04:30:44Z"
+      },
+      {
         "raw": "vulkaneifel",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1089,6 +1124,11 @@
         "raw": "wermelskirchen",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "wesola",
+        "reason": "no_root",
+        "first_seen": "2026-05-25T04:30:44Z"
       },
       {
         "raw": "west",

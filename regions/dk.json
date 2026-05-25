@@ -14,6 +14,11 @@
       ]
     },
     {
+      "code": "dk-jylland",
+      "name": "jylland",
+      "regions": []
+    },
+    {
       "code": "dk-sdk",
       "name": "sdk",
       "regions": []
