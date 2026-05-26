@@ -148,6 +148,11 @@
           "code": "nl-nh-asd",
           "name": "asd",
           "regions": []
+        },
+        {
+          "code": "nl-nh-uit",
+          "name": "uit",
+          "regions": []
         }
       ]
     },
@@ -175,6 +180,11 @@
     {
       "code": "nl-rhe",
       "name": "rhe",
+      "regions": []
+    },
+    {
+      "code": "nl-rtm",
+      "name": "rtm",
       "regions": []
     },
     {
@@ -230,6 +240,21 @@
         {
           "code": "nl-zh-dor",
           "name": "dor",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-hag",
+          "name": "hag",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-lds",
+          "name": "lds",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-lsv",
+          "name": "lsv",
           "regions": []
         },
         {
