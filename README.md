@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-05-25T04:30:44Z`
+- Last sync: `2026-05-26T04:25:53Z`
 - Roots: 252
-- Total nodes: 631
-- Unsorted entries: 233
+- Total nodes: 641
+- Unsorted entries: 238
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-05-25T04:30:49Z | sync | 6891caa | Merge pull request #8 from marcelverdult/sync/auto |
+| 2026-05-25T04:30:45Z | sync | 7a5b081 | sync: 7 added, 9 resolved, 233 unsorted |
 | 2026-05-25T00:27:30Z | manual | 8bc1eb4 | Merge pull request #7 from markino222/main |
 | 2026-05-24T15:37:15Z | manual | c97de49 | Names in Italian regions |
 | 2026-05-24T04:28:17Z | sync | 02cdea9 | Merge pull request #6 from marcelverdult/sync/auto |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-05-20T23:51:50Z | manual | 5540ef7 | schema: cap code segments at 29 chars, drop arbitrary 64 total |
 | 2026-05-20T23:17:31Z | manual | 51071d3 | regions: preserve hansemesh code under de; drop parent-prefix rule |
 | 2026-05-20T20:08:37Z | manual | fc2d3bd | regions: add nl-li, eu root, de-hansemesh; humanize labels |
-| 2026-05-20T18:53:49Z | manual | f2ce031 | ci: opt into Node 24 for JS actions |
-| 2026-05-20T18:52:41Z | manual | 0cb9e4c | readme: reflect full-path code shape; sync: kind by author |
 
 <!-- regions:auto-status:end -->
 

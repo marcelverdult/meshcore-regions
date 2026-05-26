@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:30:44Z",
+  "generated_at": "2026-05-26T04:25:53Z",
   "tree": [
     {
       "code": "ad",
@@ -957,6 +957,11 @@
               "regions": []
             },
             {
+              "code": "de-by-obay",
+              "name": "obay",
+              "regions": []
+            },
+            {
               "code": "de-by-obb",
               "name": "obb",
               "regions": []
@@ -964,7 +969,13 @@
             {
               "code": "de-by-ofr",
               "name": "ofr",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-by-ofr-bt",
+                  "name": "bt",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-by-opf",
@@ -1104,6 +1115,11 @@
         {
           "code": "de-laho",
           "name": "laho",
+          "regions": []
+        },
+        {
+          "code": "de-le",
+          "name": "le",
           "regions": []
         },
         {
@@ -1463,6 +1479,11 @@
             {
               "code": "de-rp-koblenz",
               "name": "koblenz",
+              "regions": []
+            },
+            {
+              "code": "de-rp-wei",
+              "name": "wei",
               "regions": []
             },
             {
@@ -1888,6 +1909,11 @@
         {
           "code": "fr-bfc",
           "name": "bfc",
+          "regions": []
+        },
+        {
+          "code": "fr-ges",
+          "name": "ges",
           "regions": []
         }
       ]
@@ -2633,6 +2659,11 @@
               "code": "nl-nh-asd",
               "name": "asd",
               "regions": []
+            },
+            {
+              "code": "nl-nh-uit",
+              "name": "uit",
+              "regions": []
             }
           ]
         },
@@ -2660,6 +2691,11 @@
         {
           "code": "nl-rhe",
           "name": "rhe",
+          "regions": []
+        },
+        {
+          "code": "nl-rtm",
+          "name": "rtm",
           "regions": []
         },
         {
@@ -2715,6 +2751,21 @@
             {
               "code": "nl-zh-dor",
               "name": "dor",
+              "regions": []
+            },
+            {
+              "code": "nl-zh-hag",
+              "name": "hag",
+              "regions": []
+            },
+            {
+              "code": "nl-zh-lds",
+              "name": "lds",
+              "regions": []
+            },
+            {
+              "code": "nl-zh-lsv",
+              "name": "lsv",
               "regions": []
             },
             {
@@ -3973,12 +4024,20 @@
       "name": "oal"
     },
     {
+      "path": "de-by-obay",
+      "name": "obay"
+    },
+    {
       "path": "de-by-obb",
       "name": "obb"
     },
     {
       "path": "de-by-ofr",
       "name": "ofr"
+    },
+    {
+      "path": "de-by-ofr-bt",
+      "name": "bt"
     },
     {
       "path": "de-by-opf",
@@ -4087,6 +4146,10 @@
     {
       "path": "de-laho",
       "name": "laho"
+    },
+    {
+      "path": "de-le",
+      "name": "le"
     },
     {
       "path": "de-mitte",
@@ -4351,6 +4414,10 @@
     {
       "path": "de-rp-koblenz",
       "name": "koblenz"
+    },
+    {
+      "path": "de-rp-wei",
+      "name": "wei"
     },
     {
       "path": "de-rp-westerwal",
@@ -4675,6 +4742,10 @@
     {
       "path": "fr-bfc",
       "name": "bfc"
+    },
+    {
+      "path": "fr-ges",
+      "name": "ges"
     },
     {
       "path": "ga",
@@ -5277,6 +5348,10 @@
       "name": "asd"
     },
     {
+      "path": "nl-nh-uit",
+      "name": "uit"
+    },
+    {
       "path": "nl-noord",
       "name": "noord"
     },
@@ -5295,6 +5370,10 @@
     {
       "path": "nl-rhe",
       "name": "rhe"
+    },
+    {
+      "path": "nl-rtm",
+      "name": "rtm"
     },
     {
       "path": "nl-tlb",
@@ -5339,6 +5418,18 @@
     {
       "path": "nl-zh-dor",
       "name": "dor"
+    },
+    {
+      "path": "nl-zh-hag",
+      "name": "hag"
+    },
+    {
+      "path": "nl-zh-lds",
+      "name": "lds"
+    },
+    {
+      "path": "nl-zh-lsv",
+      "name": "lsv"
     },
     {
       "path": "nl-zh-wss",

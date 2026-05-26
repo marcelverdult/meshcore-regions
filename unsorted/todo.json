@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:30:44Z",
+  "generated_at": "2026-05-26T04:25:53Z",
   "buckets": {
     "a": [
       {
@@ -127,7 +127,7 @@
       {
         "raw": "bonn",
         "reason": "no_root",
-        "first_seen": "2026-05-25T04:30:44Z"
+        "first_seen": "2026-05-26T04:25:53Z"
       },
       {
         "raw": "braunschweig",
@@ -269,9 +269,14 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "drieland",
+        "reason": "no_root",
+        "first_seen": "2026-05-26T04:25:53Z"
+      },
+      {
         "raw": "drielande",
         "reason": "no_root",
-        "first_seen": "2026-05-25T04:30:44Z"
+        "first_seen": "2026-05-26T04:25:53Z"
       },
       {
         "raw": "dt",
@@ -318,7 +323,7 @@
       {
         "raw": "eifel",
         "reason": "no_root",
-        "first_seen": "2026-05-25T04:30:44Z"
+        "first_seen": "2026-05-26T04:25:53Z"
       },
       {
         "raw": "emergency",
@@ -499,7 +504,7 @@
       {
         "raw": "hansemesh",
         "reason": "no_root",
-        "first_seen": "2026-05-25T04:30:44Z"
+        "first_seen": "2026-05-26T04:25:53Z"
       },
       {
         "raw": "he",
@@ -595,7 +600,7 @@
       {
         "raw": "koeln",
         "reason": "no_root",
-        "first_seen": "2026-05-25T04:30:44Z"
+        "first_seen": "2026-05-26T04:25:53Z"
       },
       {
         "raw": "krk",
@@ -620,9 +625,14 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "lej",
+        "reason": "no_root",
+        "first_seen": "2026-05-26T04:25:53Z"
+      },
+      {
         "raw": "leverkusen",
         "reason": "no_root",
-        "first_seen": "2026-05-25T04:30:44Z"
+        "first_seen": "2026-05-26T04:25:53Z"
       },
       {
         "raw": "local",
@@ -696,7 +706,7 @@
       {
         "raw": "niederrhein",
         "reason": "no_root",
-        "first_seen": "2026-05-25T04:30:44Z"
+        "first_seen": "2026-05-26T04:25:53Z"
       },
       {
         "raw": "noc",
@@ -744,6 +754,11 @@
         "raw": "ost",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "osterzgebirge",
+        "reason": "no_root",
+        "first_seen": "2026-05-26T04:25:53Z"
       },
       {
         "raw": "ostfriesland",
@@ -853,7 +868,7 @@
       {
         "raw": "rheinland",
         "reason": "no_root",
-        "first_seen": "2026-05-25T04:30:44Z"
+        "first_seen": "2026-05-26T04:25:53Z"
       },
       {
         "raw": "rhine",
@@ -883,7 +898,7 @@
       {
         "raw": "ruhrgebiet",
         "reason": "no_root",
-        "first_seen": "2026-05-25T04:30:44Z"
+        "first_seen": "2026-05-26T04:25:53Z"
       }
     ],
     "s": [
@@ -1062,6 +1077,11 @@
     ],
     "u": [
       {
+        "raw": "uk",
+        "reason": "no_root",
+        "first_seen": "2026-05-26T04:25:53Z"
+      },
+      {
         "raw": "unna",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1114,6 +1134,11 @@
         "raw": "waw",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "wedding",
+        "reason": "no_root",
+        "first_seen": "2026-05-26T04:25:53Z"
       },
       {
         "raw": "weissach",

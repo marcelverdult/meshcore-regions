@@ -381,6 +381,11 @@
           "regions": []
         },
         {
+          "code": "de-by-obay",
+          "name": "obay",
+          "regions": []
+        },
+        {
           "code": "de-by-obb",
           "name": "obb",
           "regions": []
@@ -388,7 +393,13 @@
         {
           "code": "de-by-ofr",
           "name": "ofr",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-by-ofr-bt",
+              "name": "bt",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-by-opf",
@@ -528,6 +539,11 @@
     {
       "code": "de-laho",
       "name": "laho",
+      "regions": []
+    },
+    {
+      "code": "de-le",
+      "name": "le",
       "regions": []
     },
     {
@@ -887,6 +903,11 @@
         {
           "code": "de-rp-koblenz",
           "name": "koblenz",
+          "regions": []
+        },
+        {
+          "code": "de-rp-wei",
+          "name": "wei",
           "regions": []
         },
         {

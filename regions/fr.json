@@ -31,6 +31,11 @@
       "code": "fr-bfc",
       "name": "bfc",
       "regions": []
+    },
+    {
+      "code": "fr-ges",
+      "name": "ges",
+      "regions": []
     }
   ]
 }
