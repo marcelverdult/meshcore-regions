@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T04:25:53Z",
+  "generated_at": "2026-05-29T07:15:53Z",
   "tree": [
     {
       "code": "ad",
@@ -216,68 +216,2914 @@
       "regions": [
         {
           "code": "be-bru",
-          "name": "bru",
-          "regions": []
+          "name": "Brussel",
+          "regions": [
+            {
+              "code": "beanl",
+              "name": "Anderlecht",
+              "regions": []
+            },
+            {
+              "code": "bebru",
+              "name": "Brussel",
+              "regions": []
+            },
+            {
+              "code": "bebsa",
+              "name": "Sint-Agatha-Berchem",
+              "regions": []
+            },
+            {
+              "code": "beese",
+              "name": "Elsene",
+              "regions": []
+            },
+            {
+              "code": "beete",
+              "name": "Etterbeek",
+              "regions": []
+            },
+            {
+              "code": "beevr",
+              "name": "Evere",
+              "regions": []
+            },
+            {
+              "code": "begho",
+              "name": "Ganshoren",
+              "regions": []
+            },
+            {
+              "code": "bejet",
+              "name": "Jette",
+              "regions": []
+            },
+            {
+              "code": "bekoe",
+              "name": "Koekelberg",
+              "regions": []
+            },
+            {
+              "code": "bemsj",
+              "name": "Sint-Jans-Molenbeek",
+              "regions": []
+            },
+            {
+              "code": "beode",
+              "name": "Oudergem",
+              "regions": []
+            },
+            {
+              "code": "besbk",
+              "name": "Schaarbeek",
+              "regions": []
+            },
+            {
+              "code": "besgi",
+              "name": "Sint-Gillis",
+              "regions": []
+            },
+            {
+              "code": "besjn",
+              "name": "Sint-Joost-ten-Node",
+              "regions": []
+            },
+            {
+              "code": "beslw",
+              "name": "Sint-Lambrechts-Woluwe",
+              "regions": []
+            },
+            {
+              "code": "bespo",
+              "name": "Sint-Pieters-Woluwe",
+              "regions": []
+            },
+            {
+              "code": "beuke",
+              "name": "Ukkel",
+              "regions": []
+            },
+            {
+              "code": "bevos",
+              "name": "Vorst",
+              "regions": []
+            },
+            {
+              "code": "bewbv",
+              "name": "Watermaal-Bosvoorde",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "be-lgg",
-          "name": "lgg",
+          "name": "Liège",
           "regions": []
         },
         {
           "code": "be-lie",
-          "name": "lie",
+          "name": "Lier",
           "regions": []
         },
         {
           "code": "be-so",
-          "name": "so",
+          "name": "Soignies",
           "regions": []
         },
         {
           "code": "be-van",
-          "name": "van",
-          "regions": []
+          "name": "Antwerpen",
+          "regions": [
+            {
+              "code": "beaar",
+              "name": "Aartselaar",
+              "regions": []
+            },
+            {
+              "code": "beaej",
+              "name": "Arendonk",
+              "regions": []
+            },
+            {
+              "code": "beanr",
+              "name": "Antwerpen",
+              "regions": []
+            },
+            {
+              "code": "bebar",
+              "name": "Berlaar",
+              "regions": []
+            },
+            {
+              "code": "bebct",
+              "name": "Boechout",
+              "regions": []
+            },
+            {
+              "code": "beber",
+              "name": "Beerse",
+              "regions": []
+            },
+            {
+              "code": "bebho",
+              "name": "Baarle-Hertog",
+              "regions": []
+            },
+            {
+              "code": "beble",
+              "name": "Balen",
+              "regions": []
+            },
+            {
+              "code": "bebni",
+              "name": "Bonheiden",
+              "regions": []
+            },
+            {
+              "code": "bebom",
+              "name": "Boom",
+              "regions": []
+            },
+            {
+              "code": "bebon",
+              "name": "Bornem",
+              "regions": []
+            },
+            {
+              "code": "bebra",
+              "name": "Brasschaat",
+              "regions": []
+            },
+            {
+              "code": "bebrc",
+              "name": "Brecht",
+              "regions": []
+            },
+            {
+              "code": "bedse",
+              "name": "Dessel",
+              "regions": []
+            },
+            {
+              "code": "beduf",
+              "name": "Duffel",
+              "regions": []
+            },
+            {
+              "code": "beech",
+              "name": "Mechelen",
+              "regions": []
+            },
+            {
+              "code": "beegm",
+              "name": "Edegem",
+              "regions": []
+            },
+            {
+              "code": "beess",
+              "name": "Essen",
+              "regions": []
+            },
+            {
+              "code": "begbb",
+              "name": "Grobbendonk",
+              "regions": []
+            },
+            {
+              "code": "begel",
+              "name": "Geel",
+              "regions": []
+            },
+            {
+              "code": "beher",
+              "name": "Herentals",
+              "regions": []
+            },
+            {
+              "code": "behes",
+              "name": "Herselt",
+              "regions": []
+            },
+            {
+              "code": "behex",
+              "name": "Hemiksem",
+              "regions": []
+            },
+            {
+              "code": "behht",
+              "name": "Hulshout",
+              "regions": []
+            },
+            {
+              "code": "behoo",
+              "name": "Hoogstraten",
+              "regions": []
+            },
+            {
+              "code": "behov",
+              "name": "Hove",
+              "regions": []
+            },
+            {
+              "code": "behpg",
+              "name": "Heist-op-den-Berg",
+              "regions": []
+            },
+            {
+              "code": "behro",
+              "name": "Herenthout",
+              "regions": []
+            },
+            {
+              "code": "bekon",
+              "name": "Kontich",
+              "regions": []
+            },
+            {
+              "code": "bekpn",
+              "name": "Kapellen",
+              "regions": []
+            },
+            {
+              "code": "bekse",
+              "name": "Kasterlee",
+              "regions": []
+            },
+            {
+              "code": "bektt",
+              "name": "Kalmthout",
+              "regions": []
+            },
+            {
+              "code": "belda",
+              "name": "Laakdal",
+              "regions": []
+            },
+            {
+              "code": "belie",
+              "name": "Lier",
+              "regions": []
+            },
+            {
+              "code": "belle",
+              "name": "Lille",
+              "regions": []
+            },
+            {
+              "code": "belni",
+              "name": "Lint",
+              "regions": []
+            },
+            {
+              "code": "bemal",
+              "name": "Malle",
+              "regions": []
+            },
+            {
+              "code": "bemeh",
+              "name": "Meerhout",
+              "regions": []
+            },
+            {
+              "code": "bemlo",
+              "name": "Mol",
+              "regions": []
+            },
+            {
+              "code": "bemor",
+              "name": "Mortsel",
+              "regions": []
+            },
+            {
+              "code": "bemps",
+              "name": "Merksplas",
+              "regions": []
+            },
+            {
+              "code": "benil",
+              "name": "Niel",
+              "regions": []
+            },
+            {
+              "code": "benyl",
+              "name": "Nijlen",
+              "regions": []
+            },
+            {
+              "code": "beobl",
+              "name": "Zoersel",
+              "regions": []
+            },
+            {
+              "code": "beoln",
+              "name": "Olen",
+              "regions": []
+            },
+            {
+              "code": "beoth",
+              "name": "Oud-Turnhout",
+              "regions": []
+            },
+            {
+              "code": "beput",
+              "name": "Putte",
+              "regions": []
+            },
+            {
+              "code": "bepuu",
+              "name": "Puurs-Sint-Amands",
+              "regions": []
+            },
+            {
+              "code": "beras",
+              "name": "Ranst",
+              "regions": []
+            },
+            {
+              "code": "berij",
+              "name": "Rijkevorsel",
+              "regions": []
+            },
+            {
+              "code": "berti",
+              "name": "Retie",
+              "regions": []
+            },
+            {
+              "code": "berus",
+              "name": "Rumst",
+              "regions": []
+            },
+            {
+              "code": "bervs",
+              "name": "Ravels",
+              "regions": []
+            },
+            {
+              "code": "besce",
+              "name": "Schilde",
+              "regions": []
+            },
+            {
+              "code": "besct",
+              "name": "Schoten",
+              "regions": []
+            },
+            {
+              "code": "beshl",
+              "name": "Schelle",
+              "regions": []
+            },
+            {
+              "code": "bessl",
+              "name": "Sint-Katelijne-Waver",
+              "regions": []
+            },
+            {
+              "code": "besta",
+              "name": "Stabroek",
+              "regions": []
+            },
+            {
+              "code": "betur",
+              "name": "Turnhout",
+              "regions": []
+            },
+            {
+              "code": "bevol",
+              "name": "Vorselaar",
+              "regions": []
+            },
+            {
+              "code": "bevor",
+              "name": "Vosselaar",
+              "regions": []
+            },
+            {
+              "code": "bewes",
+              "name": "Westerlo",
+              "regions": []
+            },
+            {
+              "code": "bewjg",
+              "name": "Wijnegem",
+              "regions": []
+            },
+            {
+              "code": "bewlb",
+              "name": "Willebroek",
+              "regions": []
+            },
+            {
+              "code": "bewmm",
+              "name": "Wommelgem",
+              "regions": []
+            },
+            {
+              "code": "bewuu",
+              "name": "Wuustwezel",
+              "regions": []
+            },
+            {
+              "code": "bezan",
+              "name": "Zandhoven",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "be-vbr",
-          "name": "vbr",
-          "regions": []
+          "name": "Vlaams-Brabant",
+          "regions": [
+            {
+              "code": "beaas",
+              "name": "Aarschot",
+              "regions": []
+            },
+            {
+              "code": "beaes",
+              "name": "Asse",
+              "regions": []
+            },
+            {
+              "code": "beaff",
+              "name": "Affligem",
+              "regions": []
+            },
+            {
+              "code": "bebee",
+              "name": "Beersel",
+              "regions": []
+            },
+            {
+              "code": "bebgy",
+              "name": "Begijnendijk",
+              "regions": []
+            },
+            {
+              "code": "bebke",
+              "name": "Bierbeek",
+              "regions": []
+            },
+            {
+              "code": "bebko",
+              "name": "Bekkevoort",
+              "regions": []
+            },
+            {
+              "code": "bebmb",
+              "name": "Boortmeerbeek",
+              "regions": []
+            },
+            {
+              "code": "bebtm",
+              "name": "Bertem",
+              "regions": []
+            },
+            {
+              "code": "bebum",
+              "name": "Boutersem",
+              "regions": []
+            },
+            {
+              "code": "bebve",
+              "name": "Bever",
+              "regions": []
+            },
+            {
+              "code": "bedbk",
+              "name": "Dilbeek",
+              "regions": []
+            },
+            {
+              "code": "bedie",
+              "name": "Diest",
+              "regions": []
+            },
+            {
+              "code": "bedrb",
+              "name": "Drogenbos",
+              "regions": []
+            },
+            {
+              "code": "begbe",
+              "name": "Geetbets",
+              "regions": []
+            },
+            {
+              "code": "begbk",
+              "name": "Glabbeek",
+              "regions": []
+            },
+            {
+              "code": "begrb",
+              "name": "Grimbergen",
+              "regions": []
+            },
+            {
+              "code": "behac",
+              "name": "Haacht",
+              "regions": []
+            },
+            {
+              "code": "behdg",
+              "name": "Huldenberg",
+              "regions": []
+            },
+            {
+              "code": "behet",
+              "name": "Herent",
+              "regions": []
+            },
+            {
+              "code": "behgd",
+              "name": "Hoegaarden",
+              "regions": []
+            },
+            {
+              "code": "behll",
+              "name": "Halle",
+              "regions": []
+            },
+            {
+              "code": "behoi",
+              "name": "Hoeilaart",
+              "regions": []
+            },
+            {
+              "code": "behsk",
+              "name": "Holsbeek",
+              "regions": []
+            },
+            {
+              "code": "bekao",
+              "name": "Keerbergen",
+              "regions": []
+            },
+            {
+              "code": "bekmh",
+              "name": "Kampenhout",
+              "regions": []
+            },
+            {
+              "code": "bekna",
+              "name": "Kortenaken",
+              "regions": []
+            },
+            {
+              "code": "bekpb",
+              "name": "Kapelle-op-den-Bos",
+              "regions": []
+            },
+            {
+              "code": "bekra",
+              "name": "Kraainem",
+              "regions": []
+            },
+            {
+              "code": "bektb",
+              "name": "Kortenberg",
+              "regions": []
+            },
+            {
+              "code": "belad",
+              "name": "Landen",
+              "regions": []
+            },
+            {
+              "code": "belbk",
+              "name": "Lubbeek",
+              "regions": []
+            },
+            {
+              "code": "beldk",
+              "name": "Liedekerke",
+              "regions": []
+            },
+            {
+              "code": "beleu",
+              "name": "Leuven",
+              "regions": []
+            },
+            {
+              "code": "belik",
+              "name": "Lennik",
+              "regions": []
+            },
+            {
+              "code": "belin",
+              "name": "Linter",
+              "regions": []
+            },
+            {
+              "code": "belkk",
+              "name": "Linkebeek",
+              "regions": []
+            },
+            {
+              "code": "belnz",
+              "name": "Londerzeel",
+              "regions": []
+            },
+            {
+              "code": "bemac",
+              "name": "Machelen",
+              "regions": []
+            },
+            {
+              "code": "bemec",
+              "name": "Merchtem",
+              "regions": []
+            },
+            {
+              "code": "bemis",
+              "name": "Meise",
+              "regions": []
+            },
+            {
+              "code": "beohe",
+              "name": "Oud-Heverlee",
+              "regions": []
+            },
+            {
+              "code": "beoij",
+              "name": "Opwijk",
+              "regions": []
+            },
+            {
+              "code": "beovr",
+              "name": "Overijse",
+              "regions": []
+            },
+            {
+              "code": "bepin",
+              "name": "Pepingen",
+              "regions": []
+            },
+            {
+              "code": "bepjt",
+              "name": "Pajottegem",
+              "regions": []
+            },
+            {
+              "code": "berba",
+              "name": "Rotselaar",
+              "regions": []
+            },
+            {
+              "code": "berdl",
+              "name": "Roosdaal",
+              "regions": []
+            },
+            {
+              "code": "besgr",
+              "name": "Sint-Genesius-Rode",
+              "regions": []
+            },
+            {
+              "code": "beskk",
+              "name": "Steenokkerzeel",
+              "regions": []
+            },
+            {
+              "code": "beten",
+              "name": "Tervuren",
+              "regions": []
+            },
+            {
+              "code": "beter",
+              "name": "Ternat",
+              "regions": []
+            },
+            {
+              "code": "betie",
+              "name": "Tienen",
+              "regions": []
+            },
+            {
+              "code": "betmo",
+              "name": "Tremelo",
+              "regions": []
+            },
+            {
+              "code": "betwi",
+              "name": "Tielt-Winge",
+              "regions": []
+            },
+            {
+              "code": "bevgw",
+              "name": "Sint-Pieters-Leeuw",
+              "regions": []
+            },
+            {
+              "code": "bevil",
+              "name": "Vilvoorde",
+              "regions": []
+            },
+            {
+              "code": "bewko",
+              "name": "Wezembeek-Oppem",
+              "regions": []
+            },
+            {
+              "code": "bewml",
+              "name": "Wemmel",
+              "regions": []
+            },
+            {
+              "code": "bezav",
+              "name": "Zaventem",
+              "regions": []
+            },
+            {
+              "code": "bezet",
+              "name": "Zemst",
+              "regions": []
+            },
+            {
+              "code": "bezic",
+              "name": "Scherpenheuvel-Zichem",
+              "regions": []
+            },
+            {
+              "code": "bezou",
+              "name": "Zoutleeuw",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "be-vli",
+          "name": "Limburg",
+          "regions": [
+            {
+              "code": "beakn",
+              "name": "Alken",
+              "regions": []
+            },
+            {
+              "code": "beasm",
+              "name": "As",
+              "regions": []
+            },
+            {
+              "code": "beblz",
+              "name": "Bilzen-Hoeselt",
+              "regions": []
+            },
+            {
+              "code": "beboc",
+              "name": "Bocholt",
+              "regions": []
+            },
+            {
+              "code": "bebre",
+              "name": "Bree",
+              "regions": []
+            },
+            {
+              "code": "bedpk",
+              "name": "Diepenbeek",
+              "regions": []
+            },
+            {
+              "code": "bedso",
+              "name": "Dilsen-Stokkem",
+              "regions": []
+            },
+            {
+              "code": "beekl",
+              "name": "Hechtel-Eksel",
+              "regions": []
+            },
+            {
+              "code": "beglo",
+              "name": "Gingelom",
+              "regions": []
+            },
+            {
+              "code": "begnk",
+              "name": "Genk",
+              "regions": []
+            },
+            {
+              "code": "behal",
+              "name": "Hamont-Achel",
+              "regions": []
+            },
+            {
+              "code": "behka",
+              "name": "Herk-de-Stad",
+              "regions": []
+            },
+            {
+              "code": "behla",
+              "name": "Halen",
+              "regions": []
+            },
+            {
+              "code": "behse",
+              "name": "Heers",
+              "regions": []
+            },
+            {
+              "code": "behss",
+              "name": "Hasselt",
+              "regions": []
+            },
+            {
+              "code": "behth",
+              "name": "Houthalen-Helchteren",
+              "regions": []
+            },
+            {
+              "code": "behtp",
+              "name": "Herstappe",
+              "regions": []
+            },
+            {
+              "code": "behzo",
+              "name": "Heusden-Zolder",
+              "regions": []
+            },
+            {
+              "code": "bekro",
+              "name": "Kinrooi",
+              "regions": []
+            },
+            {
+              "code": "belan",
+              "name": "Lanaken",
+              "regions": []
+            },
+            {
+              "code": "belml",
+              "name": "Lommel",
+              "regions": []
+            },
+            {
+              "code": "belpg",
+              "name": "Leopoldsburg",
+              "regions": []
+            },
+            {
+              "code": "belum",
+              "name": "Lummen",
+              "regions": []
+            },
+            {
+              "code": "bemmn",
+              "name": "Maasmechelen",
+              "regions": []
+            },
+            {
+              "code": "bemsk",
+              "name": "Maaseik",
+              "regions": []
+            },
+            {
+              "code": "benrp",
+              "name": "Pelt",
+              "regions": []
+            },
+            {
+              "code": "benwe",
+              "name": "Nieuwerkerken",
+              "regions": []
+            },
+            {
+              "code": "beodg",
+              "name": "Oudsbergen",
+              "regions": []
+            },
+            {
+              "code": "bepee",
+              "name": "Peer",
+              "regions": []
+            },
+            {
+              "code": "berin",
+              "name": "Beringen",
+              "regions": []
+            },
+            {
+              "code": "beris",
+              "name": "Riemst",
+              "regions": []
+            },
+            {
+              "code": "bestr",
+              "name": "Sint-Truiden",
+              "regions": []
+            },
+            {
+              "code": "betes",
+              "name": "Tessenderlo-Ham",
+              "regions": []
+            },
+            {
+              "code": "beton",
+              "name": "Tongeren-Borgloon",
+              "regions": []
+            },
+            {
+              "code": "bevoe",
+              "name": "Voeren",
+              "regions": []
+            },
+            {
+              "code": "bewel",
+              "name": "Wellen",
+              "regions": []
+            },
+            {
+              "code": "bezhv",
+              "name": "Zonhoven",
+              "regions": []
+            },
+            {
+              "code": "beztl",
+              "name": "Zutendaal",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "be-vov",
-          "name": "vov",
-          "regions": []
+          "name": "Oost-Vlaanderen",
+          "regions": [
+            {
+              "code": "beaab",
+              "name": "Aalst",
+              "regions": []
+            },
+            {
+              "code": "beaal",
+              "name": "Aalter",
+              "regions": []
+            },
+            {
+              "code": "beane",
+              "name": "Assenede",
+              "regions": []
+            },
+            {
+              "code": "bebak",
+              "name": "Brakel",
+              "regions": []
+            },
+            {
+              "code": "bebev",
+              "name": "Beveren-Kruibeke-Zwijndrecht",
+              "regions": []
+            },
+            {
+              "code": "bebhu",
+              "name": "Buggenhout",
+              "regions": []
+            },
+            {
+              "code": "bebrl",
+              "name": "Berlare",
+              "regions": []
+            },
+            {
+              "code": "beddr",
+              "name": "Dendermonde",
+              "regions": []
+            },
+            {
+              "code": "bedes",
+              "name": "Destelbergen",
+              "regions": []
+            },
+            {
+              "code": "bedez",
+              "name": "Deinze",
+              "regions": []
+            },
+            {
+              "code": "bedrw",
+              "name": "Denderleeuw",
+              "regions": []
+            },
+            {
+              "code": "beeek",
+              "name": "Eeklo",
+              "regions": []
+            },
+            {
+              "code": "beevm",
+              "name": "Evergem",
+              "regions": []
+            },
+            {
+              "code": "begea",
+              "name": "Geraardsbergen",
+              "regions": []
+            },
+            {
+              "code": "begne",
+              "name": "Gent",
+              "regions": []
+            },
+            {
+              "code": "begvr",
+              "name": "Gavere",
+              "regions": []
+            },
+            {
+              "code": "behat",
+              "name": "Haaltert",
+              "regions": []
+            },
+            {
+              "code": "behez",
+              "name": "Herzele",
+              "regions": []
+            },
+            {
+              "code": "behme",
+              "name": "Hamme",
+              "regions": []
+            },
+            {
+              "code": "behor",
+              "name": "Horebeke",
+              "regions": []
+            },
+            {
+              "code": "bekri",
+              "name": "Kaprijke",
+              "regions": []
+            },
+            {
+              "code": "bekrs",
+              "name": "Kruisem",
+              "regions": []
+            },
+            {
+              "code": "beksr",
+              "name": "Kluisbergen",
+              "regions": []
+            },
+            {
+              "code": "belaa",
+              "name": "Laarne",
+              "regions": []
+            },
+            {
+              "code": "beleb",
+              "name": "Lebbeke",
+              "regions": []
+            },
+            {
+              "code": "beled",
+              "name": "Lede",
+              "regions": []
+            },
+            {
+              "code": "beliv",
+              "name": "Lievegem",
+              "regions": []
+            },
+            {
+              "code": "beloh",
+              "name": "Lochristi",
+              "regions": []
+            },
+            {
+              "code": "belok",
+              "name": "Lokeren",
+              "regions": []
+            },
+            {
+              "code": "bemak",
+              "name": "Maarkedal",
+              "regions": []
+            },
+            {
+              "code": "bemer",
+              "name": "Erpe-Mere",
+              "regions": []
+            },
+            {
+              "code": "bemlg",
+              "name": "Maldegem",
+              "regions": []
+            },
+            {
+              "code": "bemrl",
+              "name": "Merelbeke-Melle",
+              "regions": []
+            },
+            {
+              "code": "bennv",
+              "name": "Ninove",
+              "regions": []
+            },
+            {
+              "code": "benzh",
+              "name": "Nazareth-De Pinte",
+              "regions": []
+            },
+            {
+              "code": "beoud",
+              "name": "Oudenaarde",
+              "regions": []
+            },
+            {
+              "code": "beoze",
+              "name": "Oosterzele",
+              "regions": []
+            },
+            {
+              "code": "bepge",
+              "name": "Wortegem-Petegem",
+              "regions": []
+            },
+            {
+              "code": "beron",
+              "name": "Ronse",
+              "regions": []
+            },
+            {
+              "code": "besgw",
+              "name": "Sint-Gillis-Waas",
+              "regions": []
+            },
+            {
+              "code": "beslh",
+              "name": "Sint-Lievens-Houtem",
+              "regions": []
+            },
+            {
+              "code": "beslu",
+              "name": "Sint-Laureins",
+              "regions": []
+            },
+            {
+              "code": "besmi",
+              "name": "Lierde",
+              "regions": []
+            },
+            {
+              "code": "besml",
+              "name": "Sint-Martens-Latem",
+              "regions": []
+            },
+            {
+              "code": "besnk",
+              "name": "Sint-Niklaas",
+              "regions": []
+            },
+            {
+              "code": "bestk",
+              "name": "Stekene",
+              "regions": []
+            },
+            {
+              "code": "betse",
+              "name": "Temse",
+              "regions": []
+            },
+            {
+              "code": "bewaa",
+              "name": "Waasmunster",
+              "regions": []
+            },
+            {
+              "code": "bewet",
+              "name": "Wetteren",
+              "regions": []
+            },
+            {
+              "code": "bewih",
+              "name": "Wichelen",
+              "regions": []
+            },
+            {
+              "code": "bezel",
+              "name": "Zelzate",
+              "regions": []
+            },
+            {
+              "code": "bezle",
+              "name": "Zele",
+              "regions": []
+            },
+            {
+              "code": "bezot",
+              "name": "Zottegem",
+              "regions": []
+            },
+            {
+              "code": "bezul",
+              "name": "Zulte",
+              "regions": []
+            },
+            {
+              "code": "bezwa",
+              "name": "Zwalm",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "be-vwv",
-          "name": "vwv",
-          "regions": []
+          "name": "West-Vlaanderen",
+          "regions": [
+            {
+              "code": "beado",
+              "name": "Ardooie",
+              "regions": []
+            },
+            {
+              "code": "beavl",
+              "name": "Avelgem",
+              "regions": []
+            },
+            {
+              "code": "beavr",
+              "name": "Alveringem",
+              "regions": []
+            },
+            {
+              "code": "beazm",
+              "name": "Anzegem",
+              "regions": []
+            },
+            {
+              "code": "bebbg",
+              "name": "Blankenberge",
+              "regions": []
+            },
+            {
+              "code": "bebgs",
+              "name": "Brugge",
+              "regions": []
+            },
+            {
+              "code": "bebir",
+              "name": "Bredene",
+              "regions": []
+            },
+            {
+              "code": "bebrm",
+              "name": "Beernem",
+              "regions": []
+            },
+            {
+              "code": "bedha",
+              "name": "De Haan",
+              "regions": []
+            },
+            {
+              "code": "bedik",
+              "name": "Diksmuide",
+              "regions": []
+            },
+            {
+              "code": "bedjk",
+              "name": "Deerlijk",
+              "regions": []
+            },
+            {
+              "code": "bedmm",
+              "name": "Damme",
+              "regions": []
+            },
+            {
+              "code": "bedpa",
+              "name": "De Panne",
+              "regions": []
+            },
+            {
+              "code": "bedte",
+              "name": "Dentergem",
+              "regions": []
+            },
+            {
+              "code": "begis",
+              "name": "Gistel",
+              "regions": []
+            },
+            {
+              "code": "behej",
+              "name": "Harelbeke",
+              "regions": []
+            },
+            {
+              "code": "behhg",
+              "name": "Hooglede",
+              "regions": []
+            },
+            {
+              "code": "behhu",
+              "name": "Houthulst",
+              "regions": []
+            },
+            {
+              "code": "behvl",
+              "name": "Heuvelland",
+              "regions": []
+            },
+            {
+              "code": "beige",
+              "name": "Ingelmunster",
+              "regions": []
+            },
+            {
+              "code": "beihe",
+              "name": "Ichtegem",
+              "regions": []
+            },
+            {
+              "code": "beipr",
+              "name": "Ieper",
+              "regions": []
+            },
+            {
+              "code": "beizg",
+              "name": "Izegem",
+              "regions": []
+            },
+            {
+              "code": "bejbe",
+              "name": "Jabbeke",
+              "regions": []
+            },
+            {
+              "code": "bekee",
+              "name": "Koekelare",
+              "regions": []
+            },
+            {
+              "code": "bekhi",
+              "name": "Knokke-Heist",
+              "regions": []
+            },
+            {
+              "code": "bekjk",
+              "name": "Kortrijk",
+              "regions": []
+            },
+            {
+              "code": "bekks",
+              "name": "Koksijde",
+              "regions": []
+            },
+            {
+              "code": "bektk",
+              "name": "Kortemark",
+              "regions": []
+            },
+            {
+              "code": "bekuu",
+              "name": "Kuurne",
+              "regions": []
+            },
+            {
+              "code": "beleg",
+              "name": "Ledegem",
+              "regions": []
+            },
+            {
+              "code": "belic",
+              "name": "Lichtervelde",
+              "regions": []
+            },
+            {
+              "code": "belnd",
+              "name": "Lendelede",
+              "regions": []
+            },
+            {
+              "code": "belpo",
+              "name": "Langemark-Poelkapelle",
+              "regions": []
+            },
+            {
+              "code": "belri",
+              "name": "Lo-Reninge",
+              "regions": []
+            },
+            {
+              "code": "bemen",
+              "name": "Menen",
+              "regions": []
+            },
+            {
+              "code": "bemik",
+              "name": "Middelkerke",
+              "regions": []
+            },
+            {
+              "code": "bemrs",
+              "name": "Moorslede",
+              "regions": []
+            },
+            {
+              "code": "bemse",
+              "name": "Mesen",
+              "regions": []
+            },
+            {
+              "code": "benie",
+              "name": "Nieuwpoort",
+              "regions": []
+            },
+            {
+              "code": "beobg",
+              "name": "Oudenburg",
+              "regions": []
+            },
+            {
+              "code": "beokp",
+              "name": "Oostkamp",
+              "regions": []
+            },
+            {
+              "code": "beosr",
+              "name": "Oostrozebeke",
+              "regions": []
+            },
+            {
+              "code": "beost",
+              "name": "Oostende",
+              "regions": []
+            },
+            {
+              "code": "bepop",
+              "name": "Poperinge",
+              "regions": []
+            },
+            {
+              "code": "beptt",
+              "name": "Pittem",
+              "regions": []
+            },
+            {
+              "code": "beroe",
+              "name": "Roeselare",
+              "regions": []
+            },
+            {
+              "code": "bespi",
+              "name": "Spiere-Helkijn",
+              "regions": []
+            },
+            {
+              "code": "bestd",
+              "name": "Staden",
+              "regions": []
+            },
+            {
+              "code": "betlt",
+              "name": "Tielt",
+              "regions": []
+            },
+            {
+              "code": "betrt",
+              "name": "Torhout",
+              "regions": []
+            },
+            {
+              "code": "beveu",
+              "name": "Veurne",
+              "regions": []
+            },
+            {
+              "code": "bevle",
+              "name": "Vleteren",
+              "regions": []
+            },
+            {
+              "code": "bewar",
+              "name": "Waregem",
+              "regions": []
+            },
+            {
+              "code": "bewee",
+              "name": "Wingene",
+              "regions": []
+            },
+            {
+              "code": "bewer",
+              "name": "Wervik",
+              "regions": []
+            },
+            {
+              "code": "bewev",
+              "name": "Wevelgem",
+              "regions": []
+            },
+            {
+              "code": "bewik",
+              "name": "Wielsbeke",
+              "regions": []
+            },
+            {
+              "code": "bezed",
+              "name": "Zedelgem",
+              "regions": []
+            },
+            {
+              "code": "bezke",
+              "name": "Zuienkerke",
+              "regions": []
+            },
+            {
+              "code": "bezob",
+              "name": "Zonnebeke",
+              "regions": []
+            },
+            {
+              "code": "bezwe",
+              "name": "Zwevegem",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "be-wal",
-          "name": "wal",
+          "name": "Wallonie",
           "regions": []
         },
         {
           "code": "be-wbr",
-          "name": "wbr",
-          "regions": []
+          "name": "Brabant wallon",
+          "regions": [
+            {
+              "code": "bebla",
+              "name": "Braine-l’Alleud",
+              "regions": []
+            },
+            {
+              "code": "beblc",
+              "name": "Braine-le-Château",
+              "regions": []
+            },
+            {
+              "code": "bebvc",
+              "name": "Beauvechain",
+              "regions": []
+            },
+            {
+              "code": "becar",
+              "name": "Chastre",
+              "regions": []
+            },
+            {
+              "code": "becet",
+              "name": "Court-Saint-Etienne",
+              "regions": []
+            },
+            {
+              "code": "becgx",
+              "name": "Chaumont-Gistoux",
+              "regions": []
+            },
+            {
+              "code": "begdu",
+              "name": "Grez-Doiceau",
+              "regions": []
+            },
+            {
+              "code": "begna",
+              "name": "Genappe",
+              "regions": []
+            },
+            {
+              "code": "behci",
+              "name": "Hélécine",
+              "regions": []
+            },
+            {
+              "code": "beico",
+              "name": "Incourt",
+              "regions": []
+            },
+            {
+              "code": "beitr",
+              "name": "Ittre",
+              "regions": []
+            },
+            {
+              "code": "bejdo",
+              "name": "Jodoigne",
+              "regions": []
+            },
+            {
+              "code": "belas",
+              "name": "Lasne",
+              "regions": []
+            },
+            {
+              "code": "belhl",
+              "name": "La Hulpe",
+              "regions": []
+            },
+            {
+              "code": "bemsu",
+              "name": "Mont-Saint-Guibert",
+              "regions": []
+            },
+            {
+              "code": "beniv",
+              "name": "Nivelles",
+              "regions": []
+            },
+            {
+              "code": "beoja",
+              "name": "Orp-Jauche",
+              "regions": []
+            },
+            {
+              "code": "beoti",
+              "name": "Ottignies-Louvain-la-Neuve",
+              "regions": []
+            },
+            {
+              "code": "beprw",
+              "name": "Perwez",
+              "regions": []
+            },
+            {
+              "code": "berbq",
+              "name": "Rebecq",
+              "regions": []
+            },
+            {
+              "code": "berix",
+              "name": "Rixensart",
+              "regions": []
+            },
+            {
+              "code": "bermi",
+              "name": "Ramillies",
+              "regions": []
+            },
+            {
+              "code": "betbz",
+              "name": "Tubize",
+              "regions": []
+            },
+            {
+              "code": "bevlv",
+              "name": "Villers-la-Ville",
+              "regions": []
+            },
+            {
+              "code": "bewal",
+              "name": "Waterloo",
+              "regions": []
+            },
+            {
+              "code": "bewha",
+              "name": "Walhain",
+              "regions": []
+            },
+            {
+              "code": "bewvr",
+              "name": "Wavre",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "be-wht",
-          "name": "wht",
-          "regions": []
+          "name": "Hainaut",
+          "regions": [
+            {
+              "code": "beabc",
+              "name": "Bernissart",
+              "regions": []
+            },
+            {
+              "code": "beadu",
+              "name": "Anderlues",
+              "regions": []
+            },
+            {
+              "code": "beape",
+              "name": "Aiseau-Presles",
+              "regions": []
+            },
+            {
+              "code": "beath",
+              "name": "Ath",
+              "regions": []
+            },
+            {
+              "code": "beato",
+              "name": "Antoing",
+              "regions": []
+            },
+            {
+              "code": "bebci",
+              "name": "Binche",
+              "regions": []
+            },
+            {
+              "code": "bebco",
+              "name": "Braine-le-Comte",
+              "regions": []
+            },
+            {
+              "code": "bebea",
+              "name": "Beaumont",
+              "regions": []
+            },
+            {
+              "code": "bebht",
+              "name": "Brunehaut",
+              "regions": []
+            },
+            {
+              "code": "beblo",
+              "name": "Beloeil",
+              "regions": []
+            },
+            {
+              "code": "bebov",
+              "name": "Les Bons Villers",
+              "regions": []
+            },
+            {
+              "code": "bebrg",
+              "name": "Brugelette",
+              "regions": []
+            },
+            {
+              "code": "bebss",
+              "name": "Boussu",
+              "regions": []
+            },
+            {
+              "code": "beccs",
+              "name": "Courcelles",
+              "regions": []
+            },
+            {
+              "code": "becel",
+              "name": "Celles",
+              "regions": []
+            },
+            {
+              "code": "becfa",
+              "name": "Colfontaine",
+              "regions": []
+            },
+            {
+              "code": "becha",
+              "name": "Châtelet",
+              "regions": []
+            },
+            {
+              "code": "bechi",
+              "name": "Chièvres",
+              "regions": []
+            },
+            {
+              "code": "bechm",
+              "name": "Chimay",
+              "regions": []
+            },
+            {
+              "code": "becho",
+              "name": "Chapelle-lez-Herlaimont",
+              "regions": []
+            },
+            {
+              "code": "becom",
+              "name": "Comines-Warneton",
+              "regions": []
+            },
+            {
+              "code": "becrl",
+              "name": "Charleroi",
+              "regions": []
+            },
+            {
+              "code": "bedou",
+              "name": "Dour",
+              "regions": []
+            },
+            {
+              "code": "beecs",
+              "name": "Ecaussinnes",
+              "regions": []
+            },
+            {
+              "code": "beegi",
+              "name": "Enghien",
+              "regions": []
+            },
+            {
+              "code": "beemp",
+              "name": "Estaimpuis",
+              "regions": []
+            },
+            {
+              "code": "beeti",
+              "name": "Estinnes",
+              "regions": []
+            },
+            {
+              "code": "beezs",
+              "name": "Ellezelles",
+              "regions": []
+            },
+            {
+              "code": "befbq",
+              "name": "Flobecq",
+              "regions": []
+            },
+            {
+              "code": "befcs",
+              "name": "Farciennes",
+              "regions": []
+            },
+            {
+              "code": "befeq",
+              "name": "Fontaine-l’Evêque",
+              "regions": []
+            },
+            {
+              "code": "befes",
+              "name": "Frameries",
+              "regions": []
+            },
+            {
+              "code": "befle",
+              "name": "Fleurus",
+              "regions": []
+            },
+            {
+              "code": "befrd",
+              "name": "Froidchapelle",
+              "regions": []
+            },
+            {
+              "code": "befrs",
+              "name": "Frasnes-lez-Anvaing",
+              "regions": []
+            },
+            {
+              "code": "beghi",
+              "name": "Saint-Ghislain",
+              "regions": []
+            },
+            {
+              "code": "begpi",
+              "name": "Gerpinnes",
+              "regions": []
+            },
+            {
+              "code": "behhn",
+              "name": "Ham-sur-Heure-Nalinnes",
+              "regions": []
+            },
+            {
+              "code": "behns",
+              "name": "Hensies",
+              "regions": []
+            },
+            {
+              "code": "behon",
+              "name": "Honnelles",
+              "regions": []
+            },
+            {
+              "code": "bejbi",
+              "name": "Jurbise",
+              "regions": []
+            },
+            {
+              "code": "belbs",
+              "name": "Lobbes",
+              "regions": []
+            },
+            {
+              "code": "beles",
+              "name": "Lessines",
+              "regions": []
+            },
+            {
+              "code": "belht",
+              "name": "Leuze-en-Hainaut",
+              "regions": []
+            },
+            {
+              "code": "bello",
+              "name": "La Louvière",
+              "regions": []
+            },
+            {
+              "code": "belns",
+              "name": "Lens",
+              "regions": []
+            },
+            {
+              "code": "beman",
+              "name": "Manage",
+              "regions": []
+            },
+            {
+              "code": "bemca",
+              "name": "Merbes-le-Château",
+              "regions": []
+            },
+            {
+              "code": "bemdl",
+              "name": "Mont-de-l’Enclus",
+              "regions": []
+            },
+            {
+              "code": "bemlw",
+              "name": "Morlanwelz",
+              "regions": []
+            },
+            {
+              "code": "bemom",
+              "name": "Momignies",
+              "regions": []
+            },
+            {
+              "code": "bemos",
+              "name": "Mouscron",
+              "regions": []
+            },
+            {
+              "code": "bemqs",
+              "name": "Mons",
+              "regions": []
+            },
+            {
+              "code": "bemzl",
+              "name": "Montigny-le-Tilleul",
+              "regions": []
+            },
+            {
+              "code": "bepcl",
+              "name": "Pont-à-Celles",
+              "regions": []
+            },
+            {
+              "code": "bepcq",
+              "name": "Pecq",
+              "regions": []
+            },
+            {
+              "code": "bepwz",
+              "name": "Péruwelz",
+              "regions": []
+            },
+            {
+              "code": "beqro",
+              "name": "Quaregnon",
+              "regions": []
+            },
+            {
+              "code": "beqva",
+              "name": "Quiévrain",
+              "regions": []
+            },
+            {
+              "code": "beqvy",
+              "name": "Quévy",
+              "regions": []
+            },
+            {
+              "code": "bereq",
+              "name": "Erquelinnes",
+              "regions": []
+            },
+            {
+              "code": "berms",
+              "name": "Rumes",
+              "regions": []
+            },
+            {
+              "code": "berou",
+              "name": "Le Roeulx",
+              "regions": []
+            },
+            {
+              "code": "besen",
+              "name": "Seneffe",
+              "regions": []
+            },
+            {
+              "code": "besiy",
+              "name": "Silly",
+              "regions": []
+            },
+            {
+              "code": "besoi",
+              "name": "Soignies",
+              "regions": []
+            },
+            {
+              "code": "besyr",
+              "name": "Sivry-Rance",
+              "regions": []
+            },
+            {
+              "code": "bethu",
+              "name": "Thuin",
+              "regions": []
+            },
+            {
+              "code": "betrn",
+              "name": "Tournai",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "be-wlg",
-          "name": "wlg",
-          "regions": []
+          "name": "Liège",
+          "regions": [
+            {
+              "code": "beais",
+              "name": "Anthisnes",
+              "regions": []
+            },
+            {
+              "code": "beaml",
+              "name": "Amblève",
+              "regions": []
+            },
+            {
+              "code": "beamy",
+              "name": "Amay",
+              "regions": []
+            },
+            {
+              "code": "beans",
+              "name": "Ans",
+              "regions": []
+            },
+            {
+              "code": "beaul",
+              "name": "Aubel",
+              "regions": []
+            },
+            {
+              "code": "beaws",
+              "name": "Awans",
+              "regions": []
+            },
+            {
+              "code": "beayw",
+              "name": "Aywaille",
+              "regions": []
+            },
+            {
+              "code": "bebgh",
+              "name": "Butgenbach",
+              "regions": []
+            },
+            {
+              "code": "bebgu",
+              "name": "Burg-Reuland",
+              "regions": []
+            },
+            {
+              "code": "bebl7",
+              "name": "Bullange",
+              "regions": []
+            },
+            {
+              "code": "bebln",
+              "name": "Baelen",
+              "regions": []
+            },
+            {
+              "code": "bebny",
+              "name": "Blegny",
+              "regions": []
+            },
+            {
+              "code": "bebrd",
+              "name": "Burdinne",
+              "regions": []
+            },
+            {
+              "code": "bebrs",
+              "name": "Braives",
+              "regions": []
+            },
+            {
+              "code": "bebts",
+              "name": "Bassenge",
+              "regions": []
+            },
+            {
+              "code": "bebye",
+              "name": "Beyne-Heusay",
+              "regions": []
+            },
+            {
+              "code": "becfo",
+              "name": "Chaudfontaine",
+              "regions": []
+            },
+            {
+              "code": "becla",
+              "name": "Clavier",
+              "regions": []
+            },
+            {
+              "code": "becpn",
+              "name": "Comblain-au-Pont",
+              "regions": []
+            },
+            {
+              "code": "becsi",
+              "name": "Crisnée",
+              "regions": []
+            },
+            {
+              "code": "bedal",
+              "name": "Dalhem",
+              "regions": []
+            },
+            {
+              "code": "bedce",
+              "name": "Donceel",
+              "regions": []
+            },
+            {
+              "code": "bedis",
+              "name": "Dison",
+              "regions": []
+            },
+            {
+              "code": "beeng",
+              "name": "Engis",
+              "regions": []
+            },
+            {
+              "code": "beesx",
+              "name": "Esneux",
+              "regions": []
+            },
+            {
+              "code": "beeup",
+              "name": "Eupen",
+              "regions": []
+            },
+            {
+              "code": "befhc",
+              "name": "Fexhe-le-Haut-Clocher",
+              "regions": []
+            },
+            {
+              "code": "befma",
+              "name": "Flémalle",
+              "regions": []
+            },
+            {
+              "code": "befme",
+              "name": "Faimes",
+              "regions": []
+            },
+            {
+              "code": "befre",
+              "name": "Ferrières",
+              "regions": []
+            },
+            {
+              "code": "befro",
+              "name": "Fléron",
+              "regions": []
+            },
+            {
+              "code": "begee",
+              "name": "Geer",
+              "regions": []
+            },
+            {
+              "code": "beghe",
+              "name": "Grâce-Hollogne",
+              "regions": []
+            },
+            {
+              "code": "begsm",
+              "name": "Saint-Georges-sur-Meuse",
+              "regions": []
+            },
+            {
+              "code": "behmo",
+              "name": "Hamoir",
+              "regions": []
+            },
+            {
+              "code": "behno",
+              "name": "Héron",
+              "regions": []
+            },
+            {
+              "code": "behnu",
+              "name": "Hannut",
+              "regions": []
+            },
+            {
+              "code": "behrs",
+              "name": "Herstal",
+              "regions": []
+            },
+            {
+              "code": "behrv",
+              "name": "Herve",
+              "regions": []
+            },
+            {
+              "code": "behuy",
+              "name": "Huy",
+              "regions": []
+            },
+            {
+              "code": "bejhy",
+              "name": "Jalhay",
+              "regions": []
+            },
+            {
+              "code": "bejpe",
+              "name": "Juprelle",
+              "regions": []
+            },
+            {
+              "code": "belap",
+              "name": "La Calamine",
+              "regions": []
+            },
+            {
+              "code": "belce",
+              "name": "Lincent",
+              "regions": []
+            },
+            {
+              "code": "belgg",
+              "name": "Liège",
+              "regions": []
+            },
+            {
+              "code": "belim",
+              "name": "Limbourg",
+              "regions": []
+            },
+            {
+              "code": "belnx",
+              "name": "Lierneux",
+              "regions": []
+            },
+            {
+              "code": "belrz",
+              "name": "Berloz",
+              "regions": []
+            },
+            {
+              "code": "beltz",
+              "name": "Lontzen",
+              "regions": []
+            },
+            {
+              "code": "bembw",
+              "name": "Malmedy",
+              "regions": []
+            },
+            {
+              "code": "bemci",
+              "name": "Marchin",
+              "regions": []
+            },
+            {
+              "code": "bemod",
+              "name": "Modave",
+              "regions": []
+            },
+            {
+              "code": "bendi",
+              "name": "Nandrin",
+              "regions": []
+            },
+            {
+              "code": "benpe",
+              "name": "Neupré",
+              "regions": []
+            },
+            {
+              "code": "beone",
+              "name": "Olne",
+              "regions": []
+            },
+            {
+              "code": "beopy",
+              "name": "Oupeye",
+              "regions": []
+            },
+            {
+              "code": "beouf",
+              "name": "Ouffet",
+              "regions": []
+            },
+            {
+              "code": "beoye",
+              "name": "Oreye",
+              "regions": []
+            },
+            {
+              "code": "bepbi",
+              "name": "Plombières",
+              "regions": []
+            },
+            {
+              "code": "bepep",
+              "name": "Pepinster",
+              "regions": []
+            },
+            {
+              "code": "berae",
+              "name": "Raeren",
+              "regions": []
+            },
+            {
+              "code": "bercu",
+              "name": "Remicourt",
+              "regions": []
+            },
+            {
+              "code": "beslt",
+              "name": "Stavelot",
+              "regions": []
+            },
+            {
+              "code": "besmo",
+              "name": "Sprimont",
+              "regions": []
+            },
+            {
+              "code": "besno",
+              "name": "Saint-Nicolas",
+              "regions": []
+            },
+            {
+              "code": "besou",
+              "name": "Soumagne",
+              "regions": []
+            },
+            {
+              "code": "bespa",
+              "name": "Spa",
+              "regions": []
+            },
+            {
+              "code": "bestu",
+              "name": "Stoumont",
+              "regions": []
+            },
+            {
+              "code": "besvh",
+              "name": "Saint-Vith",
+              "regions": []
+            },
+            {
+              "code": "betap",
+              "name": "Theux",
+              "regions": []
+            },
+            {
+              "code": "betcl",
+              "name": "Thimister-Clermont",
+              "regions": []
+            },
+            {
+              "code": "betlo",
+              "name": "Tinlot",
+              "regions": []
+            },
+            {
+              "code": "betpo",
+              "name": "Trois-Ponts",
+              "regions": []
+            },
+            {
+              "code": "betro",
+              "name": "Trooz",
+              "regions": []
+            },
+            {
+              "code": "bevbo",
+              "name": "Villers-Le-Bouillet",
+              "regions": []
+            },
+            {
+              "code": "bever",
+              "name": "Verviers",
+              "regions": []
+            },
+            {
+              "code": "bevis",
+              "name": "Visé",
+              "regions": []
+            },
+            {
+              "code": "bevla",
+              "name": "Verlaine",
+              "regions": []
+            },
+            {
+              "code": "bewan",
+              "name": "Wanze",
+              "regions": []
+            },
+            {
+              "code": "bewim",
+              "name": "Waimes",
+              "regions": []
+            },
+            {
+              "code": "bewkd",
+              "name": "Welkenraedt",
+              "regions": []
+            },
+            {
+              "code": "bewre",
+              "name": "Waremme",
+              "regions": []
+            },
+            {
+              "code": "bewsi",
+              "name": "Wasseiges",
+              "regions": []
+            },
+            {
+              "code": "bezer",
+              "name": "Seraing",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "be-wlx",
+          "name": "Luxembourg",
+          "regions": [
+            {
+              "code": "bearl",
+              "name": "Arlon",
+              "regions": []
+            },
+            {
+              "code": "beate",
+              "name": "Attert",
+              "regions": []
+            },
+            {
+              "code": "beaug",
+              "name": "Aubange",
+              "regions": []
+            },
+            {
+              "code": "bebsg",
+              "name": "Bastogne",
+              "regions": []
+            },
+            {
+              "code": "bebtx",
+              "name": "Bertrix",
+              "regions": []
+            },
+            {
+              "code": "bebuo",
+              "name": "Bouillon",
+              "regions": []
+            },
+            {
+              "code": "becbf",
+              "name": "Chiny",
+              "regions": []
+            },
+            {
+              "code": "beduy",
+              "name": "Durbuy",
+              "regions": []
+            },
+            {
+              "code": "bedvi",
+              "name": "Daverdisse",
+              "regions": []
+            },
+            {
+              "code": "beeez",
+              "name": "Erezée",
+              "regions": []
+            },
+            {
+              "code": "beetl",
+              "name": "Etalle",
+              "regions": []
+            },
+            {
+              "code": "befri",
+              "name": "Florenville",
+              "regions": []
+            },
+            {
+              "code": "befvi",
+              "name": "Fauvillers",
+              "regions": []
+            },
+            {
+              "code": "begvy",
+              "name": "Gouvy",
+              "regions": []
+            },
+            {
+              "code": "behbo",
+              "name": "Herbeumont",
+              "regions": []
+            },
+            {
+              "code": "behfa",
+              "name": "Houffalize",
+              "regions": []
+            },
+            {
+              "code": "behln",
+              "name": "Habay",
+              "regions": []
+            },
+            {
+              "code": "behot",
+              "name": "Hotton",
+              "regions": []
+            },
+            {
+              "code": "belbn",
+              "name": "Libin",
+              "regions": []
+            },
+            {
+              "code": "belgi",
+              "name": "Léglise",
+              "regions": []
+            },
+            {
+              "code": "belib",
+              "name": "Libramont-Chevigny",
+              "regions": []
+            },
+            {
+              "code": "bemdv",
+              "name": "Meix-devant-Virton",
+              "regions": []
+            },
+            {
+              "code": "bemef",
+              "name": "Marche-en-Famenne",
+              "regions": []
+            },
+            {
+              "code": "bemes",
+              "name": "Messancy",
+              "regions": []
+            },
+            {
+              "code": "bemhy",
+              "name": "Manhay",
+              "regions": []
+            },
+            {
+              "code": "bemsl",
+              "name": "Musson",
+              "regions": []
+            },
+            {
+              "code": "bemta",
+              "name": "Martelange",
+              "regions": []
+            },
+            {
+              "code": "benca",
+              "name": "Neufchâteau",
+              "regions": []
+            },
+            {
+              "code": "benso",
+              "name": "Nassogne",
+              "regions": []
+            },
+            {
+              "code": "bepli",
+              "name": "Paliseul",
+              "regions": []
+            },
+            {
+              "code": "berar",
+              "name": "La Roche-en-Ardenne",
+              "regions": []
+            },
+            {
+              "code": "beren",
+              "name": "Rendeux",
+              "regions": []
+            },
+            {
+              "code": "bervy",
+              "name": "Rouvroy",
+              "regions": []
+            },
+            {
+              "code": "beshu",
+              "name": "Saint-Hubert",
+              "regions": []
+            },
+            {
+              "code": "beslg",
+              "name": "Saint-Léger",
+              "regions": []
+            },
+            {
+              "code": "besod",
+              "name": "Sainte-Ode",
+              "regions": []
+            },
+            {
+              "code": "betli",
+              "name": "Tellin",
+              "regions": []
+            },
+            {
+              "code": "betty",
+              "name": "Tintigny",
+              "regions": []
+            },
+            {
+              "code": "betvl",
+              "name": "Tenneville",
+              "regions": []
+            },
+            {
+              "code": "bevir",
+              "name": "Virton",
+              "regions": []
+            },
+            {
+              "code": "bevsm",
+              "name": "Vielsalm",
+              "regions": []
+            },
+            {
+              "code": "bevsu",
+              "name": "Vaux-sur-Sûre",
+              "regions": []
+            },
+            {
+              "code": "bewin",
+              "name": "Wellin",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "be-wna",
-          "name": "wna",
-          "regions": []
+          "name": "Namur",
+          "regions": [
+            {
+              "code": "beand",
+              "name": "Andenne",
+              "regions": []
+            },
+            {
+              "code": "beanh",
+              "name": "Anhée",
+              "regions": []
+            },
+            {
+              "code": "beasn",
+              "name": "Assesse",
+              "regions": []
+            },
+            {
+              "code": "bebiv",
+              "name": "Bièvre",
+              "regions": []
+            },
+            {
+              "code": "bebur",
+              "name": "Beauraing",
+              "regions": []
+            },
+            {
+              "code": "becad",
+              "name": "Cerfontaine",
+              "regions": []
+            },
+            {
+              "code": "becny",
+              "name": "Ciney",
+              "regions": []
+            },
+            {
+              "code": "becuv",
+              "name": "Couvin",
+              "regions": []
+            },
+            {
+              "code": "bedia",
+              "name": "Dinant",
+              "regions": []
+            },
+            {
+              "code": "bedoi",
+              "name": "Doische",
+              "regions": []
+            },
+            {
+              "code": "beeze",
+              "name": "Eghezée",
+              "regions": []
+            },
+            {
+              "code": "beflo",
+              "name": "Floreffe",
+              "regions": []
+            },
+            {
+              "code": "beflr",
+              "name": "Florennes",
+              "regions": []
+            },
+            {
+              "code": "befno",
+              "name": "Fernelmont",
+              "regions": []
+            },
+            {
+              "code": "befsv",
+              "name": "Fosses-la-Ville",
+              "regions": []
+            },
+            {
+              "code": "beged",
+              "name": "Gedinne",
+              "regions": []
+            },
+            {
+              "code": "begem",
+              "name": "Gembloux",
+              "regions": []
+            },
+            {
+              "code": "begve",
+              "name": "Gesves",
+              "regions": []
+            },
+            {
+              "code": "behmi",
+              "name": "Hamois",
+              "regions": []
+            },
+            {
+              "code": "behpd",
+              "name": "Hastière",
+              "regions": []
+            },
+            {
+              "code": "behva",
+              "name": "Havelange",
+              "regions": []
+            },
+            {
+              "code": "behye",
+              "name": "Houyet",
+              "regions": []
+            },
+            {
+              "code": "bejem",
+              "name": "Jemeppe-sur-Sambre",
+              "regions": []
+            },
+            {
+              "code": "belby",
+              "name": "La Bruyère",
+              "regions": []
+            },
+            {
+              "code": "bemte",
+              "name": "Mettet",
+              "regions": []
+            },
+            {
+              "code": "benam",
+              "name": "Namur",
+              "regions": []
+            },
+            {
+              "code": "beoay",
+              "name": "Onhaye",
+              "regions": []
+            },
+            {
+              "code": "beohy",
+              "name": "Ohey",
+              "regions": []
+            },
+            {
+              "code": "bepfe",
+              "name": "Profondeville",
+              "regions": []
+            },
+            {
+              "code": "bephi",
+              "name": "Philippeville",
+              "regions": []
+            },
+            {
+              "code": "beroc",
+              "name": "Rochefort",
+              "regions": []
+            },
+            {
+              "code": "besav",
+              "name": "Sambreville",
+              "regions": []
+            },
+            {
+              "code": "besbf",
+              "name": "Sombreffe",
+              "regions": []
+            },
+            {
+              "code": "besuz",
+              "name": "Somme-Leuze",
+              "regions": []
+            },
+            {
+              "code": "bevro",
+              "name": "Viroinval",
+              "regions": []
+            },
+            {
+              "code": "bevso",
+              "name": "Vresse-sur-Semois",
+              "regions": []
+            },
+            {
+              "code": "bewco",
+              "name": "Walcourt",
+              "regions": []
+            },
+            {
+              "code": "beyvo",
+              "name": "Yvoir",
+              "regions": []
+            }
+          ]
         }
       ]
     },
@@ -3433,55 +6279,2323 @@
     },
     {
       "path": "be-bru",
-      "name": "bru"
+      "name": "Brussel"
     },
     {
       "path": "be-lgg",
-      "name": "lgg"
+      "name": "Liège"
     },
     {
       "path": "be-lie",
-      "name": "lie"
+      "name": "Lier"
     },
     {
       "path": "be-so",
-      "name": "so"
+      "name": "Soignies"
     },
     {
       "path": "be-van",
-      "name": "van"
+      "name": "Antwerpen"
     },
     {
       "path": "be-vbr",
-      "name": "vbr"
+      "name": "Vlaams-Brabant"
+    },
+    {
+      "path": "be-vli",
+      "name": "Limburg"
     },
     {
       "path": "be-vov",
-      "name": "vov"
+      "name": "Oost-Vlaanderen"
     },
     {
       "path": "be-vwv",
-      "name": "vwv"
+      "name": "West-Vlaanderen"
     },
     {
       "path": "be-wal",
-      "name": "wal"
+      "name": "Wallonie"
     },
     {
       "path": "be-wbr",
-      "name": "wbr"
+      "name": "Brabant wallon"
     },
     {
       "path": "be-wht",
-      "name": "wht"
+      "name": "Hainaut"
     },
     {
       "path": "be-wlg",
-      "name": "wlg"
+      "name": "Liège"
+    },
+    {
+      "path": "be-wlx",
+      "name": "Luxembourg"
     },
     {
       "path": "be-wna",
-      "name": "wna"
+      "name": "Namur"
+    },
+    {
+      "path": "beaab",
+      "name": "Aalst"
+    },
+    {
+      "path": "beaal",
+      "name": "Aalter"
+    },
+    {
+      "path": "beaar",
+      "name": "Aartselaar"
+    },
+    {
+      "path": "beaas",
+      "name": "Aarschot"
+    },
+    {
+      "path": "beabc",
+      "name": "Bernissart"
+    },
+    {
+      "path": "beado",
+      "name": "Ardooie"
+    },
+    {
+      "path": "beadu",
+      "name": "Anderlues"
+    },
+    {
+      "path": "beaej",
+      "name": "Arendonk"
+    },
+    {
+      "path": "beaes",
+      "name": "Asse"
+    },
+    {
+      "path": "beaff",
+      "name": "Affligem"
+    },
+    {
+      "path": "beais",
+      "name": "Anthisnes"
+    },
+    {
+      "path": "beakn",
+      "name": "Alken"
+    },
+    {
+      "path": "beaml",
+      "name": "Amblève"
+    },
+    {
+      "path": "beamy",
+      "name": "Amay"
+    },
+    {
+      "path": "beand",
+      "name": "Andenne"
+    },
+    {
+      "path": "beane",
+      "name": "Assenede"
+    },
+    {
+      "path": "beanh",
+      "name": "Anhée"
+    },
+    {
+      "path": "beanl",
+      "name": "Anderlecht"
+    },
+    {
+      "path": "beanr",
+      "name": "Antwerpen"
+    },
+    {
+      "path": "beans",
+      "name": "Ans"
+    },
+    {
+      "path": "beape",
+      "name": "Aiseau-Presles"
+    },
+    {
+      "path": "bearl",
+      "name": "Arlon"
+    },
+    {
+      "path": "beasm",
+      "name": "As"
+    },
+    {
+      "path": "beasn",
+      "name": "Assesse"
+    },
+    {
+      "path": "beate",
+      "name": "Attert"
+    },
+    {
+      "path": "beath",
+      "name": "Ath"
+    },
+    {
+      "path": "beato",
+      "name": "Antoing"
+    },
+    {
+      "path": "beaug",
+      "name": "Aubange"
+    },
+    {
+      "path": "beaul",
+      "name": "Aubel"
+    },
+    {
+      "path": "beavl",
+      "name": "Avelgem"
+    },
+    {
+      "path": "beavr",
+      "name": "Alveringem"
+    },
+    {
+      "path": "beaws",
+      "name": "Awans"
+    },
+    {
+      "path": "beayw",
+      "name": "Aywaille"
+    },
+    {
+      "path": "beazm",
+      "name": "Anzegem"
+    },
+    {
+      "path": "bebak",
+      "name": "Brakel"
+    },
+    {
+      "path": "bebar",
+      "name": "Berlaar"
+    },
+    {
+      "path": "bebbg",
+      "name": "Blankenberge"
+    },
+    {
+      "path": "bebci",
+      "name": "Binche"
+    },
+    {
+      "path": "bebco",
+      "name": "Braine-le-Comte"
+    },
+    {
+      "path": "bebct",
+      "name": "Boechout"
+    },
+    {
+      "path": "bebea",
+      "name": "Beaumont"
+    },
+    {
+      "path": "bebee",
+      "name": "Beersel"
+    },
+    {
+      "path": "beber",
+      "name": "Beerse"
+    },
+    {
+      "path": "bebev",
+      "name": "Beveren-Kruibeke-Zwijndrecht"
+    },
+    {
+      "path": "bebgh",
+      "name": "Butgenbach"
+    },
+    {
+      "path": "bebgs",
+      "name": "Brugge"
+    },
+    {
+      "path": "bebgu",
+      "name": "Burg-Reuland"
+    },
+    {
+      "path": "bebgy",
+      "name": "Begijnendijk"
+    },
+    {
+      "path": "bebho",
+      "name": "Baarle-Hertog"
+    },
+    {
+      "path": "bebht",
+      "name": "Brunehaut"
+    },
+    {
+      "path": "bebhu",
+      "name": "Buggenhout"
+    },
+    {
+      "path": "bebir",
+      "name": "Bredene"
+    },
+    {
+      "path": "bebiv",
+      "name": "Bièvre"
+    },
+    {
+      "path": "bebke",
+      "name": "Bierbeek"
+    },
+    {
+      "path": "bebko",
+      "name": "Bekkevoort"
+    },
+    {
+      "path": "bebl7",
+      "name": "Bullange"
+    },
+    {
+      "path": "bebla",
+      "name": "Braine-l’Alleud"
+    },
+    {
+      "path": "beblc",
+      "name": "Braine-le-Château"
+    },
+    {
+      "path": "beble",
+      "name": "Balen"
+    },
+    {
+      "path": "bebln",
+      "name": "Baelen"
+    },
+    {
+      "path": "beblo",
+      "name": "Beloeil"
+    },
+    {
+      "path": "beblz",
+      "name": "Bilzen-Hoeselt"
+    },
+    {
+      "path": "bebmb",
+      "name": "Boortmeerbeek"
+    },
+    {
+      "path": "bebni",
+      "name": "Bonheiden"
+    },
+    {
+      "path": "bebny",
+      "name": "Blegny"
+    },
+    {
+      "path": "beboc",
+      "name": "Bocholt"
+    },
+    {
+      "path": "bebom",
+      "name": "Boom"
+    },
+    {
+      "path": "bebon",
+      "name": "Bornem"
+    },
+    {
+      "path": "bebov",
+      "name": "Les Bons Villers"
+    },
+    {
+      "path": "bebra",
+      "name": "Brasschaat"
+    },
+    {
+      "path": "bebrc",
+      "name": "Brecht"
+    },
+    {
+      "path": "bebrd",
+      "name": "Burdinne"
+    },
+    {
+      "path": "bebre",
+      "name": "Bree"
+    },
+    {
+      "path": "bebrg",
+      "name": "Brugelette"
+    },
+    {
+      "path": "bebrl",
+      "name": "Berlare"
+    },
+    {
+      "path": "bebrm",
+      "name": "Beernem"
+    },
+    {
+      "path": "bebrs",
+      "name": "Braives"
+    },
+    {
+      "path": "bebru",
+      "name": "Brussel"
+    },
+    {
+      "path": "bebsa",
+      "name": "Sint-Agatha-Berchem"
+    },
+    {
+      "path": "bebsg",
+      "name": "Bastogne"
+    },
+    {
+      "path": "bebss",
+      "name": "Boussu"
+    },
+    {
+      "path": "bebtm",
+      "name": "Bertem"
+    },
+    {
+      "path": "bebts",
+      "name": "Bassenge"
+    },
+    {
+      "path": "bebtx",
+      "name": "Bertrix"
+    },
+    {
+      "path": "bebum",
+      "name": "Boutersem"
+    },
+    {
+      "path": "bebuo",
+      "name": "Bouillon"
+    },
+    {
+      "path": "bebur",
+      "name": "Beauraing"
+    },
+    {
+      "path": "bebvc",
+      "name": "Beauvechain"
+    },
+    {
+      "path": "bebve",
+      "name": "Bever"
+    },
+    {
+      "path": "bebye",
+      "name": "Beyne-Heusay"
+    },
+    {
+      "path": "becad",
+      "name": "Cerfontaine"
+    },
+    {
+      "path": "becar",
+      "name": "Chastre"
+    },
+    {
+      "path": "becbf",
+      "name": "Chiny"
+    },
+    {
+      "path": "beccs",
+      "name": "Courcelles"
+    },
+    {
+      "path": "becel",
+      "name": "Celles"
+    },
+    {
+      "path": "becet",
+      "name": "Court-Saint-Etienne"
+    },
+    {
+      "path": "becfa",
+      "name": "Colfontaine"
+    },
+    {
+      "path": "becfo",
+      "name": "Chaudfontaine"
+    },
+    {
+      "path": "becgx",
+      "name": "Chaumont-Gistoux"
+    },
+    {
+      "path": "becha",
+      "name": "Châtelet"
+    },
+    {
+      "path": "bechi",
+      "name": "Chièvres"
+    },
+    {
+      "path": "bechm",
+      "name": "Chimay"
+    },
+    {
+      "path": "becho",
+      "name": "Chapelle-lez-Herlaimont"
+    },
+    {
+      "path": "becla",
+      "name": "Clavier"
+    },
+    {
+      "path": "becny",
+      "name": "Ciney"
+    },
+    {
+      "path": "becom",
+      "name": "Comines-Warneton"
+    },
+    {
+      "path": "becpn",
+      "name": "Comblain-au-Pont"
+    },
+    {
+      "path": "becrl",
+      "name": "Charleroi"
+    },
+    {
+      "path": "becsi",
+      "name": "Crisnée"
+    },
+    {
+      "path": "becuv",
+      "name": "Couvin"
+    },
+    {
+      "path": "bedal",
+      "name": "Dalhem"
+    },
+    {
+      "path": "bedbk",
+      "name": "Dilbeek"
+    },
+    {
+      "path": "bedce",
+      "name": "Donceel"
+    },
+    {
+      "path": "beddr",
+      "name": "Dendermonde"
+    },
+    {
+      "path": "bedes",
+      "name": "Destelbergen"
+    },
+    {
+      "path": "bedez",
+      "name": "Deinze"
+    },
+    {
+      "path": "bedha",
+      "name": "De Haan"
+    },
+    {
+      "path": "bedia",
+      "name": "Dinant"
+    },
+    {
+      "path": "bedie",
+      "name": "Diest"
+    },
+    {
+      "path": "bedik",
+      "name": "Diksmuide"
+    },
+    {
+      "path": "bedis",
+      "name": "Dison"
+    },
+    {
+      "path": "bedjk",
+      "name": "Deerlijk"
+    },
+    {
+      "path": "bedmm",
+      "name": "Damme"
+    },
+    {
+      "path": "bedoi",
+      "name": "Doische"
+    },
+    {
+      "path": "bedou",
+      "name": "Dour"
+    },
+    {
+      "path": "bedpa",
+      "name": "De Panne"
+    },
+    {
+      "path": "bedpk",
+      "name": "Diepenbeek"
+    },
+    {
+      "path": "bedrb",
+      "name": "Drogenbos"
+    },
+    {
+      "path": "bedrw",
+      "name": "Denderleeuw"
+    },
+    {
+      "path": "bedse",
+      "name": "Dessel"
+    },
+    {
+      "path": "bedso",
+      "name": "Dilsen-Stokkem"
+    },
+    {
+      "path": "bedte",
+      "name": "Dentergem"
+    },
+    {
+      "path": "beduf",
+      "name": "Duffel"
+    },
+    {
+      "path": "beduy",
+      "name": "Durbuy"
+    },
+    {
+      "path": "bedvi",
+      "name": "Daverdisse"
+    },
+    {
+      "path": "beech",
+      "name": "Mechelen"
+    },
+    {
+      "path": "beecs",
+      "name": "Ecaussinnes"
+    },
+    {
+      "path": "beeek",
+      "name": "Eeklo"
+    },
+    {
+      "path": "beeez",
+      "name": "Erezée"
+    },
+    {
+      "path": "beegi",
+      "name": "Enghien"
+    },
+    {
+      "path": "beegm",
+      "name": "Edegem"
+    },
+    {
+      "path": "beekl",
+      "name": "Hechtel-Eksel"
+    },
+    {
+      "path": "beemp",
+      "name": "Estaimpuis"
+    },
+    {
+      "path": "beeng",
+      "name": "Engis"
+    },
+    {
+      "path": "beese",
+      "name": "Elsene"
+    },
+    {
+      "path": "beess",
+      "name": "Essen"
+    },
+    {
+      "path": "beesx",
+      "name": "Esneux"
+    },
+    {
+      "path": "beete",
+      "name": "Etterbeek"
+    },
+    {
+      "path": "beeti",
+      "name": "Estinnes"
+    },
+    {
+      "path": "beetl",
+      "name": "Etalle"
+    },
+    {
+      "path": "beeup",
+      "name": "Eupen"
+    },
+    {
+      "path": "beevm",
+      "name": "Evergem"
+    },
+    {
+      "path": "beevr",
+      "name": "Evere"
+    },
+    {
+      "path": "beeze",
+      "name": "Eghezée"
+    },
+    {
+      "path": "beezs",
+      "name": "Ellezelles"
+    },
+    {
+      "path": "befbq",
+      "name": "Flobecq"
+    },
+    {
+      "path": "befcs",
+      "name": "Farciennes"
+    },
+    {
+      "path": "befeq",
+      "name": "Fontaine-l’Evêque"
+    },
+    {
+      "path": "befes",
+      "name": "Frameries"
+    },
+    {
+      "path": "befhc",
+      "name": "Fexhe-le-Haut-Clocher"
+    },
+    {
+      "path": "befle",
+      "name": "Fleurus"
+    },
+    {
+      "path": "beflo",
+      "name": "Floreffe"
+    },
+    {
+      "path": "beflr",
+      "name": "Florennes"
+    },
+    {
+      "path": "befma",
+      "name": "Flémalle"
+    },
+    {
+      "path": "befme",
+      "name": "Faimes"
+    },
+    {
+      "path": "befno",
+      "name": "Fernelmont"
+    },
+    {
+      "path": "befrd",
+      "name": "Froidchapelle"
+    },
+    {
+      "path": "befre",
+      "name": "Ferrières"
+    },
+    {
+      "path": "befri",
+      "name": "Florenville"
+    },
+    {
+      "path": "befro",
+      "name": "Fléron"
+    },
+    {
+      "path": "befrs",
+      "name": "Frasnes-lez-Anvaing"
+    },
+    {
+      "path": "befsv",
+      "name": "Fosses-la-Ville"
+    },
+    {
+      "path": "befvi",
+      "name": "Fauvillers"
+    },
+    {
+      "path": "begbb",
+      "name": "Grobbendonk"
+    },
+    {
+      "path": "begbe",
+      "name": "Geetbets"
+    },
+    {
+      "path": "begbk",
+      "name": "Glabbeek"
+    },
+    {
+      "path": "begdu",
+      "name": "Grez-Doiceau"
+    },
+    {
+      "path": "begea",
+      "name": "Geraardsbergen"
+    },
+    {
+      "path": "beged",
+      "name": "Gedinne"
+    },
+    {
+      "path": "begee",
+      "name": "Geer"
+    },
+    {
+      "path": "begel",
+      "name": "Geel"
+    },
+    {
+      "path": "begem",
+      "name": "Gembloux"
+    },
+    {
+      "path": "beghe",
+      "name": "Grâce-Hollogne"
+    },
+    {
+      "path": "beghi",
+      "name": "Saint-Ghislain"
+    },
+    {
+      "path": "begho",
+      "name": "Ganshoren"
+    },
+    {
+      "path": "begis",
+      "name": "Gistel"
+    },
+    {
+      "path": "beglo",
+      "name": "Gingelom"
+    },
+    {
+      "path": "begna",
+      "name": "Genappe"
+    },
+    {
+      "path": "begne",
+      "name": "Gent"
+    },
+    {
+      "path": "begnk",
+      "name": "Genk"
+    },
+    {
+      "path": "begpi",
+      "name": "Gerpinnes"
+    },
+    {
+      "path": "begrb",
+      "name": "Grimbergen"
+    },
+    {
+      "path": "begsm",
+      "name": "Saint-Georges-sur-Meuse"
+    },
+    {
+      "path": "begve",
+      "name": "Gesves"
+    },
+    {
+      "path": "begvr",
+      "name": "Gavere"
+    },
+    {
+      "path": "begvy",
+      "name": "Gouvy"
+    },
+    {
+      "path": "behac",
+      "name": "Haacht"
+    },
+    {
+      "path": "behal",
+      "name": "Hamont-Achel"
+    },
+    {
+      "path": "behat",
+      "name": "Haaltert"
+    },
+    {
+      "path": "behbo",
+      "name": "Herbeumont"
+    },
+    {
+      "path": "behci",
+      "name": "Hélécine"
+    },
+    {
+      "path": "behdg",
+      "name": "Huldenberg"
+    },
+    {
+      "path": "behej",
+      "name": "Harelbeke"
+    },
+    {
+      "path": "beher",
+      "name": "Herentals"
+    },
+    {
+      "path": "behes",
+      "name": "Herselt"
+    },
+    {
+      "path": "behet",
+      "name": "Herent"
+    },
+    {
+      "path": "behex",
+      "name": "Hemiksem"
+    },
+    {
+      "path": "behez",
+      "name": "Herzele"
+    },
+    {
+      "path": "behfa",
+      "name": "Houffalize"
+    },
+    {
+      "path": "behgd",
+      "name": "Hoegaarden"
+    },
+    {
+      "path": "behhg",
+      "name": "Hooglede"
+    },
+    {
+      "path": "behhn",
+      "name": "Ham-sur-Heure-Nalinnes"
+    },
+    {
+      "path": "behht",
+      "name": "Hulshout"
+    },
+    {
+      "path": "behhu",
+      "name": "Houthulst"
+    },
+    {
+      "path": "behka",
+      "name": "Herk-de-Stad"
+    },
+    {
+      "path": "behla",
+      "name": "Halen"
+    },
+    {
+      "path": "behll",
+      "name": "Halle"
+    },
+    {
+      "path": "behln",
+      "name": "Habay"
+    },
+    {
+      "path": "behme",
+      "name": "Hamme"
+    },
+    {
+      "path": "behmi",
+      "name": "Hamois"
+    },
+    {
+      "path": "behmo",
+      "name": "Hamoir"
+    },
+    {
+      "path": "behno",
+      "name": "Héron"
+    },
+    {
+      "path": "behns",
+      "name": "Hensies"
+    },
+    {
+      "path": "behnu",
+      "name": "Hannut"
+    },
+    {
+      "path": "behoi",
+      "name": "Hoeilaart"
+    },
+    {
+      "path": "behon",
+      "name": "Honnelles"
+    },
+    {
+      "path": "behoo",
+      "name": "Hoogstraten"
+    },
+    {
+      "path": "behor",
+      "name": "Horebeke"
+    },
+    {
+      "path": "behot",
+      "name": "Hotton"
+    },
+    {
+      "path": "behov",
+      "name": "Hove"
+    },
+    {
+      "path": "behpd",
+      "name": "Hastière"
+    },
+    {
+      "path": "behpg",
+      "name": "Heist-op-den-Berg"
+    },
+    {
+      "path": "behro",
+      "name": "Herenthout"
+    },
+    {
+      "path": "behrs",
+      "name": "Herstal"
+    },
+    {
+      "path": "behrv",
+      "name": "Herve"
+    },
+    {
+      "path": "behse",
+      "name": "Heers"
+    },
+    {
+      "path": "behsk",
+      "name": "Holsbeek"
+    },
+    {
+      "path": "behss",
+      "name": "Hasselt"
+    },
+    {
+      "path": "behth",
+      "name": "Houthalen-Helchteren"
+    },
+    {
+      "path": "behtp",
+      "name": "Herstappe"
+    },
+    {
+      "path": "behuy",
+      "name": "Huy"
+    },
+    {
+      "path": "behva",
+      "name": "Havelange"
+    },
+    {
+      "path": "behvl",
+      "name": "Heuvelland"
+    },
+    {
+      "path": "behye",
+      "name": "Houyet"
+    },
+    {
+      "path": "behzo",
+      "name": "Heusden-Zolder"
+    },
+    {
+      "path": "beico",
+      "name": "Incourt"
+    },
+    {
+      "path": "beige",
+      "name": "Ingelmunster"
+    },
+    {
+      "path": "beihe",
+      "name": "Ichtegem"
+    },
+    {
+      "path": "beipr",
+      "name": "Ieper"
+    },
+    {
+      "path": "beitr",
+      "name": "Ittre"
+    },
+    {
+      "path": "beizg",
+      "name": "Izegem"
+    },
+    {
+      "path": "bejbe",
+      "name": "Jabbeke"
+    },
+    {
+      "path": "bejbi",
+      "name": "Jurbise"
+    },
+    {
+      "path": "bejdo",
+      "name": "Jodoigne"
+    },
+    {
+      "path": "bejem",
+      "name": "Jemeppe-sur-Sambre"
+    },
+    {
+      "path": "bejet",
+      "name": "Jette"
+    },
+    {
+      "path": "bejhy",
+      "name": "Jalhay"
+    },
+    {
+      "path": "bejpe",
+      "name": "Juprelle"
+    },
+    {
+      "path": "bekao",
+      "name": "Keerbergen"
+    },
+    {
+      "path": "bekee",
+      "name": "Koekelare"
+    },
+    {
+      "path": "bekhi",
+      "name": "Knokke-Heist"
+    },
+    {
+      "path": "bekjk",
+      "name": "Kortrijk"
+    },
+    {
+      "path": "bekks",
+      "name": "Koksijde"
+    },
+    {
+      "path": "bekmh",
+      "name": "Kampenhout"
+    },
+    {
+      "path": "bekna",
+      "name": "Kortenaken"
+    },
+    {
+      "path": "bekoe",
+      "name": "Koekelberg"
+    },
+    {
+      "path": "bekon",
+      "name": "Kontich"
+    },
+    {
+      "path": "bekpb",
+      "name": "Kapelle-op-den-Bos"
+    },
+    {
+      "path": "bekpn",
+      "name": "Kapellen"
+    },
+    {
+      "path": "bekra",
+      "name": "Kraainem"
+    },
+    {
+      "path": "bekri",
+      "name": "Kaprijke"
+    },
+    {
+      "path": "bekro",
+      "name": "Kinrooi"
+    },
+    {
+      "path": "bekrs",
+      "name": "Kruisem"
+    },
+    {
+      "path": "bekse",
+      "name": "Kasterlee"
+    },
+    {
+      "path": "beksr",
+      "name": "Kluisbergen"
+    },
+    {
+      "path": "bektb",
+      "name": "Kortenberg"
+    },
+    {
+      "path": "bektk",
+      "name": "Kortemark"
+    },
+    {
+      "path": "bektt",
+      "name": "Kalmthout"
+    },
+    {
+      "path": "bekuu",
+      "name": "Kuurne"
+    },
+    {
+      "path": "belaa",
+      "name": "Laarne"
+    },
+    {
+      "path": "belad",
+      "name": "Landen"
+    },
+    {
+      "path": "belan",
+      "name": "Lanaken"
+    },
+    {
+      "path": "belap",
+      "name": "La Calamine"
+    },
+    {
+      "path": "belas",
+      "name": "Lasne"
+    },
+    {
+      "path": "belbk",
+      "name": "Lubbeek"
+    },
+    {
+      "path": "belbn",
+      "name": "Libin"
+    },
+    {
+      "path": "belbs",
+      "name": "Lobbes"
+    },
+    {
+      "path": "belby",
+      "name": "La Bruyère"
+    },
+    {
+      "path": "belce",
+      "name": "Lincent"
+    },
+    {
+      "path": "belda",
+      "name": "Laakdal"
+    },
+    {
+      "path": "beldk",
+      "name": "Liedekerke"
+    },
+    {
+      "path": "beleb",
+      "name": "Lebbeke"
+    },
+    {
+      "path": "beled",
+      "name": "Lede"
+    },
+    {
+      "path": "beleg",
+      "name": "Ledegem"
+    },
+    {
+      "path": "beles",
+      "name": "Lessines"
+    },
+    {
+      "path": "beleu",
+      "name": "Leuven"
+    },
+    {
+      "path": "belgg",
+      "name": "Liège"
+    },
+    {
+      "path": "belgi",
+      "name": "Léglise"
+    },
+    {
+      "path": "belhl",
+      "name": "La Hulpe"
+    },
+    {
+      "path": "belht",
+      "name": "Leuze-en-Hainaut"
+    },
+    {
+      "path": "belib",
+      "name": "Libramont-Chevigny"
+    },
+    {
+      "path": "belic",
+      "name": "Lichtervelde"
+    },
+    {
+      "path": "belie",
+      "name": "Lier"
+    },
+    {
+      "path": "belik",
+      "name": "Lennik"
+    },
+    {
+      "path": "belim",
+      "name": "Limbourg"
+    },
+    {
+      "path": "belin",
+      "name": "Linter"
+    },
+    {
+      "path": "beliv",
+      "name": "Lievegem"
+    },
+    {
+      "path": "belkk",
+      "name": "Linkebeek"
+    },
+    {
+      "path": "belle",
+      "name": "Lille"
+    },
+    {
+      "path": "bello",
+      "name": "La Louvière"
+    },
+    {
+      "path": "belml",
+      "name": "Lommel"
+    },
+    {
+      "path": "belnd",
+      "name": "Lendelede"
+    },
+    {
+      "path": "belni",
+      "name": "Lint"
+    },
+    {
+      "path": "belns",
+      "name": "Lens"
+    },
+    {
+      "path": "belnx",
+      "name": "Lierneux"
+    },
+    {
+      "path": "belnz",
+      "name": "Londerzeel"
+    },
+    {
+      "path": "beloh",
+      "name": "Lochristi"
+    },
+    {
+      "path": "belok",
+      "name": "Lokeren"
+    },
+    {
+      "path": "belpg",
+      "name": "Leopoldsburg"
+    },
+    {
+      "path": "belpo",
+      "name": "Langemark-Poelkapelle"
+    },
+    {
+      "path": "belri",
+      "name": "Lo-Reninge"
+    },
+    {
+      "path": "belrz",
+      "name": "Berloz"
+    },
+    {
+      "path": "beltz",
+      "name": "Lontzen"
+    },
+    {
+      "path": "belum",
+      "name": "Lummen"
+    },
+    {
+      "path": "bemac",
+      "name": "Machelen"
+    },
+    {
+      "path": "bemak",
+      "name": "Maarkedal"
+    },
+    {
+      "path": "bemal",
+      "name": "Malle"
+    },
+    {
+      "path": "beman",
+      "name": "Manage"
+    },
+    {
+      "path": "bembw",
+      "name": "Malmedy"
+    },
+    {
+      "path": "bemca",
+      "name": "Merbes-le-Château"
+    },
+    {
+      "path": "bemci",
+      "name": "Marchin"
+    },
+    {
+      "path": "bemdl",
+      "name": "Mont-de-l’Enclus"
+    },
+    {
+      "path": "bemdv",
+      "name": "Meix-devant-Virton"
+    },
+    {
+      "path": "bemec",
+      "name": "Merchtem"
+    },
+    {
+      "path": "bemef",
+      "name": "Marche-en-Famenne"
+    },
+    {
+      "path": "bemeh",
+      "name": "Meerhout"
+    },
+    {
+      "path": "bemen",
+      "name": "Menen"
+    },
+    {
+      "path": "bemer",
+      "name": "Erpe-Mere"
+    },
+    {
+      "path": "bemes",
+      "name": "Messancy"
+    },
+    {
+      "path": "bemhy",
+      "name": "Manhay"
+    },
+    {
+      "path": "bemik",
+      "name": "Middelkerke"
+    },
+    {
+      "path": "bemis",
+      "name": "Meise"
+    },
+    {
+      "path": "bemlg",
+      "name": "Maldegem"
+    },
+    {
+      "path": "bemlo",
+      "name": "Mol"
+    },
+    {
+      "path": "bemlw",
+      "name": "Morlanwelz"
+    },
+    {
+      "path": "bemmn",
+      "name": "Maasmechelen"
+    },
+    {
+      "path": "bemod",
+      "name": "Modave"
+    },
+    {
+      "path": "bemom",
+      "name": "Momignies"
+    },
+    {
+      "path": "bemor",
+      "name": "Mortsel"
+    },
+    {
+      "path": "bemos",
+      "name": "Mouscron"
+    },
+    {
+      "path": "bemps",
+      "name": "Merksplas"
+    },
+    {
+      "path": "bemqs",
+      "name": "Mons"
+    },
+    {
+      "path": "bemrl",
+      "name": "Merelbeke-Melle"
+    },
+    {
+      "path": "bemrs",
+      "name": "Moorslede"
+    },
+    {
+      "path": "bemse",
+      "name": "Mesen"
+    },
+    {
+      "path": "bemsj",
+      "name": "Sint-Jans-Molenbeek"
+    },
+    {
+      "path": "bemsk",
+      "name": "Maaseik"
+    },
+    {
+      "path": "bemsl",
+      "name": "Musson"
+    },
+    {
+      "path": "bemsu",
+      "name": "Mont-Saint-Guibert"
+    },
+    {
+      "path": "bemta",
+      "name": "Martelange"
+    },
+    {
+      "path": "bemte",
+      "name": "Mettet"
+    },
+    {
+      "path": "bemzl",
+      "name": "Montigny-le-Tilleul"
+    },
+    {
+      "path": "benam",
+      "name": "Namur"
+    },
+    {
+      "path": "benca",
+      "name": "Neufchâteau"
+    },
+    {
+      "path": "bendi",
+      "name": "Nandrin"
+    },
+    {
+      "path": "benie",
+      "name": "Nieuwpoort"
+    },
+    {
+      "path": "benil",
+      "name": "Niel"
+    },
+    {
+      "path": "beniv",
+      "name": "Nivelles"
+    },
+    {
+      "path": "bennv",
+      "name": "Ninove"
+    },
+    {
+      "path": "benpe",
+      "name": "Neupré"
+    },
+    {
+      "path": "benrp",
+      "name": "Pelt"
+    },
+    {
+      "path": "benso",
+      "name": "Nassogne"
+    },
+    {
+      "path": "benwe",
+      "name": "Nieuwerkerken"
+    },
+    {
+      "path": "benyl",
+      "name": "Nijlen"
+    },
+    {
+      "path": "benzh",
+      "name": "Nazareth-De Pinte"
+    },
+    {
+      "path": "beoay",
+      "name": "Onhaye"
+    },
+    {
+      "path": "beobg",
+      "name": "Oudenburg"
+    },
+    {
+      "path": "beobl",
+      "name": "Zoersel"
+    },
+    {
+      "path": "beode",
+      "name": "Oudergem"
+    },
+    {
+      "path": "beodg",
+      "name": "Oudsbergen"
+    },
+    {
+      "path": "beohe",
+      "name": "Oud-Heverlee"
+    },
+    {
+      "path": "beohy",
+      "name": "Ohey"
+    },
+    {
+      "path": "beoij",
+      "name": "Opwijk"
+    },
+    {
+      "path": "beoja",
+      "name": "Orp-Jauche"
+    },
+    {
+      "path": "beokp",
+      "name": "Oostkamp"
+    },
+    {
+      "path": "beoln",
+      "name": "Olen"
+    },
+    {
+      "path": "beone",
+      "name": "Olne"
+    },
+    {
+      "path": "beopy",
+      "name": "Oupeye"
+    },
+    {
+      "path": "beosr",
+      "name": "Oostrozebeke"
+    },
+    {
+      "path": "beost",
+      "name": "Oostende"
+    },
+    {
+      "path": "beoth",
+      "name": "Oud-Turnhout"
+    },
+    {
+      "path": "beoti",
+      "name": "Ottignies-Louvain-la-Neuve"
+    },
+    {
+      "path": "beoud",
+      "name": "Oudenaarde"
+    },
+    {
+      "path": "beouf",
+      "name": "Ouffet"
+    },
+    {
+      "path": "beovr",
+      "name": "Overijse"
+    },
+    {
+      "path": "beoye",
+      "name": "Oreye"
+    },
+    {
+      "path": "beoze",
+      "name": "Oosterzele"
+    },
+    {
+      "path": "bepbi",
+      "name": "Plombières"
+    },
+    {
+      "path": "bepcl",
+      "name": "Pont-à-Celles"
+    },
+    {
+      "path": "bepcq",
+      "name": "Pecq"
+    },
+    {
+      "path": "bepee",
+      "name": "Peer"
+    },
+    {
+      "path": "bepep",
+      "name": "Pepinster"
+    },
+    {
+      "path": "bepfe",
+      "name": "Profondeville"
+    },
+    {
+      "path": "bepge",
+      "name": "Wortegem-Petegem"
+    },
+    {
+      "path": "bephi",
+      "name": "Philippeville"
+    },
+    {
+      "path": "bepin",
+      "name": "Pepingen"
+    },
+    {
+      "path": "bepjt",
+      "name": "Pajottegem"
+    },
+    {
+      "path": "bepli",
+      "name": "Paliseul"
+    },
+    {
+      "path": "bepop",
+      "name": "Poperinge"
+    },
+    {
+      "path": "beprw",
+      "name": "Perwez"
+    },
+    {
+      "path": "beptt",
+      "name": "Pittem"
+    },
+    {
+      "path": "beput",
+      "name": "Putte"
+    },
+    {
+      "path": "bepuu",
+      "name": "Puurs-Sint-Amands"
+    },
+    {
+      "path": "bepwz",
+      "name": "Péruwelz"
+    },
+    {
+      "path": "beqro",
+      "name": "Quaregnon"
+    },
+    {
+      "path": "beqva",
+      "name": "Quiévrain"
+    },
+    {
+      "path": "beqvy",
+      "name": "Quévy"
+    },
+    {
+      "path": "berae",
+      "name": "Raeren"
+    },
+    {
+      "path": "berar",
+      "name": "La Roche-en-Ardenne"
+    },
+    {
+      "path": "beras",
+      "name": "Ranst"
+    },
+    {
+      "path": "berba",
+      "name": "Rotselaar"
+    },
+    {
+      "path": "berbq",
+      "name": "Rebecq"
+    },
+    {
+      "path": "bercu",
+      "name": "Remicourt"
+    },
+    {
+      "path": "berdl",
+      "name": "Roosdaal"
+    },
+    {
+      "path": "beren",
+      "name": "Rendeux"
+    },
+    {
+      "path": "bereq",
+      "name": "Erquelinnes"
+    },
+    {
+      "path": "berij",
+      "name": "Rijkevorsel"
+    },
+    {
+      "path": "berin",
+      "name": "Beringen"
+    },
+    {
+      "path": "beris",
+      "name": "Riemst"
+    },
+    {
+      "path": "berix",
+      "name": "Rixensart"
+    },
+    {
+      "path": "bermi",
+      "name": "Ramillies"
+    },
+    {
+      "path": "berms",
+      "name": "Rumes"
+    },
+    {
+      "path": "beroc",
+      "name": "Rochefort"
+    },
+    {
+      "path": "beroe",
+      "name": "Roeselare"
+    },
+    {
+      "path": "beron",
+      "name": "Ronse"
+    },
+    {
+      "path": "berou",
+      "name": "Le Roeulx"
+    },
+    {
+      "path": "berti",
+      "name": "Retie"
+    },
+    {
+      "path": "berus",
+      "name": "Rumst"
+    },
+    {
+      "path": "bervs",
+      "name": "Ravels"
+    },
+    {
+      "path": "bervy",
+      "name": "Rouvroy"
+    },
+    {
+      "path": "besav",
+      "name": "Sambreville"
+    },
+    {
+      "path": "besbf",
+      "name": "Sombreffe"
+    },
+    {
+      "path": "besbk",
+      "name": "Schaarbeek"
+    },
+    {
+      "path": "besce",
+      "name": "Schilde"
+    },
+    {
+      "path": "besct",
+      "name": "Schoten"
+    },
+    {
+      "path": "besen",
+      "name": "Seneffe"
+    },
+    {
+      "path": "besgi",
+      "name": "Sint-Gillis"
+    },
+    {
+      "path": "besgr",
+      "name": "Sint-Genesius-Rode"
+    },
+    {
+      "path": "besgw",
+      "name": "Sint-Gillis-Waas"
+    },
+    {
+      "path": "beshl",
+      "name": "Schelle"
+    },
+    {
+      "path": "beshu",
+      "name": "Saint-Hubert"
+    },
+    {
+      "path": "besiy",
+      "name": "Silly"
+    },
+    {
+      "path": "besjn",
+      "name": "Sint-Joost-ten-Node"
+    },
+    {
+      "path": "beskk",
+      "name": "Steenokkerzeel"
+    },
+    {
+      "path": "beslg",
+      "name": "Saint-Léger"
+    },
+    {
+      "path": "beslh",
+      "name": "Sint-Lievens-Houtem"
+    },
+    {
+      "path": "beslt",
+      "name": "Stavelot"
+    },
+    {
+      "path": "beslu",
+      "name": "Sint-Laureins"
+    },
+    {
+      "path": "beslw",
+      "name": "Sint-Lambrechts-Woluwe"
+    },
+    {
+      "path": "besmi",
+      "name": "Lierde"
+    },
+    {
+      "path": "besml",
+      "name": "Sint-Martens-Latem"
+    },
+    {
+      "path": "besmo",
+      "name": "Sprimont"
+    },
+    {
+      "path": "besnk",
+      "name": "Sint-Niklaas"
+    },
+    {
+      "path": "besno",
+      "name": "Saint-Nicolas"
+    },
+    {
+      "path": "besod",
+      "name": "Sainte-Ode"
+    },
+    {
+      "path": "besoi",
+      "name": "Soignies"
+    },
+    {
+      "path": "besou",
+      "name": "Soumagne"
+    },
+    {
+      "path": "bespa",
+      "name": "Spa"
+    },
+    {
+      "path": "bespi",
+      "name": "Spiere-Helkijn"
+    },
+    {
+      "path": "bespo",
+      "name": "Sint-Pieters-Woluwe"
+    },
+    {
+      "path": "bessl",
+      "name": "Sint-Katelijne-Waver"
+    },
+    {
+      "path": "besta",
+      "name": "Stabroek"
+    },
+    {
+      "path": "bestd",
+      "name": "Staden"
+    },
+    {
+      "path": "bestk",
+      "name": "Stekene"
+    },
+    {
+      "path": "bestr",
+      "name": "Sint-Truiden"
+    },
+    {
+      "path": "bestu",
+      "name": "Stoumont"
+    },
+    {
+      "path": "besuz",
+      "name": "Somme-Leuze"
+    },
+    {
+      "path": "besvh",
+      "name": "Saint-Vith"
+    },
+    {
+      "path": "besyr",
+      "name": "Sivry-Rance"
+    },
+    {
+      "path": "betap",
+      "name": "Theux"
+    },
+    {
+      "path": "betbz",
+      "name": "Tubize"
+    },
+    {
+      "path": "betcl",
+      "name": "Thimister-Clermont"
+    },
+    {
+      "path": "beten",
+      "name": "Tervuren"
+    },
+    {
+      "path": "beter",
+      "name": "Ternat"
+    },
+    {
+      "path": "betes",
+      "name": "Tessenderlo-Ham"
+    },
+    {
+      "path": "bethu",
+      "name": "Thuin"
+    },
+    {
+      "path": "betie",
+      "name": "Tienen"
+    },
+    {
+      "path": "betli",
+      "name": "Tellin"
+    },
+    {
+      "path": "betlo",
+      "name": "Tinlot"
+    },
+    {
+      "path": "betlt",
+      "name": "Tielt"
+    },
+    {
+      "path": "betmo",
+      "name": "Tremelo"
+    },
+    {
+      "path": "beton",
+      "name": "Tongeren-Borgloon"
+    },
+    {
+      "path": "betpo",
+      "name": "Trois-Ponts"
+    },
+    {
+      "path": "betrn",
+      "name": "Tournai"
+    },
+    {
+      "path": "betro",
+      "name": "Trooz"
+    },
+    {
+      "path": "betrt",
+      "name": "Torhout"
+    },
+    {
+      "path": "betse",
+      "name": "Temse"
+    },
+    {
+      "path": "betty",
+      "name": "Tintigny"
+    },
+    {
+      "path": "betur",
+      "name": "Turnhout"
+    },
+    {
+      "path": "betvl",
+      "name": "Tenneville"
+    },
+    {
+      "path": "betwi",
+      "name": "Tielt-Winge"
+    },
+    {
+      "path": "beuke",
+      "name": "Ukkel"
+    },
+    {
+      "path": "bevbo",
+      "name": "Villers-Le-Bouillet"
+    },
+    {
+      "path": "bever",
+      "name": "Verviers"
+    },
+    {
+      "path": "beveu",
+      "name": "Veurne"
+    },
+    {
+      "path": "bevgw",
+      "name": "Sint-Pieters-Leeuw"
+    },
+    {
+      "path": "bevil",
+      "name": "Vilvoorde"
+    },
+    {
+      "path": "bevir",
+      "name": "Virton"
+    },
+    {
+      "path": "bevis",
+      "name": "Visé"
+    },
+    {
+      "path": "bevla",
+      "name": "Verlaine"
+    },
+    {
+      "path": "bevle",
+      "name": "Vleteren"
+    },
+    {
+      "path": "bevlv",
+      "name": "Villers-la-Ville"
+    },
+    {
+      "path": "bevoe",
+      "name": "Voeren"
+    },
+    {
+      "path": "bevol",
+      "name": "Vorselaar"
+    },
+    {
+      "path": "bevor",
+      "name": "Vosselaar"
+    },
+    {
+      "path": "bevos",
+      "name": "Vorst"
+    },
+    {
+      "path": "bevro",
+      "name": "Viroinval"
+    },
+    {
+      "path": "bevsm",
+      "name": "Vielsalm"
+    },
+    {
+      "path": "bevso",
+      "name": "Vresse-sur-Semois"
+    },
+    {
+      "path": "bevsu",
+      "name": "Vaux-sur-Sûre"
+    },
+    {
+      "path": "bewaa",
+      "name": "Waasmunster"
+    },
+    {
+      "path": "bewal",
+      "name": "Waterloo"
+    },
+    {
+      "path": "bewan",
+      "name": "Wanze"
+    },
+    {
+      "path": "bewar",
+      "name": "Waregem"
+    },
+    {
+      "path": "bewbv",
+      "name": "Watermaal-Bosvoorde"
+    },
+    {
+      "path": "bewco",
+      "name": "Walcourt"
+    },
+    {
+      "path": "bewee",
+      "name": "Wingene"
+    },
+    {
+      "path": "bewel",
+      "name": "Wellen"
+    },
+    {
+      "path": "bewer",
+      "name": "Wervik"
+    },
+    {
+      "path": "bewes",
+      "name": "Westerlo"
+    },
+    {
+      "path": "bewet",
+      "name": "Wetteren"
+    },
+    {
+      "path": "bewev",
+      "name": "Wevelgem"
+    },
+    {
+      "path": "bewha",
+      "name": "Walhain"
+    },
+    {
+      "path": "bewih",
+      "name": "Wichelen"
+    },
+    {
+      "path": "bewik",
+      "name": "Wielsbeke"
+    },
+    {
+      "path": "bewim",
+      "name": "Waimes"
+    },
+    {
+      "path": "bewin",
+      "name": "Wellin"
+    },
+    {
+      "path": "bewjg",
+      "name": "Wijnegem"
+    },
+    {
+      "path": "bewkd",
+      "name": "Welkenraedt"
+    },
+    {
+      "path": "bewko",
+      "name": "Wezembeek-Oppem"
+    },
+    {
+      "path": "bewlb",
+      "name": "Willebroek"
+    },
+    {
+      "path": "bewml",
+      "name": "Wemmel"
+    },
+    {
+      "path": "bewmm",
+      "name": "Wommelgem"
+    },
+    {
+      "path": "bewre",
+      "name": "Waremme"
+    },
+    {
+      "path": "bewsi",
+      "name": "Wasseiges"
+    },
+    {
+      "path": "bewuu",
+      "name": "Wuustwezel"
+    },
+    {
+      "path": "bewvr",
+      "name": "Wavre"
+    },
+    {
+      "path": "beyvo",
+      "name": "Yvoir"
+    },
+    {
+      "path": "bezan",
+      "name": "Zandhoven"
+    },
+    {
+      "path": "bezav",
+      "name": "Zaventem"
+    },
+    {
+      "path": "bezed",
+      "name": "Zedelgem"
+    },
+    {
+      "path": "bezel",
+      "name": "Zelzate"
+    },
+    {
+      "path": "bezer",
+      "name": "Seraing"
+    },
+    {
+      "path": "bezet",
+      "name": "Zemst"
+    },
+    {
+      "path": "bezhv",
+      "name": "Zonhoven"
+    },
+    {
+      "path": "bezic",
+      "name": "Scherpenheuvel-Zichem"
+    },
+    {
+      "path": "bezke",
+      "name": "Zuienkerke"
+    },
+    {
+      "path": "bezle",
+      "name": "Zele"
+    },
+    {
+      "path": "bezob",
+      "name": "Zonnebeke"
+    },
+    {
+      "path": "bezot",
+      "name": "Zottegem"
+    },
+    {
+      "path": "bezou",
+      "name": "Zoutleeuw"
+    },
+    {
+      "path": "beztl",
+      "name": "Zutendaal"
+    },
+    {
+      "path": "bezul",
+      "name": "Zulte"
+    },
+    {
+      "path": "bezwa",
+      "name": "Zwalm"
+    },
+    {
+      "path": "bezwe",
+      "name": "Zwevegem"
     },
     {
       "path": "bf",
