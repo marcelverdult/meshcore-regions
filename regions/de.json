@@ -475,6 +475,11 @@
       "regions": []
     },
     {
+      "code": "de-ffnw",
+      "name": "ffnw",
+      "regions": []
+    },
+    {
       "code": "de-fra",
       "name": "fra",
       "regions": []
@@ -760,6 +765,11 @@
         {
           "code": "de-ni-wob",
           "name": "wob",
+          "regions": []
+        },
+        {
+          "code": "de-ni-wtm",
+          "name": "wtm",
           "regions": []
         }
       ]

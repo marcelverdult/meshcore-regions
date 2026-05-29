@@ -104,6 +104,21 @@
       ]
     },
     {
+      "code": "be-lgg",
+      "name": "lgg",
+      "regions": []
+    },
+    {
+      "code": "be-lie",
+      "name": "lie",
+      "regions": []
+    },
+    {
+      "code": "be-so",
+      "name": "so",
+      "regions": []
+    },
+    {
       "code": "be-van",
       "name": "Antwerpen",
       "regions": [
@@ -1557,6 +1572,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "be-wal",
+      "name": "wal",
+      "regions": []
     },
     {
       "code": "be-wbr",

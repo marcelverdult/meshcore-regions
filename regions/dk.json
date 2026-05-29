@@ -27,6 +27,11 @@
       "code": "dk-sdk",
       "name": "sdk",
       "regions": []
+    },
+    {
+      "code": "dk-sjl",
+      "name": "sjl",
+      "regions": []
     }
   ]
 }

@@ -25,6 +25,31 @@
           "code": "at-ooe-fr",
           "name": "fr",
           "regions": []
+        },
+        {
+          "code": "at-ooe-l",
+          "name": "l",
+          "regions": []
+        },
+        {
+          "code": "at-ooe-ll",
+          "name": "ll",
+          "regions": []
+        },
+        {
+          "code": "at-ooe-pe",
+          "name": "pe",
+          "regions": []
+        },
+        {
+          "code": "at-ooe-ro",
+          "name": "ro",
+          "regions": []
+        },
+        {
+          "code": "at-ooe-uu",
+          "name": "uu",
+          "regions": []
         }
       ]
     },
