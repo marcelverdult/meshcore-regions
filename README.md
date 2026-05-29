@@ -56,13 +56,17 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-05-29T04:29:46Z`
+- Last sync: `2026-05-29T17:11:03Z`
 - Roots: 252
-- Total nodes: 677
-- Unsorted entries: 277
+- Total nodes: 1254
+- Unsorted entries: 279
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-05-29T19:07:01Z | manual | a66f46d | feat(be): complete Belgium provinces, add city sub-regions |
+| 2026-05-29T19:06:44Z | manual | 1e7a7fd | fix(validate): only verify index.json freshness when it is committed |
+| 2026-05-29T18:29:14Z | manual | 4afc1ac | Merge pull request #11 from marcelverdult/sync/auto |
+| 2026-05-29T04:29:47Z | sync | ec80260 | sync: 36 added, 9 resolved, 277 unsorted |
 | 2026-05-26T04:25:59Z | sync | 0bed871 | Merge pull request #10 from marcelverdult/sync/auto |
 | 2026-05-26T04:25:54Z | sync | 1d233a0 | sync: 10 added, 9 resolved, 238 unsorted |
 | 2026-05-25T04:30:49Z | sync | 6891caa | Merge pull request #8 from marcelverdult/sync/auto |
@@ -79,10 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-05-22T13:01:40Z | manual | 606ce7f | regions: name de-nw-owl as Ostwestfalen-Lippe |
 | 2026-05-22T09:57:30Z | manual | c58038c | docs: release catalog under CC0 1.0 |
 | 2026-05-22T04:30:43Z | sync | 6bb90c0 | Merge pull request #3 from marcelverdult/sync/auto |
-| 2026-05-22T04:30:38Z | sync | 57f6ab6 | sync: 20 added, 1 resolved, 202 unsorted |
-| 2026-05-21T04:30:20Z | sync | e9d5d2c | Merge pull request #2 from marcelverdult/sync/auto |
-| 2026-05-21T04:30:15Z | sync | b670f71 | sync: 3 added, 2 resolved, 195 unsorted |
-| 2026-05-20T23:51:50Z | manual | 5540ef7 | schema: cap code segments at 29 chars, drop arbitrary 64 total |
 
 <!-- regions:auto-status:end -->
 

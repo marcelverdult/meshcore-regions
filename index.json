@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T16:53:30Z",
+  "generated_at": "2026-05-29T17:11:03Z",
   "tree": [
     {
       "code": "ad",
@@ -82,6 +82,31 @@
             {
               "code": "at-ooe-fr",
               "name": "fr",
+              "regions": []
+            },
+            {
+              "code": "at-ooe-l",
+              "name": "l",
+              "regions": []
+            },
+            {
+              "code": "at-ooe-ll",
+              "name": "ll",
+              "regions": []
+            },
+            {
+              "code": "at-ooe-pe",
+              "name": "pe",
+              "regions": []
+            },
+            {
+              "code": "at-ooe-ro",
+              "name": "ro",
+              "regions": []
+            },
+            {
+              "code": "at-ooe-uu",
+              "name": "uu",
               "regions": []
             }
           ]
@@ -314,6 +339,21 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "be-lgg",
+          "name": "lgg",
+          "regions": []
+        },
+        {
+          "code": "be-lie",
+          "name": "lie",
+          "regions": []
+        },
+        {
+          "code": "be-so",
+          "name": "so",
+          "regions": []
         },
         {
           "code": "be-van",
@@ -1769,6 +1809,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "be-wal",
+          "name": "wal",
+          "regions": []
         },
         {
           "code": "be-wbr",
@@ -3877,6 +3922,11 @@
           "regions": []
         },
         {
+          "code": "de-ffnw",
+          "name": "ffnw",
+          "regions": []
+        },
+        {
           "code": "de-fra",
           "name": "fra",
           "regions": []
@@ -4162,6 +4212,11 @@
             {
               "code": "de-ni-wob",
               "name": "wob",
+              "regions": []
+            },
+            {
+              "code": "de-ni-wtm",
+              "name": "wtm",
               "regions": []
             }
           ]
@@ -4696,6 +4751,11 @@
           "code": "dk-sdk",
           "name": "sdk",
           "regions": []
+        },
+        {
+          "code": "dk-sjl",
+          "name": "sjl",
+          "regions": []
         }
       ]
     },
@@ -5065,6 +5125,17 @@
             {
               "code": "it-emr-pr",
               "name": "Parma",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "it-laz",
+          "name": "laz",
+          "regions": [
+            {
+              "code": "it-laz-rm",
+              "name": "rm",
               "regions": []
             }
           ]
@@ -6343,6 +6414,26 @@
       "name": "fr"
     },
     {
+      "path": "at-ooe-l",
+      "name": "l"
+    },
+    {
+      "path": "at-ooe-ll",
+      "name": "ll"
+    },
+    {
+      "path": "at-ooe-pe",
+      "name": "pe"
+    },
+    {
+      "path": "at-ooe-ro",
+      "name": "ro"
+    },
+    {
+      "path": "at-ooe-uu",
+      "name": "uu"
+    },
+    {
       "path": "at-ost",
       "name": "ost"
     },
@@ -6448,11 +6539,23 @@
     },
     {
       "path": "be-lgg",
+      "name": "lgg"
+    },
+    {
+      "path": "be-lgg",
       "name": "Liège"
     },
     {
       "path": "be-lie",
+      "name": "lie"
+    },
+    {
+      "path": "be-lie",
       "name": "Lier"
+    },
+    {
+      "path": "be-so",
+      "name": "so"
     },
     {
       "path": "be-so",
@@ -6477,6 +6580,10 @@
     {
       "path": "be-vwv",
       "name": "West-Vlaanderen"
+    },
+    {
+      "path": "be-wal",
+      "name": "wal"
     },
     {
       "path": "be-wal",
@@ -9359,6 +9466,10 @@
       "name": "emd"
     },
     {
+      "path": "de-ffnw",
+      "name": "ffnw"
+    },
+    {
       "path": "de-fra",
       "name": "fra"
     },
@@ -9585,6 +9696,10 @@
     {
       "path": "de-ni-wob",
       "name": "wob"
+    },
+    {
+      "path": "de-ni-wtm",
+      "name": "wtm"
     },
     {
       "path": "de-nom",
@@ -9967,6 +10082,10 @@
       "name": "sdk"
     },
     {
+      "path": "dk-sjl",
+      "name": "sjl"
+    },
+    {
       "path": "dm",
       "name": "Dominica"
     },
@@ -10269,6 +10388,14 @@
     {
       "path": "it-emr-pr",
       "name": "Parma"
+    },
+    {
+      "path": "it-laz",
+      "name": "laz"
+    },
+    {
+      "path": "it-laz-rm",
+      "name": "rm"
     },
     {
       "path": "it-li",
