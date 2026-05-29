@@ -139,6 +139,17 @@ function checkIndexFreshness() {
   let computed;
   try { computed = buildIndex(onDisk.generated_at || '1970-01-01T00:00:00Z'); }
   catch (e) { err(`index.json: rebuild failed: ${e.message}`); return; }
+  // index.json is a generated artifact: checkPrScope forbids contributors from
+  // committing it, so the sync bot is the only author that ever changes it.
+  // Verify it matches the source only when index.json is actually part of the
+  // change set (the bot's PRs). Source-only PRs legitimately leave a stale
+  // index.json behind; the bot regenerates it on its next run. The buildIndex
+  // call above still runs unconditionally, so malformed data is caught here.
+  const changed = process.env.GH_CHANGED_FILES;
+  if (changed !== undefined) {
+    const files = changed.split(/\r?\n/).map((s) => s.trim()).filter(Boolean);
+    if (!files.includes('index.json')) return;
+  }
   const a = JSON.stringify({ tree: onDisk.tree, flat: onDisk.flat });
   const b = JSON.stringify({ tree: computed.tree, flat: computed.flat });
   if (a !== b) err('index.json is stale; run scripts/build-index.mjs');
