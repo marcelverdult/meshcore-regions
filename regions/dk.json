@@ -3,6 +3,11 @@
   "name": "Denmark",
   "regions": [
     {
+      "code": "dk-bhm",
+      "name": "bhm",
+      "regions": []
+    },
+    {
       "code": "dk-fyn",
       "name": "fyn",
       "regions": [

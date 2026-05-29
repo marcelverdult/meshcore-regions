@@ -13,6 +13,11 @@
       "regions": []
     },
     {
+      "code": "nl-ape",
+      "name": "ape",
+      "regions": []
+    },
+    {
       "code": "nl-brd",
       "name": "brd",
       "regions": []
@@ -65,6 +70,11 @@
           "code": "nl-ge-ltn",
           "name": "ltn",
           "regions": []
+        },
+        {
+          "code": "nl-ge-nun",
+          "name": "nun",
+          "regions": []
         }
       ]
     },
@@ -95,6 +105,11 @@
       "regions": []
     },
     {
+      "code": "nl-hhw",
+      "name": "hhw",
+      "regions": []
+    },
+    {
       "code": "nl-hrd",
       "name": "hrd",
       "regions": []
@@ -102,6 +117,11 @@
     {
       "code": "nl-hrv",
       "name": "hrv",
+      "regions": []
+    },
+    {
+      "code": "nl-ldd",
+      "name": "ldd",
       "regions": []
     },
     {
@@ -147,6 +167,16 @@
         {
           "code": "nl-nh-asd",
           "name": "asd",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-gok",
+          "name": "gok",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-sbc",
+          "name": "sbc",
           "regions": []
         },
         {
@@ -229,6 +259,11 @@
       "regions": []
     },
     {
+      "code": "nl-wrm",
+      "name": "wrm",
+      "regions": []
+    },
+    {
       "code": "nl-ze",
       "name": "Zeeland",
       "regions": []
@@ -248,6 +283,11 @@
           "regions": []
         },
         {
+          "code": "nl-zh-ldd",
+          "name": "ldd",
+          "regions": []
+        },
+        {
           "code": "nl-zh-lds",
           "name": "lds",
           "regions": []
@@ -263,6 +303,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "nl-zwo",
+      "name": "zwo",
+      "regions": []
     }
   ]
 }
