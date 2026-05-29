@@ -104,21 +104,6 @@
       ]
     },
     {
-      "code": "be-lgg",
-      "name": "Liège",
-      "regions": []
-    },
-    {
-      "code": "be-lie",
-      "name": "Lier",
-      "regions": []
-    },
-    {
-      "code": "be-so",
-      "name": "Soignies",
-      "regions": []
-    },
-    {
       "code": "be-van",
       "name": "Antwerpen",
       "regions": [
@@ -1572,11 +1557,6 @@
           "regions": []
         }
       ]
-    },
-    {
-      "code": "be-wal",
-      "name": "Wallonie",
-      "regions": []
     },
     {
       "code": "be-wbr",

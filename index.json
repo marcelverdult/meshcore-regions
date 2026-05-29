@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T07:15:53Z",
+  "generated_at": "2026-05-29T07:25:01Z",
   "tree": [
     {
       "code": "ad",
@@ -314,21 +314,6 @@
               "regions": []
             }
           ]
-        },
-        {
-          "code": "be-lgg",
-          "name": "Liège",
-          "regions": []
-        },
-        {
-          "code": "be-lie",
-          "name": "Lier",
-          "regions": []
-        },
-        {
-          "code": "be-so",
-          "name": "Soignies",
-          "regions": []
         },
         {
           "code": "be-van",
@@ -1784,11 +1769,6 @@
               "regions": []
             }
           ]
-        },
-        {
-          "code": "be-wal",
-          "name": "Wallonie",
-          "regions": []
         },
         {
           "code": "be-wbr",
@@ -6282,18 +6262,6 @@
       "name": "Brussel"
     },
     {
-      "path": "be-lgg",
-      "name": "Liège"
-    },
-    {
-      "path": "be-lie",
-      "name": "Lier"
-    },
-    {
-      "path": "be-so",
-      "name": "Soignies"
-    },
-    {
       "path": "be-van",
       "name": "Antwerpen"
     },
@@ -6312,10 +6280,6 @@
     {
       "path": "be-vwv",
       "name": "West-Vlaanderen"
-    },
-    {
-      "path": "be-wal",
-      "name": "Wallonie"
     },
     {
       "path": "be-wbr",
