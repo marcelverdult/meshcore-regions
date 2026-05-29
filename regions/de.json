@@ -63,6 +63,11 @@
       "name": "Berlin",
       "regions": [
         {
+          "code": "de-be-bb",
+          "name": "bb",
+          "regions": []
+        },
+        {
           "code": "de-be-sw",
           "name": "sw",
           "regions": []
@@ -275,6 +280,17 @@
           "regions": []
         },
         {
+          "code": "de-by-ebe",
+          "name": "ebe",
+          "regions": [
+            {
+              "code": "de-by-ebe-marktschwaben",
+              "name": "marktschwaben",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "de-by-ed",
           "name": "ed",
           "regions": []
@@ -287,6 +303,11 @@
         {
           "code": "de-by-fr",
           "name": "fr",
+          "regions": []
+        },
+        {
+          "code": "de-by-fra",
+          "name": "fra",
           "regions": []
         },
         {
@@ -454,6 +475,11 @@
       "regions": []
     },
     {
+      "code": "de-fra",
+      "name": "fra",
+      "regions": []
+    },
+    {
       "code": "de-fri",
       "name": "fri",
       "regions": []
@@ -557,6 +583,11 @@
       "regions": []
     },
     {
+      "code": "de-msl",
+      "name": "msl",
+      "regions": []
+    },
+    {
       "code": "de-mv",
       "name": "Mecklenburg-Vorpommern",
       "regions": [
@@ -576,8 +607,33 @@
           "regions": []
         },
         {
+          "code": "de-mv-lro",
+          "name": "lro",
+          "regions": []
+        },
+        {
+          "code": "de-mv-lup",
+          "name": "lup",
+          "regions": []
+        },
+        {
+          "code": "de-mv-mse",
+          "name": "mse",
+          "regions": []
+        },
+        {
+          "code": "de-mv-nwm",
+          "name": "nwm",
+          "regions": []
+        },
+        {
           "code": "de-mv-sbg",
           "name": "sbg",
+          "regions": []
+        },
+        {
+          "code": "de-mv-sn",
+          "name": "sn",
           "regions": []
         },
         {
@@ -591,6 +647,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "de-ne",
+      "name": "ne",
+      "regions": []
     },
     {
       "code": "de-ni",
@@ -609,6 +670,11 @@
         {
           "code": "de-ni-frie",
           "name": "frie",
+          "regions": []
+        },
+        {
+          "code": "de-ni-gf",
+          "name": "gf",
           "regions": []
         },
         {
@@ -674,6 +740,11 @@
         {
           "code": "de-ni-sz",
           "name": "sz",
+          "regions": []
+        },
+        {
+          "code": "de-ni-ue",
+          "name": "ue",
           "regions": []
         },
         {
@@ -976,7 +1047,13 @@
     {
       "code": "de-sl",
       "name": "Saarland",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-sl-beck",
+          "name": "beck",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-sn",
@@ -1061,6 +1138,11 @@
         {
           "code": "de-st-md",
           "name": "md",
+          "regions": []
+        },
+        {
+          "code": "de-st-saw",
+          "name": "saw",
           "regions": []
         }
       ]

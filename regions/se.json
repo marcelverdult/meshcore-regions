@@ -1,5 +1,36 @@
 {
   "code": "se",
   "name": "Sweden",
-  "regions": []
+  "regions": [
+    {
+      "code": "se-10",
+      "name": "10",
+      "regions": []
+    },
+    {
+      "code": "se-1060",
+      "name": "1060",
+      "regions": []
+    },
+    {
+      "code": "se-1080",
+      "name": "1080",
+      "regions": []
+    },
+    {
+      "code": "se-1081",
+      "name": "1081",
+      "regions": []
+    },
+    {
+      "code": "se-1082",
+      "name": "1082",
+      "regions": []
+    },
+    {
+      "code": "se-1083",
+      "name": "1083",
+      "regions": []
+    }
+  ]
 }

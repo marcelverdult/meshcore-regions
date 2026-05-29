@@ -1,5 +1,17 @@
 {
   "code": "pt",
   "name": "Portugal",
-  "regions": []
+  "regions": [
+    {
+      "code": "pt-lis",
+      "name": "lis",
+      "regions": [
+        {
+          "code": "pt-lis-mfr",
+          "name": "mfr",
+          "regions": []
+        }
+      ]
+    }
+  ]
 }
