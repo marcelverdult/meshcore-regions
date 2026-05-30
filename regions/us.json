@@ -3,6 +3,22 @@
   "name": "United States",
   "regions": [
     {
+      "code": "us-al",
+      "name": "al",
+      "regions": []
+    },
+    {
+      "code": "us-fl",
+      "name": "fl",
+      "regions": [
+        {
+          "code": "us-fl-pns",
+          "name": "pns",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "us-wa",
       "name": "wa",
       "regions": []
