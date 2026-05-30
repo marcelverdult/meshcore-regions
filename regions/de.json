@@ -114,6 +114,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-cr",
+          "name": "cr",
+          "regions": []
+        },
+        {
           "code": "de-bw-cw",
           "name": "cw",
           "regions": []
@@ -575,6 +580,11 @@
     {
       "code": "de-le",
       "name": "le",
+      "regions": []
+    },
+    {
+      "code": "de-mh",
+      "name": "mh",
       "regions": []
     },
     {

@@ -12,6 +12,11 @@
       "name": "fyn",
       "regions": [
         {
+          "code": "dk-fyn-ringe",
+          "name": "ringe",
+          "regions": []
+        },
+        {
           "code": "dk-fyn-svendborg",
           "name": "svendborg",
           "regions": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T17:11:03Z",
+  "generated_at": "2026-05-30T04:22:12Z",
   "buckets": {
     "a": [
       {
@@ -62,37 +62,37 @@
       {
         "raw": "becar",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "becet",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "becgx",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "begem",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "belas",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "bemsu",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "beoti",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "bergischesland",
@@ -107,22 +107,22 @@
       {
         "raw": "berix",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "bevlv",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "bewha",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "bewvr",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "bhd",
@@ -142,7 +142,7 @@
       {
         "raw": "bonn",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "braunschweig",
@@ -224,6 +224,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "danmark",
+        "reason": "no_root",
+        "first_seen": "2026-05-30T04:22:12Z"
+      },
+      {
         "raw": "darmstadt",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -254,6 +259,11 @@
         "first_seen": "2026-05-24T04:28:11Z"
       },
       {
+        "raw": "detmold",
+        "reason": "no_root",
+        "first_seen": "2026-05-30T04:22:12Z"
+      },
+      {
         "raw": "dk5",
         "reason": "no_root",
         "first_seen": "2026-05-29T04:29:46Z"
@@ -272,6 +282,16 @@
         "raw": "dk5700",
         "reason": "no_root",
         "first_seen": "2026-05-29T04:29:46Z"
+      },
+      {
+        "raw": "dk58",
+        "reason": "no_root",
+        "first_seen": "2026-05-30T04:22:12Z"
+      },
+      {
+        "raw": "dk59",
+        "reason": "no_root",
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "dl-mitte",
@@ -321,7 +341,7 @@
       {
         "raw": "drielande",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "dt",
@@ -368,7 +388,7 @@
       {
         "raw": "eifel",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "emergency",
@@ -511,9 +531,19 @@
         "raw": "funkfeuer",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "fyn",
+        "reason": "no_root",
+        "first_seen": "2026-05-30T04:22:12Z"
       }
     ],
     "g": [
+      {
+        "raw": "gc-fl-pns-mm",
+        "reason": "no_root",
+        "first_seen": "2026-05-30T04:22:12Z"
+      },
       {
         "raw": "gdn",
         "reason": "no_root",
@@ -559,7 +589,7 @@
       {
         "raw": "hansemesh",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "he",
@@ -655,7 +685,7 @@
       {
         "raw": "koeln",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "krk",
@@ -687,7 +717,7 @@
       {
         "raw": "leverkusen",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "local",
@@ -761,7 +791,7 @@
       {
         "raw": "niederrhein",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "noc",
@@ -968,7 +998,7 @@
       {
         "raw": "rheinland",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "rhine",
@@ -986,6 +1016,11 @@
         "first_seen": "2026-05-25T04:30:44Z"
       },
       {
+        "raw": "ringe",
+        "reason": "no_root",
+        "first_seen": "2026-05-30T04:22:12Z"
+      },
+      {
         "raw": "robot",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -998,7 +1033,7 @@
       {
         "raw": "ruhrgebiet",
         "reason": "no_root",
-        "first_seen": "2026-05-29T17:11:03Z"
+        "first_seen": "2026-05-30T04:22:12Z"
       }
     ],
     "s": [
@@ -1176,6 +1211,11 @@
         "raw": "suedbaden",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "svendborg",
+        "reason": "no_root",
+        "first_seen": "2026-05-30T04:22:12Z"
       },
       {
         "raw": "swsw",
@@ -1419,7 +1459,13 @@
         "first_seen": "2026-05-29T04:29:46Z"
       }
     ],
-    "z": [],
+    "z": [
+      {
+        "raw": "zwickau",
+        "reason": "no_root",
+        "first_seen": "2026-05-30T04:22:12Z"
+      }
+    ],
     "_": [
       {
         "raw": "*",

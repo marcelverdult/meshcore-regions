@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-05-29T17:11:03Z`
+- Last sync: `2026-05-30T04:22:12Z`
 - Roots: 252
-- Total nodes: 1254
-- Unsorted entries: 279
+- Total nodes: 1261
+- Unsorted entries: 288
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-05-29T17:11:11Z | sync | de0521d | Merge pull request #13 from marcelverdult/sync/auto |
+| 2026-05-29T17:11:04Z | sync | 080d9d4 | sync: 14 added, 9 resolved, 279 unsorted |
 | 2026-05-29T19:07:01Z | manual | a66f46d | feat(be): complete Belgium provinces, add city sub-regions |
 | 2026-05-29T19:06:44Z | manual | 1e7a7fd | fix(validate): only verify index.json freshness when it is committed |
 | 2026-05-29T18:29:14Z | manual | 4afc1ac | Merge pull request #11 from marcelverdult/sync/auto |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-05-22T17:07:51Z | manual | 9a6862e | regions: add Rhineland community regions from meshrheinland.de |
 | 2026-05-22T16:18:16Z | manual | 1489b54 | regions: humanize de-sh, de-ni-gs, de-harz labels from meshcorenetz.de |
 | 2026-05-22T13:01:40Z | manual | 606ce7f | regions: name de-nw-owl as Ostwestfalen-Lippe |
-| 2026-05-22T09:57:30Z | manual | c58038c | docs: release catalog under CC0 1.0 |
-| 2026-05-22T04:30:43Z | sync | 6bb90c0 | Merge pull request #3 from marcelverdult/sync/auto |
 
 <!-- regions:auto-status:end -->
 
