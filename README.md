@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-05-30T04:22:12Z`
+- Last sync: `2026-05-31T04:30:27Z`
 - Roots: 252
-- Total nodes: 1261
-- Unsorted entries: 288
+- Total nodes: 1270
+- Unsorted entries: 293
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-05-30T04:22:18Z | sync | de7cace | Merge pull request #14 from marcelverdult/sync/auto |
+| 2026-05-30T04:22:13Z | sync | d5ff77c | sync: 7 added, 20 resolved, 288 unsorted |
 | 2026-05-29T17:11:11Z | sync | de0521d | Merge pull request #13 from marcelverdult/sync/auto |
 | 2026-05-29T17:11:04Z | sync | 080d9d4 | sync: 14 added, 9 resolved, 279 unsorted |
 | 2026-05-29T19:07:01Z | manual | a66f46d | feat(be): complete Belgium provinces, add city sub-regions |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-05-23T04:17:09Z | sync | 7afde70 | sync: 15 added, 9 resolved, 219 unsorted |
 | 2026-05-22T17:16:44Z | manual | 85434ed | ci: bump actions to Node 24 runtime, prune old sync runs |
 | 2026-05-22T17:07:51Z | manual | 9a6862e | regions: add Rhineland community regions from meshrheinland.de |
-| 2026-05-22T16:18:16Z | manual | 1489b54 | regions: humanize de-sh, de-ni-gs, de-harz labels from meshcorenetz.de |
-| 2026-05-22T13:01:40Z | manual | 606ce7f | regions: name de-nw-owl as Ostwestfalen-Lippe |
 
 <!-- regions:auto-status:end -->
 

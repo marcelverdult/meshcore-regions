@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T04:22:12Z",
+  "generated_at": "2026-05-31T04:30:27Z",
   "tree": [
     {
       "code": "ad",
@@ -3297,6 +3297,11 @@
           "regions": []
         },
         {
+          "code": "ch-ti",
+          "name": "ti",
+          "regions": []
+        },
+        {
           "code": "ch-vd",
           "name": "vd",
           "regions": [
@@ -3479,6 +3484,11 @@
               "regions": []
             },
             {
+              "code": "de-bb-lds",
+              "name": "lds",
+              "regions": []
+            },
+            {
               "code": "de-bb-mol",
               "name": "mol",
               "regions": []
@@ -3512,6 +3522,11 @@
             {
               "code": "de-be-bb",
               "name": "bb",
+              "regions": []
+            },
+            {
+              "code": "de-be-neukoelln",
+              "name": "neukoelln",
               "regions": []
             },
             {
@@ -4167,7 +4182,13 @@
             {
               "code": "de-ni-hm",
               "name": "hm",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-ni-hm-ho",
+                  "name": "ho",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-ni-hol",
@@ -4192,6 +4213,16 @@
             {
               "code": "de-ni-ohz",
               "name": "ohz",
+              "regions": []
+            },
+            {
+              "code": "de-ni-ol",
+              "name": "ol",
+              "regions": []
+            },
+            {
+              "code": "de-ni-ri",
+              "name": "ri",
               "regions": []
             },
             {
@@ -4222,6 +4253,11 @@
             {
               "code": "de-ni-wob",
               "name": "wob",
+              "regions": []
+            },
+            {
+              "code": "de-ni-wst",
+              "name": "wst",
               "regions": []
             },
             {
@@ -4580,6 +4616,11 @@
               "code": "de-sn-vvo",
               "name": "vvo",
               "regions": []
+            },
+            {
+              "code": "de-sn-zi",
+              "name": "zi",
+              "regions": []
             }
           ]
         },
@@ -4651,6 +4692,11 @@
             {
               "code": "de-th-j",
               "name": "j",
+              "regions": []
+            },
+            {
+              "code": "de-th-ost",
+              "name": "ost",
               "regions": []
             },
             {
@@ -9010,6 +9056,10 @@
       "name": "it"
     },
     {
+      "path": "ch-ti",
+      "name": "ti"
+    },
+    {
       "path": "ch-vd",
       "name": "vd"
     },
@@ -9154,6 +9204,10 @@
       "name": "ee"
     },
     {
+      "path": "de-bb-lds",
+      "name": "lds"
+    },
+    {
       "path": "de-bb-mol",
       "name": "mol"
     },
@@ -9180,6 +9234,10 @@
     {
       "path": "de-be-bb",
       "name": "bb"
+    },
+    {
+      "path": "de-be-neukoelln",
+      "name": "neukoelln"
     },
     {
       "path": "de-be-sw",
@@ -9698,6 +9756,10 @@
       "name": "hm"
     },
     {
+      "path": "de-ni-hm-ho",
+      "name": "ho"
+    },
+    {
       "path": "de-ni-hol",
       "name": "hol"
     },
@@ -9716,6 +9778,14 @@
     {
       "path": "de-ni-ohz",
       "name": "ohz"
+    },
+    {
+      "path": "de-ni-ol",
+      "name": "ol"
+    },
+    {
+      "path": "de-ni-ri",
+      "name": "ri"
     },
     {
       "path": "de-ni-shg",
@@ -9740,6 +9810,10 @@
     {
       "path": "de-ni-wob",
       "name": "wob"
+    },
+    {
+      "path": "de-ni-wst",
+      "name": "wst"
     },
     {
       "path": "de-ni-wtm",
@@ -10002,6 +10076,10 @@
       "name": "vvo"
     },
     {
+      "path": "de-sn-zi",
+      "name": "zi"
+    },
+    {
       "path": "de-solling",
       "name": "solling"
     },
@@ -10056,6 +10134,10 @@
     {
       "path": "de-th-j",
       "name": "j"
+    },
+    {
+      "path": "de-th-ost",
+      "name": "ost"
     },
     {
       "path": "de-th-shk",

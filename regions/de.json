@@ -32,6 +32,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-lds",
+          "name": "lds",
+          "regions": []
+        },
+        {
           "code": "de-bb-mol",
           "name": "mol",
           "regions": []
@@ -65,6 +70,11 @@
         {
           "code": "de-be-bb",
           "name": "bb",
+          "regions": []
+        },
+        {
+          "code": "de-be-neukoelln",
+          "name": "neukoelln",
           "regions": []
         },
         {
@@ -720,7 +730,13 @@
         {
           "code": "de-ni-hm",
           "name": "hm",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-ni-hm-ho",
+              "name": "ho",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-ni-hol",
@@ -745,6 +761,16 @@
         {
           "code": "de-ni-ohz",
           "name": "ohz",
+          "regions": []
+        },
+        {
+          "code": "de-ni-ol",
+          "name": "ol",
+          "regions": []
+        },
+        {
+          "code": "de-ni-ri",
+          "name": "ri",
           "regions": []
         },
         {
@@ -775,6 +801,11 @@
         {
           "code": "de-ni-wob",
           "name": "wob",
+          "regions": []
+        },
+        {
+          "code": "de-ni-wst",
+          "name": "wst",
           "regions": []
         },
         {
@@ -1133,6 +1164,11 @@
           "code": "de-sn-vvo",
           "name": "vvo",
           "regions": []
+        },
+        {
+          "code": "de-sn-zi",
+          "name": "zi",
+          "regions": []
         }
       ]
     },
@@ -1204,6 +1240,11 @@
         {
           "code": "de-th-j",
           "name": "j",
+          "regions": []
+        },
+        {
+          "code": "de-th-ost",
+          "name": "ost",
           "regions": []
         },
         {
