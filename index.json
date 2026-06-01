@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T04:30:27Z",
+  "generated_at": "2026-06-01T04:31:59Z",
   "tree": [
     {
       "code": "ad",
@@ -3484,6 +3484,11 @@
               "regions": []
             },
             {
+              "code": "de-bb-hvl",
+              "name": "hvl",
+              "regions": []
+            },
+            {
               "code": "de-bb-lds",
               "name": "lds",
               "regions": []
@@ -3525,8 +3530,18 @@
               "regions": []
             },
             {
+              "code": "de-be-gps",
+              "name": "gps",
+              "regions": []
+            },
+            {
               "code": "de-be-neukoelln",
               "name": "neukoelln",
+              "regions": []
+            },
+            {
+              "code": "de-be-rudow",
+              "name": "rudow",
               "regions": []
             },
             {
@@ -3636,6 +3651,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-loe",
+              "name": "loe",
+              "regions": []
+            },
+            {
               "code": "de-bw-muel",
               "name": "muel",
               "regions": []
@@ -3739,6 +3759,11 @@
             {
               "code": "de-by-aux",
               "name": "aux",
+              "regions": []
+            },
+            {
+              "code": "de-by-bwald",
+              "name": "bwald",
               "regions": []
             },
             {
@@ -4001,6 +4026,11 @@
                   "regions": []
                 }
               ]
+            },
+            {
+              "code": "de-he-hef",
+              "name": "hef",
+              "regions": []
             },
             {
               "code": "de-he-mtk",
@@ -4728,6 +4758,11 @@
               "code": "de-th-themar",
               "name": "themar",
               "regions": []
+            },
+            {
+              "code": "de-th-wak",
+              "name": "wak",
+              "regions": []
             }
           ]
         },
@@ -4791,6 +4826,11 @@
           "code": "dk-fyn",
           "name": "fyn",
           "regions": [
+            {
+              "code": "dk-fyn-nyborg",
+              "name": "nyborg",
+              "regions": []
+            },
             {
               "code": "dk-fyn-ringe",
               "name": "ringe",
@@ -9204,6 +9244,10 @@
       "name": "ee"
     },
     {
+      "path": "de-bb-hvl",
+      "name": "hvl"
+    },
+    {
       "path": "de-bb-lds",
       "name": "lds"
     },
@@ -9236,8 +9280,16 @@
       "name": "bb"
     },
     {
+      "path": "de-be-gps",
+      "name": "gps"
+    },
+    {
       "path": "de-be-neukoelln",
       "name": "neukoelln"
+    },
+    {
+      "path": "de-be-rudow",
+      "name": "rudow"
     },
     {
       "path": "de-be-sw",
@@ -9324,6 +9376,10 @@
       "name": "leo"
     },
     {
+      "path": "de-bw-loe",
+      "name": "loe"
+    },
+    {
       "path": "de-bw-muel",
       "name": "muel"
     },
@@ -9406,6 +9462,10 @@
     {
       "path": "de-by-aux",
       "name": "aux"
+    },
+    {
+      "path": "de-by-bwald",
+      "name": "bwald"
     },
     {
       "path": "de-by-dah",
@@ -9610,6 +9670,10 @@
     {
       "path": "de-he-gi-gi",
       "name": "gi"
+    },
+    {
+      "path": "de-he-hef",
+      "name": "hef"
     },
     {
       "path": "de-he-mtk",
@@ -10164,6 +10228,10 @@
       "name": "themar"
     },
     {
+      "path": "de-th-wak",
+      "name": "wak"
+    },
+    {
       "path": "de-thecore",
       "name": "thecore"
     },
@@ -10194,6 +10262,10 @@
     {
       "path": "dk-fyn",
       "name": "fyn"
+    },
+    {
+      "path": "dk-fyn-nyborg",
+      "name": "nyborg"
     },
     {
       "path": "dk-fyn-ringe",

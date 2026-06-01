@@ -12,6 +12,11 @@
       "name": "fyn",
       "regions": [
         {
+          "code": "dk-fyn-nyborg",
+          "name": "nyborg",
+          "regions": []
+        },
+        {
           "code": "dk-fyn-ringe",
           "name": "ringe",
           "regions": []
