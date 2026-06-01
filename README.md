@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-05-31T04:30:27Z`
+- Last sync: `2026-06-01T04:31:59Z`
 - Roots: 252
-- Total nodes: 1270
-- Unsorted entries: 293
+- Total nodes: 1278
+- Unsorted entries: 312
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-05-31T04:30:32Z | sync | 6b6d72c | Merge pull request #15 from marcelverdult/sync/auto |
+| 2026-05-31T04:30:28Z | sync | d1a9410 | sync: 9 added, 20 resolved, 293 unsorted |
 | 2026-05-30T04:22:18Z | sync | de7cace | Merge pull request #14 from marcelverdult/sync/auto |
 | 2026-05-30T04:22:13Z | sync | d5ff77c | sync: 7 added, 20 resolved, 288 unsorted |
 | 2026-05-29T17:11:11Z | sync | de0521d | Merge pull request #13 from marcelverdult/sync/auto |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-05-24T04:28:12Z | sync | b32e59d | sync: 8 added, 10 resolved, 225 unsorted |
 | 2026-05-23T04:17:14Z | sync | b25f3ad | Merge pull request #5 from marcelverdult/sync/auto |
 | 2026-05-23T04:17:09Z | sync | 7afde70 | sync: 15 added, 9 resolved, 219 unsorted |
-| 2026-05-22T17:16:44Z | manual | 85434ed | ci: bump actions to Node 24 runtime, prune old sync runs |
-| 2026-05-22T17:07:51Z | manual | 9a6862e | regions: add Rhineland community regions from meshrheinland.de |
 
 <!-- regions:auto-status:end -->
 

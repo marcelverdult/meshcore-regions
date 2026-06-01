@@ -32,6 +32,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-hvl",
+          "name": "hvl",
+          "regions": []
+        },
+        {
           "code": "de-bb-lds",
           "name": "lds",
           "regions": []
@@ -73,8 +78,18 @@
           "regions": []
         },
         {
+          "code": "de-be-gps",
+          "name": "gps",
+          "regions": []
+        },
+        {
           "code": "de-be-neukoelln",
           "name": "neukoelln",
+          "regions": []
+        },
+        {
+          "code": "de-be-rudow",
+          "name": "rudow",
           "regions": []
         },
         {
@@ -184,6 +199,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-loe",
+          "name": "loe",
+          "regions": []
+        },
+        {
           "code": "de-bw-muel",
           "name": "muel",
           "regions": []
@@ -287,6 +307,11 @@
         {
           "code": "de-by-aux",
           "name": "aux",
+          "regions": []
+        },
+        {
+          "code": "de-by-bwald",
+          "name": "bwald",
           "regions": []
         },
         {
@@ -549,6 +574,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-he-hef",
+          "name": "hef",
+          "regions": []
         },
         {
           "code": "de-he-mtk",
@@ -1275,6 +1305,11 @@
         {
           "code": "de-th-themar",
           "name": "themar",
+          "regions": []
+        },
+        {
+          "code": "de-th-wak",
+          "name": "wak",
           "regions": []
         }
       ]
