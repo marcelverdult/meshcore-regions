@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T04:31:59Z",
+  "generated_at": "2026-06-02T04:30:54Z",
   "buckets": {
     "a": [
       {
@@ -67,37 +67,37 @@
       {
         "raw": "becar",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "becet",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "becgx",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "begem",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "belas",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "bemsu",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "beoti",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "bergischesland",
@@ -112,22 +112,22 @@
       {
         "raw": "berix",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "bevlv",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "bewha",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "bewvr",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "bhd",
@@ -147,7 +147,7 @@
       {
         "raw": "bonn",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "braunschweig",
@@ -376,7 +376,7 @@
       {
         "raw": "drielande",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "dt",
@@ -423,7 +423,7 @@
       {
         "raw": "eifel",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "emergency",
@@ -629,7 +629,7 @@
       {
         "raw": "hansemesh",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "he",
@@ -665,6 +665,11 @@
         "raw": "hundsrueck",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "hunsrück",
+        "reason": "invalid_chars",
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "hunsrueck",
@@ -740,7 +745,7 @@
       {
         "raw": "koeln",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "koi",
@@ -777,7 +782,7 @@
       {
         "raw": "leverkusen",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "local",
@@ -815,6 +820,11 @@
         "raw": "men",
         "reason": "no_root",
         "first_seen": "2026-05-25T04:30:44Z"
+      },
+      {
+        "raw": "merzigwadern",
+        "reason": "no_root",
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "mgn",
@@ -866,7 +876,7 @@
       {
         "raw": "niederrhein",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "noc",
@@ -1081,9 +1091,14 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "rheinhessen",
+        "reason": "no_root",
+        "first_seen": "2026-06-02T04:30:54Z"
+      },
+      {
         "raw": "rheinland",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "rhine",
@@ -1123,7 +1138,7 @@
       {
         "raw": "ruhrgebiet",
         "reason": "no_root",
-        "first_seen": "2026-06-01T04:31:59Z"
+        "first_seen": "2026-06-02T04:30:54Z"
       }
     ],
     "s": [
@@ -1141,6 +1156,11 @@
         "raw": "saarlorlux",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "saarlouis",
+        "reason": "no_root",
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "samtgemeinde-tostedt",
@@ -1266,6 +1286,11 @@
         "raw": "seevetal",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "sf6",
+        "reason": "no_root",
+        "first_seen": "2026-06-02T04:30:54Z"
       },
       {
         "raw": "sle",
