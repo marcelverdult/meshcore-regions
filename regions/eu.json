@@ -11,6 +11,11 @@
       "code": "eu-europe",
       "name": "Europe",
       "regions": []
+    },
+    {
+      "code": "europe",
+      "name": "Europe",
+      "regions": []
     }
   ]
 }

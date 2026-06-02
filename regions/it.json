@@ -15,11 +15,11 @@
     },
     {
       "code": "it-laz",
-      "name": "laz",
+      "name": "Lazio",
       "regions": [
         {
           "code": "it-laz-rm",
-          "name": "rm",
+          "name": "Roma",
           "regions": []
         }
       ]
@@ -83,7 +83,7 @@
         },
         {
           "code": "it-pie-os",
-          "name": "os",
+          "name": "Ossola",
           "regions": []
         },
         {
