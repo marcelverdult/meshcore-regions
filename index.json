@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T04:30:54Z",
+  "generated_at": "2026-06-04T04:31:07Z",
   "tree": [
     {
       "code": "ad",
@@ -339,6 +339,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "be-dgo",
+          "name": "dgo",
+          "regions": []
         },
         {
           "code": "be-lgg",
@@ -3494,6 +3499,11 @@
               "regions": []
             },
             {
+              "code": "de-bb-los",
+              "name": "los",
+              "regions": []
+            },
+            {
               "code": "de-bb-mol",
               "name": "mol",
               "regions": []
@@ -3803,6 +3813,11 @@
               "regions": []
             },
             {
+              "code": "de-by-fs",
+              "name": "fs",
+              "regions": []
+            },
+            {
               "code": "de-by-gz",
               "name": "gz",
               "regions": []
@@ -3964,6 +3979,11 @@
         {
           "code": "de-emd",
           "name": "emd",
+          "regions": []
+        },
+        {
+          "code": "de-europe",
+          "name": "europe",
           "regions": []
         },
         {
@@ -4818,6 +4838,11 @@
       "name": "Denmark",
       "regions": [
         {
+          "code": "dk-3kant",
+          "name": "3kant",
+          "regions": []
+        },
+        {
           "code": "dk-bhm",
           "name": "bhm",
           "regions": []
@@ -4846,6 +4871,11 @@
         {
           "code": "dk-jylland",
           "name": "jylland",
+          "regions": []
+        },
+        {
+          "code": "dk-oj",
+          "name": "oj",
           "regions": []
         },
         {
@@ -4921,6 +4951,11 @@
         },
         {
           "code": "eu-europe",
+          "name": "Europe",
+          "regions": []
+        },
+        {
+          "code": "europe",
           "name": "Europe",
           "regions": []
         }
@@ -5232,11 +5267,11 @@
         },
         {
           "code": "it-laz",
-          "name": "laz",
+          "name": "Lazio",
           "regions": [
             {
               "code": "it-laz-rm",
-              "name": "rm",
+              "name": "Roma",
               "regions": []
             }
           ]
@@ -5274,6 +5309,11 @@
           ]
         },
         {
+          "code": "it-nord",
+          "name": "nord",
+          "regions": []
+        },
+        {
           "code": "it-pi",
           "name": "pi",
           "regions": [
@@ -5300,7 +5340,7 @@
             },
             {
               "code": "it-pie-os",
-              "name": "os",
+              "name": "Ossola",
               "regions": []
             },
             {
@@ -6658,6 +6698,10 @@
     {
       "path": "be-bru",
       "name": "Brussel"
+    },
+    {
+      "path": "be-dgo",
+      "name": "dgo"
     },
     {
       "path": "be-lgg",
@@ -9252,6 +9296,10 @@
       "name": "lds"
     },
     {
+      "path": "de-bb-los",
+      "name": "los"
+    },
+    {
       "path": "de-bb-mol",
       "name": "mol"
     },
@@ -9496,6 +9544,10 @@
       "name": "fra"
     },
     {
+      "path": "de-by-fs",
+      "name": "fs"
+    },
+    {
       "path": "de-by-gz",
       "name": "gz"
     },
@@ -9622,6 +9674,10 @@
     {
       "path": "de-emd",
       "name": "emd"
+    },
+    {
+      "path": "de-europe",
+      "name": "europe"
     },
     {
       "path": "de-ffnw",
@@ -10256,6 +10312,10 @@
       "name": "Denmark"
     },
     {
+      "path": "dk-3kant",
+      "name": "3kant"
+    },
+    {
       "path": "dk-bhm",
       "name": "bhm"
     },
@@ -10278,6 +10338,10 @@
     {
       "path": "dk-jylland",
       "name": "jylland"
+    },
+    {
+      "path": "dk-oj",
+      "name": "oj"
     },
     {
       "path": "dk-sdk",
@@ -10345,6 +10409,10 @@
     },
     {
       "path": "eu-europe",
+      "name": "Europe"
+    },
+    {
+      "path": "europe",
       "name": "Europe"
     },
     {
@@ -10593,11 +10661,11 @@
     },
     {
       "path": "it-laz",
-      "name": "laz"
+      "name": "Lazio"
     },
     {
       "path": "it-laz-rm",
-      "name": "rm"
+      "name": "Roma"
     },
     {
       "path": "it-li",
@@ -10624,6 +10692,10 @@
       "name": "Milano"
     },
     {
+      "path": "it-nord",
+      "name": "nord"
+    },
+    {
       "path": "it-pi",
       "name": "pi"
     },
@@ -10645,7 +10717,7 @@
     },
     {
       "path": "it-pie-os",
-      "name": "os"
+      "name": "Ossola"
     },
     {
       "path": "it-pie-to",
