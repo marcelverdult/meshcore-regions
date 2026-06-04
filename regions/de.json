@@ -42,6 +42,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-los",
+          "name": "los",
+          "regions": []
+        },
+        {
           "code": "de-bb-mol",
           "name": "mol",
           "regions": []
@@ -351,6 +356,11 @@
           "regions": []
         },
         {
+          "code": "de-by-fs",
+          "name": "fs",
+          "regions": []
+        },
+        {
           "code": "de-by-gz",
           "name": "gz",
           "regions": []
@@ -512,6 +522,11 @@
     {
       "code": "de-emd",
       "name": "emd",
+      "regions": []
+    },
+    {
+      "code": "de-europe",
+      "name": "europe",
       "regions": []
     },
     {

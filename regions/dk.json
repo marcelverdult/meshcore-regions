@@ -3,6 +3,11 @@
   "name": "Denmark",
   "regions": [
     {
+      "code": "dk-3kant",
+      "name": "3kant",
+      "regions": []
+    },
+    {
       "code": "dk-bhm",
       "name": "bhm",
       "regions": []
@@ -31,6 +36,11 @@
     {
       "code": "dk-jylland",
       "name": "jylland",
+      "regions": []
+    },
+    {
+      "code": "dk-oj",
+      "name": "oj",
       "regions": []
     },
     {
