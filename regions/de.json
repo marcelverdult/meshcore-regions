@@ -1167,7 +1167,7 @@
         },
         {
           "code": "de-sn-dd",
-          "name": "dd",
+          "name": "Großraum Dresden",
           "regions": []
         },
         {
@@ -1187,7 +1187,7 @@
         },
         {
           "code": "de-sn-mei",
-          "name": "mei",
+          "name": "Stadtregion Meißen",
           "regions": []
         },
         {
@@ -1207,7 +1207,7 @@
         },
         {
           "code": "de-sn-vvo",
-          "name": "vvo",
+          "name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)",
           "regions": []
         },
         {
