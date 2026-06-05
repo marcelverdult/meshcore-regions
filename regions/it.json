@@ -46,6 +46,11 @@
       ]
     },
     {
+      "code": "it-lo",
+      "name": "lo",
+      "regions": []
+    },
+    {
       "code": "it-lom",
       "name": "Lombardia",
       "regions": [

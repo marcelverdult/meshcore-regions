@@ -27,6 +27,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-be",
+          "name": "be",
+          "regions": []
+        },
+        {
           "code": "de-bb-ee",
           "name": "ee",
           "regions": []
@@ -64,6 +69,11 @@
         {
           "code": "de-bb-p",
           "name": "p",
+          "regions": []
+        },
+        {
+          "code": "de-bb-pm",
+          "name": "pm",
           "regions": []
         },
         {
@@ -493,8 +503,18 @@
           "regions": []
         },
         {
+          "code": "de-by-sw",
+          "name": "sw",
+          "regions": []
+        },
+        {
           "code": "de-by-ufr",
           "name": "ufr",
+          "regions": []
+        },
+        {
+          "code": "de-by-wue",
+          "name": "wue",
           "regions": []
         }
       ]
@@ -922,6 +942,11 @@
         {
           "code": "de-nw-hf",
           "name": "hf",
+          "regions": []
+        },
+        {
+          "code": "de-nw-hol",
+          "name": "hol",
           "regions": []
         },
         {
