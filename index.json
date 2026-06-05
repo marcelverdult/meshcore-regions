@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T04:31:07Z",
+  "generated_at": "2026-06-05T04:30:08Z",
   "tree": [
     {
       "code": "ad",
@@ -3484,6 +3484,11 @@
               "regions": []
             },
             {
+              "code": "de-bb-be",
+              "name": "be",
+              "regions": []
+            },
+            {
               "code": "de-bb-ee",
               "name": "ee",
               "regions": []
@@ -3521,6 +3526,11 @@
             {
               "code": "de-bb-p",
               "name": "p",
+              "regions": []
+            },
+            {
+              "code": "de-bb-pm",
+              "name": "pm",
               "regions": []
             },
             {
@@ -3950,8 +3960,18 @@
               "regions": []
             },
             {
+              "code": "de-by-sw",
+              "name": "sw",
+              "regions": []
+            },
+            {
               "code": "de-by-ufr",
               "name": "ufr",
+              "regions": []
+            },
+            {
+              "code": "de-by-wue",
+              "name": "wue",
               "regions": []
             }
           ]
@@ -4379,6 +4399,11 @@
             {
               "code": "de-nw-hf",
               "name": "hf",
+              "regions": []
+            },
+            {
+              "code": "de-nw-hol",
+              "name": "hol",
               "regions": []
             },
             {
@@ -5296,6 +5321,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "it-lo",
+          "name": "lo",
+          "regions": []
         },
         {
           "code": "it-lom",
@@ -9284,6 +9314,10 @@
       "name": "bar"
     },
     {
+      "path": "de-bb-be",
+      "name": "be"
+    },
+    {
       "path": "de-bb-ee",
       "name": "ee"
     },
@@ -9314,6 +9348,10 @@
     {
       "path": "de-bb-p",
       "name": "p"
+    },
+    {
+      "path": "de-bb-pm",
+      "name": "pm"
     },
     {
       "path": "de-bb-um",
@@ -9652,8 +9690,16 @@
       "name": "sr"
     },
     {
+      "path": "de-by-sw",
+      "name": "sw"
+    },
+    {
       "path": "de-by-ufr",
       "name": "ufr"
+    },
+    {
+      "path": "de-by-wue",
+      "name": "wue"
     },
     {
       "path": "de-ch",
@@ -9986,6 +10032,10 @@
     {
       "path": "de-nw-hf",
       "name": "hf"
+    },
+    {
+      "path": "de-nw-hol",
+      "name": "hol"
     },
     {
       "path": "de-nw-hsk",
@@ -10682,6 +10732,10 @@
     {
       "path": "it-lig-vz",
       "name": "Varazze"
+    },
+    {
+      "path": "it-lo",
+      "name": "lo"
     },
     {
       "path": "it-lom",
