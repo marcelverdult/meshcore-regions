@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T04:30:08Z",
+  "generated_at": "2026-06-06T09:27:12Z",
   "tree": [
     {
       "code": "ad",
@@ -3519,6 +3519,11 @@
               "regions": []
             },
             {
+              "code": "de-bb-opr",
+              "name": "opr",
+              "regions": []
+            },
+            {
               "code": "de-bb-osl",
               "name": "osl",
               "regions": []
@@ -3813,6 +3818,11 @@
               "regions": []
             },
             {
+              "code": "de-by-ffb",
+              "name": "ffb",
+              "regions": []
+            },
+            {
               "code": "de-by-fr",
               "name": "fr",
               "regions": []
@@ -3835,6 +3845,11 @@
             {
               "code": "de-by-ill",
               "name": "ill",
+              "regions": []
+            },
+            {
+              "code": "de-by-kt",
+              "name": "kt",
               "regions": []
             },
             {
@@ -3881,6 +3896,11 @@
             {
               "code": "de-by-mn",
               "name": "mn",
+              "regions": []
+            },
+            {
+              "code": "de-by-msp",
+              "name": "msp",
               "regions": []
             },
             {
@@ -4649,7 +4669,7 @@
             },
             {
               "code": "de-sn-dd",
-              "name": "dd",
+              "name": "Großraum Dresden",
               "regions": []
             },
             {
@@ -4669,7 +4689,7 @@
             },
             {
               "code": "de-sn-mei",
-              "name": "mei",
+              "name": "Stadtregion Meißen",
               "regions": []
             },
             {
@@ -4689,7 +4709,7 @@
             },
             {
               "code": "de-sn-vvo",
-              "name": "vvo",
+              "name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)",
               "regions": []
             },
             {
@@ -9342,6 +9362,10 @@
       "name": "ohv"
     },
     {
+      "path": "de-bb-opr",
+      "name": "opr"
+    },
+    {
       "path": "de-bb-osl",
       "name": "osl"
     },
@@ -9574,6 +9598,10 @@
       "name": "emm"
     },
     {
+      "path": "de-by-ffb",
+      "name": "ffb"
+    },
+    {
       "path": "de-by-fr",
       "name": "fr"
     },
@@ -9592,6 +9620,10 @@
     {
       "path": "de-by-ill",
       "name": "ill"
+    },
+    {
+      "path": "de-by-kt",
+      "name": "kt"
     },
     {
       "path": "de-by-la",
@@ -9628,6 +9660,10 @@
     {
       "path": "de-by-mn",
       "name": "mn"
+    },
+    {
+      "path": "de-by-msp",
+      "name": "msp"
     },
     {
       "path": "de-by-muc",
@@ -10211,7 +10247,7 @@
     },
     {
       "path": "de-sn-dd",
-      "name": "dd"
+      "name": "Großraum Dresden"
     },
     {
       "path": "de-sn-erz",
@@ -10227,7 +10263,7 @@
     },
     {
       "path": "de-sn-mei",
-      "name": "mei"
+      "name": "Stadtregion Meißen"
     },
     {
       "path": "de-sn-msn",
@@ -10243,7 +10279,7 @@
     },
     {
       "path": "de-sn-vvo",
-      "name": "vvo"
+      "name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)"
     },
     {
       "path": "de-sn-zi",
