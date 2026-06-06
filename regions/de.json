@@ -62,6 +62,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-opr",
+          "name": "opr",
+          "regions": []
+        },
+        {
           "code": "de-bb-osl",
           "name": "osl",
           "regions": []
@@ -356,6 +361,11 @@
           "regions": []
         },
         {
+          "code": "de-by-ffb",
+          "name": "ffb",
+          "regions": []
+        },
+        {
           "code": "de-by-fr",
           "name": "fr",
           "regions": []
@@ -378,6 +388,11 @@
         {
           "code": "de-by-ill",
           "name": "ill",
+          "regions": []
+        },
+        {
+          "code": "de-by-kt",
+          "name": "kt",
           "regions": []
         },
         {
@@ -424,6 +439,11 @@
         {
           "code": "de-by-mn",
           "name": "mn",
+          "regions": []
+        },
+        {
+          "code": "de-by-msp",
+          "name": "msp",
           "regions": []
         },
         {

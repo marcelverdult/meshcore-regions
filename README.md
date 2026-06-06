@@ -56,13 +56,17 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-06-05T04:30:08Z`
+- Last sync: `2026-06-06T09:27:12Z`
 - Roots: 252
-- Total nodes: 1292
-- Unsorted entries: 354
+- Total nodes: 1296
+- Unsorted entries: 356
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-06-06T01:10:24Z | manual | b028a0d | Merge pull request #20 from dreirund/patch-1 |
+| 2026-06-05T04:30:15Z | sync | c47f632 | Merge pull request #21 from marcelverdult/sync/auto |
+| 2026-06-05T04:30:09Z | sync | 0296e05 | sync: 6 added, 41 resolved, 354 unsorted |
+| 2026-06-04T17:49:30Z | manual | 2b6c1ab | `de.json`: Made the naming for the regions around Dresden more specific. |
 | 2026-06-04T04:31:13Z | sync | 26cca67 | Merge pull request #19 from marcelverdult/sync/auto |
 | 2026-06-04T04:31:07Z | sync | 23cf3df | sync: 7 added, 21 resolved, 349 unsorted |
 | 2026-06-02T15:11:31Z | manual | 1f61875 | Merge pull request #18 from markino222/main |
@@ -79,10 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-05-29T17:11:11Z | sync | de0521d | Merge pull request #13 from marcelverdult/sync/auto |
 | 2026-05-29T17:11:04Z | sync | 080d9d4 | sync: 14 added, 9 resolved, 279 unsorted |
 | 2026-05-29T19:07:01Z | manual | a66f46d | feat(be): complete Belgium provinces, add city sub-regions |
-| 2026-05-29T19:06:44Z | manual | 1e7a7fd | fix(validate): only verify index.json freshness when it is committed |
-| 2026-05-29T18:29:14Z | manual | 4afc1ac | Merge pull request #11 from marcelverdult/sync/auto |
-| 2026-05-29T04:29:47Z | sync | ec80260 | sync: 36 added, 9 resolved, 277 unsorted |
-| 2026-05-26T04:25:59Z | sync | 0bed871 | Merge pull request #10 from marcelverdult/sync/auto |
 
 <!-- regions:auto-status:end -->
 
