@@ -13,6 +13,11 @@
       "regions": []
     },
     {
+      "code": "gb-lon",
+      "name": "lon",
+      "regions": []
+    },
+    {
       "code": "gb-nir",
       "name": "nir",
       "regions": []

@@ -120,6 +120,11 @@
       "regions": []
     },
     {
+      "code": "nl-htb",
+      "name": "htb",
+      "regions": []
+    },
+    {
       "code": "nl-ldd",
       "name": "ldd",
       "regions": []
@@ -151,6 +156,11 @@
         {
           "code": "nl-nb-goi",
           "name": "goi",
+          "regions": []
+        },
+        {
+          "code": "nl-nb-htb",
+          "name": "htb",
           "regions": []
         }
       ]
@@ -195,6 +205,11 @@
       "code": "nl-ov",
       "name": "Overijssel",
       "regions": [
+        {
+          "code": "nl-ov-ens",
+          "name": "ens",
+          "regions": []
+        },
         {
           "code": "nl-ov-sew",
           "name": "sew",
