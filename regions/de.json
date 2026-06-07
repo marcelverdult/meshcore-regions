@@ -472,6 +472,11 @@
           "regions": []
         },
         {
+          "code": "de-by-nwald",
+          "name": "nwald",
+          "regions": []
+        },
+        {
           "code": "de-by-oa",
           "name": "oa",
           "regions": []
@@ -505,6 +510,11 @@
         {
           "code": "de-by-opf",
           "name": "opf",
+          "regions": []
+        },
+        {
+          "code": "de-by-rgbg",
+          "name": "rgbg",
           "regions": []
         },
         {
@@ -1223,6 +1233,11 @@
         {
           "code": "de-sn-fg",
           "name": "fg",
+          "regions": []
+        },
+        {
+          "code": "de-sn-km",
+          "name": "km",
           "regions": []
         },
         {
