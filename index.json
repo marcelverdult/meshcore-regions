@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T04:31:32Z",
+  "generated_at": "2026-06-09T04:25:33Z",
   "tree": [
     {
       "code": "ad",
@@ -4120,6 +4120,11 @@
           "regions": []
         },
         {
+          "code": "de-hsk",
+          "name": "hsk",
+          "regions": []
+        },
+        {
           "code": "de-ki",
           "name": "ki",
           "regions": []
@@ -5739,6 +5744,11 @@
           "regions": []
         },
         {
+          "code": "nl-arn",
+          "name": "arn",
+          "regions": []
+        },
+        {
           "code": "nl-brd",
           "name": "brd",
           "regions": []
@@ -5783,8 +5793,18 @@
               "regions": []
             },
             {
+              "code": "nl-ge-get",
+              "name": "get",
+              "regions": []
+            },
+            {
               "code": "nl-ge-hrd",
               "name": "hrd",
+              "regions": []
+            },
+            {
+              "code": "nl-ge-lir",
+              "name": "lir",
               "regions": []
             },
             {
@@ -5916,6 +5936,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "nl-nij",
+          "name": "nij",
+          "regions": []
         },
         {
           "code": "nl-noord",
@@ -6144,6 +6169,16 @@
         {
           "code": "pl-pm",
           "name": "pm",
+          "regions": []
+        },
+        {
+          "code": "pl-sk",
+          "name": "sk",
+          "regions": []
+        },
+        {
+          "code": "pl-sl",
+          "name": "sl",
           "regions": []
         },
         {
@@ -9874,6 +9909,10 @@
       "name": "Hamburg"
     },
     {
+      "path": "de-hsk",
+      "name": "hsk"
+    },
+    {
       "path": "de-ki",
       "name": "ki"
     },
@@ -11134,6 +11173,10 @@
       "name": "ape"
     },
     {
+      "path": "nl-arn",
+      "name": "arn"
+    },
+    {
       "path": "nl-brd",
       "name": "brd"
     },
@@ -11170,8 +11213,16 @@
       "name": "ede"
     },
     {
+      "path": "nl-ge-get",
+      "name": "get"
+    },
+    {
       "path": "nl-ge-hrd",
       "name": "hrd"
+    },
+    {
+      "path": "nl-ge-lir",
+      "name": "lir"
     },
     {
       "path": "nl-ge-ltn",
@@ -11272,6 +11323,10 @@
     {
       "path": "nl-nh-uit",
       "name": "uit"
+    },
+    {
+      "path": "nl-nij",
+      "name": "nij"
     },
     {
       "path": "nl-noord",
@@ -11452,6 +11507,14 @@
     {
       "path": "pl-pm",
       "name": "pm"
+    },
+    {
+      "path": "pl-sk",
+      "name": "sk"
+    },
+    {
+      "path": "pl-sl",
+      "name": "sl"
     },
     {
       "path": "pl-wp",
