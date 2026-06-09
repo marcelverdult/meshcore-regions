@@ -18,6 +18,11 @@
       "regions": []
     },
     {
+      "code": "nl-arn",
+      "name": "arn",
+      "regions": []
+    },
+    {
       "code": "nl-brd",
       "name": "brd",
       "regions": []
@@ -62,8 +67,18 @@
           "regions": []
         },
         {
+          "code": "nl-ge-get",
+          "name": "get",
+          "regions": []
+        },
+        {
           "code": "nl-ge-hrd",
           "name": "hrd",
+          "regions": []
+        },
+        {
+          "code": "nl-ge-lir",
+          "name": "lir",
           "regions": []
         },
         {
@@ -195,6 +210,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "nl-nij",
+      "name": "nij",
+      "regions": []
     },
     {
       "code": "nl-noord",
