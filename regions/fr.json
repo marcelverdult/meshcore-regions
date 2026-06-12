@@ -13,6 +13,11 @@
       "regions": []
     },
     {
+      "code": "fr-68",
+      "name": "68",
+      "regions": []
+    },
+    {
       "code": "fr-69",
       "name": "69",
       "regions": []
@@ -40,6 +45,11 @@
     {
       "code": "fr-ges",
       "name": "ges",
+      "regions": []
+    },
+    {
+      "code": "fr-gre",
+      "name": "gre",
       "regions": []
     }
   ]

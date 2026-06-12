@@ -373,7 +373,18 @@
         {
           "code": "de-by-fr",
           "name": "fr",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-by-fr-fue",
+              "name": "fue",
+              "regions": []
+            },
+            {
+              "code": "de-by-fr-n",
+              "name": "n",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-by-fra",
@@ -383,6 +394,11 @@
         {
           "code": "de-by-fs",
           "name": "fs",
+          "regions": []
+        },
+        {
+          "code": "de-by-fue",
+          "name": "fue",
           "regions": []
         },
         {
@@ -457,6 +473,11 @@
           "regions": []
         },
         {
+          "code": "de-by-n",
+          "name": "n",
+          "regions": []
+        },
+        {
           "code": "de-by-nbay",
           "name": "nbay",
           "regions": []
@@ -506,8 +527,18 @@
           "name": "ofr",
           "regions": [
             {
+              "code": "de-by-ofr-ba",
+              "name": "ba",
+              "regions": []
+            },
+            {
               "code": "de-by-ofr-bt",
               "name": "bt",
+              "regions": []
+            },
+            {
+              "code": "de-by-ofr-fo",
+              "name": "fo",
               "regions": []
             }
           ]
@@ -535,6 +566,11 @@
         {
           "code": "de-by-sr",
           "name": "sr",
+          "regions": []
+        },
+        {
+          "code": "de-by-sued",
+          "name": "sued",
           "regions": []
         },
         {
@@ -575,6 +611,11 @@
       "regions": []
     },
     {
+      "code": "de-doomsday",
+      "name": "doomsday",
+      "regions": []
+    },
+    {
       "code": "de-emd",
       "name": "emd",
       "regions": []
@@ -587,6 +628,11 @@
     {
       "code": "de-ffnw",
       "name": "ffnw",
+      "regions": []
+    },
+    {
+      "code": "de-fmo",
+      "name": "fmo",
       "regions": []
     },
     {
@@ -879,6 +925,11 @@
           "regions": []
         },
         {
+          "code": "de-ni-row",
+          "name": "row",
+          "regions": []
+        },
+        {
           "code": "de-ni-shg",
           "name": "shg",
           "regions": []
@@ -901,6 +952,11 @@
         {
           "code": "de-ni-whv",
           "name": "whv",
+          "regions": []
+        },
+        {
+          "code": "de-ni-wl",
+          "name": "wl",
           "regions": []
         },
         {
@@ -1038,6 +1094,27 @@
         {
           "code": "de-nw-pb",
           "name": "pb",
+          "regions": [
+            {
+              "code": "de-nw-pb-01",
+              "name": "01",
+              "regions": []
+            },
+            {
+              "code": "de-nw-pb-ahden",
+              "name": "ahden",
+              "regions": []
+            },
+            {
+              "code": "de-nw-pb-sennelager",
+              "name": "sennelager",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "de-nw-re",
+          "name": "re",
           "regions": []
         },
         {
@@ -1256,8 +1333,18 @@
           "regions": []
         },
         {
+          "code": "de-sn-mab",
+          "name": "mab",
+          "regions": []
+        },
+        {
           "code": "de-sn-mei",
           "name": "Stadtregion Meißen",
+          "regions": []
+        },
+        {
+          "code": "de-sn-mek",
+          "name": "mek",
           "regions": []
         },
         {
@@ -1355,6 +1442,11 @@
         {
           "code": "de-th-j",
           "name": "j",
+          "regions": []
+        },
+        {
+          "code": "de-th-jena",
+          "name": "jena",
           "regions": []
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T04:25:33Z",
+  "generated_at": "2026-06-12T04:30:42Z",
   "tree": [
     {
       "code": "ad",
@@ -63,6 +63,11 @@
         {
           "code": "at-bgld",
           "name": "bgld",
+          "regions": []
+        },
+        {
+          "code": "at-ch",
+          "name": "ch",
           "regions": []
         },
         {
@@ -3830,7 +3835,18 @@
             {
               "code": "de-by-fr",
               "name": "fr",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-by-fr-fue",
+                  "name": "fue",
+                  "regions": []
+                },
+                {
+                  "code": "de-by-fr-n",
+                  "name": "n",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-by-fra",
@@ -3840,6 +3856,11 @@
             {
               "code": "de-by-fs",
               "name": "fs",
+              "regions": []
+            },
+            {
+              "code": "de-by-fue",
+              "name": "fue",
               "regions": []
             },
             {
@@ -3914,6 +3935,11 @@
               "regions": []
             },
             {
+              "code": "de-by-n",
+              "name": "n",
+              "regions": []
+            },
+            {
               "code": "de-by-nbay",
               "name": "nbay",
               "regions": []
@@ -3963,8 +3989,18 @@
               "name": "ofr",
               "regions": [
                 {
+                  "code": "de-by-ofr-ba",
+                  "name": "ba",
+                  "regions": []
+                },
+                {
                   "code": "de-by-ofr-bt",
                   "name": "bt",
+                  "regions": []
+                },
+                {
+                  "code": "de-by-ofr-fo",
+                  "name": "fo",
                   "regions": []
                 }
               ]
@@ -3992,6 +4028,11 @@
             {
               "code": "de-by-sr",
               "name": "sr",
+              "regions": []
+            },
+            {
+              "code": "de-by-sued",
+              "name": "sued",
               "regions": []
             },
             {
@@ -4032,6 +4073,11 @@
           "regions": []
         },
         {
+          "code": "de-doomsday",
+          "name": "doomsday",
+          "regions": []
+        },
+        {
           "code": "de-emd",
           "name": "emd",
           "regions": []
@@ -4044,6 +4090,11 @@
         {
           "code": "de-ffnw",
           "name": "ffnw",
+          "regions": []
+        },
+        {
+          "code": "de-fmo",
+          "name": "fmo",
           "regions": []
         },
         {
@@ -4336,6 +4387,11 @@
               "regions": []
             },
             {
+              "code": "de-ni-row",
+              "name": "row",
+              "regions": []
+            },
+            {
               "code": "de-ni-shg",
               "name": "shg",
               "regions": []
@@ -4358,6 +4414,11 @@
             {
               "code": "de-ni-whv",
               "name": "whv",
+              "regions": []
+            },
+            {
+              "code": "de-ni-wl",
+              "name": "wl",
               "regions": []
             },
             {
@@ -4495,6 +4556,27 @@
             {
               "code": "de-nw-pb",
               "name": "pb",
+              "regions": [
+                {
+                  "code": "de-nw-pb-01",
+                  "name": "01",
+                  "regions": []
+                },
+                {
+                  "code": "de-nw-pb-ahden",
+                  "name": "ahden",
+                  "regions": []
+                },
+                {
+                  "code": "de-nw-pb-sennelager",
+                  "name": "sennelager",
+                  "regions": []
+                }
+              ]
+            },
+            {
+              "code": "de-nw-re",
+              "name": "re",
               "regions": []
             },
             {
@@ -4713,8 +4795,18 @@
               "regions": []
             },
             {
+              "code": "de-sn-mab",
+              "name": "mab",
+              "regions": []
+            },
+            {
               "code": "de-sn-mei",
               "name": "Stadtregion Meißen",
+              "regions": []
+            },
+            {
+              "code": "de-sn-mek",
+              "name": "mek",
               "regions": []
             },
             {
@@ -4812,6 +4904,11 @@
             {
               "code": "de-th-j",
               "name": "j",
+              "regions": []
+            },
+            {
+              "code": "de-th-jena",
+              "name": "jena",
               "regions": []
             },
             {
@@ -5071,6 +5168,11 @@
           "regions": []
         },
         {
+          "code": "fr-68",
+          "name": "68",
+          "regions": []
+        },
+        {
           "code": "fr-69",
           "name": "69",
           "regions": []
@@ -5098,6 +5200,11 @@
         {
           "code": "fr-ges",
           "name": "ges",
+          "regions": []
+        },
+        {
+          "code": "fr-gre",
+          "name": "gre",
           "regions": []
         }
       ]
@@ -6683,6 +6790,10 @@
     {
       "path": "at-bgld",
       "name": "bgld"
+    },
+    {
+      "path": "at-ch",
+      "name": "ch"
     },
     {
       "path": "at-de",
@@ -9685,12 +9796,24 @@
       "name": "fr"
     },
     {
+      "path": "de-by-fr-fue",
+      "name": "fue"
+    },
+    {
+      "path": "de-by-fr-n",
+      "name": "n"
+    },
+    {
       "path": "de-by-fra",
       "name": "fra"
     },
     {
       "path": "de-by-fs",
       "name": "fs"
+    },
+    {
+      "path": "de-by-fue",
+      "name": "fue"
     },
     {
       "path": "de-by-gz",
@@ -9749,6 +9872,10 @@
       "name": "muc"
     },
     {
+      "path": "de-by-n",
+      "name": "n"
+    },
+    {
       "path": "de-by-nbay",
       "name": "nbay"
     },
@@ -9789,8 +9916,16 @@
       "name": "ofr"
     },
     {
+      "path": "de-by-ofr-ba",
+      "name": "ba"
+    },
+    {
       "path": "de-by-ofr-bt",
       "name": "bt"
+    },
+    {
+      "path": "de-by-ofr-fo",
+      "name": "fo"
     },
     {
       "path": "de-by-opf",
@@ -9811,6 +9946,10 @@
     {
       "path": "de-by-sr",
       "name": "sr"
+    },
+    {
+      "path": "de-by-sued",
+      "name": "sued"
     },
     {
       "path": "de-by-sw",
@@ -9841,6 +9980,10 @@
       "name": "dk"
     },
     {
+      "path": "de-doomsday",
+      "name": "doomsday"
+    },
+    {
       "path": "de-emd",
       "name": "emd"
     },
@@ -9851,6 +9994,10 @@
     {
       "path": "de-ffnw",
       "name": "ffnw"
+    },
+    {
+      "path": "de-fmo",
+      "name": "fmo"
     },
     {
       "path": "de-fra",
@@ -10081,6 +10228,10 @@
       "name": "ri"
     },
     {
+      "path": "de-ni-row",
+      "name": "row"
+    },
+    {
       "path": "de-ni-shg",
       "name": "shg"
     },
@@ -10099,6 +10250,10 @@
     {
       "path": "de-ni-whv",
       "name": "whv"
+    },
+    {
+      "path": "de-ni-wl",
+      "name": "wl"
     },
     {
       "path": "de-ni-wob",
@@ -10203,6 +10358,22 @@
     {
       "path": "de-nw-pb",
       "name": "pb"
+    },
+    {
+      "path": "de-nw-pb-01",
+      "name": "01"
+    },
+    {
+      "path": "de-nw-pb-ahden",
+      "name": "ahden"
+    },
+    {
+      "path": "de-nw-pb-sennelager",
+      "name": "sennelager"
+    },
+    {
+      "path": "de-nw-re",
+      "name": "re"
     },
     {
       "path": "de-nw-so",
@@ -10357,8 +10528,16 @@
       "name": "leipzig"
     },
     {
+      "path": "de-sn-mab",
+      "name": "mab"
+    },
+    {
       "path": "de-sn-mei",
       "name": "Stadtregion Meißen"
+    },
+    {
+      "path": "de-sn-mek",
+      "name": "mek"
     },
     {
       "path": "de-sn-msn",
@@ -10435,6 +10614,10 @@
     {
       "path": "de-th-j",
       "name": "j"
+    },
+    {
+      "path": "de-th-jena",
+      "name": "jena"
     },
     {
       "path": "de-th-ost",
@@ -10629,6 +10812,10 @@
       "name": "25"
     },
     {
+      "path": "fr-68",
+      "name": "68"
+    },
+    {
       "path": "fr-69",
       "name": "69"
     },
@@ -10651,6 +10838,10 @@
     {
       "path": "fr-ges",
       "name": "ges"
+    },
+    {
+      "path": "fr-gre",
+      "name": "gre"
     },
     {
       "path": "ga",
