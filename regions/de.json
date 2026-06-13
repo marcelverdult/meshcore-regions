@@ -1067,6 +1067,11 @@
           ]
         },
         {
+          "code": "de-nw-mh",
+          "name": "mh",
+          "regions": []
+        },
+        {
           "code": "de-nw-mi",
           "name": "mi",
           "regions": []
@@ -1130,6 +1135,11 @@
         {
           "code": "de-nw-te",
           "name": "te",
+          "regions": []
+        },
+        {
+          "code": "de-nw-west",
+          "name": "west",
           "regions": []
         },
         {
