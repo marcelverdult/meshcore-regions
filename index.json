@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T04:30:26Z",
+  "generated_at": "2026-06-14T04:31:20Z",
   "tree": [
     {
       "code": "ad",
@@ -4041,6 +4041,11 @@
               "regions": []
             },
             {
+              "code": "de-by-ua",
+              "name": "ua",
+              "regions": []
+            },
+            {
               "code": "de-by-ufr",
               "name": "ufr",
               "regions": []
@@ -4156,6 +4161,11 @@
             {
               "code": "de-he-hef",
               "name": "hef",
+              "regions": []
+            },
+            {
+              "code": "de-he-ks",
+              "name": "ks",
               "regions": []
             },
             {
@@ -4298,6 +4308,11 @@
             {
               "code": "de-ni-bs",
               "name": "bs",
+              "regions": []
+            },
+            {
+              "code": "de-ni-ce",
+              "name": "ce",
               "regions": []
             },
             {
@@ -4529,6 +4544,11 @@
               ]
             },
             {
+              "code": "de-nw-lkmi",
+              "name": "lkmi",
+              "regions": []
+            },
+            {
               "code": "de-nw-mh",
               "name": "mh",
               "regions": []
@@ -4582,6 +4602,11 @@
             {
               "code": "de-nw-re",
               "name": "re",
+              "regions": []
+            },
+            {
+              "code": "de-nw-shg",
+              "name": "shg",
               "regions": []
             },
             {
@@ -9966,6 +9991,10 @@
       "name": "sw"
     },
     {
+      "path": "de-by-ua",
+      "name": "ua"
+    },
+    {
       "path": "de-by-ufr",
       "name": "ufr"
     },
@@ -10056,6 +10085,10 @@
     {
       "path": "de-he-hef",
       "name": "hef"
+    },
+    {
+      "path": "de-he-ks",
+      "name": "ks"
     },
     {
       "path": "de-he-mtk",
@@ -10168,6 +10201,10 @@
     {
       "path": "de-ni-bs",
       "name": "bs"
+    },
+    {
+      "path": "de-ni-ce",
+      "name": "ce"
     },
     {
       "path": "de-ni-fri",
@@ -10346,6 +10383,10 @@
       "name": "dt"
     },
     {
+      "path": "de-nw-lkmi",
+      "name": "lkmi"
+    },
+    {
       "path": "de-nw-mh",
       "name": "mh"
     },
@@ -10388,6 +10429,10 @@
     {
       "path": "de-nw-re",
       "name": "re"
+    },
+    {
+      "path": "de-nw-shg",
+      "name": "shg"
     },
     {
       "path": "de-nw-so",
