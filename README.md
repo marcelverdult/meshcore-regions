@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-06-13T04:30:26Z`
+- Last sync: `2026-06-14T04:31:20Z`
 - Roots: 252
-- Total nodes: 1334
-- Unsorted entries: 397
+- Total nodes: 1339
+- Unsorted entries: 388
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-06-13T04:30:32Z | sync | 75b6480 | Merge pull request #27 from marcelverdult/sync/auto |
+| 2026-06-13T04:30:27Z | sync | 15d1588 | sync: 2 added, 41 resolved, 397 unsorted |
 | 2026-06-12T04:30:50Z | sync | aefcb0c | Merge pull request #26 from marcelverdult/sync/auto |
 | 2026-06-12T04:30:44Z | sync | d275075 | sync: 21 added, 41 resolved, 395 unsorted |
 | 2026-06-09T04:25:42Z | sync | 89fbce6 | Merge pull request #25 from marcelverdult/sync/auto |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-06-04T04:31:07Z | sync | 23cf3df | sync: 7 added, 21 resolved, 349 unsorted |
 | 2026-06-02T15:11:31Z | manual | 1f61875 | Merge pull request #18 from markino222/main |
 | 2026-06-02T12:58:22Z | manual | 7999cc5 | Added "europe" in eu.json |
-| 2026-06-02T12:54:30Z | manual | 6009e10 | Rename regions in it.json for clarity |
-| 2026-06-02T04:30:59Z | sync | e830e4b | Merge pull request #17 from marcelverdult/sync/auto |
 
 <!-- regions:auto-status:end -->
 
