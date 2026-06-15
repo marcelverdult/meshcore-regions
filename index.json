@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T04:31:20Z",
+  "generated_at": "2026-06-15T04:32:13Z",
   "tree": [
     {
       "code": "ad",
@@ -1026,6 +1026,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "be-vil",
+          "name": "vil",
+          "regions": []
         },
         {
           "code": "be-vli",
@@ -3321,6 +3326,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "ch-zh",
+          "name": "zh",
+          "regions": []
         }
       ]
     },
@@ -3592,9 +3602,19 @@
           "regions": []
         },
         {
+          "code": "de-bs",
+          "name": "bs",
+          "regions": []
+        },
+        {
           "code": "de-bw",
           "name": "Baden-Württemberg",
           "regions": [
+            {
+              "code": "de-bw-aa",
+              "name": "aa",
+              "regions": []
+            },
             {
               "code": "de-bw-adk",
               "name": "adk",
@@ -4881,6 +4901,11 @@
           "name": "Sachsen-Anhalt",
           "regions": [
             {
+              "code": "de-st-blk",
+              "name": "blk",
+              "regions": []
+            },
+            {
               "code": "de-st-hbs",
               "name": "hbs",
               "regions": []
@@ -5240,6 +5265,11 @@
         {
           "code": "fr-gre",
           "name": "gre",
+          "regions": []
+        },
+        {
+          "code": "fr-idf",
+          "name": "idf",
           "regions": []
         }
       ]
@@ -7005,6 +7035,10 @@
     {
       "path": "be-vbr",
       "name": "Vlaams-Brabant"
+    },
+    {
+      "path": "be-vil",
+      "name": "vil"
     },
     {
       "path": "be-vli",
@@ -9423,6 +9457,10 @@
       "name": "stc"
     },
     {
+      "path": "ch-zh",
+      "name": "zh"
+    },
+    {
       "path": "ci",
       "name": "Côte d’Ivoire"
     },
@@ -9635,8 +9673,16 @@
       "name": "ber"
     },
     {
+      "path": "de-bs",
+      "name": "bs"
+    },
+    {
       "path": "de-bw",
       "name": "Baden-Württemberg"
+    },
+    {
+      "path": "de-bw-aa",
+      "name": "aa"
     },
     {
       "path": "de-bw-adk",
@@ -10631,6 +10677,10 @@
       "name": "Sachsen-Anhalt"
     },
     {
+      "path": "de-st-blk",
+      "name": "blk"
+    },
+    {
       "path": "de-st-hbs",
       "name": "hbs"
     },
@@ -10905,6 +10955,10 @@
     {
       "path": "fr-gre",
       "name": "gre"
+    },
+    {
+      "path": "fr-idf",
+      "name": "idf"
     },
     {
       "path": "ga",
