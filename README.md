@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-06-14T04:31:20Z`
+- Last sync: `2026-06-15T04:32:13Z`
 - Roots: 252
-- Total nodes: 1339
-- Unsorted entries: 388
+- Total nodes: 1345
+- Unsorted entries: 389
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-06-14T04:31:26Z | sync | 036e421 | Merge pull request #28 from marcelverdult/sync/auto |
+| 2026-06-14T04:31:21Z | sync | c0aad67 | sync: 5 added, 41 resolved, 388 unsorted |
 | 2026-06-13T04:30:32Z | sync | 75b6480 | Merge pull request #27 from marcelverdult/sync/auto |
 | 2026-06-13T04:30:27Z | sync | 15d1588 | sync: 2 added, 41 resolved, 397 unsorted |
 | 2026-06-12T04:30:50Z | sync | aefcb0c | Merge pull request #26 from marcelverdult/sync/auto |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-06-04T17:49:30Z | manual | 2b6c1ab | `de.json`: Made the naming for the regions around Dresden more specific. |
 | 2026-06-04T04:31:13Z | sync | 26cca67 | Merge pull request #19 from marcelverdult/sync/auto |
 | 2026-06-04T04:31:07Z | sync | 23cf3df | sync: 7 added, 21 resolved, 349 unsorted |
-| 2026-06-02T15:11:31Z | manual | 1f61875 | Merge pull request #18 from markino222/main |
-| 2026-06-02T12:58:22Z | manual | 7999cc5 | Added "europe" in eu.json |
 
 <!-- regions:auto-status:end -->
 

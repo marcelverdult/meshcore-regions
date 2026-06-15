@@ -130,9 +130,19 @@
       "regions": []
     },
     {
+      "code": "de-bs",
+      "name": "bs",
+      "regions": []
+    },
+    {
       "code": "de-bw",
       "name": "Baden-Württemberg",
       "regions": [
+        {
+          "code": "de-bw-aa",
+          "name": "aa",
+          "regions": []
+        },
         {
           "code": "de-bw-adk",
           "name": "adk",
@@ -1418,6 +1428,11 @@
       "code": "de-st",
       "name": "Sachsen-Anhalt",
       "regions": [
+        {
+          "code": "de-st-blk",
+          "name": "blk",
+          "regions": []
+        },
         {
           "code": "de-st-hbs",
           "name": "hbs",

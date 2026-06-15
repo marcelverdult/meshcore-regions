@@ -51,6 +51,11 @@
       "code": "fr-gre",
       "name": "gre",
       "regions": []
+    },
+    {
+      "code": "fr-idf",
+      "name": "idf",
+      "regions": []
     }
   ]
 }

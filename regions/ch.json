@@ -47,6 +47,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "ch-zh",
+      "name": "zh",
+      "regions": []
     }
   ]
 }
