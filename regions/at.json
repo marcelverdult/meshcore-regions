@@ -101,7 +101,13 @@
     {
       "code": "at-w",
       "name": "w",
-      "regions": []
+      "regions": [
+        {
+          "code": "at-w-w",
+          "name": "w",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "at-west",

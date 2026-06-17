@@ -90,6 +90,11 @@
           "code": "nl-ge-nun",
           "name": "nun",
           "regions": []
+        },
+        {
+          "code": "nl-ge-wgw",
+          "name": "wgw",
+          "regions": []
         }
       ]
     },
@@ -222,6 +227,11 @@
       "regions": []
     },
     {
+      "code": "nl-oost",
+      "name": "oost",
+      "regions": []
+    },
+    {
       "code": "nl-ov",
       "name": "Overijssel",
       "regions": [
@@ -289,6 +299,11 @@
       "regions": []
     },
     {
+      "code": "nl-west",
+      "name": "west",
+      "regions": []
+    },
+    {
       "code": "nl-wgw",
       "name": "wgw",
       "regions": []
@@ -343,6 +358,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "nl-zuid",
+      "name": "zuid",
+      "regions": []
     },
     {
       "code": "nl-zwo",

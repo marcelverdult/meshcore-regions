@@ -3,6 +3,11 @@
   "name": "United Kingdom",
   "regions": [
     {
+      "code": "gb-bkm",
+      "name": "bkm",
+      "regions": []
+    },
+    {
       "code": "gb-eng",
       "name": "eng",
       "regions": []
