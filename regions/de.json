@@ -818,6 +818,11 @@
           "regions": []
         },
         {
+          "code": "de-mv-nb",
+          "name": "nb",
+          "regions": []
+        },
+        {
           "code": "de-mv-nwm",
           "name": "nwm",
           "regions": []
@@ -1355,7 +1360,13 @@
         {
           "code": "de-sn-dd",
           "name": "Großraum Dresden",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-sn-dd-mei",
+              "name": "mei",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-sn-erz",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T04:32:13Z",
+  "generated_at": "2026-06-17T04:31:21Z",
   "tree": [
     {
       "code": "ad",
@@ -159,7 +159,13 @@
         {
           "code": "at-w",
           "name": "w",
-          "regions": []
+          "regions": [
+            {
+              "code": "at-w-w",
+              "name": "w",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "at-west",
@@ -3307,6 +3313,11 @@
           "regions": []
         },
         {
+          "code": "ch-gr",
+          "name": "gr",
+          "regions": []
+        },
+        {
           "code": "ch-it",
           "name": "it",
           "regions": []
@@ -4290,6 +4301,11 @@
               "regions": []
             },
             {
+              "code": "de-mv-nb",
+              "name": "nb",
+              "regions": []
+            },
+            {
               "code": "de-mv-nwm",
               "name": "nwm",
               "regions": []
@@ -4827,7 +4843,13 @@
             {
               "code": "de-sn-dd",
               "name": "Großraum Dresden",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-sn-dd-mei",
+                  "name": "mei",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-sn-erz",
@@ -5283,6 +5305,11 @@
       "code": "gb",
       "name": "United Kingdom",
       "regions": [
+        {
+          "code": "gb-bkm",
+          "name": "bkm",
+          "regions": []
+        },
         {
           "code": "gb-eng",
           "name": "eng",
@@ -5988,6 +6015,11 @@
               "code": "nl-ge-nun",
               "name": "nun",
               "regions": []
+            },
+            {
+              "code": "nl-ge-wgw",
+              "name": "wgw",
+              "regions": []
             }
           ]
         },
@@ -6120,6 +6152,11 @@
           "regions": []
         },
         {
+          "code": "nl-oost",
+          "name": "oost",
+          "regions": []
+        },
+        {
           "code": "nl-ov",
           "name": "Overijssel",
           "regions": [
@@ -6187,6 +6224,11 @@
           "regions": []
         },
         {
+          "code": "nl-west",
+          "name": "west",
+          "regions": []
+        },
+        {
           "code": "nl-wgw",
           "name": "wgw",
           "regions": []
@@ -6241,6 +6283,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "nl-zuid",
+          "name": "zuid",
+          "regions": []
         },
         {
           "code": "nl-zwo",
@@ -6930,6 +6977,10 @@
     },
     {
       "path": "at-w",
+      "name": "w"
+    },
+    {
+      "path": "at-w-w",
       "name": "w"
     },
     {
@@ -9441,6 +9492,10 @@
       "name": "ge"
     },
     {
+      "path": "ch-gr",
+      "name": "gr"
+    },
+    {
       "path": "ch-it",
       "name": "it"
     },
@@ -10217,6 +10272,10 @@
       "name": "mse"
     },
     {
+      "path": "de-mv-nb",
+      "name": "nb"
+    },
+    {
       "path": "de-mv-nwm",
       "name": "nwm"
     },
@@ -10621,6 +10680,10 @@
       "name": "Großraum Dresden"
     },
     {
+      "path": "de-sn-dd-mei",
+      "name": "mei"
+    },
+    {
       "path": "de-sn-erz",
       "name": "erz"
     },
@@ -10967,6 +11030,10 @@
     {
       "path": "gb",
       "name": "United Kingdom"
+    },
+    {
+      "path": "gb-bkm",
+      "name": "bkm"
     },
     {
       "path": "gb-eng",
@@ -11541,6 +11608,10 @@
       "name": "nun"
     },
     {
+      "path": "nl-ge-wgw",
+      "name": "wgw"
+    },
+    {
       "path": "nl-gr",
       "name": "Groningen"
     },
@@ -11641,6 +11712,10 @@
       "name": "noord"
     },
     {
+      "path": "nl-oost",
+      "name": "oost"
+    },
+    {
       "path": "nl-ov",
       "name": "Overijssel"
     },
@@ -11693,6 +11768,10 @@
       "name": "vee"
     },
     {
+      "path": "nl-west",
+      "name": "west"
+    },
+    {
       "path": "nl-wgw",
       "name": "wgw"
     },
@@ -11735,6 +11814,10 @@
     {
       "path": "nl-zh-wss",
       "name": "wss"
+    },
+    {
+      "path": "nl-zuid",
+      "name": "zuid"
     },
     {
       "path": "nl-zwo",
