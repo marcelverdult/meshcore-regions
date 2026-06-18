@@ -696,6 +696,11 @@
       "name": "Hessen",
       "regions": [
         {
+          "code": "de-he-fd",
+          "name": "fd",
+          "regions": []
+        },
+        {
           "code": "de-he-gi",
           "name": "gi",
           "regions": [

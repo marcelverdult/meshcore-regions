@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T04:31:21Z",
+  "generated_at": "2026-06-18T04:30:47Z",
   "tree": [
     {
       "code": "ad",
@@ -4179,6 +4179,11 @@
           "name": "Hessen",
           "regions": [
             {
+              "code": "de-he-fd",
+              "name": "fd",
+              "regions": []
+            },
+            {
               "code": "de-he-gi",
               "name": "gi",
               "regions": [
@@ -6114,6 +6119,11 @@
           "code": "nl-nh",
           "name": "Noord-Holland",
           "regions": [
+            {
+              "code": "nl-nh-akl",
+              "name": "akl",
+              "regions": []
+            },
             {
               "code": "nl-nh-ams",
               "name": "ams",
@@ -10176,6 +10186,10 @@
       "name": "Hessen"
     },
     {
+      "path": "de-he-fd",
+      "name": "fd"
+    },
+    {
       "path": "de-he-gi",
       "name": "gi"
     },
@@ -11682,6 +11696,10 @@
     {
       "path": "nl-nh",
       "name": "Noord-Holland"
+    },
+    {
+      "path": "nl-nh-akl",
+      "name": "akl"
     },
     {
       "path": "nl-nh-ams",
