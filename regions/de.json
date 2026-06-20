@@ -739,6 +739,11 @@
       "regions": []
     },
     {
+      "code": "de-ka",
+      "name": "ka",
+      "regions": []
+    },
+    {
       "code": "de-ki",
       "name": "ki",
       "regions": []
@@ -1285,6 +1290,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "de-sa",
+      "name": "sa",
+      "regions": []
     },
     {
       "code": "de-saa",
