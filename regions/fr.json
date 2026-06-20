@@ -43,6 +43,16 @@
       "regions": []
     },
     {
+      "code": "fr-bre",
+      "name": "bre",
+      "regions": []
+    },
+    {
+      "code": "fr-cvl",
+      "name": "cvl",
+      "regions": []
+    },
+    {
       "code": "fr-ges",
       "name": "ges",
       "regions": []
@@ -53,8 +63,38 @@
       "regions": []
     },
     {
+      "code": "fr-hdf",
+      "name": "hdf",
+      "regions": []
+    },
+    {
       "code": "fr-idf",
       "name": "idf",
+      "regions": []
+    },
+    {
+      "code": "fr-naq",
+      "name": "naq",
+      "regions": []
+    },
+    {
+      "code": "fr-nor",
+      "name": "nor",
+      "regions": []
+    },
+    {
+      "code": "fr-occ",
+      "name": "occ",
+      "regions": []
+    },
+    {
+      "code": "fr-pac",
+      "name": "pac",
+      "regions": []
+    },
+    {
+      "code": "fr-pdl",
+      "name": "pdl",
       "regions": []
     }
   ]
