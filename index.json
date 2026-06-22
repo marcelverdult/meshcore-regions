@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T04:29:14Z",
+  "generated_at": "2026-06-22T04:32:17Z",
   "tree": [
     {
       "code": "ad",
@@ -3501,6 +3501,11 @@
       "name": "Germany",
       "regions": [
         {
+          "code": "de-31",
+          "name": "31",
+          "regions": []
+        },
+        {
           "code": "de-abo",
           "name": "abo",
           "regions": []
@@ -3704,6 +3709,11 @@
             {
               "code": "de-bw-gp",
               "name": "gp",
+              "regions": []
+            },
+            {
+              "code": "de-bw-hn",
+              "name": "hn",
               "regions": []
             },
             {
@@ -4045,8 +4055,18 @@
                   "regions": []
                 },
                 {
+                  "code": "de-by-ofr-co",
+                  "name": "co",
+                  "regions": []
+                },
+                {
                   "code": "de-by-ofr-fo",
                   "name": "fo",
+                  "regions": []
+                },
+                {
+                  "code": "de-by-ofr-kc",
+                  "name": "kc",
                   "regions": []
                 }
               ]
@@ -4054,6 +4074,11 @@
             {
               "code": "de-by-opf",
               "name": "opf",
+              "regions": []
+            },
+            {
+              "code": "de-by-otn",
+              "name": "otn",
               "regions": []
             },
             {
@@ -4094,7 +4119,13 @@
             {
               "code": "de-by-ufr",
               "name": "ufr",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-by-ufr-sw",
+                  "name": "sw",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-by-wue",
@@ -5024,8 +5055,18 @@
               "regions": []
             },
             {
+              "code": "de-th-mhl",
+              "name": "mhl",
+              "regions": []
+            },
+            {
               "code": "de-th-ost",
               "name": "ost",
+              "regions": []
+            },
+            {
+              "code": "de-th-ren",
+              "name": "ren",
               "regions": []
             },
             {
@@ -5051,6 +5092,11 @@
             {
               "code": "de-th-sok",
               "name": "sok",
+              "regions": []
+            },
+            {
+              "code": "de-th-son",
+              "name": "son",
               "regions": []
             },
             {
@@ -5277,6 +5323,11 @@
         {
           "code": "fr-25",
           "name": "25",
+          "regions": []
+        },
+        {
+          "code": "fr-38",
+          "name": "38",
           "regions": []
         },
         {
@@ -5656,11 +5707,21 @@
           "name": "Lombardia",
           "regions": [
             {
+              "code": "it-lom-mb",
+              "name": "mb",
+              "regions": []
+            },
+            {
               "code": "it-lom-mi",
               "name": "Milano",
               "regions": []
             }
           ]
+        },
+        {
+          "code": "it-mar",
+          "name": "mar",
+          "regions": []
         },
         {
           "code": "it-nord",
@@ -5714,6 +5775,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "it-umb",
+          "name": "umb",
+          "regions": []
         }
       ]
     },
@@ -9725,6 +9791,10 @@
       "name": "Germany"
     },
     {
+      "path": "de-31",
+      "name": "31"
+    },
+    {
       "path": "de-abo",
       "name": "abo"
     },
@@ -9887,6 +9957,10 @@
     {
       "path": "de-bw-gp",
       "name": "gp"
+    },
+    {
+      "path": "de-bw-hn",
+      "name": "hn"
     },
     {
       "path": "de-bw-hor",
@@ -10157,12 +10231,24 @@
       "name": "bt"
     },
     {
+      "path": "de-by-ofr-co",
+      "name": "co"
+    },
+    {
       "path": "de-by-ofr-fo",
       "name": "fo"
     },
     {
+      "path": "de-by-ofr-kc",
+      "name": "kc"
+    },
+    {
       "path": "de-by-opf",
       "name": "opf"
+    },
+    {
+      "path": "de-by-otn",
+      "name": "otn"
     },
     {
       "path": "de-by-rgbg",
@@ -10195,6 +10281,10 @@
     {
       "path": "de-by-ufr",
       "name": "ufr"
+    },
+    {
+      "path": "de-by-ufr-sw",
+      "name": "sw"
     },
     {
       "path": "de-by-wue",
@@ -10905,8 +10995,16 @@
       "name": "jena"
     },
     {
+      "path": "de-th-mhl",
+      "name": "mhl"
+    },
+    {
       "path": "de-th-ost",
       "name": "ost"
+    },
+    {
+      "path": "de-th-ren",
+      "name": "ren"
     },
     {
       "path": "de-th-shk",
@@ -10927,6 +11025,10 @@
     {
       "path": "de-th-sok",
       "name": "sok"
+    },
+    {
+      "path": "de-th-son",
+      "name": "son"
     },
     {
       "path": "de-th-themar",
@@ -11095,6 +11197,10 @@
     {
       "path": "fr-25",
       "name": "25"
+    },
+    {
+      "path": "fr-38",
+      "name": "38"
     },
     {
       "path": "fr-68",
@@ -11397,8 +11503,16 @@
       "name": "Lombardia"
     },
     {
+      "path": "it-lom-mb",
+      "name": "mb"
+    },
+    {
       "path": "it-lom-mi",
       "name": "Milano"
+    },
+    {
+      "path": "it-mar",
+      "name": "mar"
     },
     {
       "path": "it-nord",
@@ -11439,6 +11553,10 @@
     {
       "path": "it-tos-ms",
       "name": "Massa"
+    },
+    {
+      "path": "it-umb",
+      "name": "umb"
     },
     {
       "path": "je",

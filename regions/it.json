@@ -60,11 +60,21 @@
       "name": "Lombardia",
       "regions": [
         {
+          "code": "it-lom-mb",
+          "name": "mb",
+          "regions": []
+        },
+        {
           "code": "it-lom-mi",
           "name": "Milano",
           "regions": []
         }
       ]
+    },
+    {
+      "code": "it-mar",
+      "name": "mar",
+      "regions": []
     },
     {
       "code": "it-nord",
@@ -118,6 +128,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "it-umb",
+      "name": "umb",
+      "regions": []
     }
   ]
 }

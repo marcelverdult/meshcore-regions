@@ -3,6 +3,11 @@
   "name": "Germany",
   "regions": [
     {
+      "code": "de-31",
+      "name": "31",
+      "regions": []
+    },
+    {
       "code": "de-abo",
       "name": "abo",
       "regions": []
@@ -206,6 +211,11 @@
         {
           "code": "de-bw-gp",
           "name": "gp",
+          "regions": []
+        },
+        {
+          "code": "de-bw-hn",
+          "name": "hn",
           "regions": []
         },
         {
@@ -547,8 +557,18 @@
               "regions": []
             },
             {
+              "code": "de-by-ofr-co",
+              "name": "co",
+              "regions": []
+            },
+            {
               "code": "de-by-ofr-fo",
               "name": "fo",
+              "regions": []
+            },
+            {
+              "code": "de-by-ofr-kc",
+              "name": "kc",
               "regions": []
             }
           ]
@@ -556,6 +576,11 @@
         {
           "code": "de-by-opf",
           "name": "opf",
+          "regions": []
+        },
+        {
+          "code": "de-by-otn",
+          "name": "otn",
           "regions": []
         },
         {
@@ -596,7 +621,13 @@
         {
           "code": "de-by-ufr",
           "name": "ufr",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-by-ufr-sw",
+              "name": "sw",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-by-wue",
@@ -1526,8 +1557,18 @@
           "regions": []
         },
         {
+          "code": "de-th-mhl",
+          "name": "mhl",
+          "regions": []
+        },
+        {
           "code": "de-th-ost",
           "name": "ost",
+          "regions": []
+        },
+        {
+          "code": "de-th-ren",
+          "name": "ren",
           "regions": []
         },
         {
@@ -1553,6 +1594,11 @@
         {
           "code": "de-th-sok",
           "name": "sok",
+          "regions": []
+        },
+        {
+          "code": "de-th-son",
+          "name": "son",
           "regions": []
         },
         {
