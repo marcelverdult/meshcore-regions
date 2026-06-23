@@ -269,6 +269,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-rt",
+          "name": "rt",
+          "regions": []
+        },
+        {
           "code": "de-bw-rw",
           "name": "rw",
           "regions": []
@@ -706,6 +711,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "de-hansemesh",
+      "name": "hansemesh",
+      "regions": []
     },
     {
       "code": "de-hartz",
