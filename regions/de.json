@@ -782,7 +782,13 @@
     {
       "code": "de-ka",
       "name": "ka",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-ka-bw",
+          "name": "bw",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-ki",
