@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T04:23:42Z",
+  "generated_at": "2026-06-24T04:25:42Z",
   "tree": [
     {
       "code": "ad",
@@ -4280,7 +4280,13 @@
         {
           "code": "de-ka",
           "name": "ka",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-ka-bw",
+              "name": "bw",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-ki",
@@ -10415,6 +10421,10 @@
     {
       "path": "de-ka",
       "name": "ka"
+    },
+    {
+      "path": "de-ka-bw",
+      "name": "bw"
     },
     {
       "path": "de-ki",
