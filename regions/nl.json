@@ -125,6 +125,11 @@
       "regions": []
     },
     {
+      "code": "nl-hgl",
+      "name": "hgl",
+      "regions": []
+    },
+    {
       "code": "nl-hhw",
       "name": "hhw",
       "regions": []
@@ -210,6 +215,11 @@
           "regions": []
         },
         {
+          "code": "nl-nh-hke",
+          "name": "hke",
+          "regions": []
+        },
+        {
           "code": "nl-nh-sbc",
           "name": "sbc",
           "regions": []
@@ -217,6 +227,11 @@
         {
           "code": "nl-nh-uit",
           "name": "uit",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-utg",
+          "name": "utg",
           "regions": []
         }
       ]

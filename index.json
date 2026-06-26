@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T04:25:42Z",
+  "generated_at": "2026-06-26T04:28:37Z",
   "tree": [
     {
       "code": "ad",
@@ -3642,6 +3642,11 @@
           "name": "Baden-Württemberg",
           "regions": [
             {
+              "code": "de-bw-a22",
+              "name": "a22",
+              "regions": []
+            },
+            {
               "code": "de-bw-aa",
               "name": "aa",
               "regions": []
@@ -4185,6 +4190,11 @@
           "regions": []
         },
         {
+          "code": "de-fr",
+          "name": "fr",
+          "regions": []
+        },
+        {
           "code": "de-fra",
           "name": "fra",
           "regions": []
@@ -4421,6 +4431,11 @@
             {
               "code": "de-ni-ce",
               "name": "ce",
+              "regions": []
+            },
+            {
+              "code": "de-ni-dan",
+              "name": "dan",
               "regions": []
             },
             {
@@ -5357,6 +5372,11 @@
           "regions": []
         },
         {
+          "code": "fr-73",
+          "name": "73",
+          "regions": []
+        },
+        {
           "code": "fr-74",
           "name": "74",
           "regions": []
@@ -5450,7 +5470,13 @@
         {
           "code": "gb-eng",
           "name": "eng",
-          "regions": []
+          "regions": [
+            {
+              "code": "gb-eng-nw",
+              "name": "nw",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "gb-est",
@@ -6207,6 +6233,11 @@
           "regions": []
         },
         {
+          "code": "nl-hgl",
+          "name": "hgl",
+          "regions": []
+        },
+        {
           "code": "nl-hhw",
           "name": "hhw",
           "regions": []
@@ -6292,6 +6323,11 @@
               "regions": []
             },
             {
+              "code": "nl-nh-hke",
+              "name": "hke",
+              "regions": []
+            },
+            {
               "code": "nl-nh-sbc",
               "name": "sbc",
               "regions": []
@@ -6299,6 +6335,11 @@
             {
               "code": "nl-nh-uit",
               "name": "uit",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-utg",
+              "name": "utg",
               "regions": []
             }
           ]
@@ -6545,6 +6586,11 @@
         {
           "code": "pl-ma",
           "name": "ma",
+          "regions": []
+        },
+        {
+          "code": "pl-maz",
+          "name": "maz",
           "regions": []
         },
         {
@@ -9919,6 +9965,10 @@
       "name": "Baden-Württemberg"
     },
     {
+      "path": "de-bw-a22",
+      "name": "a22"
+    },
+    {
       "path": "de-bw-aa",
       "name": "aa"
     },
@@ -10347,6 +10397,10 @@
       "name": "fmo"
     },
     {
+      "path": "de-fr",
+      "name": "fr"
+    },
+    {
       "path": "de-fra",
       "name": "fra"
     },
@@ -10533,6 +10587,10 @@
     {
       "path": "de-ni-ce",
       "name": "ce"
+    },
+    {
+      "path": "de-ni-dan",
+      "name": "dan"
     },
     {
       "path": "de-ni-fri",
@@ -11239,6 +11297,10 @@
       "name": "69"
     },
     {
+      "path": "fr-73",
+      "name": "73"
+    },
+    {
       "path": "fr-74",
       "name": "74"
     },
@@ -11313,6 +11375,10 @@
     {
       "path": "gb-eng",
       "name": "eng"
+    },
+    {
+      "path": "gb-eng-nw",
+      "name": "nw"
     },
     {
       "path": "gb-est",
@@ -11923,6 +11989,10 @@
       "name": "hag"
     },
     {
+      "path": "nl-hgl",
+      "name": "hgl"
+    },
+    {
       "path": "nl-hhw",
       "name": "hhw"
     },
@@ -11991,12 +12061,20 @@
       "name": "gok"
     },
     {
+      "path": "nl-nh-hke",
+      "name": "hke"
+    },
+    {
       "path": "nl-nh-sbc",
       "name": "sbc"
     },
     {
       "path": "nl-nh-uit",
       "name": "uit"
+    },
+    {
+      "path": "nl-nh-utg",
+      "name": "utg"
     },
     {
       "path": "nl-nij",
@@ -12189,6 +12267,10 @@
     {
       "path": "pl-ma",
       "name": "ma"
+    },
+    {
+      "path": "pl-maz",
+      "name": "maz"
     },
     {
       "path": "pl-mz",
