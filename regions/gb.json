@@ -10,7 +10,13 @@
     {
       "code": "gb-eng",
       "name": "eng",
-      "regions": []
+      "regions": [
+        {
+          "code": "gb-eng-nw",
+          "name": "nw",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "gb-est",

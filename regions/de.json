@@ -144,6 +144,11 @@
       "name": "Baden-Württemberg",
       "regions": [
         {
+          "code": "de-bw-a22",
+          "name": "a22",
+          "regions": []
+        },
+        {
           "code": "de-bw-aa",
           "name": "aa",
           "regions": []
@@ -687,6 +692,11 @@
       "regions": []
     },
     {
+      "code": "de-fr",
+      "name": "fr",
+      "regions": []
+    },
+    {
       "code": "de-fra",
       "name": "fra",
       "regions": []
@@ -923,6 +933,11 @@
         {
           "code": "de-ni-ce",
           "name": "ce",
+          "regions": []
+        },
+        {
+          "code": "de-ni-dan",
+          "name": "dan",
           "regions": []
         },
         {
