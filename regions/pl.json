@@ -40,7 +40,13 @@
     {
       "code": "pl-sk",
       "name": "sk",
-      "regions": []
+      "regions": [
+        {
+          "code": "pl-sk-bot",
+          "name": "bot",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "pl-sl",

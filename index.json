@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T04:28:37Z",
+  "generated_at": "2026-06-27T04:21:33Z",
   "tree": [
     {
       "code": "ad",
@@ -3333,6 +3333,11 @@
           "regions": []
         },
         {
+          "code": "ch-rg",
+          "name": "rg",
+          "regions": []
+        },
+        {
           "code": "ch-ti",
           "name": "ti",
           "regions": []
@@ -5374,7 +5379,13 @@
         {
           "code": "fr-73",
           "name": "73",
-          "regions": []
+          "regions": [
+            {
+              "code": "fr-73-74",
+              "name": "74",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "fr-74",
@@ -6606,7 +6617,13 @@
         {
           "code": "pl-sk",
           "name": "sk",
-          "regions": []
+          "regions": [
+            {
+              "code": "pl-sk-bot",
+              "name": "bot",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "pl-sl",
@@ -9721,6 +9738,10 @@
       "name": "ne"
     },
     {
+      "path": "ch-rg",
+      "name": "rg"
+    },
+    {
       "path": "ch-ti",
       "name": "ti"
     },
@@ -11301,6 +11322,10 @@
       "name": "73"
     },
     {
+      "path": "fr-73-74",
+      "name": "74"
+    },
+    {
       "path": "fr-74",
       "name": "74"
     },
@@ -12283,6 +12308,10 @@
     {
       "path": "pl-sk",
       "name": "sk"
+    },
+    {
+      "path": "pl-sk-bot",
+      "name": "bot"
     },
     {
       "path": "pl-sl",
