@@ -22,6 +22,11 @@
           "regions": []
         },
         {
+          "code": "dk-fyn-odense",
+          "name": "odense",
+          "regions": []
+        },
+        {
           "code": "dk-fyn-ringe",
           "name": "ringe",
           "regions": []
