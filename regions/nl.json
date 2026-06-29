@@ -3,6 +3,11 @@
   "name": "Netherlands",
   "regions": [
     {
+      "code": "nl-alm",
+      "name": "alm",
+      "regions": []
+    },
+    {
       "code": "nl-ame",
       "name": "ame",
       "regions": []
@@ -263,6 +268,16 @@
         {
           "code": "nl-ov-hgl",
           "name": "hgl",
+          "regions": []
+        },
+        {
+          "code": "nl-ov-hld",
+          "name": "hld",
+          "regions": []
+        },
+        {
+          "code": "nl-ov-nvd",
+          "name": "nvd",
           "regions": []
         },
         {
