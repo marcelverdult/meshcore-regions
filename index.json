@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T04:30:25Z",
+  "generated_at": "2026-06-29T04:31:18Z",
   "tree": [
     {
       "code": "ad",
@@ -6132,6 +6132,11 @@
       "name": "Netherlands",
       "regions": [
         {
+          "code": "nl-alm",
+          "name": "alm",
+          "regions": []
+        },
+        {
           "code": "nl-ame",
           "name": "ame",
           "regions": []
@@ -6395,6 +6400,16 @@
               "regions": []
             },
             {
+              "code": "nl-ov-hld",
+              "name": "hld",
+              "regions": []
+            },
+            {
+              "code": "nl-ov-nvd",
+              "name": "nvd",
+              "regions": []
+            },
+            {
               "code": "nl-ov-sew",
               "name": "sew",
               "regions": []
@@ -6590,6 +6605,11 @@
       "name": "Poland",
       "regions": [
         {
+          "code": "pl-kgr",
+          "name": "kgr",
+          "regions": []
+        },
+        {
           "code": "pl-kra",
           "name": "kra",
           "regions": []
@@ -6607,7 +6627,13 @@
         {
           "code": "pl-ma",
           "name": "ma",
-          "regions": []
+          "regions": [
+            {
+              "code": "pl-ma-kgr",
+              "name": "kgr",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "pl-maz",
@@ -6617,6 +6643,11 @@
         {
           "code": "pl-mz",
           "name": "mz",
+          "regions": []
+        },
+        {
+          "code": "pl-pk",
+          "name": "pk",
           "regions": []
         },
         {
@@ -11936,6 +11967,10 @@
       "name": "Netherlands"
     },
     {
+      "path": "nl-alm",
+      "name": "alm"
+    },
+    {
       "path": "nl-ame",
       "name": "ame"
     },
@@ -12144,6 +12179,14 @@
       "name": "hgl"
     },
     {
+      "path": "nl-ov-hld",
+      "name": "hld"
+    },
+    {
+      "path": "nl-ov-nvd",
+      "name": "nvd"
+    },
+    {
       "path": "nl-ov-sew",
       "name": "sew"
     },
@@ -12296,6 +12339,10 @@
       "name": "Poland"
     },
     {
+      "path": "pl-kgr",
+      "name": "kgr"
+    },
+    {
       "path": "pl-kra",
       "name": "kra"
     },
@@ -12312,12 +12359,20 @@
       "name": "ma"
     },
     {
+      "path": "pl-ma-kgr",
+      "name": "kgr"
+    },
+    {
       "path": "pl-maz",
       "name": "maz"
     },
     {
       "path": "pl-mz",
       "name": "mz"
+    },
+    {
+      "path": "pl-pk",
+      "name": "pk"
     },
     {
       "path": "pl-pm",
