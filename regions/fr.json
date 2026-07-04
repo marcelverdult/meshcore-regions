@@ -32,6 +32,11 @@
       "name": "73",
       "regions": [
         {
+          "code": "fr-73-73",
+          "name": "73",
+          "regions": []
+        },
+        {
           "code": "fr-73-74",
           "name": "74",
           "regions": []

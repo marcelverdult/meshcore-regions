@@ -8,6 +8,16 @@
       "regions": []
     },
     {
+      "code": "us-bay",
+      "name": "bay",
+      "regions": []
+    },
+    {
+      "code": "us-ca",
+      "name": "ca",
+      "regions": []
+    },
+    {
       "code": "us-fl",
       "name": "fl",
       "regions": [

@@ -91,7 +91,18 @@
     {
       "code": "at-vbg",
       "name": "vbg",
-      "regions": []
+      "regions": [
+        {
+          "code": "at-vbg-bz",
+          "name": "bz",
+          "regions": []
+        },
+        {
+          "code": "at-vbg-fk",
+          "name": "fk",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "at-vie",

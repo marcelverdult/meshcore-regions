@@ -215,6 +215,11 @@
           "regions": []
         },
         {
+          "code": "nl-nh-cas",
+          "name": "cas",
+          "regions": []
+        },
+        {
           "code": "nl-nh-gok",
           "name": "gok",
           "regions": []
@@ -222,6 +227,11 @@
         {
           "code": "nl-nh-hke",
           "name": "hke",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-lmm",
+          "name": "lmm",
           "regions": []
         },
         {
