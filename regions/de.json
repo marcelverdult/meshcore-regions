@@ -130,6 +130,11 @@
       "regions": []
     },
     {
+      "code": "de-bensheim",
+      "name": "bensheim",
+      "regions": []
+    },
+    {
       "code": "de-ber",
       "name": "ber",
       "regions": []
@@ -586,7 +591,18 @@
         {
           "code": "de-by-opf",
           "name": "opf",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-by-opf-emcomm",
+              "name": "emcomm",
+              "regions": []
+            },
+            {
+              "code": "de-by-opf-new",
+              "name": "new",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-by-otn",
@@ -838,7 +854,13 @@
     {
       "code": "de-mitte",
       "name": "Mitteldeutschland",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-mitte-des",
+          "name": "des",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-mpids",
@@ -1133,6 +1155,11 @@
           "regions": []
         },
         {
+          "code": "de-nw-gm",
+          "name": "gm",
+          "regions": []
+        },
+        {
           "code": "de-nw-gt",
           "name": "gt",
           "regions": []
@@ -1186,6 +1213,11 @@
         {
           "code": "de-nw-mitte",
           "name": "mitte",
+          "regions": []
+        },
+        {
+          "code": "de-nw-mk",
+          "name": "mk",
           "regions": []
         },
         {
@@ -1297,6 +1329,16 @@
       "regions": []
     },
     {
+      "code": "de-pi",
+      "name": "pi",
+      "regions": []
+    },
+    {
+      "code": "de-rhoen",
+      "name": "rhoen",
+      "regions": []
+    },
+    {
       "code": "de-rlp",
       "name": "rlp",
       "regions": [
@@ -1314,6 +1356,11 @@
         {
           "code": "de-rp-dbg",
           "name": "dbg",
+          "regions": []
+        },
+        {
+          "code": "de-rp-drg",
+          "name": "drg",
           "regions": []
         },
         {

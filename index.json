@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T04:31:18Z",
+  "generated_at": "2026-07-04T06:13:29Z",
   "tree": [
     {
       "code": "ad",
@@ -149,7 +149,18 @@
         {
           "code": "at-vbg",
           "name": "vbg",
-          "regions": []
+          "regions": [
+            {
+              "code": "at-vbg-bz",
+              "name": "bz",
+              "regions": []
+            },
+            {
+              "code": "at-vbg-fk",
+              "name": "fk",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "at-vie",
@@ -3638,6 +3649,11 @@
           "regions": []
         },
         {
+          "code": "de-bensheim",
+          "name": "bensheim",
+          "regions": []
+        },
+        {
           "code": "de-ber",
           "name": "ber",
           "regions": []
@@ -4094,7 +4110,18 @@
             {
               "code": "de-by-opf",
               "name": "opf",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-by-opf-emcomm",
+                  "name": "emcomm",
+                  "regions": []
+                },
+                {
+                  "code": "de-by-opf-new",
+                  "name": "new",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-by-otn",
@@ -4346,7 +4373,13 @@
         {
           "code": "de-mitte",
           "name": "Mitteldeutschland",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-mitte-des",
+              "name": "des",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-mpids",
@@ -4641,6 +4674,11 @@
               "regions": []
             },
             {
+              "code": "de-nw-gm",
+              "name": "gm",
+              "regions": []
+            },
+            {
               "code": "de-nw-gt",
               "name": "gt",
               "regions": []
@@ -4694,6 +4732,11 @@
             {
               "code": "de-nw-mitte",
               "name": "mitte",
+              "regions": []
+            },
+            {
+              "code": "de-nw-mk",
+              "name": "mk",
               "regions": []
             },
             {
@@ -4805,6 +4848,16 @@
           "regions": []
         },
         {
+          "code": "de-pi",
+          "name": "pi",
+          "regions": []
+        },
+        {
+          "code": "de-rhoen",
+          "name": "rhoen",
+          "regions": []
+        },
+        {
           "code": "de-rlp",
           "name": "rlp",
           "regions": [
@@ -4822,6 +4875,11 @@
             {
               "code": "de-rp-dbg",
               "name": "dbg",
+              "regions": []
+            },
+            {
+              "code": "de-rp-drg",
+              "name": "drg",
               "regions": []
             },
             {
@@ -5218,6 +5276,11 @@
           "name": "fyn",
           "regions": [
             {
+              "code": "dk-fyn-middelfart",
+              "name": "middelfart",
+              "regions": []
+            },
+            {
               "code": "dk-fyn-nyborg",
               "name": "nyborg",
               "regions": []
@@ -5391,6 +5454,11 @@
           "name": "73",
           "regions": [
             {
+              "code": "fr-73-73",
+              "name": "73",
+              "regions": []
+            },
+            {
               "code": "fr-73-74",
               "name": "74",
               "regions": []
@@ -5492,6 +5560,11 @@
           "code": "gb-eng",
           "name": "eng",
           "regions": [
+            {
+              "code": "gb-eng-midlands",
+              "name": "midlands",
+              "regions": []
+            },
             {
               "code": "gb-eng-nw",
               "name": "nw",
@@ -6344,6 +6417,11 @@
               "regions": []
             },
             {
+              "code": "nl-nh-cas",
+              "name": "cas",
+              "regions": []
+            },
+            {
               "code": "nl-nh-gok",
               "name": "gok",
               "regions": []
@@ -6351,6 +6429,11 @@
             {
               "code": "nl-nh-hke",
               "name": "hke",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-lmm",
+              "name": "lmm",
               "regions": []
             },
             {
@@ -6622,6 +6705,11 @@
         {
           "code": "pl-ld",
           "name": "ld",
+          "regions": []
+        },
+        {
+          "code": "pl-lu",
+          "name": "lu",
           "regions": []
         },
         {
@@ -7023,6 +7111,16 @@
           "regions": []
         },
         {
+          "code": "us-bay",
+          "name": "bay",
+          "regions": []
+        },
+        {
+          "code": "us-ca",
+          "name": "ca",
+          "regions": []
+        },
+        {
           "code": "us-fl",
           "name": "fl",
           "regions": [
@@ -7241,6 +7339,14 @@
     {
       "path": "at-vbg",
       "name": "vbg"
+    },
+    {
+      "path": "at-vbg-bz",
+      "name": "bz"
+    },
+    {
+      "path": "at-vbg-fk",
+      "name": "fk"
     },
     {
       "path": "at-vie",
@@ -10019,6 +10125,10 @@
       "name": "bebb"
     },
     {
+      "path": "de-bensheim",
+      "name": "bensheim"
+    },
+    {
       "path": "de-ber",
       "name": "ber"
     },
@@ -10383,6 +10493,14 @@
       "name": "opf"
     },
     {
+      "path": "de-by-opf-emcomm",
+      "name": "emcomm"
+    },
+    {
+      "path": "de-by-opf-new",
+      "name": "new"
+    },
+    {
       "path": "de-by-otn",
       "name": "otn"
     },
@@ -10577,6 +10695,10 @@
     {
       "path": "de-mitte",
       "name": "Mitteldeutschland"
+    },
+    {
+      "path": "de-mitte-des",
+      "name": "des"
     },
     {
       "path": "de-mpids",
@@ -10807,6 +10929,10 @@
       "name": "gl"
     },
     {
+      "path": "de-nw-gm",
+      "name": "gm"
+    },
+    {
       "path": "de-nw-gt",
       "name": "gt"
     },
@@ -10849,6 +10975,10 @@
     {
       "path": "de-nw-mitte",
       "name": "mitte"
+    },
+    {
+      "path": "de-nw-mk",
+      "name": "mk"
     },
     {
       "path": "de-nw-ms",
@@ -10919,6 +11049,14 @@
       "name": "owl"
     },
     {
+      "path": "de-pi",
+      "name": "pi"
+    },
+    {
+      "path": "de-rhoen",
+      "name": "rhoen"
+    },
+    {
       "path": "de-rlp",
       "name": "rlp"
     },
@@ -10933,6 +11071,10 @@
     {
       "path": "de-rp-dbg",
       "name": "dbg"
+    },
+    {
+      "path": "de-rp-drg",
+      "name": "drg"
     },
     {
       "path": "de-rp-ger",
@@ -11227,6 +11369,10 @@
       "name": "fyn"
     },
     {
+      "path": "dk-fyn-middelfart",
+      "name": "middelfart"
+    },
+    {
       "path": "dk-fyn-nyborg",
       "name": "nyborg"
     },
@@ -11371,6 +11517,10 @@
       "name": "73"
     },
     {
+      "path": "fr-73-73",
+      "name": "73"
+    },
+    {
       "path": "fr-73-74",
       "name": "74"
     },
@@ -11449,6 +11599,10 @@
     {
       "path": "gb-eng",
       "name": "eng"
+    },
+    {
+      "path": "gb-eng-midlands",
+      "name": "midlands"
     },
     {
       "path": "gb-eng-nw",
@@ -12135,12 +12289,20 @@
       "name": "asd"
     },
     {
+      "path": "nl-nh-cas",
+      "name": "cas"
+    },
+    {
       "path": "nl-nh-gok",
       "name": "gok"
     },
     {
       "path": "nl-nh-hke",
       "name": "hke"
+    },
+    {
+      "path": "nl-nh-lmm",
+      "name": "lmm"
     },
     {
       "path": "nl-nh-sbc",
@@ -12353,6 +12515,10 @@
     {
       "path": "pl-ld",
       "name": "ld"
+    },
+    {
+      "path": "pl-lu",
+      "name": "lu"
     },
     {
       "path": "pl-ma",
@@ -12673,6 +12839,14 @@
     {
       "path": "us-al",
       "name": "al"
+    },
+    {
+      "path": "us-bay",
+      "name": "bay"
+    },
+    {
+      "path": "us-ca",
+      "name": "ca"
     },
     {
       "path": "us-fl",

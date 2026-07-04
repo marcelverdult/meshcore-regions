@@ -12,6 +12,11 @@
       "name": "eng",
       "regions": [
         {
+          "code": "gb-eng-midlands",
+          "name": "midlands",
+          "regions": []
+        },
+        {
           "code": "gb-eng-nw",
           "name": "nw",
           "regions": []
