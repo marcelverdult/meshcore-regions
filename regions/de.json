@@ -224,6 +224,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-hdh",
+          "name": "hdh",
+          "regions": []
+        },
+        {
           "code": "de-bw-hn",
           "name": "hn",
           "regions": []
@@ -334,6 +339,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-va",
+          "name": "va",
+          "regions": []
+        },
+        {
           "code": "de-bw-vai",
           "name": "vai",
           "regions": []
@@ -377,6 +387,11 @@
         {
           "code": "de-by-dah",
           "name": "dah",
+          "regions": []
+        },
+        {
+          "code": "de-by-dlg",
+          "name": "dlg",
           "regions": []
         },
         {
@@ -444,6 +459,11 @@
         {
           "code": "de-by-ill",
           "name": "ill",
+          "regions": []
+        },
+        {
+          "code": "de-by-kru",
+          "name": "kru",
           "regions": []
         },
         {

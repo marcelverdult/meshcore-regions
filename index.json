@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T06:33:48Z",
+  "generated_at": "2026-07-06T07:05:04Z",
   "tree": [
     {
       "code": "ad",
@@ -3743,6 +3743,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-hdh",
+              "name": "hdh",
+              "regions": []
+            },
+            {
               "code": "de-bw-hn",
               "name": "hn",
               "regions": []
@@ -3853,6 +3858,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-va",
+              "name": "va",
+              "regions": []
+            },
+            {
               "code": "de-bw-vai",
               "name": "vai",
               "regions": []
@@ -3896,6 +3906,11 @@
             {
               "code": "de-by-dah",
               "name": "dah",
+              "regions": []
+            },
+            {
+              "code": "de-by-dlg",
+              "name": "dlg",
               "regions": []
             },
             {
@@ -3963,6 +3978,11 @@
             {
               "code": "de-by-ill",
               "name": "ill",
+              "regions": []
+            },
+            {
+              "code": "de-by-kru",
+              "name": "kru",
               "regions": []
             },
             {
@@ -5786,6 +5806,11 @@
       "name": "Italy",
       "regions": [
         {
+          "code": "it-abr",
+          "name": "abr",
+          "regions": []
+        },
+        {
           "code": "it-emi",
           "name": "emi",
           "regions": []
@@ -6205,6 +6230,16 @@
       "name": "Netherlands",
       "regions": [
         {
+          "code": "nl-aer",
+          "name": "aer",
+          "regions": []
+        },
+        {
+          "code": "nl-akl",
+          "name": "akl",
+          "regions": []
+        },
+        {
           "code": "nl-alm",
           "name": "alm",
           "regions": []
@@ -6232,6 +6267,11 @@
         {
           "code": "nl-brd",
           "name": "brd",
+          "regions": []
+        },
+        {
+          "code": "nl-cas",
+          "name": "cas",
           "regions": []
         },
         {
@@ -6377,6 +6417,11 @@
           "regions": []
         },
         {
+          "code": "nl-lmm",
+          "name": "lmm",
+          "regions": []
+        },
+        {
           "code": "nl-nb",
           "name": "Noord-Brabant",
           "regions": [
@@ -6414,6 +6459,11 @@
             {
               "code": "nl-nh-asd",
               "name": "asd",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-bla",
+              "name": "bla",
               "regions": []
             },
             {
@@ -6900,6 +6950,11 @@
         {
           "code": "se-1083",
           "name": "1083",
+          "regions": []
+        },
+        {
+          "code": "se-wa",
+          "name": "wa",
           "regions": []
         }
       ]
@@ -10201,6 +10256,10 @@
       "name": "gp"
     },
     {
+      "path": "de-bw-hdh",
+      "name": "hdh"
+    },
+    {
       "path": "de-bw-hn",
       "name": "hn"
     },
@@ -10289,6 +10348,10 @@
       "name": "ulm"
     },
     {
+      "path": "de-bw-va",
+      "name": "va"
+    },
+    {
       "path": "de-bw-vai",
       "name": "vai"
     },
@@ -10323,6 +10386,10 @@
     {
       "path": "de-by-dah",
       "name": "dah"
+    },
+    {
+      "path": "de-by-dlg",
+      "name": "dlg"
     },
     {
       "path": "de-by-ebe",
@@ -10375,6 +10442,10 @@
     {
       "path": "de-by-ill",
       "name": "ill"
+    },
+    {
+      "path": "de-by-kru",
+      "name": "kru"
     },
     {
       "path": "de-by-kt",
@@ -11781,6 +11852,10 @@
       "name": "Italy"
     },
     {
+      "path": "it-abr",
+      "name": "abr"
+    },
+    {
       "path": "it-emi",
       "name": "emi"
     },
@@ -12121,6 +12196,14 @@
       "name": "Netherlands"
     },
     {
+      "path": "nl-aer",
+      "name": "aer"
+    },
+    {
+      "path": "nl-akl",
+      "name": "akl"
+    },
+    {
       "path": "nl-alm",
       "name": "alm"
     },
@@ -12143,6 +12226,10 @@
     {
       "path": "nl-brd",
       "name": "brd"
+    },
+    {
+      "path": "nl-cas",
+      "name": "cas"
     },
     {
       "path": "nl-cpi",
@@ -12257,6 +12344,10 @@
       "name": "lid"
     },
     {
+      "path": "nl-lmm",
+      "name": "lmm"
+    },
+    {
       "path": "nl-nb",
       "name": "Noord-Brabant"
     },
@@ -12287,6 +12378,10 @@
     {
       "path": "nl-nh-asd",
       "name": "asd"
+    },
+    {
+      "path": "nl-nh-bla",
+      "name": "bla"
     },
     {
       "path": "nl-nh-cas",
@@ -12675,6 +12770,10 @@
     {
       "path": "se-1083",
       "name": "1083"
+    },
+    {
+      "path": "se-wa",
+      "name": "wa"
     },
     {
       "path": "sg",
