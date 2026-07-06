@@ -3,6 +3,11 @@
   "name": "Italy",
   "regions": [
     {
+      "code": "it-abr",
+      "name": "abr",
+      "regions": []
+    },
+    {
       "code": "it-emi",
       "name": "emi",
       "regions": []

@@ -3,6 +3,16 @@
   "name": "Netherlands",
   "regions": [
     {
+      "code": "nl-aer",
+      "name": "aer",
+      "regions": []
+    },
+    {
+      "code": "nl-akl",
+      "name": "akl",
+      "regions": []
+    },
+    {
       "code": "nl-alm",
       "name": "alm",
       "regions": []
@@ -30,6 +40,11 @@
     {
       "code": "nl-brd",
       "name": "brd",
+      "regions": []
+    },
+    {
+      "code": "nl-cas",
+      "name": "cas",
       "regions": []
     },
     {
@@ -175,6 +190,11 @@
       "regions": []
     },
     {
+      "code": "nl-lmm",
+      "name": "lmm",
+      "regions": []
+    },
+    {
       "code": "nl-nb",
       "name": "Noord-Brabant",
       "regions": [
@@ -212,6 +232,11 @@
         {
           "code": "nl-nh-asd",
           "name": "asd",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-bla",
+          "name": "bla",
           "regions": []
         },
         {
