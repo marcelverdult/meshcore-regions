@@ -121,6 +121,11 @@
           "code": "de-be-sw",
           "name": "sw",
           "regions": []
+        },
+        {
+          "code": "de-be-ulm",
+          "name": "ulm",
+          "regions": []
         }
       ]
     },
@@ -309,6 +314,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-st",
+          "name": "st",
+          "regions": []
+        },
+        {
           "code": "de-bw-str",
           "name": "str",
           "regions": []
@@ -377,6 +387,11 @@
         {
           "code": "de-by-aux",
           "name": "aux",
+          "regions": []
+        },
+        {
+          "code": "de-by-bw",
+          "name": "bw",
           "regions": []
         },
         {
@@ -899,6 +914,11 @@
         {
           "code": "de-mv-dbr",
           "name": "dbr",
+          "regions": []
+        },
+        {
+          "code": "de-mv-hgw",
+          "name": "hgw",
           "regions": []
         },
         {
