@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T07:05:04Z",
+  "generated_at": "2026-07-10T06:36:56Z",
   "tree": [
     {
       "code": "ad",
@@ -3640,6 +3640,11 @@
               "code": "de-be-sw",
               "name": "sw",
               "regions": []
+            },
+            {
+              "code": "de-be-ulm",
+              "name": "ulm",
+              "regions": []
             }
           ]
         },
@@ -3828,6 +3833,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-st",
+              "name": "st",
+              "regions": []
+            },
+            {
               "code": "de-bw-str",
               "name": "str",
               "regions": []
@@ -3896,6 +3906,11 @@
             {
               "code": "de-by-aux",
               "name": "aux",
+              "regions": []
+            },
+            {
+              "code": "de-by-bw",
+              "name": "bw",
               "regions": []
             },
             {
@@ -4418,6 +4433,11 @@
             {
               "code": "de-mv-dbr",
               "name": "dbr",
+              "regions": []
+            },
+            {
+              "code": "de-mv-hgw",
+              "name": "hgw",
               "regions": []
             },
             {
@@ -5340,6 +5360,11 @@
         {
           "code": "dk-sjl",
           "name": "sjl",
+          "regions": []
+        },
+        {
+          "code": "dk-syd",
+          "name": "syd",
           "regions": []
         }
       ]
@@ -6339,6 +6364,11 @@
               "regions": []
             },
             {
+              "code": "nl-ge-rnk",
+              "name": "rnk",
+              "regions": []
+            },
+            {
               "code": "nl-ge-wgw",
               "name": "wgw",
               "regions": []
@@ -6560,6 +6590,11 @@
           "regions": []
         },
         {
+          "code": "nl-rnk",
+          "name": "rnk",
+          "regions": []
+        },
+        {
           "code": "nl-rtm",
           "name": "rtm",
           "regions": []
@@ -6598,6 +6633,11 @@
         {
           "code": "nl-vee",
           "name": "vee",
+          "regions": []
+        },
+        {
+          "code": "nl-wag",
+          "name": "wag",
           "regions": []
         },
         {
@@ -6876,7 +6916,13 @@
     {
       "code": "ro",
       "name": "Romania",
-      "regions": []
+      "regions": [
+        {
+          "code": "ro-b",
+          "name": "b",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "rs",
@@ -10176,6 +10222,10 @@
       "name": "sw"
     },
     {
+      "path": "de-be-ulm",
+      "name": "ulm"
+    },
+    {
       "path": "de-bebb",
       "name": "bebb"
     },
@@ -10324,6 +10374,10 @@
       "name": "sha"
     },
     {
+      "path": "de-bw-st",
+      "name": "st"
+    },
+    {
       "path": "de-bw-str",
       "name": "str"
     },
@@ -10378,6 +10432,10 @@
     {
       "path": "de-by-aux",
       "name": "aux"
+    },
+    {
+      "path": "de-by-bw",
+      "name": "bw"
     },
     {
       "path": "de-by-bwald",
@@ -10786,6 +10844,10 @@
     {
       "path": "de-mv-dbr",
       "name": "dbr"
+    },
+    {
+      "path": "de-mv-hgw",
+      "name": "hgw"
     },
     {
       "path": "de-mv-hro",
@@ -11474,6 +11536,10 @@
     {
       "path": "dk-sjl",
       "name": "sjl"
+    },
+    {
+      "path": "dk-syd",
+      "name": "syd"
     },
     {
       "path": "dm",
@@ -12284,6 +12350,10 @@
       "name": "nun"
     },
     {
+      "path": "nl-ge-rnk",
+      "name": "rnk"
+    },
+    {
       "path": "nl-ge-wgw",
       "name": "wgw"
     },
@@ -12456,6 +12526,10 @@
       "name": "rhe"
     },
     {
+      "path": "nl-rnk",
+      "name": "rnk"
+    },
+    {
       "path": "nl-rtm",
       "name": "rtm"
     },
@@ -12486,6 +12560,10 @@
     {
       "path": "nl-vee",
       "name": "vee"
+    },
+    {
+      "path": "nl-wag",
+      "name": "wag"
     },
     {
       "path": "nl-west",
@@ -12706,6 +12784,10 @@
     {
       "path": "ro",
       "name": "Romania"
+    },
+    {
+      "path": "ro-b",
+      "name": "b"
     },
     {
       "path": "rs",

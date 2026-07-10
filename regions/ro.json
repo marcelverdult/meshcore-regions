@@ -1,5 +1,11 @@
 {
   "code": "ro",
   "name": "Romania",
-  "regions": []
+  "regions": [
+    {
+      "code": "ro-b",
+      "name": "b",
+      "regions": []
+    }
+  ]
 }

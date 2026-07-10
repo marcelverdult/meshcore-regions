@@ -112,6 +112,11 @@
           "regions": []
         },
         {
+          "code": "nl-ge-rnk",
+          "name": "rnk",
+          "regions": []
+        },
+        {
           "code": "nl-ge-wgw",
           "name": "wgw",
           "regions": []
@@ -333,6 +338,11 @@
       "regions": []
     },
     {
+      "code": "nl-rnk",
+      "name": "rnk",
+      "regions": []
+    },
+    {
       "code": "nl-rtm",
       "name": "rtm",
       "regions": []
@@ -371,6 +381,11 @@
     {
       "code": "nl-vee",
       "name": "vee",
+      "regions": []
+    },
+    {
+      "code": "nl-wag",
+      "name": "wag",
       "regions": []
     },
     {
