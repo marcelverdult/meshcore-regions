@@ -3,8 +3,33 @@
   "name": "Romania",
   "regions": [
     {
+      "code": "ro-ar",
+      "name": "ar",
+      "regions": []
+    },
+    {
       "code": "ro-b",
       "name": "b",
+      "regions": []
+    },
+    {
+      "code": "ro-cs",
+      "name": "cs",
+      "regions": []
+    },
+    {
+      "code": "ro-sud",
+      "name": "sud",
+      "regions": []
+    },
+    {
+      "code": "ro-tm",
+      "name": "tm",
+      "regions": []
+    },
+    {
+      "code": "ro-vest",
+      "name": "vest",
       "regions": []
     }
   ]

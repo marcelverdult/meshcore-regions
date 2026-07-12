@@ -620,6 +620,11 @@
               "code": "de-by-ofr-kc",
               "name": "kc",
               "regions": []
+            },
+            {
+              "code": "de-by-ofr-peg",
+              "name": "peg",
+              "regions": []
             }
           ]
         },
@@ -1222,6 +1227,11 @@
         {
           "code": "de-nw-hx",
           "name": "hx",
+          "regions": []
+        },
+        {
+          "code": "de-nw-le",
+          "name": "le",
           "regions": []
         },
         {
