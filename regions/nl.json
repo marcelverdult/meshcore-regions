@@ -75,7 +75,13 @@
     {
       "code": "nl-fr",
       "name": "Friesland",
-      "regions": []
+      "regions": [
+        {
+          "code": "nl-fr-hrn",
+          "name": "hrn",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "nl-ge",
@@ -165,6 +171,11 @@
       "regions": []
     },
     {
+      "code": "nl-hrn",
+      "name": "hrn",
+      "regions": []
+    },
+    {
       "code": "nl-hrv",
       "name": "hrv",
       "regions": []
@@ -230,6 +241,11 @@
           "regions": []
         },
         {
+          "code": "nl-nh-alk",
+          "name": "alk",
+          "regions": []
+        },
+        {
           "code": "nl-nh-ams",
           "name": "ams",
           "regions": []
@@ -260,8 +276,18 @@
           "regions": []
         },
         {
+          "code": "nl-nh-hrn",
+          "name": "hrn",
+          "regions": []
+        },
+        {
           "code": "nl-nh-lmm",
           "name": "lmm",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-mdm",
+          "name": "mdm",
           "regions": []
         },
         {
@@ -440,6 +466,16 @@
         {
           "code": "nl-zh-lsv",
           "name": "lsv",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-ndp",
+          "name": "ndp",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-pin",
+          "name": "pin",
           "regions": []
         },
         {
