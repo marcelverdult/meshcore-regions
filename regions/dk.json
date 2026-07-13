@@ -17,6 +17,11 @@
       "name": "fyn",
       "regions": [
         {
+          "code": "dk-fyn-faaborg",
+          "name": "faaborg",
+          "regions": []
+        },
+        {
           "code": "dk-fyn-middelfart",
           "name": "middelfart",
           "regions": []
