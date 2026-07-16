@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T05:23:57Z",
+  "generated_at": "2026-07-16T05:32:42Z",
   "tree": [
     {
       "code": "ad",
@@ -5051,6 +5051,11 @@
               "regions": []
             },
             {
+              "code": "de-sn-chemnitz",
+              "name": "chemnitz",
+              "regions": []
+            },
+            {
               "code": "de-sn-dd",
               "name": "Großraum Dresden",
               "regions": [
@@ -5062,8 +5067,18 @@
               ]
             },
             {
+              "code": "de-sn-dresden",
+              "name": "dresden",
+              "regions": []
+            },
+            {
               "code": "de-sn-erz",
               "name": "erz",
+              "regions": []
+            },
+            {
+              "code": "de-sn-erzgebirge",
+              "name": "erzgebirge",
               "regions": []
             },
             {
@@ -11406,6 +11421,10 @@
       "name": "c"
     },
     {
+      "path": "de-sn-chemnitz",
+      "name": "chemnitz"
+    },
+    {
       "path": "de-sn-dd",
       "name": "Großraum Dresden"
     },
@@ -11414,8 +11433,16 @@
       "name": "mei"
     },
     {
+      "path": "de-sn-dresden",
+      "name": "dresden"
+    },
+    {
       "path": "de-sn-erz",
       "name": "erz"
+    },
+    {
+      "path": "de-sn-erzgebirge",
+      "name": "erzgebirge"
     },
     {
       "path": "de-sn-fg",
