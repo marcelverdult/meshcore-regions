@@ -1532,6 +1532,11 @@
           "regions": []
         },
         {
+          "code": "de-sn-chemnitz",
+          "name": "chemnitz",
+          "regions": []
+        },
+        {
           "code": "de-sn-dd",
           "name": "Großraum Dresden",
           "regions": [
@@ -1543,8 +1548,18 @@
           ]
         },
         {
+          "code": "de-sn-dresden",
+          "name": "dresden",
+          "regions": []
+        },
+        {
           "code": "de-sn-erz",
           "name": "erz",
+          "regions": []
+        },
+        {
+          "code": "de-sn-erzgebirge",
+          "name": "erzgebirge",
           "regions": []
         },
         {
