@@ -37,6 +37,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-cb",
+          "name": "cb",
+          "regions": []
+        },
+        {
           "code": "de-bb-ee",
           "name": "ee",
           "regions": []
@@ -647,6 +652,11 @@
         {
           "code": "de-by-otn",
           "name": "otn",
+          "regions": []
+        },
+        {
+          "code": "de-by-pa",
+          "name": "pa",
           "regions": []
         },
         {
