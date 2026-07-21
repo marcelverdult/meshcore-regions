@@ -1,5 +1,16 @@
 {
   "code": "mz",
   "name": "Mozambique",
-  "regions": []
+  "regions": [
+    {
+      "code": "mz-uk",
+      "name": "uk",
+      "regions": []
+    },
+    {
+      "code": "mz-um",
+      "name": "um",
+      "regions": []
+    }
+  ]
 }

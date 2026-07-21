@@ -3,6 +3,11 @@
   "name": "Poland",
   "regions": [
     {
+      "code": "pl-ds",
+      "name": "ds",
+      "regions": []
+    },
+    {
       "code": "pl-kgr",
       "name": "kgr",
       "regions": []
@@ -15,6 +20,11 @@
     {
       "code": "pl-krk",
       "name": "krk",
+      "regions": []
+    },
+    {
+      "code": "pl-lb",
+      "name": "lb",
       "regions": []
     },
     {

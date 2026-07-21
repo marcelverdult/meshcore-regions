@@ -839,11 +839,21 @@
           "regions": []
         },
         {
+          "code": "de-he-ldk",
+          "name": "ldk",
+          "regions": []
+        },
+        {
           "code": "de-he-mtk",
           "name": "mtk",
           "regions": []
         }
       ]
+    },
+    {
+      "code": "de-hes",
+      "name": "hes",
+      "regions": []
     },
     {
       "code": "de-hh",
@@ -1197,6 +1207,11 @@
         {
           "code": "de-nw-bo",
           "name": "bo",
+          "regions": []
+        },
+        {
+          "code": "de-nw-dt",
+          "name": "dt",
           "regions": []
         },
         {
@@ -1668,6 +1683,11 @@
     {
       "code": "de-str",
       "name": "str",
+      "regions": []
+    },
+    {
+      "code": "de-su",
+      "name": "su",
       "regions": []
     },
     {
