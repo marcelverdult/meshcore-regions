@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T05:18:09Z",
+  "generated_at": "2026-07-21T05:42:27Z",
   "tree": [
     {
       "code": "ad",
@@ -4358,11 +4358,21 @@
               "regions": []
             },
             {
+              "code": "de-he-ldk",
+              "name": "ldk",
+              "regions": []
+            },
+            {
               "code": "de-he-mtk",
               "name": "mtk",
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-hes",
+          "name": "hes",
+          "regions": []
         },
         {
           "code": "de-hh",
@@ -4716,6 +4726,11 @@
             {
               "code": "de-nw-bo",
               "name": "bo",
+              "regions": []
+            },
+            {
+              "code": "de-nw-dt",
+              "name": "dt",
               "regions": []
             },
             {
@@ -5187,6 +5202,11 @@
         {
           "code": "de-str",
           "name": "str",
+          "regions": []
+        },
+        {
+          "code": "de-su",
+          "name": "su",
           "regions": []
         },
         {
@@ -6273,7 +6293,18 @@
     {
       "code": "mz",
       "name": "Mozambique",
-      "regions": []
+      "regions": [
+        {
+          "code": "mz-uk",
+          "name": "uk",
+          "regions": []
+        },
+        {
+          "code": "mz-um",
+          "name": "um",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "na",
@@ -6568,6 +6599,11 @@
               "regions": []
             },
             {
+              "code": "nl-nh-bss",
+              "name": "bss",
+              "regions": []
+            },
+            {
               "code": "nl-nh-cas",
               "name": "cas",
               "regions": []
@@ -6595,6 +6631,11 @@
             {
               "code": "nl-nh-mdm",
               "name": "mdm",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-naa",
+              "name": "naa",
               "regions": []
             },
             {
@@ -6869,6 +6910,11 @@
       "name": "Poland",
       "regions": [
         {
+          "code": "pl-ds",
+          "name": "ds",
+          "regions": []
+        },
+        {
           "code": "pl-kgr",
           "name": "kgr",
           "regions": []
@@ -6881,6 +6927,11 @@
         {
           "code": "pl-krk",
           "name": "krk",
+          "regions": []
+        },
+        {
+          "code": "pl-lb",
+          "name": "lb",
           "regions": []
         },
         {
@@ -7352,6 +7403,32 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "us-ga",
+          "name": "ga",
+          "regions": [
+            {
+              "code": "us-ga-atl",
+              "name": "atl",
+              "regions": []
+            },
+            {
+              "code": "us-ga-northeast",
+              "name": "northeast",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "us-se",
+          "name": "se",
+          "regions": []
+        },
+        {
+          "code": "us-southeast",
+          "name": "southeast",
+          "regions": []
         },
         {
           "code": "us-wa",
@@ -10907,8 +10984,16 @@
       "name": "ks"
     },
     {
+      "path": "de-he-ldk",
+      "name": "ldk"
+    },
+    {
       "path": "de-he-mtk",
       "name": "mtk"
+    },
+    {
+      "path": "de-hes",
+      "name": "hes"
     },
     {
       "path": "de-hh",
@@ -11185,6 +11270,10 @@
     {
       "path": "de-nw-bo",
       "name": "bo"
+    },
+    {
+      "path": "de-nw-dt",
+      "name": "dt"
     },
     {
       "path": "de-nw-e",
@@ -11537,6 +11626,10 @@
     {
       "path": "de-str",
       "name": "str"
+    },
+    {
+      "path": "de-su",
+      "name": "su"
     },
     {
       "path": "de-sued",
@@ -12395,6 +12488,14 @@
       "name": "Mozambique"
     },
     {
+      "path": "mz-uk",
+      "name": "uk"
+    },
+    {
+      "path": "mz-um",
+      "name": "um"
+    },
+    {
       "path": "na",
       "name": "Namibia"
     },
@@ -12631,6 +12732,10 @@
       "name": "bla"
     },
     {
+      "path": "nl-nh-bss",
+      "name": "bss"
+    },
+    {
       "path": "nl-nh-cas",
       "name": "cas"
     },
@@ -12653,6 +12758,10 @@
     {
       "path": "nl-nh-mdm",
       "name": "mdm"
+    },
+    {
+      "path": "nl-nh-naa",
+      "name": "naa"
     },
     {
       "path": "nl-nh-sbc",
@@ -12867,6 +12976,10 @@
       "name": "Poland"
     },
     {
+      "path": "pl-ds",
+      "name": "ds"
+    },
+    {
       "path": "pl-kgr",
       "name": "kgr"
     },
@@ -12877,6 +12990,10 @@
     {
       "path": "pl-krk",
       "name": "krk"
+    },
+    {
+      "path": "pl-lb",
+      "name": "lb"
     },
     {
       "path": "pl-ld",
@@ -13253,6 +13370,26 @@
     {
       "path": "us-fl-pns",
       "name": "pns"
+    },
+    {
+      "path": "us-ga",
+      "name": "ga"
+    },
+    {
+      "path": "us-ga-atl",
+      "name": "atl"
+    },
+    {
+      "path": "us-ga-northeast",
+      "name": "northeast"
+    },
+    {
+      "path": "us-se",
+      "name": "se"
+    },
+    {
+      "path": "us-southeast",
+      "name": "southeast"
     },
     {
       "path": "us-wa",

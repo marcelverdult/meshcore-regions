@@ -29,6 +29,32 @@
       ]
     },
     {
+      "code": "us-ga",
+      "name": "ga",
+      "regions": [
+        {
+          "code": "us-ga-atl",
+          "name": "atl",
+          "regions": []
+        },
+        {
+          "code": "us-ga-northeast",
+          "name": "northeast",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "us-se",
+      "name": "se",
+      "regions": []
+    },
+    {
+      "code": "us-southeast",
+      "name": "southeast",
+      "regions": []
+    },
+    {
       "code": "us-wa",
       "name": "wa",
       "regions": []
