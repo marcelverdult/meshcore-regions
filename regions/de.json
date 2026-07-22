@@ -239,6 +239,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-heslach",
+          "name": "heslach",
+          "regions": []
+        },
+        {
           "code": "de-bw-hn",
           "name": "hn",
           "regions": []

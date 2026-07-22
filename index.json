@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T05:42:27Z",
+  "generated_at": "2026-07-22T05:41:45Z",
   "tree": [
     {
       "code": "ad",
@@ -3755,6 +3755,11 @@
             {
               "code": "de-bw-hdh",
               "name": "hdh",
+              "regions": []
+            },
+            {
+              "code": "de-bw-heslach",
+              "name": "heslach",
               "regions": []
             },
             {
@@ -10510,6 +10515,10 @@
     {
       "path": "de-bw-hdh",
       "name": "hdh"
+    },
+    {
+      "path": "de-bw-heslach",
+      "name": "heslach"
     },
     {
       "path": "de-bw-hn",
