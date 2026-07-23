@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T05:41:45Z",
+  "generated_at": "2026-07-23T05:46:57Z",
   "tree": [
     {
       "code": "ad",
@@ -3778,6 +3778,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-kg",
+              "name": "kg",
+              "regions": []
+            },
+            {
               "code": "de-bw-l",
               "name": "l",
               "regions": []
@@ -5367,8 +5372,18 @@
           "regions": []
         },
         {
+          "code": "dk-aarhus",
+          "name": "aarhus",
+          "regions": []
+        },
+        {
           "code": "dk-bhm",
           "name": "bhm",
+          "regions": []
+        },
+        {
+          "code": "dk-djurs",
+          "name": "djurs",
           "regions": []
         },
         {
@@ -5410,6 +5425,16 @@
         {
           "code": "dk-jylland",
           "name": "jylland",
+          "regions": []
+        },
+        {
+          "code": "dk-jyllandregion",
+          "name": "jyllandregion",
+          "regions": []
+        },
+        {
+          "code": "dk-mj",
+          "name": "mj",
           "regions": []
         },
         {
@@ -5552,6 +5577,11 @@
         {
           "code": "fr-38",
           "name": "38",
+          "regions": []
+        },
+        {
+          "code": "fr-44",
+          "name": "44",
           "regions": []
         },
         {
@@ -10533,6 +10563,10 @@
       "name": "ka"
     },
     {
+      "path": "de-bw-kg",
+      "name": "kg"
+    },
+    {
       "path": "de-bw-l",
       "name": "l"
     },
@@ -11745,8 +11779,16 @@
       "name": "3kant"
     },
     {
+      "path": "dk-aarhus",
+      "name": "aarhus"
+    },
+    {
       "path": "dk-bhm",
       "name": "bhm"
+    },
+    {
+      "path": "dk-djurs",
+      "name": "djurs"
     },
     {
       "path": "dk-fyn",
@@ -11779,6 +11821,14 @@
     {
       "path": "dk-jylland",
       "name": "jylland"
+    },
+    {
+      "path": "dk-jyllandregion",
+      "name": "jyllandregion"
+    },
+    {
+      "path": "dk-mj",
+      "name": "mj"
     },
     {
       "path": "dk-oj",
@@ -11899,6 +11949,10 @@
     {
       "path": "fr-38",
       "name": "38"
+    },
+    {
+      "path": "fr-44",
+      "name": "44"
     },
     {
       "path": "fr-67",

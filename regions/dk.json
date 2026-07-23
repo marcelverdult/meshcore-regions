@@ -8,8 +8,18 @@
       "regions": []
     },
     {
+      "code": "dk-aarhus",
+      "name": "aarhus",
+      "regions": []
+    },
+    {
       "code": "dk-bhm",
       "name": "bhm",
+      "regions": []
+    },
+    {
+      "code": "dk-djurs",
+      "name": "djurs",
       "regions": []
     },
     {
@@ -51,6 +61,16 @@
     {
       "code": "dk-jylland",
       "name": "jylland",
+      "regions": []
+    },
+    {
+      "code": "dk-jyllandregion",
+      "name": "jyllandregion",
+      "regions": []
+    },
+    {
+      "code": "dk-mj",
+      "name": "mj",
       "regions": []
     },
     {
