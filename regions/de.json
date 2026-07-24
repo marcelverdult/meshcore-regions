@@ -344,6 +344,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-swb",
+          "name": "swb",
+          "regions": []
+        },
+        {
           "code": "de-bw-tue",
           "name": "tue",
           "regions": []
