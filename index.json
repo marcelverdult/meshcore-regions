@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T05:46:57Z",
+  "generated_at": "2026-07-24T05:42:44Z",
   "tree": [
     {
       "code": "ad",
@@ -129,7 +129,13 @@
         {
           "code": "at-sbg",
           "name": "sbg",
-          "regions": []
+          "regions": [
+            {
+              "code": "at-sbg-sl",
+              "name": "sl",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "at-stmk",
@@ -3860,6 +3866,11 @@
             {
               "code": "de-bw-sued",
               "name": "sued",
+              "regions": []
+            },
+            {
+              "code": "de-bw-swb",
+              "name": "swb",
               "regions": []
             },
             {
@@ -7659,6 +7670,10 @@
       "name": "sbg"
     },
     {
+      "path": "at-sbg-sl",
+      "name": "sl"
+    },
+    {
       "path": "at-stmk",
       "name": "stmk"
     },
@@ -10629,6 +10644,10 @@
     {
       "path": "de-bw-sued",
       "name": "sued"
+    },
+    {
+      "path": "de-bw-swb",
+      "name": "swb"
     },
     {
       "path": "de-bw-tue",

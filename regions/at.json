@@ -71,7 +71,13 @@
     {
       "code": "at-sbg",
       "name": "sbg",
-      "regions": []
+      "regions": [
+        {
+          "code": "at-sbg-sl",
+          "name": "sl",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "at-stmk",
