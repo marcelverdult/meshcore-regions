@@ -3,6 +3,11 @@
   "name": "Germany",
   "regions": [
     {
+      "code": "bsmesh",
+      "name": "Bsmesh",
+      "regions": []
+    },
+    {
       "code": "de-31",
       "name": "31",
       "regions": []
@@ -1837,8 +1842,18 @@
       "regions": []
     },
     {
+      "code": "rhein-main",
+      "name": "Rhein-Main",
+      "regions": []
+    },
+    {
       "code": "rheinland",
       "name": "Rheinland",
+      "regions": []
+    },
+    {
+      "code": "trier",
+      "name": "Trier",
       "regions": []
     }
   ]
