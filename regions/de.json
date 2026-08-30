@@ -3,8 +3,23 @@
   "name": "Germany",
   "regions": [
     {
-      "code": "bsmesh",
-      "name": "Bsmesh",
+      "code": "altes-land",
+      "name": "Altes Land",
+      "regions": []
+    },
+    {
+      "code": "bergstrasse",
+      "name": "Bergstrasse",
+      "regions": []
+    },
+    {
+      "code": "bremesh",
+      "name": "BreMesh (Bremen, Bremerhaven und Umland)",
+      "regions": []
+    },
+    {
+      "code": "dach",
+      "name": "DACH-Region (DE/AT/CH)",
       "regions": []
     },
     {
@@ -14,7 +29,7 @@
     },
     {
       "code": "de-abo",
-      "name": "abo",
+      "name": "Allgäu-Bodensee-Oberschwaben",
       "regions": []
     },
     {
@@ -33,7 +48,7 @@
       "regions": [
         {
           "code": "de-bb-bar",
-          "name": "bar",
+          "name": "Barnim",
           "regions": []
         },
         {
@@ -43,7 +58,7 @@
         },
         {
           "code": "de-bb-cb",
-          "name": "cb",
+          "name": "Cottbus",
           "regions": []
         },
         {
@@ -53,42 +68,47 @@
         },
         {
           "code": "de-bb-ee",
-          "name": "ee",
+          "name": "Elbe-Elster",
+          "regions": []
+        },
+        {
+          "code": "de-bb-ffo",
+          "name": "Frankfurt (Oder)",
           "regions": []
         },
         {
           "code": "de-bb-hvl",
-          "name": "hvl",
+          "name": "Havelland",
           "regions": []
         },
         {
           "code": "de-bb-lds",
-          "name": "lds",
+          "name": "Dahme-Spreewald",
           "regions": []
         },
         {
           "code": "de-bb-los",
-          "name": "los",
+          "name": "Oberspree-Lausitz",
           "regions": []
         },
         {
           "code": "de-bb-mol",
-          "name": "mol",
+          "name": "Märkisch-Oderland",
           "regions": []
         },
         {
           "code": "de-bb-ohv",
-          "name": "ohv",
+          "name": "Oberhavel",
           "regions": []
         },
         {
           "code": "de-bb-opr",
-          "name": "opr",
+          "name": "Ostprignitz-Ruppin",
           "regions": []
         },
         {
           "code": "de-bb-osl",
-          "name": "osl",
+          "name": "Oberspree-Lausitz",
           "regions": []
         },
         {
@@ -98,22 +118,27 @@
         },
         {
           "code": "de-bb-pm",
-          "name": "pm",
+          "name": "Potsdam-Mittelmark",
           "regions": []
         },
         {
           "code": "de-bb-pr",
-          "name": "pr",
+          "name": "Prignitz",
+          "regions": []
+        },
+        {
+          "code": "de-bb-spn",
+          "name": "Spree-Neiße",
           "regions": []
         },
         {
           "code": "de-bb-tf",
-          "name": "tf",
+          "name": "Teltow-Fläming",
           "regions": []
         },
         {
           "code": "de-bb-um",
-          "name": "um",
+          "name": "Uckermark",
           "regions": []
         }
       ]
@@ -156,7 +181,7 @@
     },
     {
       "code": "de-bebb",
-      "name": "bebb",
+      "name": "Hauptstadtregion Berlin-Brandenburg",
       "regions": []
     },
     {
@@ -195,12 +220,12 @@
         },
         {
           "code": "de-bw-bad",
-          "name": "bad",
+          "name": "Baden-Baden",
           "regions": []
         },
         {
           "code": "de-bw-bb",
-          "name": "bb",
+          "name": "Böblingen/Sindelfingen",
           "regions": []
         },
         {
@@ -215,7 +240,7 @@
         },
         {
           "code": "de-bw-br",
-          "name": "br",
+          "name": "Bruchsal",
           "regions": []
         },
         {
@@ -230,12 +255,12 @@
         },
         {
           "code": "de-bw-em",
-          "name": "em",
+          "name": "Emmendingen",
           "regions": []
         },
         {
           "code": "de-bw-es",
-          "name": "es",
+          "name": "Landkreis Esslingen",
           "regions": []
         },
         {
@@ -245,12 +270,12 @@
         },
         {
           "code": "de-bw-fr",
-          "name": "fr",
+          "name": "Freiburg / LKBH",
           "regions": []
         },
         {
           "code": "de-bw-gp",
-          "name": "gp",
+          "name": "Landkreis Göppingen",
           "regions": []
         },
         {
@@ -270,7 +295,7 @@
         },
         {
           "code": "de-bw-hn",
-          "name": "hn",
+          "name": "Landkreis Heilbronn",
           "regions": []
         },
         {
@@ -280,7 +305,7 @@
         },
         {
           "code": "de-bw-ka",
-          "name": "ka",
+          "name": "Karlsruhe",
           "regions": []
         },
         {
@@ -305,7 +330,7 @@
         },
         {
           "code": "de-bw-loe",
-          "name": "loe",
+          "name": "Lörrach",
           "regions": []
         },
         {
@@ -320,12 +345,12 @@
         },
         {
           "code": "de-bw-muel",
-          "name": "muel",
+          "name": "Müllheim",
           "regions": []
         },
         {
           "code": "de-bw-og",
-          "name": "og",
+          "name": "Offenburg / Ortenau",
           "regions": []
         },
         {
@@ -335,12 +360,12 @@
         },
         {
           "code": "de-bw-pf",
-          "name": "pf",
+          "name": "Pforzheim und Enzkreis",
           "regions": []
         },
         {
           "code": "de-bw-ra",
-          "name": "ra",
+          "name": "Rastatt",
           "regions": []
         },
         {
@@ -350,22 +375,22 @@
         },
         {
           "code": "de-bw-rw",
-          "name": "rw",
+          "name": "Landkreis Rottweil",
           "regions": []
         },
         {
           "code": "de-bw-s",
-          "name": "s",
+          "name": "Stadtkreis Stuttgart",
           "regions": []
         },
         {
           "code": "de-bw-sbh",
-          "name": "sbh",
+          "name": "Regionalverband Schwarzwald-Baar-Heuberg",
           "regions": []
         },
         {
           "code": "de-bw-sha",
-          "name": "sha",
+          "name": "Landkreis Schwäbisch Hall / Crailsheim",
           "regions": []
         },
         {
@@ -375,7 +400,7 @@
         },
         {
           "code": "de-bw-str",
-          "name": "str",
+          "name": "Metropolregion Stuttgart",
           "regions": []
         },
         {
@@ -400,7 +425,7 @@
         },
         {
           "code": "de-bw-tut",
-          "name": "tut",
+          "name": "Landkreis Tuttlingen",
           "regions": []
         },
         {
@@ -425,22 +450,37 @@
         },
         {
           "code": "de-bw-vs",
-          "name": "vs",
+          "name": "Landkreis Villingen-Schwenningen",
           "regions": []
         },
         {
           "code": "de-bw-wn",
-          "name": "wn",
+          "name": "Landkreis Rems-Murr",
           "regions": []
         },
         {
           "code": "de-bw-wt",
-          "name": "wt",
+          "name": "Waldshut",
           "regions": []
         },
         {
           "code": "de-bw-zak",
           "name": "zak",
+          "regions": []
+        },
+        {
+          "code": "nordbaden",
+          "name": "Regierungsbezirk Nordbaden",
+          "regions": []
+        },
+        {
+          "code": "schwarzwald",
+          "name": "Schwarzwald",
+          "regions": []
+        },
+        {
+          "code": "suedbaden",
+          "name": "Regierungsbezirk Südbaden",
           "regions": []
         }
       ]
@@ -476,6 +516,11 @@
       "name": "Bayern",
       "regions": [
         {
+          "code": "allgaeu",
+          "name": "Allgäu",
+          "regions": []
+        },
+        {
           "code": "de-by-an",
           "name": "an",
           "regions": []
@@ -492,7 +537,7 @@
         },
         {
           "code": "de-by-bwald",
-          "name": "bwald",
+          "name": "Bayerischer Wald",
           "regions": []
         },
         {
@@ -502,7 +547,7 @@
         },
         {
           "code": "de-by-dah",
-          "name": "dah",
+          "name": "Stadt und Landkreis Dachau",
           "regions": []
         },
         {
@@ -523,12 +568,12 @@
         },
         {
           "code": "de-by-ed",
-          "name": "ed",
+          "name": "Stadt und Landkreis Erding",
           "regions": []
         },
         {
           "code": "de-by-emm",
-          "name": "emm",
+          "name": "Metropolregion München",
           "regions": []
         },
         {
@@ -538,7 +583,7 @@
         },
         {
           "code": "de-by-fr",
-          "name": "fr",
+          "name": "Franken",
           "regions": [
             {
               "code": "de-by-fr-fue",
@@ -599,48 +644,48 @@
         },
         {
           "code": "de-by-la",
-          "name": "la",
+          "name": "Stadt und Landkreis Landshut",
           "regions": []
         },
         {
           "code": "de-by-li",
-          "name": "li",
+          "name": "Landkreis Lindau (Bodensee)",
           "regions": []
         },
         {
           "code": "de-by-mfr",
-          "name": "mfr",
+          "name": "Mittelfranken",
           "regions": [
             {
               "code": "de-by-mfr-er",
-              "name": "er",
+              "name": "Erlangen",
               "regions": []
             },
             {
               "code": "de-by-mfr-erh",
-              "name": "erh",
+              "name": "Landkreis Erlangen-Höchstadt",
               "regions": []
             },
             {
               "code": "de-by-mfr-fue",
-              "name": "fue",
+              "name": "Fürth",
               "regions": []
             },
             {
               "code": "de-by-mfr-n",
-              "name": "n",
+              "name": "Nürnberg",
               "regions": []
             },
             {
               "code": "de-by-mfr-nea",
-              "name": "nea",
+              "name": "Landkreis Neustadt an der Aisch",
               "regions": []
             }
           ]
         },
         {
           "code": "de-by-mn",
-          "name": "mn",
+          "name": "Landkreis Unterallgäu",
           "regions": []
         },
         {
@@ -650,7 +695,7 @@
         },
         {
           "code": "de-by-muc",
-          "name": "muc",
+          "name": "Stadt und Landkreis München",
           "regions": []
         },
         {
@@ -670,7 +715,7 @@
         },
         {
           "code": "de-by-ndb",
-          "name": "ndb",
+          "name": "Niederbayern",
           "regions": []
         },
         {
@@ -690,12 +735,12 @@
         },
         {
           "code": "de-by-oa",
-          "name": "oa",
+          "name": "Landkreis Oberallgäu",
           "regions": []
         },
         {
           "code": "de-by-oal",
-          "name": "oal",
+          "name": "Landkreis Ostallgäu",
           "regions": []
         },
         {
@@ -705,31 +750,31 @@
         },
         {
           "code": "de-by-obb",
-          "name": "obb",
+          "name": "Oberbayern",
           "regions": []
         },
         {
           "code": "de-by-ofr",
-          "name": "ofr",
+          "name": "Oberfranken",
           "regions": [
             {
               "code": "de-by-ofr-ba",
-              "name": "ba",
+              "name": "Landkreis Bamberg",
               "regions": []
             },
             {
               "code": "de-by-ofr-bt",
-              "name": "bt",
+              "name": "Bayreuth",
               "regions": []
             },
             {
               "code": "de-by-ofr-co",
-              "name": "co",
+              "name": "Landkreis Coburg",
               "regions": []
             },
             {
               "code": "de-by-ofr-fo",
-              "name": "fo",
+              "name": "Landkreis Forchheim",
               "regions": []
             },
             {
@@ -739,7 +784,7 @@
             },
             {
               "code": "de-by-ofr-kc",
-              "name": "kc",
+              "name": "Landkreis Kronach",
               "regions": []
             },
             {
@@ -756,7 +801,7 @@
         },
         {
           "code": "de-by-opf",
-          "name": "opf",
+          "name": "Oberpfalz",
           "regions": [
             {
               "code": "de-by-opf-emcomm",
@@ -787,7 +832,7 @@
         },
         {
           "code": "de-by-pa",
-          "name": "pa",
+          "name": "Stadt und Landkreis Passau",
           "regions": []
         },
         {
@@ -802,17 +847,17 @@
         },
         {
           "code": "de-by-ro",
-          "name": "ro",
+          "name": "Stadt und Landkreis Rosenheim",
           "regions": []
         },
         {
           "code": "de-by-schw",
-          "name": "schw",
+          "name": "Schwaben",
           "regions": []
         },
         {
           "code": "de-by-sr",
-          "name": "sr",
+          "name": "Stadt und Landkreis Straubing-Bogen",
           "regions": []
         },
         {
@@ -832,7 +877,7 @@
         },
         {
           "code": "de-by-ufr",
-          "name": "ufr",
+          "name": "Unterfranken",
           "regions": [
             {
               "code": "de-by-ufr-sw",
@@ -865,6 +910,11 @@
           "code": "de-by-wue",
           "name": "wue",
           "regions": []
+        },
+        {
+          "code": "isarmesh",
+          "name": "Isarmesh",
+          "regions": []
         }
       ]
     },
@@ -885,7 +935,7 @@
     },
     {
       "code": "de-dk",
-      "name": "dk",
+      "name": "Dänemark",
       "regions": []
     },
     {
@@ -1045,6 +1095,16 @@
           "code": "de-he-mtk",
           "name": "mtk",
           "regions": []
+        },
+        {
+          "code": "frankfurt",
+          "name": "Frankfurt",
+          "regions": []
+        },
+        {
+          "code": "odenwald",
+          "name": "Odenwald",
+          "regions": []
         }
       ]
     },
@@ -1105,7 +1165,7 @@
       "regions": [
         {
           "code": "de-ks-goe",
-          "name": "goe",
+          "name": "Kassel-Göttingen",
           "regions": []
         }
       ]
@@ -1148,7 +1208,7 @@
     },
     {
       "code": "de-msl",
-      "name": "msl",
+      "name": "Münsterland",
       "regions": []
     },
     {
@@ -1243,8 +1303,23 @@
       "name": "Niedersachsen",
       "regions": [
         {
+          "code": "braunschweig",
+          "name": "Braunschweig",
+          "regions": []
+        },
+        {
+          "code": "bsmesh",
+          "name": "BSmesh (Großraum Braunschweig)",
+          "regions": []
+        },
+        {
           "code": "de-ni-aur",
-          "name": "aur",
+          "name": "Landkreis Aurich",
+          "regions": []
+        },
+        {
+          "code": "de-ni-bra",
+          "name": "Landkreis Wesermarsch",
           "regions": []
         },
         {
@@ -1258,18 +1333,33 @@
           "regions": []
         },
         {
+          "code": "de-ni-clp",
+          "name": "Landkreis Cloppenburg",
+          "regions": []
+        },
+        {
           "code": "de-ni-dan",
-          "name": "dan",
+          "name": "Wendland",
+          "regions": []
+        },
+        {
+          "code": "de-ni-dh",
+          "name": "Landkreis Diepholz",
+          "regions": []
+        },
+        {
+          "code": "de-ni-el",
+          "name": "Landkreis Emsland",
           "regions": []
         },
         {
           "code": "de-ni-emd",
-          "name": "emd",
+          "name": "Emden",
           "regions": []
         },
         {
           "code": "de-ni-fri",
-          "name": "fri",
+          "name": "Landkreis Friesland",
           "regions": []
         },
         {
@@ -1284,7 +1374,7 @@
         },
         {
           "code": "de-ni-goe",
-          "name": "goe",
+          "name": "Landkreis Göttingen",
           "regions": []
         },
         {
@@ -1294,17 +1384,17 @@
         },
         {
           "code": "de-ni-h",
-          "name": "h",
+          "name": "Region Hannover",
           "regions": []
         },
         {
           "code": "de-ni-he",
-          "name": "he",
+          "name": "Landkreis Helmstedt",
           "regions": []
         },
         {
           "code": "de-ni-hi",
-          "name": "hi",
+          "name": "Region Hildesheim",
           "regions": []
         },
         {
@@ -1324,8 +1414,13 @@
           "regions": []
         },
         {
+          "code": "de-ni-ler",
+          "name": "Landkreis Leer",
+          "regions": []
+        },
+        {
           "code": "de-ni-lg",
-          "name": "lg",
+          "name": "Landkreis Lüneburg",
           "regions": []
         },
         {
@@ -1334,8 +1429,13 @@
           "regions": []
         },
         {
+          "code": "de-ni-noh",
+          "name": "Landkreis Grafschaft Bentheim",
+          "regions": []
+        },
+        {
           "code": "de-ni-nom",
-          "name": "nom",
+          "name": "Landkreis Northeim",
           "regions": []
         },
         {
@@ -1350,7 +1450,12 @@
         },
         {
           "code": "de-ni-ol",
-          "name": "ol",
+          "name": "Stadt und Landkreis Oldenburg",
+          "regions": []
+        },
+        {
+          "code": "de-ni-os",
+          "name": "Stadt und Landkreis Osnabrück",
           "regions": []
         },
         {
@@ -1370,12 +1475,17 @@
         },
         {
           "code": "de-ni-sz",
-          "name": "sz",
+          "name": "Salzgitter",
           "regions": []
         },
         {
           "code": "de-ni-ue",
-          "name": "ue",
+          "name": "Landkreis Uelzen",
+          "regions": []
+        },
+        {
+          "code": "de-ni-vec",
+          "name": "Landkreis Vechta",
           "regions": []
         },
         {
@@ -1390,7 +1500,7 @@
         },
         {
           "code": "de-ni-whv",
-          "name": "whv",
+          "name": "Wilhelmshaven",
           "regions": []
         },
         {
@@ -1400,17 +1510,47 @@
         },
         {
           "code": "de-ni-wob",
-          "name": "wob",
+          "name": "Wolfsburg",
           "regions": []
         },
         {
           "code": "de-ni-wst",
-          "name": "wst",
+          "name": "Landkreis Ammerland",
           "regions": []
         },
         {
           "code": "de-ni-wtm",
-          "name": "wtm",
+          "name": "Landkreis Wittmund",
+          "regions": []
+        },
+        {
+          "code": "hannover",
+          "name": "Hannover",
+          "regions": []
+        },
+        {
+          "code": "heidemesh",
+          "name": "Heidemesh (LK DAN/LG/UE)",
+          "regions": []
+        },
+        {
+          "code": "hildesheim",
+          "name": "Hildesheim",
+          "regions": []
+        },
+        {
+          "code": "ostfriesland",
+          "name": "Ostfriesland",
+          "regions": []
+        },
+        {
+          "code": "peine",
+          "name": "Landkreis Peine",
+          "regions": []
+        },
+        {
+          "code": "seevetal",
+          "name": "Seevetal",
           "regions": []
         }
       ]
@@ -1444,6 +1584,11 @@
       "code": "de-nw",
       "name": "Nordrhein-Westfalen",
       "regions": [
+        {
+          "code": "bergischesland",
+          "name": "Bergisches Land",
+          "regions": []
+        },
         {
           "code": "bonn",
           "name": "Bonn",
@@ -1481,7 +1626,7 @@
         },
         {
           "code": "de-nw-gl",
-          "name": "gl",
+          "name": "Rheinisch-Bergischer Kreis",
           "regions": []
         },
         {
@@ -1613,7 +1758,7 @@
         },
         {
           "code": "de-nw-su",
-          "name": "su",
+          "name": "Rhein-Sieg-Kreis",
           "regions": []
         },
         {
@@ -1700,7 +1845,7 @@
         },
         {
           "code": "de-rp-dbg",
-          "name": "dbg",
+          "name": "Donnersberg",
           "regions": []
         },
         {
@@ -1710,7 +1855,7 @@
         },
         {
           "code": "de-rp-ger",
-          "name": "ger",
+          "name": "Landkreis Germersheim",
           "regions": []
         },
         {
@@ -1720,7 +1865,7 @@
         },
         {
           "code": "de-rp-kl",
-          "name": "kl",
+          "name": "Kaiserslautern",
           "regions": []
         },
         {
@@ -1735,7 +1880,7 @@
         },
         {
           "code": "de-rp-wei",
-          "name": "wei",
+          "name": "Deutsche Weinstraße",
           "regions": []
         },
         {
@@ -1751,6 +1896,11 @@
         {
           "code": "de-rp-ww",
           "name": "ww",
+          "regions": []
+        },
+        {
+          "code": "westpfalz",
+          "name": "Westpfalz",
           "regions": []
         }
       ]
@@ -1859,7 +2009,7 @@
         },
         {
           "code": "de-sn-c",
-          "name": "c",
+          "name": "Großraum Chemnitz",
           "regions": []
         },
         {
@@ -1905,7 +2055,7 @@
         },
         {
           "code": "de-sn-leipzig",
-          "name": "leipzig",
+          "name": "Leipzig",
           "regions": []
         },
         {
@@ -1930,12 +2080,17 @@
         },
         {
           "code": "de-sn-pir",
-          "name": "pir",
+          "name": "Pirna",
           "regions": []
         },
         {
           "code": "de-sn-to",
           "name": "to",
+          "regions": []
+        },
+        {
+          "code": "de-sn-vms",
+          "name": "Verkehrsverbund Mittelsachsen",
           "regions": []
         },
         {
@@ -1952,7 +2107,7 @@
     },
     {
       "code": "de-solling",
-      "name": "solling",
+      "name": "Solling",
       "regions": []
     },
     {
@@ -1981,12 +2136,17 @@
         },
         {
           "code": "de-st-md",
-          "name": "md",
+          "name": "Region Magdeburg",
           "regions": []
         },
         {
           "code": "de-st-saw",
           "name": "saw",
+          "regions": []
+        },
+        {
+          "code": "halle",
+          "name": "Halle (Saale)",
           "regions": []
         }
       ]
@@ -2028,17 +2188,17 @@
       "regions": [
         {
           "code": "de-th-ef",
-          "name": "ef",
+          "name": "Erfurt",
           "regions": []
         },
         {
           "code": "de-th-gth",
-          "name": "gth",
+          "name": "Gotha",
           "regions": []
         },
         {
           "code": "de-th-hbn",
-          "name": "hbn",
+          "name": "Landkreis Hildburghausen",
           "regions": []
         },
         {
@@ -2048,7 +2208,7 @@
         },
         {
           "code": "de-th-j",
-          "name": "j",
+          "name": "Jena",
           "regions": []
         },
         {
@@ -2073,37 +2233,37 @@
         },
         {
           "code": "de-th-shk",
-          "name": "shk",
+          "name": "Saale-Holzland-Kreis",
           "regions": []
         },
         {
           "code": "de-th-shl",
-          "name": "shl",
+          "name": "Suhl",
           "regions": []
         },
         {
           "code": "de-th-slz",
-          "name": "slz",
+          "name": "Bad Langensalza",
           "regions": []
         },
         {
           "code": "de-th-sm",
-          "name": "sm",
+          "name": "Landkreis Schmalkalden-Meiningen",
           "regions": []
         },
         {
           "code": "de-th-sok",
-          "name": "sok",
+          "name": "Saale-Orla-Kreis",
           "regions": []
         },
         {
           "code": "de-th-son",
-          "name": "son",
+          "name": "Landkreis Sonneberg",
           "regions": []
         },
         {
           "code": "de-th-themar",
-          "name": "themar",
+          "name": "Themar",
           "regions": []
         },
         {
@@ -2150,7 +2310,17 @@
     },
     {
       "code": "hansemesh",
-      "name": "Hansemesh",
+      "name": "Hansemesh (Großraum Hamburg)",
+      "regions": []
+    },
+    {
+      "code": "landkreis-harburg",
+      "name": "Landkreis Harburg",
+      "regions": []
+    },
+    {
+      "code": "pamina",
+      "name": "Eurodistrikt PAMINA (DE/FR)",
       "regions": []
     },
     {
@@ -2159,13 +2329,48 @@
       "regions": []
     },
     {
+      "code": "rhein-neckar",
+      "name": "Metropolregion Rhein-Neckar",
+      "regions": []
+    },
+    {
       "code": "rheinland",
       "name": "Rheinland",
       "regions": []
     },
     {
+      "code": "saarlorlux",
+      "name": "Großregion (Saar-Lor-Lux)",
+      "regions": []
+    },
+    {
+      "code": "samtgemeinde-tostedt",
+      "name": "Samtgemeinde Tostedt",
+      "regions": []
+    },
+    {
+      "code": "sauerland",
+      "name": "Sauerland",
+      "regions": []
+    },
+    {
+      "code": "taunus",
+      "name": "Taunus",
+      "regions": []
+    },
+    {
       "code": "trier",
       "name": "Trier",
+      "regions": []
+    },
+    {
+      "code": "upper-rhine",
+      "name": "Upper Rhine",
+      "regions": []
+    },
+    {
+      "code": "westerwald",
+      "name": "Westerwald",
       "regions": []
     }
   ]
