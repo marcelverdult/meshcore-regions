@@ -63,6 +63,11 @@
       "regions": []
     },
     {
+      "code": "nl-dev",
+      "name": "dev",
+      "regions": []
+    },
+    {
       "code": "nl-dor",
       "name": "dor",
       "regions": []
@@ -155,6 +160,11 @@
       "name": "Gelderland",
       "regions": [
         {
+          "code": "nl-ge-ape",
+          "name": "ape",
+          "regions": []
+        },
+        {
           "code": "nl-ge-ede",
           "name": "ede",
           "regions": []
@@ -192,6 +202,11 @@
         {
           "code": "nl-ge-wgw",
           "name": "wgw",
+          "regions": []
+        },
+        {
+          "code": "nl-ge-zut",
+          "name": "zut",
           "regions": []
         }
       ]
@@ -551,6 +566,11 @@
       "name": "Overijssel",
       "regions": [
         {
+          "code": "nl-ov-dev",
+          "name": "dev",
+          "regions": []
+        },
+        {
           "code": "nl-ov-ens",
           "name": "ens",
           "regions": []
@@ -618,6 +638,11 @@
       "regions": []
     },
     {
+      "code": "nl-std3hk",
+      "name": "std3hk",
+      "regions": []
+    },
+    {
       "code": "nl-stk",
       "name": "stk",
       "regions": []
@@ -634,6 +659,16 @@
         {
           "code": "nl-ut-abc",
           "name": "abc",
+          "regions": []
+        },
+        {
+          "code": "nl-ut-bhv",
+          "name": "bhv",
+          "regions": []
+        },
+        {
+          "code": "nl-ut-dbi",
+          "name": "dbi",
           "regions": []
         },
         {
@@ -783,6 +818,11 @@
     {
       "code": "nl-zuid",
       "name": "zuid",
+      "regions": []
+    },
+    {
+      "code": "nl-zut",
+      "name": "zut",
       "regions": []
     },
     {

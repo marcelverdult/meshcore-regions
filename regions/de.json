@@ -583,6 +583,11 @@
           "regions": []
         },
         {
+          "code": "de-by-in",
+          "name": "in",
+          "regions": []
+        },
+        {
           "code": "de-by-kru",
           "name": "kru",
           "regions": []
@@ -788,6 +793,11 @@
         {
           "code": "de-by-pa",
           "name": "pa",
+          "regions": []
+        },
+        {
+          "code": "de-by-paf",
+          "name": "paf",
           "regions": []
         },
         {
