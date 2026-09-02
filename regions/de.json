@@ -608,6 +608,11 @@
           "regions": []
         },
         {
+          "code": "de-by-lau",
+          "name": "lau",
+          "regions": []
+        },
+        {
           "code": "de-by-li",
           "name": "li",
           "regions": []
@@ -1007,6 +1012,11 @@
         {
           "code": "de-hb-aumund",
           "name": "aumund",
+          "regions": []
+        },
+        {
+          "code": "de-hb-blumenthal",
+          "name": "blumenthal",
           "regions": []
         }
       ]
