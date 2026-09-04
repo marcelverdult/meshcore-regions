@@ -3,6 +3,11 @@
   "name": "Netherlands",
   "regions": [
     {
+      "code": "nl-aam",
+      "name": "aam",
+      "regions": []
+    },
+    {
       "code": "nl-aer",
       "name": "aer",
       "regions": []
@@ -25,6 +30,11 @@
     {
       "code": "nl-ams",
       "name": "ams",
+      "regions": []
+    },
+    {
+      "code": "nl-amv",
+      "name": "amv",
       "regions": []
     },
     {
@@ -200,6 +210,21 @@
           "regions": []
         },
         {
+          "code": "nl-ge-tge",
+          "name": "tge",
+          "regions": []
+        },
+        {
+          "code": "nl-ge-twe",
+          "name": "twe",
+          "regions": []
+        },
+        {
+          "code": "nl-ge-vrs",
+          "name": "vrs",
+          "regions": []
+        },
+        {
           "code": "nl-ge-wgw",
           "name": "wgw",
           "regions": []
@@ -275,6 +300,11 @@
     {
       "code": "nl-hag",
       "name": "hag",
+      "regions": []
+    },
+    {
+      "code": "nl-hfd",
+      "name": "hfd",
       "regions": []
     },
     {
@@ -403,6 +433,11 @@
       "code": "nl-nh",
       "name": "Noord-Holland",
       "regions": [
+        {
+          "code": "nl-nh-aam",
+          "name": "aam",
+          "regions": []
+        },
         {
           "code": "nl-nh-akl",
           "name": "akl",
@@ -761,6 +796,11 @@
         {
           "code": "nl-zh-gof",
           "name": "gof",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-gou",
+          "name": "gou",
           "regions": []
         },
         {
