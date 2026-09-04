@@ -38,8 +38,18 @@
       "regions": []
     },
     {
+      "code": "fr-30",
+      "name": "30",
+      "regions": []
+    },
+    {
       "code": "fr-33",
       "name": "33",
+      "regions": []
+    },
+    {
+      "code": "fr-34",
+      "name": "34",
       "regions": []
     },
     {
@@ -205,6 +215,11 @@
       "regions": []
     },
     {
+      "code": "fr-nim",
+      "name": "nim",
+      "regions": []
+    },
+    {
       "code": "fr-nor",
       "name": "nor",
       "regions": []
@@ -222,6 +237,11 @@
     {
       "code": "fr-pdl",
       "name": "pdl",
+      "regions": []
+    },
+    {
+      "code": "fr-sud",
+      "name": "sud",
       "regions": []
     }
   ]
