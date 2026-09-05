@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:35:09Z",
+  "generated_at": "2026-09-05T07:16:15Z",
   "tree": [
     {
       "code": "ad",
@@ -5120,6 +5120,11 @@
           "regions": []
         },
         {
+          "code": "de-nue",
+          "name": "nue",
+          "regions": []
+        },
+        {
           "code": "de-nw",
           "name": "Nordrhein-Westfalen",
           "regions": [
@@ -5433,6 +5438,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-ruhrgebiet",
+          "name": "ruhrgebiet",
+          "regions": []
         },
         {
           "code": "de-sa",
@@ -6322,7 +6332,13 @@
         {
           "code": "fr-sud",
           "name": "sud",
-          "regions": []
+          "regions": [
+            {
+              "code": "fr-sud-est",
+              "name": "est",
+              "regions": []
+            }
+          ]
         }
       ]
     },
@@ -7273,8 +7289,18 @@
           "regions": []
         },
         {
+          "code": "nl-edm",
+          "name": "edm",
+          "regions": []
+        },
+        {
           "code": "nl-emn",
           "name": "emn",
+          "regions": []
+        },
+        {
+          "code": "nl-evo",
+          "name": "evo",
           "regions": []
         },
         {
@@ -7634,6 +7660,11 @@
               "regions": []
             },
             {
+              "code": "nl-nh-evo",
+              "name": "evo",
+              "regions": []
+            },
+            {
               "code": "nl-nh-gok",
               "name": "gok",
               "regions": []
@@ -7795,6 +7826,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "nl-pur",
+          "name": "pur",
+          "regions": []
         },
         {
           "code": "nl-rhe",
@@ -12835,6 +12871,10 @@
       "name": "ns"
     },
     {
+      "path": "de-nue",
+      "name": "nue"
+    },
+    {
       "path": "de-nw",
       "name": "Nordrhein-Westfalen"
     },
@@ -13061,6 +13101,10 @@
     {
       "path": "de-rp-ww",
       "name": "ww"
+    },
+    {
+      "path": "de-ruhrgebiet",
+      "name": "ruhrgebiet"
     },
     {
       "path": "de-sa",
@@ -13745,6 +13789,10 @@
     {
       "path": "fr-sud",
       "name": "sud"
+    },
+    {
+      "path": "fr-sud-est",
+      "name": "est"
     },
     {
       "path": "ga",
@@ -14507,8 +14555,16 @@
       "name": "ede"
     },
     {
+      "path": "nl-edm",
+      "name": "edm"
+    },
+    {
       "path": "nl-emn",
       "name": "emn"
+    },
+    {
+      "path": "nl-evo",
+      "name": "evo"
     },
     {
       "path": "nl-fl",
@@ -14791,6 +14847,10 @@
       "name": "dvt"
     },
     {
+      "path": "nl-nh-evo",
+      "name": "evo"
+    },
+    {
       "path": "nl-nh-gok",
       "name": "gok"
     },
@@ -14917,6 +14977,10 @@
     {
       "path": "nl-ov-wid",
       "name": "wid"
+    },
+    {
+      "path": "nl-pur",
+      "name": "pur"
     },
     {
       "path": "nl-rhe",

@@ -242,7 +242,13 @@
     {
       "code": "fr-sud",
       "name": "sud",
-      "regions": []
+      "regions": [
+        {
+          "code": "fr-sud-est",
+          "name": "est",
+          "regions": []
+        }
+      ]
     }
   ]
 }
