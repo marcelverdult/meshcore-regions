@@ -349,6 +349,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-rv",
+          "name": "rv",
+          "regions": []
+        },
+        {
           "code": "de-bw-rw",
           "name": "rw",
           "regions": []
@@ -1817,6 +1822,11 @@
         {
           "code": "de-sh-ki",
           "name": "Kiel",
+          "regions": []
+        },
+        {
+          "code": "de-sh-nms",
+          "name": "nms",
           "regions": []
         },
         {
