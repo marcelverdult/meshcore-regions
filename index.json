@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T07:16:15Z",
+  "generated_at": "2026-09-06T07:28:39Z",
   "tree": [
     {
       "code": "ad",
@@ -4008,6 +4008,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-rv",
+              "name": "rv",
+              "regions": []
+            },
+            {
               "code": "de-bw-rw",
               "name": "rw",
               "regions": []
@@ -5476,6 +5481,11 @@
             {
               "code": "de-sh-ki",
               "name": "Kiel",
+              "regions": []
+            },
+            {
+              "code": "de-sh-nms",
+              "name": "nms",
               "regions": []
             },
             {
@@ -11999,6 +12009,10 @@
       "name": "rt"
     },
     {
+      "path": "de-bw-rv",
+      "name": "rv"
+    },
+    {
       "path": "de-bw-rw",
       "name": "rw"
     },
@@ -13133,6 +13147,10 @@
     {
       "path": "de-sh-ki",
       "name": "Kiel"
+    },
+    {
+      "path": "de-sh-nms",
+      "name": "nms"
     },
     {
       "path": "de-sh-od",
