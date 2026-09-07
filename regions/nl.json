@@ -190,6 +190,11 @@
           "regions": []
         },
         {
+          "code": "nl-ge-gdm",
+          "name": "gdm",
+          "regions": []
+        },
+        {
           "code": "nl-ge-get",
           "name": "get",
           "regions": []
@@ -609,6 +614,11 @@
     {
       "code": "nl-oost",
       "name": "oost",
+      "regions": []
+    },
+    {
+      "code": "nl-oss",
+      "name": "oss",
       "regions": []
     },
     {

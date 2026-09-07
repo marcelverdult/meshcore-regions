@@ -18,6 +18,11 @@
       "regions": []
     },
     {
+      "code": "de-allgaeu",
+      "name": "allgaeu",
+      "regions": []
+    },
+    {
       "code": "de-at",
       "name": "at",
       "regions": []
@@ -1391,7 +1396,13 @@
         {
           "code": "de-ni-shg",
           "name": "shg",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-ni-shg-auetal",
+              "name": "auetal",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-ni-sz",

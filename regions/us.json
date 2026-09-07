@@ -55,6 +55,16 @@
       ]
     },
     {
+      "code": "us-mci",
+      "name": "mci",
+      "regions": []
+    },
+    {
+      "code": "us-mo",
+      "name": "mo",
+      "regions": []
+    },
+    {
       "code": "us-se",
       "name": "se",
       "regions": []
