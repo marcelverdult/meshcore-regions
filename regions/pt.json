@@ -38,6 +38,11 @@
       "code": "pt-porto",
       "name": "porto",
       "regions": []
+    },
+    {
+      "code": "pt-setubal",
+      "name": "setubal",
+      "regions": []
     }
   ]
 }

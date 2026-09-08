@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:45:12Z",
+  "generated_at": "2026-09-08T07:39:14Z",
   "tree": [
     {
       "code": "ad",
@@ -4422,6 +4422,11 @@
                   "regions": []
                 },
                 {
+                  "code": "de-by-ofr-ku",
+                  "name": "ku",
+                  "regions": []
+                },
+                {
                   "code": "de-by-ofr-nai",
                   "name": "nai",
                   "regions": []
@@ -7268,6 +7273,11 @@
               "regions": []
             },
             {
+              "code": "nl-dr-ass",
+              "name": "ass",
+              "regions": []
+            },
+            {
               "code": "nl-dr-bei",
               "name": "bei",
               "regions": []
@@ -8310,6 +8320,11 @@
         {
           "code": "pt-porto",
           "name": "porto",
+          "regions": []
+        },
+        {
+          "code": "pt-setubal",
+          "name": "setubal",
           "regions": []
         }
       ]
@@ -12368,6 +12383,10 @@
       "name": "kc"
     },
     {
+      "path": "de-by-ofr-ku",
+      "name": "ku"
+    },
+    {
       "path": "de-by-ofr-nai",
       "name": "nai"
     },
@@ -14580,6 +14599,10 @@
       "name": "2ll"
     },
     {
+      "path": "nl-dr-ass",
+      "name": "ass"
+    },
+    {
       "path": "nl-dr-bei",
       "name": "bei"
     },
@@ -15398,6 +15421,10 @@
     {
       "path": "pt-porto",
       "name": "porto"
+    },
+    {
+      "path": "pt-setubal",
+      "name": "setubal"
     },
     {
       "path": "pw",
