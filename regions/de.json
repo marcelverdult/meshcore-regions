@@ -1096,7 +1096,13 @@
     {
       "code": "de-hh",
       "name": "Hamburg",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-hh-la",
+          "name": "la",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-hsk",
