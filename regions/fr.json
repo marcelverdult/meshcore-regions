@@ -18,6 +18,16 @@
       "regions": []
     },
     {
+      "code": "fr-16",
+      "name": "16",
+      "regions": []
+    },
+    {
+      "code": "fr-17",
+      "name": "17",
+      "regions": []
+    },
+    {
       "code": "fr-21",
       "name": "21",
       "regions": []
@@ -25,6 +35,11 @@
     {
       "code": "fr-22",
       "name": "22",
+      "regions": []
+    },
+    {
+      "code": "fr-24",
+      "name": "24",
       "regions": []
     },
     {
@@ -68,8 +83,18 @@
       "regions": []
     },
     {
+      "code": "fr-40",
+      "name": "40",
+      "regions": []
+    },
+    {
       "code": "fr-44",
       "name": "44",
+      "regions": []
+    },
+    {
+      "code": "fr-47",
+      "name": "47",
       "regions": []
     },
     {
@@ -88,6 +113,11 @@
       "regions": []
     },
     {
+      "code": "fr-64",
+      "name": "64",
+      "regions": []
+    },
+    {
       "code": "fr-67",
       "name": "67",
       "regions": []
@@ -100,6 +130,11 @@
     {
       "code": "fr-69",
       "name": "69",
+      "regions": []
+    },
+    {
+      "code": "fr-70",
+      "name": "70",
       "regions": []
     },
     {
