@@ -112,6 +112,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-spn",
+          "name": "spn",
+          "regions": []
+        },
+        {
           "code": "de-bb-tf",
           "name": "tf",
           "regions": []
@@ -1080,6 +1085,11 @@
           "code": "de-he-mtk",
           "name": "mtk",
           "regions": []
+        },
+        {
+          "code": "de-he-of",
+          "name": "of",
+          "regions": []
         }
       ]
     },
@@ -1097,6 +1107,11 @@
       "code": "de-hh",
       "name": "Hamburg",
       "regions": [
+        {
+          "code": "de-hh-bergedorf",
+          "name": "bergedorf",
+          "regions": []
+        },
         {
           "code": "de-hh-la",
           "name": "la",

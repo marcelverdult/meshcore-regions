@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:44:03Z",
+  "generated_at": "2026-09-10T07:43:27Z",
   "tree": [
     {
       "code": "ad",
@@ -3771,6 +3771,11 @@
               "regions": []
             },
             {
+              "code": "de-bb-spn",
+              "name": "spn",
+              "regions": []
+            },
+            {
               "code": "de-bb-tf",
               "name": "tf",
               "regions": []
@@ -4739,6 +4744,11 @@
               "code": "de-he-mtk",
               "name": "mtk",
               "regions": []
+            },
+            {
+              "code": "de-he-of",
+              "name": "of",
+              "regions": []
             }
           ]
         },
@@ -4756,6 +4766,11 @@
           "code": "de-hh",
           "name": "Hamburg",
           "regions": [
+            {
+              "code": "de-hh-bergedorf",
+              "name": "bergedorf",
+              "regions": []
+            },
             {
               "code": "de-hh-la",
               "name": "la",
@@ -6140,6 +6155,16 @@
           "regions": []
         },
         {
+          "code": "fr-16",
+          "name": "16",
+          "regions": []
+        },
+        {
+          "code": "fr-17",
+          "name": "17",
+          "regions": []
+        },
+        {
           "code": "fr-21",
           "name": "21",
           "regions": []
@@ -6147,6 +6172,11 @@
         {
           "code": "fr-22",
           "name": "22",
+          "regions": []
+        },
+        {
+          "code": "fr-24",
+          "name": "24",
           "regions": []
         },
         {
@@ -6190,8 +6220,18 @@
           "regions": []
         },
         {
+          "code": "fr-40",
+          "name": "40",
+          "regions": []
+        },
+        {
           "code": "fr-44",
           "name": "44",
+          "regions": []
+        },
+        {
+          "code": "fr-47",
+          "name": "47",
           "regions": []
         },
         {
@@ -6210,6 +6250,11 @@
           "regions": []
         },
         {
+          "code": "fr-64",
+          "name": "64",
+          "regions": []
+        },
+        {
           "code": "fr-67",
           "name": "67",
           "regions": []
@@ -6222,6 +6267,11 @@
         {
           "code": "fr-69",
           "name": "69",
+          "regions": []
+        },
+        {
+          "code": "fr-70",
+          "name": "70",
           "regions": []
         },
         {
@@ -6457,6 +6507,11 @@
         {
           "code": "gb-wls",
           "name": "wls",
+          "regions": []
+        },
+        {
+          "code": "gb-yor",
+          "name": "yor",
           "regions": []
         }
       ]
@@ -7677,6 +7732,11 @@
               "regions": []
             },
             {
+              "code": "nl-nh-bev",
+              "name": "bev",
+              "regions": []
+            },
+            {
               "code": "nl-nh-bla",
               "name": "bla",
               "regions": []
@@ -7722,8 +7782,18 @@
               "regions": []
             },
             {
+              "code": "nl-nh-hhw",
+              "name": "hhw",
+              "regions": []
+            },
+            {
               "code": "nl-nh-hke",
               "name": "hke",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-hkk",
+              "name": "hkk",
               "regions": []
             },
             {
@@ -8781,6 +8851,11 @@
         {
           "code": "us-southeast",
           "name": "southeast",
+          "regions": []
+        },
+        {
+          "code": "us-tn",
+          "name": "tn",
           "regions": []
         },
         {
@@ -11878,6 +11953,10 @@
       "name": "pr"
     },
     {
+      "path": "de-bb-spn",
+      "name": "spn"
+    },
+    {
       "path": "de-bb-tf",
       "name": "tf"
     },
@@ -12642,6 +12721,10 @@
       "name": "mtk"
     },
     {
+      "path": "de-he-of",
+      "name": "of"
+    },
+    {
       "path": "de-hes",
       "name": "hes"
     },
@@ -12652,6 +12735,10 @@
     {
       "path": "de-hh",
       "name": "Hamburg"
+    },
+    {
+      "path": "de-hh-bergedorf",
+      "name": "bergedorf"
     },
     {
       "path": "de-hh-la",
@@ -13702,12 +13789,24 @@
       "name": "13"
     },
     {
+      "path": "fr-16",
+      "name": "16"
+    },
+    {
+      "path": "fr-17",
+      "name": "17"
+    },
+    {
       "path": "fr-21",
       "name": "21"
     },
     {
       "path": "fr-22",
       "name": "22"
+    },
+    {
+      "path": "fr-24",
+      "name": "24"
     },
     {
       "path": "fr-25",
@@ -13742,8 +13841,16 @@
       "name": "39"
     },
     {
+      "path": "fr-40",
+      "name": "40"
+    },
+    {
       "path": "fr-44",
       "name": "44"
+    },
+    {
+      "path": "fr-47",
+      "name": "47"
     },
     {
       "path": "fr-54",
@@ -13758,6 +13865,10 @@
       "name": "57"
     },
     {
+      "path": "fr-64",
+      "name": "64"
+    },
+    {
       "path": "fr-67",
       "name": "67"
     },
@@ -13768,6 +13879,10 @@
     {
       "path": "fr-69",
       "name": "69"
+    },
+    {
+      "path": "fr-70",
+      "name": "70"
     },
     {
       "path": "fr-71",
@@ -13952,6 +14067,10 @@
     {
       "path": "gb-wls",
       "name": "wls"
+    },
+    {
+      "path": "gb-yor",
+      "name": "yor"
     },
     {
       "path": "gd",
@@ -14926,6 +15045,10 @@
       "name": "asd"
     },
     {
+      "path": "nl-nh-bev",
+      "name": "bev"
+    },
+    {
       "path": "nl-nh-bla",
       "name": "bla"
     },
@@ -14962,8 +15085,16 @@
       "name": "hfd"
     },
     {
+      "path": "nl-nh-hhw",
+      "name": "hhw"
+    },
+    {
       "path": "nl-nh-hke",
       "name": "hke"
+    },
+    {
+      "path": "nl-nh-hkk",
+      "name": "hkk"
     },
     {
       "path": "nl-nh-hmm",
@@ -15808,6 +15939,10 @@
     {
       "path": "us-southeast",
       "name": "southeast"
+    },
+    {
+      "path": "us-tn",
+      "name": "tn"
     },
     {
       "path": "us-tx",

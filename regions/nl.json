@@ -490,6 +490,11 @@
           "regions": []
         },
         {
+          "code": "nl-nh-bev",
+          "name": "bev",
+          "regions": []
+        },
+        {
           "code": "nl-nh-bla",
           "name": "bla",
           "regions": []
@@ -535,8 +540,18 @@
           "regions": []
         },
         {
+          "code": "nl-nh-hhw",
+          "name": "hhw",
+          "regions": []
+        },
+        {
           "code": "nl-nh-hke",
           "name": "hke",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-hkk",
+          "name": "hkk",
           "regions": []
         },
         {
