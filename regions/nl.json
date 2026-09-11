@@ -78,6 +78,11 @@
       "regions": []
     },
     {
+      "code": "nl-doi",
+      "name": "doi",
+      "regions": []
+    },
+    {
       "code": "nl-dor",
       "name": "dor",
       "regions": []
@@ -190,6 +195,11 @@
           "regions": []
         },
         {
+          "code": "nl-ge-ddm",
+          "name": "ddm",
+          "regions": []
+        },
+        {
           "code": "nl-ge-ede",
           "name": "ede",
           "regions": []
@@ -217,6 +227,11 @@
         {
           "code": "nl-ge-ltn",
           "name": "ltn",
+          "regions": []
+        },
+        {
+          "code": "nl-ge-mtl",
+          "name": "mtl",
           "regions": []
         },
         {
