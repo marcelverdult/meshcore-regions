@@ -70,6 +70,11 @@
       "regions": []
     },
     {
+      "code": "us-nc",
+      "name": "nc",
+      "regions": []
+    },
+    {
       "code": "us-se",
       "name": "se",
       "regions": []
@@ -82,7 +87,13 @@
     {
       "code": "us-tn",
       "name": "tn",
-      "regions": []
+      "regions": [
+        {
+          "code": "us-tn-east",
+          "name": "east",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "us-tx",
