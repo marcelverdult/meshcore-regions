@@ -51,7 +51,13 @@
     {
       "code": "it-fvg",
       "name": "fvg",
-      "regions": []
+      "regions": [
+        {
+          "code": "it-fvg-pn",
+          "name": "pn",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "it-laz",

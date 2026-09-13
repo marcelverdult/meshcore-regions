@@ -61,7 +61,23 @@
     {
       "code": "au-vic",
       "name": "vic",
-      "regions": []
+      "regions": [
+        {
+          "code": "au-vic-east",
+          "name": "east",
+          "regions": []
+        },
+        {
+          "code": "au-vic-melbourne",
+          "name": "melbourne",
+          "regions": []
+        },
+        {
+          "code": "au-vic-metro",
+          "name": "metro",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "au-wa",
