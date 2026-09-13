@@ -496,6 +496,11 @@
           "regions": []
         },
         {
+          "code": "de-by-ans",
+          "name": "ans",
+          "regions": []
+        },
+        {
           "code": "de-by-aux",
           "name": "aux",
           "regions": []
@@ -2208,6 +2213,11 @@
     {
       "code": "de-thecore",
       "name": "thecore",
+      "regions": []
+    },
+    {
+      "code": "de-tn",
+      "name": "tn",
       "regions": []
     },
     {

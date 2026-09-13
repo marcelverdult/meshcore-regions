@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:32:02Z",
+  "generated_at": "2026-09-13T07:52:27Z",
   "tree": [
     {
       "code": "ad",
@@ -305,7 +305,23 @@
         {
           "code": "au-vic",
           "name": "vic",
-          "regions": []
+          "regions": [
+            {
+              "code": "au-vic-east",
+              "name": "east",
+              "regions": []
+            },
+            {
+              "code": "au-vic-melbourne",
+              "name": "melbourne",
+              "regions": []
+            },
+            {
+              "code": "au-vic-metro",
+              "name": "metro",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "au-wa",
@@ -4155,6 +4171,11 @@
               "regions": []
             },
             {
+              "code": "de-by-ans",
+              "name": "ans",
+              "regions": []
+            },
+            {
               "code": "de-by-aux",
               "name": "aux",
               "regions": []
@@ -5870,6 +5891,11 @@
           "regions": []
         },
         {
+          "code": "de-tn",
+          "name": "tn",
+          "regions": []
+        },
+        {
           "code": "de-w",
           "name": "w",
           "regions": []
@@ -6160,6 +6186,11 @@
           "regions": []
         },
         {
+          "code": "fr-07",
+          "name": "07",
+          "regions": []
+        },
+        {
           "code": "fr-13",
           "name": "13",
           "regions": []
@@ -6192,6 +6223,11 @@
         {
           "code": "fr-25",
           "name": "25",
+          "regions": []
+        },
+        {
+          "code": "fr-26",
+          "name": "26",
           "regions": []
         },
         {
@@ -6232,6 +6268,11 @@
         {
           "code": "fr-40",
           "name": "40",
+          "regions": []
+        },
+        {
+          "code": "fr-42",
+          "name": "42",
           "regions": []
         },
         {
@@ -6776,7 +6817,13 @@
         {
           "code": "it-fvg",
           "name": "fvg",
-          "regions": []
+          "regions": [
+            {
+              "code": "it-fvg-pn",
+              "name": "pn",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "it-laz",
@@ -7459,6 +7506,11 @@
             {
               "code": "nl-ge-ape",
               "name": "ape",
+              "regions": []
+            },
+            {
+              "code": "nl-ge-arn",
+              "name": "arn",
               "regions": []
             },
             {
@@ -9242,6 +9294,18 @@
     {
       "path": "au-vic",
       "name": "vic"
+    },
+    {
+      "path": "au-vic-east",
+      "name": "east"
+    },
+    {
+      "path": "au-vic-melbourne",
+      "name": "melbourne"
+    },
+    {
+      "path": "au-vic-metro",
+      "name": "metro"
     },
     {
       "path": "au-wa",
@@ -12308,6 +12372,10 @@
       "name": "an"
     },
     {
+      "path": "de-by-ans",
+      "name": "ans"
+    },
+    {
       "path": "de-by-aux",
       "name": "aux"
     },
@@ -13632,6 +13700,10 @@
       "name": "thecore"
     },
     {
+      "path": "de-tn",
+      "name": "tn"
+    },
+    {
       "path": "de-w",
       "name": "w"
     },
@@ -13844,6 +13916,10 @@
       "name": "06"
     },
     {
+      "path": "fr-07",
+      "name": "07"
+    },
+    {
       "path": "fr-13",
       "name": "13"
     },
@@ -13870,6 +13946,10 @@
     {
       "path": "fr-25",
       "name": "25"
+    },
+    {
+      "path": "fr-26",
+      "name": "26"
     },
     {
       "path": "fr-29",
@@ -13902,6 +13982,10 @@
     {
       "path": "fr-40",
       "name": "40"
+    },
+    {
+      "path": "fr-42",
+      "name": "42"
     },
     {
       "path": "fr-44",
@@ -14334,6 +14418,10 @@
     {
       "path": "it-fvg",
       "name": "fvg"
+    },
+    {
+      "path": "it-fvg-pn",
+      "name": "pn"
     },
     {
       "path": "it-laz",
@@ -14882,6 +14970,10 @@
     {
       "path": "nl-ge-ape",
       "name": "ape"
+    },
+    {
+      "path": "nl-ge-arn",
+      "name": "arn"
     },
     {
       "path": "nl-ge-ddm",
