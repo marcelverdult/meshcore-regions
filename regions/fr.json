@@ -189,6 +189,21 @@
       "regions": []
     },
     {
+      "code": "fr-75",
+      "name": "75",
+      "regions": []
+    },
+    {
+      "code": "fr-77",
+      "name": "77",
+      "regions": []
+    },
+    {
+      "code": "fr-78",
+      "name": "78",
+      "regions": []
+    },
+    {
       "code": "fr-83",
       "name": "83",
       "regions": []
@@ -196,6 +211,31 @@
     {
       "code": "fr-84",
       "name": "84",
+      "regions": []
+    },
+    {
+      "code": "fr-91",
+      "name": "91",
+      "regions": []
+    },
+    {
+      "code": "fr-92",
+      "name": "92",
+      "regions": []
+    },
+    {
+      "code": "fr-93",
+      "name": "93",
+      "regions": []
+    },
+    {
+      "code": "fr-94",
+      "name": "94",
+      "regions": []
+    },
+    {
+      "code": "fr-95",
+      "name": "95",
       "regions": []
     },
     {

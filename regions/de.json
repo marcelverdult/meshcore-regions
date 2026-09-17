@@ -47,6 +47,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-brb",
+          "name": "brb",
+          "regions": []
+        },
+        {
           "code": "de-bb-cb",
           "name": "cb",
           "regions": []
@@ -833,6 +838,11 @@
         {
           "code": "de-by-pan",
           "name": "pan",
+          "regions": []
+        },
+        {
+          "code": "de-by-r",
+          "name": "r",
           "regions": []
         },
         {
@@ -2031,6 +2041,11 @@
           "regions": []
         },
         {
+          "code": "de-sn-vms",
+          "name": "vms",
+          "regions": []
+        },
+        {
           "code": "de-sn-vvo",
           "name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)",
           "regions": []
@@ -2102,6 +2117,11 @@
     {
       "code": "de-sued",
       "name": "Süddeutschland",
+      "regions": []
+    },
+    {
+      "code": "de-suedwest",
+      "name": "suedwest",
       "regions": []
     },
     {
