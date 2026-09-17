@@ -37,6 +37,11 @@
       "name": "Emilia Romagna",
       "regions": [
         {
+          "code": "it-emr-bo",
+          "name": "bo",
+          "regions": []
+        },
+        {
           "code": "it-emr-pr",
           "name": "Parma",
           "regions": []
@@ -51,7 +56,13 @@
     {
       "code": "it-fvg",
       "name": "fvg",
-      "regions": []
+      "regions": [
+        {
+          "code": "it-fvg-pn",
+          "name": "pn",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "it-laz",
@@ -197,7 +208,13 @@
     {
       "code": "it-pug",
       "name": "pug",
-      "regions": []
+      "regions": [
+        {
+          "code": "it-pug-le",
+          "name": "le",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "it-sar",

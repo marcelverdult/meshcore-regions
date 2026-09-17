@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:37:08Z",
+  "generated_at": "2026-09-17T08:16:09Z",
   "tree": [
     {
       "code": "ad",
@@ -252,6 +252,11 @@
           "regions": []
         },
         {
+          "code": "au-hume",
+          "name": "hume",
+          "regions": []
+        },
+        {
           "code": "au-nsw",
           "name": "nsw",
           "regions": [
@@ -284,6 +289,11 @@
               "code": "au-nsw-oag",
               "name": "oag",
               "regions": []
+            },
+            {
+              "code": "au-nsw-wga",
+              "name": "wga",
+              "regions": []
             }
           ]
         },
@@ -295,7 +305,23 @@
         {
           "code": "au-vic",
           "name": "vic",
-          "regions": []
+          "regions": [
+            {
+              "code": "au-vic-east",
+              "name": "east",
+              "regions": []
+            },
+            {
+              "code": "au-vic-melbourne",
+              "name": "melbourne",
+              "regions": []
+            },
+            {
+              "code": "au-vic-metro",
+              "name": "metro",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "au-wa",
@@ -3667,6 +3693,11 @@
           "regions": []
         },
         {
+          "code": "de-allgaeu",
+          "name": "allgaeu",
+          "regions": []
+        },
+        {
           "code": "de-at",
           "name": "at",
           "regions": []
@@ -3688,6 +3719,11 @@
             {
               "code": "de-bb-be",
               "name": "be",
+              "regions": []
+            },
+            {
+              "code": "de-bb-brb",
+              "name": "brb",
               "regions": []
             },
             {
@@ -3753,6 +3789,11 @@
             {
               "code": "de-bb-pr",
               "name": "pr",
+              "regions": []
+            },
+            {
+              "code": "de-bb-spn",
+              "name": "spn",
               "regions": []
             },
             {
@@ -3998,6 +4039,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-rv",
+              "name": "rv",
+              "regions": []
+            },
+            {
               "code": "de-bw-rw",
               "name": "rw",
               "regions": []
@@ -4130,6 +4176,11 @@
               "regions": []
             },
             {
+              "code": "de-by-ans",
+              "name": "ans",
+              "regions": []
+            },
+            {
               "code": "de-by-aux",
               "name": "aux",
               "regions": []
@@ -4232,6 +4283,11 @@
               "regions": []
             },
             {
+              "code": "de-by-in",
+              "name": "in",
+              "regions": []
+            },
+            {
               "code": "de-by-kru",
               "name": "kru",
               "regions": []
@@ -4249,6 +4305,11 @@
             {
               "code": "de-by-la",
               "name": "la",
+              "regions": []
+            },
+            {
+              "code": "de-by-lau",
+              "name": "lau",
               "regions": []
             },
             {
@@ -4392,6 +4453,11 @@
                   "regions": []
                 },
                 {
+                  "code": "de-by-ofr-ku",
+                  "name": "ku",
+                  "regions": []
+                },
+                {
                   "code": "de-by-ofr-nai",
                   "name": "nai",
                   "regions": []
@@ -4440,8 +4506,18 @@
               "regions": []
             },
             {
+              "code": "de-by-paf",
+              "name": "paf",
+              "regions": []
+            },
+            {
               "code": "de-by-pan",
               "name": "pan",
+              "regions": []
+            },
+            {
+              "code": "de-by-r",
+              "name": "r",
               "regions": []
             },
             {
@@ -4563,6 +4639,11 @@
           "regions": []
         },
         {
+          "code": "de-ffm",
+          "name": "ffm",
+          "regions": []
+        },
+        {
           "code": "de-ffnw",
           "name": "ffnw",
           "regions": []
@@ -4647,6 +4728,11 @@
               "code": "de-hb-aumund",
               "name": "aumund",
               "regions": []
+            },
+            {
+              "code": "de-hb-blumenthal",
+              "name": "blumenthal",
+              "regions": []
             }
           ]
         },
@@ -4694,6 +4780,11 @@
               "code": "de-he-mtk",
               "name": "mtk",
               "regions": []
+            },
+            {
+              "code": "de-he-of",
+              "name": "of",
+              "regions": []
             }
           ]
         },
@@ -4710,7 +4801,18 @@
         {
           "code": "de-hh",
           "name": "Hamburg",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-hh-bergedorf",
+              "name": "bergedorf",
+              "regions": []
+            },
+            {
+              "code": "de-hh-la",
+              "name": "la",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-hsk",
@@ -5015,7 +5117,13 @@
             {
               "code": "de-ni-shg",
               "name": "shg",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-ni-shg-auetal",
+                  "name": "auetal",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-ni-sz",
@@ -5087,6 +5195,11 @@
         {
           "code": "de-ns",
           "name": "ns",
+          "regions": []
+        },
+        {
+          "code": "de-nue",
+          "name": "nue",
           "regions": []
         },
         {
@@ -5405,6 +5518,11 @@
           ]
         },
         {
+          "code": "de-ruhrgebiet",
+          "name": "ruhrgebiet",
+          "regions": []
+        },
+        {
           "code": "de-sa",
           "name": "sa",
           "regions": []
@@ -5436,6 +5554,11 @@
             {
               "code": "de-sh-ki",
               "name": "Kiel",
+              "regions": []
+            },
+            {
+              "code": "de-sh-nms",
+              "name": "nms",
               "regions": []
             },
             {
@@ -5485,6 +5608,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-si",
+          "name": "si",
+          "regions": []
         },
         {
           "code": "de-sl",
@@ -5588,6 +5716,11 @@
               "regions": []
             },
             {
+              "code": "de-sn-vms",
+              "name": "vms",
+              "regions": []
+            },
+            {
               "code": "de-sn-vvo",
               "name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)",
               "regions": []
@@ -5659,6 +5792,11 @@
         {
           "code": "de-sued",
           "name": "Süddeutschland",
+          "regions": []
+        },
+        {
+          "code": "de-suedwest",
+          "name": "suedwest",
           "regions": []
         },
         {
@@ -5770,6 +5908,11 @@
         {
           "code": "de-thecore",
           "name": "thecore",
+          "regions": []
+        },
+        {
+          "code": "de-tn",
+          "name": "tn",
           "regions": []
         },
         {
@@ -6058,8 +6201,33 @@
           "regions": []
         },
         {
+          "code": "fr-06",
+          "name": "06",
+          "regions": []
+        },
+        {
+          "code": "fr-07",
+          "name": "07",
+          "regions": []
+        },
+        {
           "code": "fr-13",
           "name": "13",
+          "regions": []
+        },
+        {
+          "code": "fr-16",
+          "name": "16",
+          "regions": []
+        },
+        {
+          "code": "fr-17",
+          "name": "17",
+          "regions": []
+        },
+        {
+          "code": "fr-21",
+          "name": "21",
           "regions": []
         },
         {
@@ -6068,8 +6236,18 @@
           "regions": []
         },
         {
+          "code": "fr-24",
+          "name": "24",
+          "regions": []
+        },
+        {
           "code": "fr-25",
           "name": "25",
+          "regions": []
+        },
+        {
+          "code": "fr-26",
+          "name": "26",
           "regions": []
         },
         {
@@ -6078,8 +6256,18 @@
           "regions": []
         },
         {
+          "code": "fr-30",
+          "name": "30",
+          "regions": []
+        },
+        {
           "code": "fr-33",
           "name": "33",
+          "regions": []
+        },
+        {
+          "code": "fr-34",
+          "name": "34",
           "regions": []
         },
         {
@@ -6098,8 +6286,28 @@
           "regions": []
         },
         {
+          "code": "fr-40",
+          "name": "40",
+          "regions": []
+        },
+        {
+          "code": "fr-42",
+          "name": "42",
+          "regions": []
+        },
+        {
           "code": "fr-44",
           "name": "44",
+          "regions": []
+        },
+        {
+          "code": "fr-47",
+          "name": "47",
+          "regions": []
+        },
+        {
+          "code": "fr-48",
+          "name": "48",
           "regions": []
         },
         {
@@ -6118,6 +6326,16 @@
           "regions": []
         },
         {
+          "code": "fr-63",
+          "name": "63",
+          "regions": []
+        },
+        {
+          "code": "fr-64",
+          "name": "64",
+          "regions": []
+        },
+        {
           "code": "fr-67",
           "name": "67",
           "regions": []
@@ -6130,6 +6348,11 @@
         {
           "code": "fr-69",
           "name": "69",
+          "regions": []
+        },
+        {
+          "code": "fr-70",
+          "name": "70",
           "regions": []
         },
         {
@@ -6159,8 +6382,53 @@
           "regions": []
         },
         {
+          "code": "fr-75",
+          "name": "75",
+          "regions": []
+        },
+        {
+          "code": "fr-77",
+          "name": "77",
+          "regions": []
+        },
+        {
+          "code": "fr-78",
+          "name": "78",
+          "regions": []
+        },
+        {
           "code": "fr-83",
           "name": "83",
+          "regions": []
+        },
+        {
+          "code": "fr-84",
+          "name": "84",
+          "regions": []
+        },
+        {
+          "code": "fr-91",
+          "name": "91",
+          "regions": []
+        },
+        {
+          "code": "fr-92",
+          "name": "92",
+          "regions": []
+        },
+        {
+          "code": "fr-93",
+          "name": "93",
+          "regions": []
+        },
+        {
+          "code": "fr-94",
+          "name": "94",
+          "regions": []
+        },
+        {
+          "code": "fr-95",
+          "name": "95",
           "regions": []
         },
         {
@@ -6245,6 +6513,11 @@
           "regions": []
         },
         {
+          "code": "fr-nim",
+          "name": "nim",
+          "regions": []
+        },
+        {
           "code": "fr-nor",
           "name": "nor",
           "regions": []
@@ -6263,6 +6536,17 @@
           "code": "fr-pdl",
           "name": "pdl",
           "regions": []
+        },
+        {
+          "code": "fr-sud",
+          "name": "sud",
+          "regions": [
+            {
+              "code": "fr-sud-est",
+              "name": "est",
+              "regions": []
+            }
+          ]
         }
       ]
     },
@@ -6349,6 +6633,11 @@
         {
           "code": "gb-wls",
           "name": "wls",
+          "regions": []
+        },
+        {
+          "code": "gb-yor",
+          "name": "yor",
           "regions": []
         }
       ]
@@ -6574,6 +6863,11 @@
           "name": "Emilia Romagna",
           "regions": [
             {
+              "code": "it-emr-bo",
+              "name": "bo",
+              "regions": []
+            },
+            {
               "code": "it-emr-pr",
               "name": "Parma",
               "regions": []
@@ -6588,7 +6882,13 @@
         {
           "code": "it-fvg",
           "name": "fvg",
-          "regions": []
+          "regions": [
+            {
+              "code": "it-fvg-pn",
+              "name": "pn",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "it-laz",
@@ -6734,7 +7034,13 @@
         {
           "code": "it-pug",
           "name": "pug",
-          "regions": []
+          "regions": [
+            {
+              "code": "it-pug-le",
+              "name": "le",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "it-sar",
@@ -7082,6 +7388,11 @@
       "name": "Netherlands",
       "regions": [
         {
+          "code": "nl-aam",
+          "name": "aam",
+          "regions": []
+        },
+        {
           "code": "nl-aer",
           "name": "aer",
           "regions": []
@@ -7104,6 +7415,11 @@
         {
           "code": "nl-ams",
           "name": "ams",
+          "regions": []
+        },
+        {
+          "code": "nl-amv",
+          "name": "amv",
           "regions": []
         },
         {
@@ -7142,6 +7458,16 @@
           "regions": []
         },
         {
+          "code": "nl-dev",
+          "name": "dev",
+          "regions": []
+        },
+        {
+          "code": "nl-doi",
+          "name": "doi",
+          "regions": []
+        },
+        {
           "code": "nl-dor",
           "name": "dor",
           "regions": []
@@ -7153,6 +7479,11 @@
             {
               "code": "nl-dr-2ll",
               "name": "2ll",
+              "regions": []
+            },
+            {
+              "code": "nl-dr-ass",
+              "name": "ass",
               "regions": []
             },
             {
@@ -7198,8 +7529,18 @@
           "regions": []
         },
         {
+          "code": "nl-edm",
+          "name": "edm",
+          "regions": []
+        },
+        {
           "code": "nl-emn",
           "name": "emn",
+          "regions": []
+        },
+        {
+          "code": "nl-evo",
+          "name": "evo",
           "regions": []
         },
         {
@@ -7234,8 +7575,28 @@
           "name": "Gelderland",
           "regions": [
             {
+              "code": "nl-ge-ape",
+              "name": "ape",
+              "regions": []
+            },
+            {
+              "code": "nl-ge-arn",
+              "name": "arn",
+              "regions": []
+            },
+            {
+              "code": "nl-ge-ddm",
+              "name": "ddm",
+              "regions": []
+            },
+            {
               "code": "nl-ge-ede",
               "name": "ede",
+              "regions": []
+            },
+            {
+              "code": "nl-ge-gdm",
+              "name": "gdm",
               "regions": []
             },
             {
@@ -7259,6 +7620,11 @@
               "regions": []
             },
             {
+              "code": "nl-ge-mtl",
+              "name": "mtl",
+              "regions": []
+            },
+            {
               "code": "nl-ge-nun",
               "name": "nun",
               "regions": []
@@ -7269,8 +7635,28 @@
               "regions": []
             },
             {
+              "code": "nl-ge-tge",
+              "name": "tge",
+              "regions": []
+            },
+            {
+              "code": "nl-ge-twe",
+              "name": "twe",
+              "regions": []
+            },
+            {
+              "code": "nl-ge-vrs",
+              "name": "vrs",
+              "regions": []
+            },
+            {
               "code": "nl-ge-wgw",
               "name": "wgw",
+              "regions": []
+            },
+            {
+              "code": "nl-ge-zut",
+              "name": "zut",
               "regions": []
             }
           ]
@@ -7339,6 +7725,11 @@
         {
           "code": "nl-hag",
           "name": "hag",
+          "regions": []
+        },
+        {
+          "code": "nl-hfd",
+          "name": "hfd",
           "regions": []
         },
         {
@@ -7468,6 +7859,11 @@
           "name": "Noord-Holland",
           "regions": [
             {
+              "code": "nl-nh-aam",
+              "name": "aam",
+              "regions": []
+            },
+            {
               "code": "nl-nh-akl",
               "name": "akl",
               "regions": []
@@ -7499,6 +7895,11 @@
               "regions": []
             },
             {
+              "code": "nl-nh-bev",
+              "name": "bev",
+              "regions": []
+            },
+            {
               "code": "nl-nh-bla",
               "name": "bla",
               "regions": []
@@ -7524,6 +7925,11 @@
               "regions": []
             },
             {
+              "code": "nl-nh-evo",
+              "name": "evo",
+              "regions": []
+            },
+            {
               "code": "nl-nh-gok",
               "name": "gok",
               "regions": []
@@ -7539,8 +7945,18 @@
               "regions": []
             },
             {
+              "code": "nl-nh-hhw",
+              "name": "hhw",
+              "regions": []
+            },
+            {
               "code": "nl-nh-hke",
               "name": "hke",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-hkk",
+              "name": "hkk",
               "regions": []
             },
             {
@@ -7626,9 +8042,19 @@
           "regions": []
         },
         {
+          "code": "nl-oss",
+          "name": "oss",
+          "regions": []
+        },
+        {
           "code": "nl-ov",
           "name": "Overijssel",
           "regions": [
+            {
+              "code": "nl-ov-dev",
+              "name": "dev",
+              "regions": []
+            },
             {
               "code": "nl-ov-ens",
               "name": "ens",
@@ -7682,6 +8108,11 @@
           ]
         },
         {
+          "code": "nl-pur",
+          "name": "pur",
+          "regions": []
+        },
+        {
           "code": "nl-rhe",
           "name": "rhe",
           "regions": []
@@ -7694,6 +8125,11 @@
         {
           "code": "nl-rtm",
           "name": "rtm",
+          "regions": []
+        },
+        {
+          "code": "nl-std3hk",
+          "name": "std3hk",
           "regions": []
         },
         {
@@ -7713,6 +8149,16 @@
             {
               "code": "nl-ut-abc",
               "name": "abc",
+              "regions": []
+            },
+            {
+              "code": "nl-ut-bhv",
+              "name": "bhv",
+              "regions": []
+            },
+            {
+              "code": "nl-ut-dbi",
+              "name": "dbi",
               "regions": []
             },
             {
@@ -7793,6 +8239,11 @@
           "name": "Zuid-Holland",
           "regions": [
             {
+              "code": "nl-zh-apn",
+              "name": "apn",
+              "regions": []
+            },
+            {
               "code": "nl-zh-dor",
               "name": "dor",
               "regions": []
@@ -7805,6 +8256,11 @@
             {
               "code": "nl-zh-gof",
               "name": "gof",
+              "regions": []
+            },
+            {
+              "code": "nl-zh-gou",
+              "name": "gou",
               "regions": []
             },
             {
@@ -7862,6 +8318,11 @@
         {
           "code": "nl-zuid",
           "name": "zuid",
+          "regions": []
+        },
+        {
+          "code": "nl-zut",
+          "name": "zut",
           "regions": []
         },
         {
@@ -8101,8 +8562,18 @@
           "regions": []
         },
         {
+          "code": "pt-norte",
+          "name": "norte",
+          "regions": []
+        },
+        {
           "code": "pt-porto",
           "name": "porto",
+          "regions": []
+        },
+        {
+          "code": "pt-setubal",
+          "name": "setubal",
           "regions": []
         }
       ]
@@ -8154,6 +8625,16 @@
         {
           "code": "ro-dj",
           "name": "dj",
+          "regions": []
+        },
+        {
+          "code": "ro-if",
+          "name": "if",
+          "regions": []
+        },
+        {
+          "code": "ro-mnt",
+          "name": "mnt",
           "regions": []
         },
         {
@@ -8494,6 +8975,11 @@
           "regions": []
         },
         {
+          "code": "us-co",
+          "name": "co",
+          "regions": []
+        },
+        {
           "code": "us-fl",
           "name": "fl",
           "regions": [
@@ -8531,6 +9017,21 @@
           ]
         },
         {
+          "code": "us-mci",
+          "name": "mci",
+          "regions": []
+        },
+        {
+          "code": "us-mo",
+          "name": "mo",
+          "regions": []
+        },
+        {
+          "code": "us-nc",
+          "name": "nc",
+          "regions": []
+        },
+        {
           "code": "us-se",
           "name": "se",
           "regions": []
@@ -8539,6 +9040,17 @@
           "code": "us-southeast",
           "name": "southeast",
           "regions": []
+        },
+        {
+          "code": "us-tn",
+          "name": "tn",
+          "regions": [
+            {
+              "code": "us-tn-east",
+              "name": "east",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "us-tx",
@@ -8831,6 +9343,10 @@
       "name": "act"
     },
     {
+      "path": "au-hume",
+      "name": "hume"
+    },
+    {
       "path": "au-nsw",
       "name": "nsw"
     },
@@ -8859,12 +9375,28 @@
       "name": "oag"
     },
     {
+      "path": "au-nsw-wga",
+      "name": "wga"
+    },
+    {
       "path": "au-qld",
       "name": "qld"
     },
     {
       "path": "au-vic",
       "name": "vic"
+    },
+    {
+      "path": "au-vic-east",
+      "name": "east"
+    },
+    {
+      "path": "au-vic-melbourne",
+      "name": "melbourne"
+    },
+    {
+      "path": "au-vic-metro",
+      "name": "metro"
     },
     {
       "path": "au-wa",
@@ -11551,6 +12083,10 @@
       "name": "abo"
     },
     {
+      "path": "de-allgaeu",
+      "name": "allgaeu"
+    },
+    {
       "path": "de-at",
       "name": "at"
     },
@@ -11569,6 +12105,10 @@
     {
       "path": "de-bb-be",
       "name": "be"
+    },
+    {
+      "path": "de-bb-brb",
+      "name": "brb"
     },
     {
       "path": "de-bb-cb",
@@ -11621,6 +12161,10 @@
     {
       "path": "de-bb-pr",
       "name": "pr"
+    },
+    {
+      "path": "de-bb-spn",
+      "name": "spn"
     },
     {
       "path": "de-bb-tf",
@@ -11815,6 +12359,10 @@
       "name": "rt"
     },
     {
+      "path": "de-bw-rv",
+      "name": "rv"
+    },
+    {
       "path": "de-bw-rw",
       "name": "rw"
     },
@@ -11919,6 +12467,10 @@
       "name": "an"
     },
     {
+      "path": "de-by-ans",
+      "name": "ans"
+    },
+    {
       "path": "de-by-aux",
       "name": "aux"
     },
@@ -11999,6 +12551,10 @@
       "name": "ill"
     },
     {
+      "path": "de-by-in",
+      "name": "in"
+    },
+    {
       "path": "de-by-kru",
       "name": "kru"
     },
@@ -12013,6 +12569,10 @@
     {
       "path": "de-by-la",
       "name": "la"
+    },
+    {
+      "path": "de-by-lau",
+      "name": "lau"
     },
     {
       "path": "de-by-li",
@@ -12127,6 +12687,10 @@
       "name": "kc"
     },
     {
+      "path": "de-by-ofr-ku",
+      "name": "ku"
+    },
+    {
       "path": "de-by-ofr-nai",
       "name": "nai"
     },
@@ -12163,8 +12727,16 @@
       "name": "pa"
     },
     {
+      "path": "de-by-paf",
+      "name": "paf"
+    },
+    {
       "path": "de-by-pan",
       "name": "pan"
+    },
+    {
+      "path": "de-by-r",
+      "name": "r"
     },
     {
       "path": "de-by-rgbg",
@@ -12259,6 +12831,10 @@
       "name": "europe"
     },
     {
+      "path": "de-ffm",
+      "name": "ffm"
+    },
+    {
       "path": "de-ffnw",
       "name": "ffnw"
     },
@@ -12327,6 +12903,10 @@
       "name": "aumund"
     },
     {
+      "path": "de-hb-blumenthal",
+      "name": "blumenthal"
+    },
+    {
       "path": "de-he",
       "name": "Hessen"
     },
@@ -12363,6 +12943,10 @@
       "name": "mtk"
     },
     {
+      "path": "de-he-of",
+      "name": "of"
+    },
+    {
       "path": "de-hes",
       "name": "hes"
     },
@@ -12373,6 +12957,14 @@
     {
       "path": "de-hh",
       "name": "Hamburg"
+    },
+    {
+      "path": "de-hh-bergedorf",
+      "name": "bergedorf"
+    },
+    {
+      "path": "de-hh-la",
+      "name": "la"
     },
     {
       "path": "de-hsk",
@@ -12615,6 +13207,10 @@
       "name": "shg"
     },
     {
+      "path": "de-ni-shg-auetal",
+      "name": "auetal"
+    },
+    {
       "path": "de-ni-sz",
       "name": "sz"
     },
@@ -12669,6 +13265,10 @@
     {
       "path": "de-ns",
       "name": "ns"
+    },
+    {
+      "path": "de-nue",
+      "name": "nue"
     },
     {
       "path": "de-nw",
@@ -12899,6 +13499,10 @@
       "name": "ww"
     },
     {
+      "path": "de-ruhrgebiet",
+      "name": "ruhrgebiet"
+    },
+    {
       "path": "de-sa",
       "name": "sa"
     },
@@ -12925,6 +13529,10 @@
     {
       "path": "de-sh-ki",
       "name": "Kiel"
+    },
+    {
+      "path": "de-sh-nms",
+      "name": "nms"
     },
     {
       "path": "de-sh-od",
@@ -12961,6 +13569,10 @@
     {
       "path": "de-sh-wacken",
       "name": "wacken"
+    },
+    {
+      "path": "de-si",
+      "name": "si"
     },
     {
       "path": "de-sl",
@@ -13043,6 +13655,10 @@
       "name": "to"
     },
     {
+      "path": "de-sn-vms",
+      "name": "vms"
+    },
+    {
       "path": "de-sn-vvo",
       "name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)"
     },
@@ -13097,6 +13713,10 @@
     {
       "path": "de-sued",
       "name": "Süddeutschland"
+    },
+    {
+      "path": "de-suedwest",
+      "name": "suedwest"
     },
     {
       "path": "de-sz",
@@ -13185,6 +13805,10 @@
     {
       "path": "de-thecore",
       "name": "thecore"
+    },
+    {
+      "path": "de-tn",
+      "name": "tn"
     },
     {
       "path": "de-w",
@@ -13395,24 +14019,60 @@
       "name": "01"
     },
     {
+      "path": "fr-06",
+      "name": "06"
+    },
+    {
+      "path": "fr-07",
+      "name": "07"
+    },
+    {
       "path": "fr-13",
       "name": "13"
+    },
+    {
+      "path": "fr-16",
+      "name": "16"
+    },
+    {
+      "path": "fr-17",
+      "name": "17"
+    },
+    {
+      "path": "fr-21",
+      "name": "21"
     },
     {
       "path": "fr-22",
       "name": "22"
     },
     {
+      "path": "fr-24",
+      "name": "24"
+    },
+    {
       "path": "fr-25",
       "name": "25"
+    },
+    {
+      "path": "fr-26",
+      "name": "26"
     },
     {
       "path": "fr-29",
       "name": "29"
     },
     {
+      "path": "fr-30",
+      "name": "30"
+    },
+    {
       "path": "fr-33",
       "name": "33"
+    },
+    {
+      "path": "fr-34",
+      "name": "34"
     },
     {
       "path": "fr-35",
@@ -13427,8 +14087,24 @@
       "name": "39"
     },
     {
+      "path": "fr-40",
+      "name": "40"
+    },
+    {
+      "path": "fr-42",
+      "name": "42"
+    },
+    {
       "path": "fr-44",
       "name": "44"
+    },
+    {
+      "path": "fr-47",
+      "name": "47"
+    },
+    {
+      "path": "fr-48",
+      "name": "48"
     },
     {
       "path": "fr-54",
@@ -13443,6 +14119,14 @@
       "name": "57"
     },
     {
+      "path": "fr-63",
+      "name": "63"
+    },
+    {
+      "path": "fr-64",
+      "name": "64"
+    },
+    {
       "path": "fr-67",
       "name": "67"
     },
@@ -13453,6 +14137,10 @@
     {
       "path": "fr-69",
       "name": "69"
+    },
+    {
+      "path": "fr-70",
+      "name": "70"
     },
     {
       "path": "fr-71",
@@ -13475,8 +14163,44 @@
       "name": "74"
     },
     {
+      "path": "fr-75",
+      "name": "75"
+    },
+    {
+      "path": "fr-77",
+      "name": "77"
+    },
+    {
+      "path": "fr-78",
+      "name": "78"
+    },
+    {
       "path": "fr-83",
       "name": "83"
+    },
+    {
+      "path": "fr-84",
+      "name": "84"
+    },
+    {
+      "path": "fr-91",
+      "name": "91"
+    },
+    {
+      "path": "fr-92",
+      "name": "92"
+    },
+    {
+      "path": "fr-93",
+      "name": "93"
+    },
+    {
+      "path": "fr-94",
+      "name": "94"
+    },
+    {
+      "path": "fr-95",
+      "name": "95"
     },
     {
       "path": "fr-ain",
@@ -13543,6 +14267,10 @@
       "name": "naq"
     },
     {
+      "path": "fr-nim",
+      "name": "nim"
+    },
+    {
       "path": "fr-nor",
       "name": "nor"
     },
@@ -13557,6 +14285,14 @@
     {
       "path": "fr-pdl",
       "name": "pdl"
+    },
+    {
+      "path": "fr-sud",
+      "name": "sud"
+    },
+    {
+      "path": "fr-sud-est",
+      "name": "est"
     },
     {
       "path": "ga",
@@ -13625,6 +14361,10 @@
     {
       "path": "gb-wls",
       "name": "wls"
+    },
+    {
+      "path": "gb-yor",
+      "name": "yor"
     },
     {
       "path": "gd",
@@ -13807,6 +14547,10 @@
       "name": "Emilia Romagna"
     },
     {
+      "path": "it-emr-bo",
+      "name": "bo"
+    },
+    {
       "path": "it-emr-pr",
       "name": "Parma"
     },
@@ -13817,6 +14561,10 @@
     {
       "path": "it-fvg",
       "name": "fvg"
+    },
+    {
+      "path": "it-fvg-pn",
+      "name": "pn"
     },
     {
       "path": "it-laz",
@@ -13929,6 +14677,10 @@
     {
       "path": "it-pug",
       "name": "pug"
+    },
+    {
+      "path": "it-pug-le",
+      "name": "le"
     },
     {
       "path": "it-sar",
@@ -14215,6 +14967,10 @@
       "name": "Netherlands"
     },
     {
+      "path": "nl-aam",
+      "name": "aam"
+    },
+    {
       "path": "nl-aer",
       "name": "aer"
     },
@@ -14233,6 +14989,10 @@
     {
       "path": "nl-ams",
       "name": "ams"
+    },
+    {
+      "path": "nl-amv",
+      "name": "amv"
     },
     {
       "path": "nl-ape",
@@ -14263,6 +15023,14 @@
       "name": "cpi"
     },
     {
+      "path": "nl-dev",
+      "name": "dev"
+    },
+    {
+      "path": "nl-doi",
+      "name": "doi"
+    },
+    {
       "path": "nl-dor",
       "name": "dor"
     },
@@ -14273,6 +15041,10 @@
     {
       "path": "nl-dr-2ll",
       "name": "2ll"
+    },
+    {
+      "path": "nl-dr-ass",
+      "name": "ass"
     },
     {
       "path": "nl-dr-bei",
@@ -14307,8 +15079,16 @@
       "name": "ede"
     },
     {
+      "path": "nl-edm",
+      "name": "edm"
+    },
+    {
       "path": "nl-emn",
       "name": "emn"
+    },
+    {
+      "path": "nl-evo",
+      "name": "evo"
     },
     {
       "path": "nl-fl",
@@ -14335,8 +15115,24 @@
       "name": "Gelderland"
     },
     {
+      "path": "nl-ge-ape",
+      "name": "ape"
+    },
+    {
+      "path": "nl-ge-arn",
+      "name": "arn"
+    },
+    {
+      "path": "nl-ge-ddm",
+      "name": "ddm"
+    },
+    {
       "path": "nl-ge-ede",
       "name": "ede"
+    },
+    {
+      "path": "nl-ge-gdm",
+      "name": "gdm"
     },
     {
       "path": "nl-ge-get",
@@ -14355,6 +15151,10 @@
       "name": "ltn"
     },
     {
+      "path": "nl-ge-mtl",
+      "name": "mtl"
+    },
+    {
       "path": "nl-ge-nun",
       "name": "nun"
     },
@@ -14363,8 +15163,24 @@
       "name": "rnk"
     },
     {
+      "path": "nl-ge-tge",
+      "name": "tge"
+    },
+    {
+      "path": "nl-ge-twe",
+      "name": "twe"
+    },
+    {
+      "path": "nl-ge-vrs",
+      "name": "vrs"
+    },
+    {
       "path": "nl-ge-wgw",
       "name": "wgw"
+    },
+    {
+      "path": "nl-ge-zut",
+      "name": "zut"
     },
     {
       "path": "nl-gr",
@@ -14417,6 +15233,10 @@
     {
       "path": "nl-hag",
       "name": "hag"
+    },
+    {
+      "path": "nl-hfd",
+      "name": "hfd"
     },
     {
       "path": "nl-hgl",
@@ -14519,6 +15339,10 @@
       "name": "Noord-Holland"
     },
     {
+      "path": "nl-nh-aam",
+      "name": "aam"
+    },
+    {
       "path": "nl-nh-akl",
       "name": "akl"
     },
@@ -14543,6 +15367,10 @@
       "name": "asd"
     },
     {
+      "path": "nl-nh-bev",
+      "name": "bev"
+    },
+    {
       "path": "nl-nh-bla",
       "name": "bla"
     },
@@ -14563,6 +15391,10 @@
       "name": "dvt"
     },
     {
+      "path": "nl-nh-evo",
+      "name": "evo"
+    },
+    {
       "path": "nl-nh-gok",
       "name": "gok"
     },
@@ -14575,8 +15407,16 @@
       "name": "hfd"
     },
     {
+      "path": "nl-nh-hhw",
+      "name": "hhw"
+    },
+    {
       "path": "nl-nh-hke",
       "name": "hke"
+    },
+    {
+      "path": "nl-nh-hkk",
+      "name": "hkk"
     },
     {
       "path": "nl-nh-hmm",
@@ -14643,8 +15483,16 @@
       "name": "oost"
     },
     {
+      "path": "nl-oss",
+      "name": "oss"
+    },
+    {
       "path": "nl-ov",
       "name": "Overijssel"
+    },
+    {
+      "path": "nl-ov-dev",
+      "name": "dev"
     },
     {
       "path": "nl-ov-ens",
@@ -14687,6 +15535,10 @@
       "name": "wid"
     },
     {
+      "path": "nl-pur",
+      "name": "pur"
+    },
+    {
       "path": "nl-rhe",
       "name": "rhe"
     },
@@ -14697,6 +15549,10 @@
     {
       "path": "nl-rtm",
       "name": "rtm"
+    },
+    {
+      "path": "nl-std3hk",
+      "name": "std3hk"
     },
     {
       "path": "nl-stk",
@@ -14713,6 +15569,14 @@
     {
       "path": "nl-ut-abc",
       "name": "abc"
+    },
+    {
+      "path": "nl-ut-bhv",
+      "name": "bhv"
+    },
+    {
+      "path": "nl-ut-dbi",
+      "name": "dbi"
     },
     {
       "path": "nl-ut-doo",
@@ -14775,6 +15639,10 @@
       "name": "Zuid-Holland"
     },
     {
+      "path": "nl-zh-apn",
+      "name": "apn"
+    },
+    {
       "path": "nl-zh-dor",
       "name": "dor"
     },
@@ -14785,6 +15653,10 @@
     {
       "path": "nl-zh-gof",
       "name": "gof"
+    },
+    {
+      "path": "nl-zh-gou",
+      "name": "gou"
     },
     {
       "path": "nl-zh-hag",
@@ -14829,6 +15701,10 @@
     {
       "path": "nl-zuid",
       "name": "zuid"
+    },
+    {
+      "path": "nl-zut",
+      "name": "zut"
     },
     {
       "path": "nl-zwo",
@@ -15015,8 +15891,16 @@
       "name": "lisboa"
     },
     {
+      "path": "pt-norte",
+      "name": "norte"
+    },
+    {
       "path": "pt-porto",
       "name": "porto"
+    },
+    {
+      "path": "pt-setubal",
+      "name": "setubal"
     },
     {
       "path": "pw",
@@ -15065,6 +15949,14 @@
     {
       "path": "ro-dj",
       "name": "dj"
+    },
+    {
+      "path": "ro-if",
+      "name": "if"
+    },
+    {
+      "path": "ro-mnt",
+      "name": "mnt"
     },
     {
       "path": "ro-sud",
@@ -15339,6 +16231,10 @@
       "name": "ca"
     },
     {
+      "path": "us-co",
+      "name": "co"
+    },
+    {
       "path": "us-fl",
       "name": "fl"
     },
@@ -15367,12 +16263,32 @@
       "name": "nw"
     },
     {
+      "path": "us-mci",
+      "name": "mci"
+    },
+    {
+      "path": "us-mo",
+      "name": "mo"
+    },
+    {
+      "path": "us-nc",
+      "name": "nc"
+    },
+    {
       "path": "us-se",
       "name": "se"
     },
     {
       "path": "us-southeast",
       "name": "southeast"
+    },
+    {
+      "path": "us-tn",
+      "name": "tn"
+    },
+    {
+      "path": "us-tn-east",
+      "name": "east"
     },
     {
       "path": "us-tx",

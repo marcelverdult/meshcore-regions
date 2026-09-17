@@ -56,33 +56,33 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-08-29T09:37:08Z`
+- Last sync: `2026-09-17T08:16:09Z`
 - Roots: 252
-- Total nodes: 1738
-- Unsorted entries: 1024
+- Total nodes: 1836
+- Unsorted entries: 1080
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
-| 2026-08-28T14:46:23Z | sync | f98025b | Merge pull request #82 from marcelverdult/sync/auto |
-| 2026-08-28T14:46:16Z | sync | 66f091c | sync: 12 added, 56 resolved, 1020 unsorted |
-| 2026-08-26T03:47:37Z | sync | e47ef5f | Merge pull request #81 from marcelverdult/sync/auto |
-| 2026-08-26T03:47:05Z | sync | 5a3f1b3 | sync: 2 added, 57 resolved, 1018 unsorted |
-| 2026-08-25T03:41:31Z | sync | 7536898 | Merge pull request #80 from marcelverdult/sync/auto |
-| 2026-08-25T03:41:19Z | sync | aafc111 | sync: 2 added, 67 resolved, 1017 unsorted |
-| 2026-08-24T03:47:39Z | sync | abf8c9d | Merge pull request #79 from marcelverdult/sync/auto |
-| 2026-08-24T03:47:33Z | sync | 537b6fc | sync: 11 added, 73 resolved, 1025 unsorted |
-| 2026-08-23T03:43:32Z | sync | f4f9f94 | Merge pull request #78 from marcelverdult/sync/auto |
-| 2026-08-23T03:43:28Z | sync | 7e3184c | sync: 14 added, 68 resolved, 1025 unsorted |
-| 2026-08-21T03:43:57Z | sync | 05316c9 | Merge pull request #77 from marcelverdult/sync/auto |
-| 2026-08-21T03:43:50Z | sync | 7428030 | sync: 9 added, 69 resolved, 1016 unsorted |
-| 2026-08-20T03:39:44Z | sync | f52331a | Merge pull request #76 from marcelverdult/sync/auto |
-| 2026-08-20T03:39:37Z | sync | 00d9285 | sync: 10 added, 68 resolved, 1004 unsorted |
-| 2026-08-18T03:37:44Z | sync | 43dbffe | Merge pull request #75 from marcelverdult/sync/auto |
-| 2026-08-18T03:37:38Z | sync | a30fd6d | sync: 15 added, 49 resolved, 1000 unsorted |
-| 2026-08-16T03:41:28Z | sync | 43de9f7 | Merge pull request #74 from marcelverdult/sync/auto |
-| 2026-08-16T03:41:21Z | sync | 1ac66cb | sync: 1 added, 59 resolved, 972 unsorted |
-| 2026-08-15T03:32:05Z | sync | 4a1de20 | Merge pull request #73 from marcelverdult/sync/auto |
-| 2026-08-15T03:31:59Z | sync | 60fc9c5 | sync: 18 added, 39 resolved, 973 unsorted |
+| 2026-09-13T07:52:35Z | sync | 003c7ad | Merge pull request #97 from marcelverdult/sync/auto |
+| 2026-09-13T07:52:28Z | sync | aa57ccd | sync: 10 added, 56 resolved, 1076 unsorted |
+| 2026-09-12T07:32:17Z | sync | a7677dc | Merge pull request #96 from marcelverdult/sync/auto |
+| 2026-09-12T07:32:03Z | sync | 19977f8 | sync: 4 added, 56 resolved, 1074 unsorted |
+| 2026-09-11T07:38:58Z | sync | 5465aa8 | Merge pull request #95 from marcelverdult/sync/auto |
+| 2026-09-11T07:38:48Z | sync | e13f389 | sync: 6 added, 56 resolved, 1068 unsorted |
+| 2026-09-10T07:44:04Z | sync | 1bbd33a | Merge pull request #94 from marcelverdult/sync/auto |
+| 2026-09-10T07:43:28Z | sync | b364a8c | sync: 15 added, 57 resolved, 1066 unsorted |
+| 2026-09-09T07:44:36Z | sync | 3afa22b | Merge pull request #93 from marcelverdult/sync/auto |
+| 2026-09-09T07:44:04Z | sync | 7b2261d | sync: 2 added, 56 resolved, 1064 unsorted |
+| 2026-09-08T07:39:46Z | sync | d4aa6a4 | Merge pull request #92 from marcelverdult/sync/auto |
+| 2026-09-08T07:39:16Z | sync | 771e5e8 | sync: 3 added, 56 resolved, 1059 unsorted |
+| 2026-09-07T07:45:27Z | sync | f3dcfb0 | Merge pull request #91 from marcelverdult/sync/auto |
+| 2026-09-07T07:45:12Z | sync | 3873dfd | sync: 6 added, 53 resolved, 1055 unsorted |
+| 2026-09-06T07:29:06Z | sync | caa6d8b | Merge pull request #90 from marcelverdult/sync/auto |
+| 2026-09-06T07:28:41Z | sync | b114344 | sync: 2 added, 53 resolved, 1048 unsorted |
+| 2026-09-05T07:16:24Z | sync | a17177b | Merge pull request #89 from marcelverdult/sync/auto |
+| 2026-09-05T07:16:16Z | sync | db8815b | sync: 7 added, 54 resolved, 1047 unsorted |
+| 2026-09-04T07:35:42Z | sync | cada827 | Merge pull request #88 from marcelverdult/sync/auto |
+| 2026-09-04T07:35:10Z | sync | 9db61b0 | sync: 12 added, 53 resolved, 1045 unsorted |
 
 <!-- regions:auto-status:end -->
 

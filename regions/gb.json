@@ -77,6 +77,11 @@
       "code": "gb-wls",
       "name": "wls",
       "regions": []
+    },
+    {
+      "code": "gb-yor",
+      "name": "yor",
+      "regions": []
     }
   ]
 }

@@ -18,6 +18,11 @@
       "regions": []
     },
     {
+      "code": "us-co",
+      "name": "co",
+      "regions": []
+    },
+    {
       "code": "us-fl",
       "name": "fl",
       "regions": [
@@ -55,6 +60,21 @@
       ]
     },
     {
+      "code": "us-mci",
+      "name": "mci",
+      "regions": []
+    },
+    {
+      "code": "us-mo",
+      "name": "mo",
+      "regions": []
+    },
+    {
+      "code": "us-nc",
+      "name": "nc",
+      "regions": []
+    },
+    {
       "code": "us-se",
       "name": "se",
       "regions": []
@@ -63,6 +83,17 @@
       "code": "us-southeast",
       "name": "southeast",
       "regions": []
+    },
+    {
+      "code": "us-tn",
+      "name": "tn",
+      "regions": [
+        {
+          "code": "us-tn-east",
+          "name": "east",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "us-tx",

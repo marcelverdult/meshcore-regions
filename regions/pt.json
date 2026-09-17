@@ -35,8 +35,18 @@
       "regions": []
     },
     {
+      "code": "pt-norte",
+      "name": "norte",
+      "regions": []
+    },
+    {
       "code": "pt-porto",
       "name": "porto",
+      "regions": []
+    },
+    {
+      "code": "pt-setubal",
+      "name": "setubal",
       "regions": []
     }
   ]

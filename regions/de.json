@@ -33,6 +33,11 @@
       "regions": []
     },
     {
+      "code": "de-allgaeu",
+      "name": "allgaeu",
+      "regions": []
+    },
+    {
       "code": "de-at",
       "name": "at",
       "regions": []
@@ -54,6 +59,11 @@
         {
           "code": "de-bb-be",
           "name": "be",
+          "regions": []
+        },
+        {
+          "code": "de-bb-brb",
+          "name": "brb",
           "regions": []
         },
         {
@@ -129,6 +139,11 @@
         {
           "code": "de-bb-spn",
           "name": "Spree-Neiße",
+          "regions": []
+        },
+        {
+          "code": "de-bb-spn",
+          "name": "spn",
           "regions": []
         },
         {
@@ -374,6 +389,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-rv",
+          "name": "rv",
+          "regions": []
+        },
+        {
           "code": "de-bw-rw",
           "name": "Landkreis Rottweil",
           "regions": []
@@ -526,6 +546,11 @@
           "regions": []
         },
         {
+          "code": "de-by-ans",
+          "name": "ans",
+          "regions": []
+        },
+        {
           "code": "de-by-aux",
           "name": "aux",
           "regions": []
@@ -628,6 +653,11 @@
           "regions": []
         },
         {
+          "code": "de-by-in",
+          "name": "in",
+          "regions": []
+        },
+        {
           "code": "de-by-kru",
           "name": "kru",
           "regions": []
@@ -645,6 +675,11 @@
         {
           "code": "de-by-la",
           "name": "Stadt und Landkreis Landshut",
+          "regions": []
+        },
+        {
+          "code": "de-by-lau",
+          "name": "lau",
           "regions": []
         },
         {
@@ -788,6 +823,11 @@
               "regions": []
             },
             {
+              "code": "de-by-ofr-ku",
+              "name": "ku",
+              "regions": []
+            },
+            {
               "code": "de-by-ofr-nai",
               "name": "nai",
               "regions": []
@@ -836,8 +876,18 @@
           "regions": []
         },
         {
+          "code": "de-by-paf",
+          "name": "paf",
+          "regions": []
+        },
+        {
           "code": "de-by-pan",
           "name": "pan",
+          "regions": []
+        },
+        {
+          "code": "de-by-r",
+          "name": "r",
           "regions": []
         },
         {
@@ -964,6 +1014,11 @@
       "regions": []
     },
     {
+      "code": "de-ffm",
+      "name": "ffm",
+      "regions": []
+    },
+    {
       "code": "de-ffnw",
       "name": "ffnw",
       "regions": []
@@ -1048,6 +1103,11 @@
           "code": "de-hb-aumund",
           "name": "aumund",
           "regions": []
+        },
+        {
+          "code": "de-hb-blumenthal",
+          "name": "blumenthal",
+          "regions": []
         }
       ]
     },
@@ -1104,6 +1164,8 @@
         {
           "code": "odenwald",
           "name": "Odenwald",
+          "code": "de-he-of",
+          "name": "of",
           "regions": []
         }
       ]
@@ -1121,7 +1183,18 @@
     {
       "code": "de-hh",
       "name": "Hamburg",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-hh-bergedorf",
+          "name": "bergedorf",
+          "regions": []
+        },
+        {
+          "code": "de-hh-la",
+          "name": "la",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-hsk",
@@ -1471,7 +1544,13 @@
         {
           "code": "de-ni-shg",
           "name": "shg",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-ni-shg-auetal",
+              "name": "auetal",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-ni-sz",
@@ -1578,6 +1657,11 @@
     {
       "code": "de-ns",
       "name": "ns",
+      "regions": []
+    },
+    {
+      "code": "de-nue",
+      "name": "nue",
       "regions": []
     },
     {
@@ -1906,6 +1990,11 @@
       ]
     },
     {
+      "code": "de-ruhrgebiet",
+      "name": "ruhrgebiet",
+      "regions": []
+    },
+    {
       "code": "de-sa",
       "name": "sa",
       "regions": []
@@ -1937,6 +2026,11 @@
         {
           "code": "de-sh-ki",
           "name": "Kiel",
+          "regions": []
+        },
+        {
+          "code": "de-sh-nms",
+          "name": "nms",
           "regions": []
         },
         {
@@ -1986,6 +2080,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "de-si",
+      "name": "si",
+      "regions": []
     },
     {
       "code": "de-sl",
@@ -2173,6 +2272,11 @@
       "regions": []
     },
     {
+      "code": "de-suedwest",
+      "name": "suedwest",
+      "regions": []
+    },
+    {
       "code": "de-sz",
       "name": "sz",
       "regions": []
@@ -2281,6 +2385,11 @@
     {
       "code": "de-thecore",
       "name": "thecore",
+      "regions": []
+    },
+    {
+      "code": "de-tn",
+      "name": "tn",
       "regions": []
     },
     {
