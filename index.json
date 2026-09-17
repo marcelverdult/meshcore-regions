@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T07:52:27Z",
+  "generated_at": "2026-09-17T08:16:09Z",
   "tree": [
     {
       "code": "ad",
@@ -3722,6 +3722,11 @@
               "regions": []
             },
             {
+              "code": "de-bb-brb",
+              "name": "brb",
+              "regions": []
+            },
+            {
               "code": "de-bb-cb",
               "name": "cb",
               "regions": []
@@ -4508,6 +4513,11 @@
             {
               "code": "de-by-pan",
               "name": "pan",
+              "regions": []
+            },
+            {
+              "code": "de-by-r",
+              "name": "r",
               "regions": []
             },
             {
@@ -5706,6 +5716,11 @@
               "regions": []
             },
             {
+              "code": "de-sn-vms",
+              "name": "vms",
+              "regions": []
+            },
+            {
               "code": "de-sn-vvo",
               "name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)",
               "regions": []
@@ -5777,6 +5792,11 @@
         {
           "code": "de-sued",
           "name": "Süddeutschland",
+          "regions": []
+        },
+        {
+          "code": "de-suedwest",
+          "name": "suedwest",
           "regions": []
         },
         {
@@ -6362,6 +6382,21 @@
           "regions": []
         },
         {
+          "code": "fr-75",
+          "name": "75",
+          "regions": []
+        },
+        {
+          "code": "fr-77",
+          "name": "77",
+          "regions": []
+        },
+        {
+          "code": "fr-78",
+          "name": "78",
+          "regions": []
+        },
+        {
           "code": "fr-83",
           "name": "83",
           "regions": []
@@ -6369,6 +6404,31 @@
         {
           "code": "fr-84",
           "name": "84",
+          "regions": []
+        },
+        {
+          "code": "fr-91",
+          "name": "91",
+          "regions": []
+        },
+        {
+          "code": "fr-92",
+          "name": "92",
+          "regions": []
+        },
+        {
+          "code": "fr-93",
+          "name": "93",
+          "regions": []
+        },
+        {
+          "code": "fr-94",
+          "name": "94",
+          "regions": []
+        },
+        {
+          "code": "fr-95",
+          "name": "95",
           "regions": []
         },
         {
@@ -6803,6 +6863,11 @@
           "name": "Emilia Romagna",
           "regions": [
             {
+              "code": "it-emr-bo",
+              "name": "bo",
+              "regions": []
+            },
+            {
               "code": "it-emr-pr",
               "name": "Parma",
               "regions": []
@@ -6969,7 +7034,13 @@
         {
           "code": "it-pug",
           "name": "pug",
-          "regions": []
+          "regions": [
+            {
+              "code": "it-pug-le",
+              "name": "le",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "it-sar",
@@ -8168,6 +8239,11 @@
           "name": "Zuid-Holland",
           "regions": [
             {
+              "code": "nl-zh-apn",
+              "name": "apn",
+              "regions": []
+            },
+            {
               "code": "nl-zh-dor",
               "name": "dor",
               "regions": []
@@ -8486,6 +8562,11 @@
           "regions": []
         },
         {
+          "code": "pt-norte",
+          "name": "norte",
+          "regions": []
+        },
+        {
           "code": "pt-porto",
           "name": "porto",
           "regions": []
@@ -8544,6 +8625,16 @@
         {
           "code": "ro-dj",
           "name": "dj",
+          "regions": []
+        },
+        {
+          "code": "ro-if",
+          "name": "if",
+          "regions": []
+        },
+        {
+          "code": "ro-mnt",
+          "name": "mnt",
           "regions": []
         },
         {
@@ -12016,6 +12107,10 @@
       "name": "be"
     },
     {
+      "path": "de-bb-brb",
+      "name": "brb"
+    },
+    {
       "path": "de-bb-cb",
       "name": "cb"
     },
@@ -12638,6 +12733,10 @@
     {
       "path": "de-by-pan",
       "name": "pan"
+    },
+    {
+      "path": "de-by-r",
+      "name": "r"
     },
     {
       "path": "de-by-rgbg",
@@ -13556,6 +13655,10 @@
       "name": "to"
     },
     {
+      "path": "de-sn-vms",
+      "name": "vms"
+    },
+    {
       "path": "de-sn-vvo",
       "name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)"
     },
@@ -13610,6 +13713,10 @@
     {
       "path": "de-sued",
       "name": "Süddeutschland"
+    },
+    {
+      "path": "de-suedwest",
+      "name": "suedwest"
     },
     {
       "path": "de-sz",
@@ -14056,12 +14163,44 @@
       "name": "74"
     },
     {
+      "path": "fr-75",
+      "name": "75"
+    },
+    {
+      "path": "fr-77",
+      "name": "77"
+    },
+    {
+      "path": "fr-78",
+      "name": "78"
+    },
+    {
       "path": "fr-83",
       "name": "83"
     },
     {
       "path": "fr-84",
       "name": "84"
+    },
+    {
+      "path": "fr-91",
+      "name": "91"
+    },
+    {
+      "path": "fr-92",
+      "name": "92"
+    },
+    {
+      "path": "fr-93",
+      "name": "93"
+    },
+    {
+      "path": "fr-94",
+      "name": "94"
+    },
+    {
+      "path": "fr-95",
+      "name": "95"
     },
     {
       "path": "fr-ain",
@@ -14408,6 +14547,10 @@
       "name": "Emilia Romagna"
     },
     {
+      "path": "it-emr-bo",
+      "name": "bo"
+    },
+    {
       "path": "it-emr-pr",
       "name": "Parma"
     },
@@ -14534,6 +14677,10 @@
     {
       "path": "it-pug",
       "name": "pug"
+    },
+    {
+      "path": "it-pug-le",
+      "name": "le"
     },
     {
       "path": "it-sar",
@@ -15492,6 +15639,10 @@
       "name": "Zuid-Holland"
     },
     {
+      "path": "nl-zh-apn",
+      "name": "apn"
+    },
+    {
       "path": "nl-zh-dor",
       "name": "dor"
     },
@@ -15740,6 +15891,10 @@
       "name": "lisboa"
     },
     {
+      "path": "pt-norte",
+      "name": "norte"
+    },
+    {
       "path": "pt-porto",
       "name": "porto"
     },
@@ -15794,6 +15949,14 @@
     {
       "path": "ro-dj",
       "name": "dj"
+    },
+    {
+      "path": "ro-if",
+      "name": "if"
+    },
+    {
+      "path": "ro-mnt",
+      "name": "mnt"
     },
     {
       "path": "ro-sud",
