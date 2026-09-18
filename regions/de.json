@@ -1157,15 +1157,13 @@
           "regions": []
         },
         {
-          "code": "frankfurt",
-          "name": "Frankfurt",
+          "code": "de-he-of",
+          "name": "of",
           "regions": []
         },
         {
-          "code": "odenwald",
-          "name": "Odenwald",
-          "code": "de-he-of",
-          "name": "of",
+          "code": "frankfurt",
+          "name": "Frankfurt",
           "regions": []
         }
       ]
