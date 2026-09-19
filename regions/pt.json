@@ -3,6 +3,11 @@
   "name": "Portugal",
   "regions": [
     {
+      "code": "pt-433",
+      "name": "433",
+      "regions": []
+    },
+    {
       "code": "pt-anepc",
       "name": "anepc",
       "regions": [

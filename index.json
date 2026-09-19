@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T07:50:08Z",
+  "generated_at": "2026-09-19T07:42:18Z",
   "tree": [
     {
       "code": "ad",
@@ -4331,6 +4331,17 @@
               "code": "de-by-in",
               "name": "in",
               "regions": []
+            },
+            {
+              "code": "de-by-kats",
+              "name": "kats",
+              "regions": [
+                {
+                  "code": "de-by-kats-brk",
+                  "name": "brk",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-by-kru",
@@ -8730,6 +8741,11 @@
       "name": "Portugal",
       "regions": [
         {
+          "code": "pt-433",
+          "name": "433",
+          "regions": []
+        },
+        {
           "code": "pt-anepc",
           "name": "anepc",
           "regions": [
@@ -9031,6 +9047,11 @@
         {
           "code": "sn-dob",
           "name": "dob",
+          "regions": []
+        },
+        {
+          "code": "sn-msn",
+          "name": "msn",
           "regions": []
         }
       ]
@@ -12806,6 +12827,14 @@
       "name": "in"
     },
     {
+      "path": "de-by-kats",
+      "name": "kats"
+    },
+    {
+      "path": "de-by-kats-brk",
+      "name": "brk"
+    },
+    {
       "path": "de-by-kru",
       "name": "kru"
     },
@@ -16198,6 +16227,10 @@
       "name": "Portugal"
     },
     {
+      "path": "pt-433",
+      "name": "433"
+    },
+    {
       "path": "pt-anepc",
       "name": "anepc"
     },
@@ -16468,6 +16501,10 @@
     {
       "path": "sn-dob",
       "name": "dob"
+    },
+    {
+      "path": "sn-msn",
+      "name": "msn"
     },
     {
       "path": "so",

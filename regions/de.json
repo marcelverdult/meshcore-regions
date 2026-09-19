@@ -658,6 +658,17 @@
           "regions": []
         },
         {
+          "code": "de-by-kats",
+          "name": "kats",
+          "regions": [
+            {
+              "code": "de-by-kats-brk",
+              "name": "brk",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "de-by-kru",
           "name": "kru",
           "regions": []
