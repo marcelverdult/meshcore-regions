@@ -6,6 +6,11 @@
       "code": "sn-dob",
       "name": "dob",
       "regions": []
+    },
+    {
+      "code": "sn-msn",
+      "name": "msn",
+      "regions": []
     }
   ]
 }
