@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:42:18Z",
+  "generated_at": "2026-09-20T08:10:07Z",
   "tree": [
     {
       "code": "ad",
@@ -4848,6 +4848,11 @@
               "regions": []
             },
             {
+              "code": "de-he-vb",
+              "name": "vb",
+              "regions": []
+            },
+            {
               "code": "frankfurt",
               "name": "Frankfurt",
               "regions": []
@@ -6534,6 +6539,11 @@
         {
           "code": "fr-57",
           "name": "57",
+          "regions": []
+        },
+        {
+          "code": "fr-59",
+          "name": "59",
           "regions": []
         },
         {
@@ -13227,6 +13237,10 @@
       "name": "of"
     },
     {
+      "path": "de-he-vb",
+      "name": "vb"
+    },
+    {
       "path": "de-hes",
       "name": "hes"
     },
@@ -14433,6 +14447,10 @@
     {
       "path": "fr-57",
       "name": "57"
+    },
+    {
+      "path": "fr-59",
+      "name": "59"
     },
     {
       "path": "fr-63",
