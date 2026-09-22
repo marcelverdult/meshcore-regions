@@ -1382,6 +1382,11 @@
           "code": "de-ne-aur",
           "name": "aur",
           "regions": []
+        },
+        {
+          "code": "de-ne-lip",
+          "name": "lip",
+          "regions": []
         }
       ]
     },
@@ -1894,7 +1899,13 @@
     {
       "code": "de-oa",
       "name": "oa",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-oa-oal",
+          "name": "oal",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-ost",
@@ -2038,6 +2049,11 @@
           "regions": []
         },
         {
+          "code": "de-sh-iz",
+          "name": "iz",
+          "regions": []
+        },
+        {
           "code": "de-sh-ki",
           "name": "Kiel",
           "regions": []
@@ -2060,7 +2076,13 @@
         {
           "code": "de-sh-pi",
           "name": "Pinneberg",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-sh-pi-flora",
+              "name": "flora",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-sh-ploe",
