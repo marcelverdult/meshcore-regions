@@ -414,6 +414,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-sig",
+          "name": "sig",
+          "regions": []
+        },
+        {
           "code": "de-bw-st",
           "name": "st",
           "regions": []
@@ -2426,6 +2431,11 @@
     {
       "code": "de-tn",
       "name": "tn",
+      "regions": []
+    },
+    {
+      "code": "de-vms",
+      "name": "vms",
       "regions": []
     },
     {

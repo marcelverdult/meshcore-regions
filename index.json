@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:09:53Z",
+  "generated_at": "2026-09-25T08:25:08Z",
   "tree": [
     {
       "code": "ad",
@@ -4089,6 +4089,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-sig",
+              "name": "sig",
+              "regions": []
+            },
+            {
               "code": "de-bw-st",
               "name": "st",
               "regions": []
@@ -6101,6 +6106,11 @@
         {
           "code": "de-tn",
           "name": "tn",
+          "regions": []
+        },
+        {
+          "code": "de-vms",
+          "name": "vms",
           "regions": []
         },
         {
@@ -8780,6 +8790,11 @@
         {
           "code": "pt-433",
           "name": "433",
+          "regions": []
+        },
+        {
+          "code": "pt-868",
+          "name": "868",
           "regions": []
         },
         {
@@ -12688,6 +12703,10 @@
       "name": "Landkreis Schwäbisch Hall / Crailsheim"
     },
     {
+      "path": "de-bw-sig",
+      "name": "sig"
+    },
+    {
       "path": "de-bw-st",
       "name": "st"
     },
@@ -14178,6 +14197,10 @@
     {
       "path": "de-tn",
       "name": "tn"
+    },
+    {
+      "path": "de-vms",
+      "name": "vms"
     },
     {
       "path": "de-w",
@@ -16294,6 +16317,10 @@
     {
       "path": "pt-433",
       "name": "433"
+    },
+    {
+      "path": "pt-868",
+      "name": "868"
     },
     {
       "path": "pt-anepc",
