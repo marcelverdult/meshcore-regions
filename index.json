@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:25:08Z",
+  "generated_at": "2026-09-26T08:12:22Z",
   "tree": [
     {
       "code": "ad",
@@ -301,6 +301,28 @@
           "code": "au-qld",
           "name": "qld",
           "regions": []
+        },
+        {
+          "code": "au-sa",
+          "name": "sa",
+          "regions": [
+            {
+              "code": "au-sa-mlr",
+              "name": "mlr",
+              "regions": [
+                {
+                  "code": "au-sa-mlr-ale",
+                  "name": "ale",
+                  "regions": []
+                }
+              ]
+            },
+            {
+              "code": "au-sa-mur",
+              "name": "mur",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "au-vic",
@@ -3723,6 +3745,11 @@
           "regions": []
         },
         {
+          "code": "de-bay",
+          "name": "bay",
+          "regions": []
+        },
+        {
           "code": "de-bb",
           "name": "Brandenburg",
           "regions": [
@@ -6007,6 +6034,11 @@
           "name": "Thüringen",
           "regions": [
             {
+              "code": "de-th-ap",
+              "name": "ap",
+              "regions": []
+            },
+            {
               "code": "de-th-ef",
               "name": "Erfurt",
               "regions": []
@@ -6089,6 +6121,11 @@
             {
               "code": "de-th-wak",
               "name": "wak",
+              "regions": []
+            },
+            {
+              "code": "de-th-we",
+              "name": "we",
               "regions": []
             }
           ]
@@ -6544,6 +6581,11 @@
           "regions": []
         },
         {
+          "code": "fr-43",
+          "name": "43",
+          "regions": []
+        },
+        {
           "code": "fr-44",
           "name": "44",
           "regions": []
@@ -6687,6 +6729,11 @@
         {
           "code": "fr-ain",
           "name": "ain",
+          "regions": []
+        },
+        {
+          "code": "fr-als",
+          "name": "als",
           "regions": []
         },
         {
@@ -9679,6 +9726,22 @@
       "name": "qld"
     },
     {
+      "path": "au-sa",
+      "name": "sa"
+    },
+    {
+      "path": "au-sa-mlr",
+      "name": "mlr"
+    },
+    {
+      "path": "au-sa-mlr-ale",
+      "name": "ale"
+    },
+    {
+      "path": "au-sa-mur",
+      "name": "mur"
+    },
+    {
       "path": "au-vic",
       "name": "vic"
     },
@@ -12411,6 +12474,10 @@
       "name": "aur"
     },
     {
+      "path": "de-bay",
+      "name": "bay"
+    },
+    {
       "path": "de-bb",
       "name": "Brandenburg"
     },
@@ -14119,6 +14186,10 @@
       "name": "Thüringen"
     },
     {
+      "path": "de-th-ap",
+      "name": "ap"
+    },
+    {
       "path": "de-th-ef",
       "name": "Erfurt"
     },
@@ -14185,6 +14256,10 @@
     {
       "path": "de-th-wak",
       "name": "wak"
+    },
+    {
+      "path": "de-th-we",
+      "name": "we"
     },
     {
       "path": "de-thals",
@@ -14491,6 +14566,10 @@
       "name": "42"
     },
     {
+      "path": "fr-43",
+      "name": "43"
+    },
+    {
       "path": "fr-44",
       "name": "44"
     },
@@ -14605,6 +14684,10 @@
     {
       "path": "fr-ain",
       "name": "ain"
+    },
+    {
+      "path": "fr-als",
+      "name": "als"
     },
     {
       "path": "fr-alsace",
