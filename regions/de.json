@@ -48,6 +48,11 @@
       "regions": []
     },
     {
+      "code": "de-bay",
+      "name": "bay",
+      "regions": []
+    },
+    {
       "code": "de-bb",
       "name": "Brandenburg",
       "regions": [
@@ -2332,6 +2337,11 @@
       "name": "Thüringen",
       "regions": [
         {
+          "code": "de-th-ap",
+          "name": "ap",
+          "regions": []
+        },
+        {
           "code": "de-th-ef",
           "name": "Erfurt",
           "regions": []
@@ -2414,6 +2424,11 @@
         {
           "code": "de-th-wak",
           "name": "wak",
+          "regions": []
+        },
+        {
+          "code": "de-th-we",
+          "name": "we",
           "regions": []
         }
       ]

@@ -59,6 +59,28 @@
       "regions": []
     },
     {
+      "code": "au-sa",
+      "name": "sa",
+      "regions": [
+        {
+          "code": "au-sa-mlr",
+          "name": "mlr",
+          "regions": [
+            {
+              "code": "au-sa-mlr-ale",
+              "name": "ale",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "au-sa-mur",
+          "name": "mur",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "au-vic",
       "name": "vic",
       "regions": [
