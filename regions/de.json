@@ -147,11 +147,6 @@
           "regions": []
         },
         {
-          "code": "de-bb-spn",
-          "name": "spn",
-          "regions": []
-        },
-        {
           "code": "de-bb-tf",
           "name": "Teltow-Fläming",
           "regions": []
@@ -1041,7 +1036,7 @@
     },
     {
       "code": "de-ffnw",
-      "name": "ffnw",
+      "name": "Freifunk Nordwest",
       "regions": []
     },
     {
@@ -1123,6 +1118,11 @@
         {
           "code": "de-hb-aumund",
           "name": "aumund",
+          "regions": []
+        },
+        {
+          "code": "de-hb-bhv",
+          "name": "Bremerhaven",
           "regions": []
         },
         {
@@ -1426,7 +1426,7 @@
         },
         {
           "code": "de-ni-bs",
-          "name": "bs",
+          "name": "Braunschweig",
           "regions": []
         },
         {
@@ -1861,7 +1861,7 @@
         },
         {
           "code": "de-nw-so",
-          "name": "so",
+          "name": "Kreis Soest",
           "regions": []
         },
         {
@@ -2342,6 +2342,11 @@
           "regions": []
         },
         {
+          "code": "de-th-ea",
+          "name": "Eisenach",
+          "regions": []
+        },
+        {
           "code": "de-th-ef",
           "name": "Erfurt",
           "regions": []
@@ -2423,7 +2428,7 @@
         },
         {
           "code": "de-th-wak",
-          "name": "wak",
+          "name": "Wartburgkreis",
           "regions": []
         },
         {
@@ -2489,8 +2494,18 @@
       "regions": []
     },
     {
+      "code": "odenwald",
+      "name": "Odenwald",
+      "regions": []
+    },
+    {
       "code": "pamina",
       "name": "Eurodistrikt PAMINA (DE/FR)",
+      "regions": []
+    },
+    {
+      "code": "rennsteigmesh",
+      "name": "Rennsteigmesh (Region um den Rennsteig)",
       "regions": []
     },
     {

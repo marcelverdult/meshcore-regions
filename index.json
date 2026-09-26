@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T08:12:22Z",
+  "generated_at": "2026-09-26T23:54:06Z",
   "tree": [
     {
       "code": "ad",
@@ -3844,11 +3844,6 @@
               "regions": []
             },
             {
-              "code": "de-bb-spn",
-              "name": "spn",
-              "regions": []
-            },
-            {
               "code": "de-bb-tf",
               "name": "Teltow-Fläming",
               "regions": []
@@ -4738,7 +4733,7 @@
         },
         {
           "code": "de-ffnw",
-          "name": "ffnw",
+          "name": "Freifunk Nordwest",
           "regions": []
         },
         {
@@ -4820,6 +4815,11 @@
             {
               "code": "de-hb-aumund",
               "name": "aumund",
+              "regions": []
+            },
+            {
+              "code": "de-hb-bhv",
+              "name": "Bremerhaven",
               "regions": []
             },
             {
@@ -5123,7 +5123,7 @@
             },
             {
               "code": "de-ni-bs",
-              "name": "bs",
+              "name": "Braunschweig",
               "regions": []
             },
             {
@@ -5558,7 +5558,7 @@
             },
             {
               "code": "de-nw-so",
-              "name": "so",
+              "name": "Kreis Soest",
               "regions": []
             },
             {
@@ -6039,6 +6039,11 @@
               "regions": []
             },
             {
+              "code": "de-th-ea",
+              "name": "Eisenach",
+              "regions": []
+            },
+            {
               "code": "de-th-ef",
               "name": "Erfurt",
               "regions": []
@@ -6120,7 +6125,7 @@
             },
             {
               "code": "de-th-wak",
-              "name": "wak",
+              "name": "Wartburgkreis",
               "regions": []
             },
             {
@@ -6186,8 +6191,18 @@
           "regions": []
         },
         {
+          "code": "odenwald",
+          "name": "Odenwald",
+          "regions": []
+        },
+        {
           "code": "pamina",
           "name": "Eurodistrikt PAMINA (DE/FR)",
+          "regions": []
+        },
+        {
+          "code": "rennsteigmesh",
+          "name": "Rennsteigmesh (Region um den Rennsteig)",
           "regions": []
         },
         {
@@ -12554,10 +12569,6 @@
       "name": "Spree-Neiße"
     },
     {
-      "path": "de-bb-spn",
-      "name": "spn"
-    },
-    {
       "path": "de-bb-tf",
       "name": "Teltow-Fläming"
     },
@@ -13239,7 +13250,7 @@
     },
     {
       "path": "de-ffnw",
-      "name": "ffnw"
+      "name": "Freifunk Nordwest"
     },
     {
       "path": "de-fmo",
@@ -13304,6 +13315,10 @@
     {
       "path": "de-hb-aumund",
       "name": "aumund"
+    },
+    {
+      "path": "de-hb-bhv",
+      "name": "Bremerhaven"
     },
     {
       "path": "de-hb-blumenthal",
@@ -13527,7 +13542,7 @@
     },
     {
       "path": "de-ni-bs",
-      "name": "bs"
+      "name": "Braunschweig"
     },
     {
       "path": "de-ni-ce",
@@ -13839,7 +13854,7 @@
     },
     {
       "path": "de-nw-so",
-      "name": "so"
+      "name": "Kreis Soest"
     },
     {
       "path": "de-nw-st",
@@ -14190,6 +14205,10 @@
       "name": "ap"
     },
     {
+      "path": "de-th-ea",
+      "name": "Eisenach"
+    },
+    {
       "path": "de-th-ef",
       "name": "Erfurt"
     },
@@ -14255,7 +14274,7 @@
     },
     {
       "path": "de-th-wak",
-      "name": "wak"
+      "name": "Wartburgkreis"
     },
     {
       "path": "de-th-we",
@@ -16250,6 +16269,10 @@
       "name": "New Zealand"
     },
     {
+      "path": "odenwald",
+      "name": "Odenwald"
+    },
+    {
       "path": "om",
       "name": "Oman"
     },
@@ -16456,6 +16479,10 @@
     {
       "path": "re",
       "name": "Réunion"
+    },
+    {
+      "path": "rennsteigmesh",
+      "name": "Rennsteigmesh (Region um den Rennsteig)"
     },
     {
       "path": "rhein-main",
