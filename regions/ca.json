@@ -28,6 +28,11 @@
           ]
         }
       ]
+    },
+    {
+      "code": "yyc",
+      "name": "Calgary & Airdrie regional identifier",
+      "regions": []
     }
   ]
 }

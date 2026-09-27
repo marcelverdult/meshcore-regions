@@ -4,72 +4,72 @@
   "regions": [
     {
       "code": "cz-hkk",
-      "name": "hkk",
+      "name": "Královéhradecký kraj",
       "regions": []
     },
     {
       "code": "cz-jhc",
-      "name": "jhc",
+      "name": "Jihočeský kraj",
       "regions": []
     },
     {
       "code": "cz-jmk",
-      "name": "jmk",
+      "name": "Jihomoravský kraj",
       "regions": []
     },
     {
       "code": "cz-kvk",
-      "name": "kvk",
+      "name": "Karlovarský kraj",
       "regions": []
     },
     {
       "code": "cz-lbk",
-      "name": "lbk",
+      "name": "Liberecký kraj",
       "regions": []
     },
     {
       "code": "cz-msk",
-      "name": "msk",
+      "name": "Moravskoslezský kraj",
       "regions": []
     },
     {
       "code": "cz-olk",
-      "name": "olk",
+      "name": "Olomoucký kraj",
       "regions": []
     },
     {
       "code": "cz-pak",
-      "name": "pak",
+      "name": "Pardubický kraj",
       "regions": []
     },
     {
       "code": "cz-pha",
-      "name": "pha",
+      "name": "Praha",
       "regions": []
     },
     {
       "code": "cz-plz",
-      "name": "plz",
+      "name": "Plzeňský kraj",
       "regions": []
     },
     {
       "code": "cz-stc",
-      "name": "stc",
+      "name": "Středočeský kraj",
       "regions": []
     },
     {
       "code": "cz-ulk",
-      "name": "ulk",
+      "name": "Ústecký kraj",
       "regions": []
     },
     {
       "code": "cz-vys",
-      "name": "vys",
+      "name": "Vysočina",
       "regions": []
     },
     {
       "code": "cz-zlk",
-      "name": "zlk",
+      "name": "Zlínský kraj",
       "regions": []
     }
   ]

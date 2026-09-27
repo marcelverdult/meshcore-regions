@@ -4,12 +4,57 @@
   "regions": [
     {
       "code": "sk-ba",
-      "name": "ba",
+      "name": "Bratislava",
+      "regions": []
+    },
+    {
+      "code": "sk-ke",
+      "name": "Kosice",
       "regions": []
     },
     {
       "code": "sk-ma",
       "name": "ma",
+      "regions": []
+    },
+    {
+      "code": "sk-mt",
+      "name": "Turiec",
+      "regions": []
+    },
+    {
+      "code": "sk-nr",
+      "name": "Nitra",
+      "regions": []
+    },
+    {
+      "code": "sk-pd",
+      "name": "Prievidza",
+      "regions": []
+    },
+    {
+      "code": "sk-po",
+      "name": "Presov",
+      "regions": []
+    },
+    {
+      "code": "sk-pp",
+      "name": "Poprad",
+      "regions": []
+    },
+    {
+      "code": "sk-vychod",
+      "name": "Vychodne Slovensko",
+      "regions": []
+    },
+    {
+      "code": "sk-za",
+      "name": "Zilina",
+      "regions": []
+    },
+    {
+      "code": "sk-zv",
+      "name": "Zvolen",
       "regions": []
     }
   ]

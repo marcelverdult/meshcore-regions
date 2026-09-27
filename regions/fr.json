@@ -33,6 +33,11 @@
       "regions": []
     },
     {
+      "code": "fr-20r",
+      "name": "Corse",
+      "regions": []
+    },
+    {
       "code": "fr-21",
       "name": "21",
       "regions": []
@@ -221,7 +226,13 @@
     {
       "code": "fr-83",
       "name": "83",
-      "regions": []
+      "regions": [
+        {
+          "code": "tln",
+          "name": "Canton de Toulon",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "fr-84",
@@ -300,6 +311,22 @@
       "regions": []
     },
     {
+      "code": "fr-cor",
+      "name": "Corse",
+      "regions": [
+        {
+          "code": "fr-2a",
+          "name": "Corse-du-Sud",
+          "regions": []
+        },
+        {
+          "code": "fr-2b",
+          "name": "Haute-Corse",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "fr-cvl",
       "name": "cvl",
       "regions": []
@@ -320,6 +347,28 @@
       "regions": []
     },
     {
+      "code": "fr-gua",
+      "name": "Guadeloupe",
+      "regions": [
+        {
+          "code": "fr-971",
+          "name": "Guadeloupe",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "fr-guf",
+      "name": "Guyane",
+      "regions": [
+        {
+          "code": "fr-973",
+          "name": "Guyane",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "fr-hdf",
       "name": "hdf",
       "regions": []
@@ -333,6 +382,28 @@
       "code": "fr-jura",
       "name": "jura",
       "regions": []
+    },
+    {
+      "code": "fr-may",
+      "name": "Mayotte",
+      "regions": [
+        {
+          "code": "fr-976",
+          "name": "Mayotte",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "fr-mtq",
+      "name": "Martinique",
+      "regions": [
+        {
+          "code": "fr-972",
+          "name": "Martinique",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "fr-naq",
@@ -363,6 +434,17 @@
       "code": "fr-pdl",
       "name": "pdl",
       "regions": []
+    },
+    {
+      "code": "fr-reu",
+      "name": "La Réunion",
+      "regions": [
+        {
+          "code": "fr-974",
+          "name": "La Réunion",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "fr-sud",

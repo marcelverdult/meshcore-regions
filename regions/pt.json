@@ -13,12 +13,131 @@
       "regions": []
     },
     {
+      "code": "pt-acores",
+      "name": "Açores",
+      "regions": [
+        {
+          "code": "pt-ilha-da-graciosa",
+          "name": "Ilha da Graciosa",
+          "regions": []
+        },
+        {
+          "code": "pt-ilha-das-flores",
+          "name": "Ilha das Flores",
+          "regions": []
+        },
+        {
+          "code": "pt-ilha-de-santa-maria",
+          "name": "Ilha de Santa Maria",
+          "regions": []
+        },
+        {
+          "code": "pt-ilha-de-sao-jorge",
+          "name": "Ilha de São Jorge",
+          "regions": []
+        },
+        {
+          "code": "pt-ilha-de-sao-miguel",
+          "name": "Ilha de São Miguel",
+          "regions": []
+        },
+        {
+          "code": "pt-ilha-do-corvo",
+          "name": "Ilha do Corvo",
+          "regions": []
+        },
+        {
+          "code": "pt-ilha-do-faial",
+          "name": "Ilha do Faial",
+          "regions": []
+        },
+        {
+          "code": "pt-ilha-do-pico",
+          "name": "Ilha do Pico",
+          "regions": []
+        },
+        {
+          "code": "pt-ilha-terceira",
+          "name": "Ilha Terceira",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "pt-alentejo",
+      "name": "Alentejo",
+      "regions": [
+        {
+          "code": "pt-beja",
+          "name": "Beja",
+          "regions": []
+        },
+        {
+          "code": "pt-evora",
+          "name": "Évora",
+          "regions": []
+        },
+        {
+          "code": "pt-portalegre",
+          "name": "Portalegre",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "pt-algarve",
+      "name": "Algarve",
+      "regions": [
+        {
+          "code": "pt-faro",
+          "name": "Faro",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "pt-anepc",
       "name": "anepc",
       "regions": [
         {
           "code": "pt-anepc-norte",
           "name": "norte",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "pt-centro",
+      "name": "Centro",
+      "regions": [
+        {
+          "code": "pt-aveiro",
+          "name": "Aveiro",
+          "regions": []
+        },
+        {
+          "code": "pt-castelo-branco",
+          "name": "Castelo Branco",
+          "regions": []
+        },
+        {
+          "code": "pt-coimbra",
+          "name": "Coimbra",
+          "regions": []
+        },
+        {
+          "code": "pt-guarda",
+          "name": "Guarda",
+          "regions": []
+        },
+        {
+          "code": "pt-leiria",
+          "name": "Leiria",
+          "regions": []
+        },
+        {
+          "code": "pt-viseu",
+          "name": "Viseu",
           "regions": []
         }
       ]
@@ -45,9 +164,57 @@
       "regions": []
     },
     {
+      "code": "pt-lisboa-vale-do-tejo",
+      "name": "Lisboa e Vale do Tejo",
+      "regions": [
+        {
+          "code": "pt-santarem",
+          "name": "Santarém",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "pt-madeira",
+      "name": "Madeira",
+      "regions": [
+        {
+          "code": "pt-ilha-da-madeira",
+          "name": "Ilha da Madeira",
+          "regions": []
+        },
+        {
+          "code": "pt-ilha-de-porto-santo",
+          "name": "Ilha de Porto Santo",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "pt-norte",
       "name": "norte",
-      "regions": []
+      "regions": [
+        {
+          "code": "pt-braga",
+          "name": "Braga",
+          "regions": []
+        },
+        {
+          "code": "pt-braganca",
+          "name": "Bragança",
+          "regions": []
+        },
+        {
+          "code": "pt-viana-do-castelo",
+          "name": "Viana do Castelo",
+          "regions": []
+        },
+        {
+          "code": "pt-vila-real",
+          "name": "Vila Real",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "pt-porto",

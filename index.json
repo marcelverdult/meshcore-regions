@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:10:15Z",
+  "generated_at": "2026-09-27T00:16:59Z",
   "tree": [
     {
       "code": "ad",
@@ -647,6 +647,11 @@
           "code": "be-van",
           "name": "Antwerpen",
           "regions": [
+            {
+              "code": "be-ant",
+              "name": "Grand Anvers",
+              "regions": []
+            },
             {
               "code": "be-lie",
               "name": "Lier",
@@ -1515,6 +1520,11 @@
           "code": "be-vov",
           "name": "Oost-Vlaanderen",
           "regions": [
+            {
+              "code": "be-gnt",
+              "name": "Grand Gand",
+              "regions": []
+            },
             {
               "code": "beaab",
               "name": "Aalst",
@@ -3567,7 +3577,38 @@
     {
       "code": "by",
       "name": "Belarus",
-      "regions": []
+      "regions": [
+        {
+          "code": "brest",
+          "name": "Brest",
+          "regions": []
+        },
+        {
+          "code": "gomel",
+          "name": "Gomel",
+          "regions": []
+        },
+        {
+          "code": "grodno",
+          "name": "Grodno",
+          "regions": []
+        },
+        {
+          "code": "minsk",
+          "name": "Minsk",
+          "regions": []
+        },
+        {
+          "code": "mogilev",
+          "name": "Mogilev",
+          "regions": []
+        },
+        {
+          "code": "vitebsk",
+          "name": "Vitebsk",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "bz",
@@ -3604,6 +3645,11 @@
               ]
             }
           ]
+        },
+        {
+          "code": "yyc",
+          "name": "Calgary & Airdrie regional identifier",
+          "regions": []
         }
       ]
     },
@@ -3785,72 +3831,72 @@
       "regions": [
         {
           "code": "cz-hkk",
-          "name": "hkk",
+          "name": "Královéhradecký kraj",
           "regions": []
         },
         {
           "code": "cz-jhc",
-          "name": "jhc",
+          "name": "Jihočeský kraj",
           "regions": []
         },
         {
           "code": "cz-jmk",
-          "name": "jmk",
+          "name": "Jihomoravský kraj",
           "regions": []
         },
         {
           "code": "cz-kvk",
-          "name": "kvk",
+          "name": "Karlovarský kraj",
           "regions": []
         },
         {
           "code": "cz-lbk",
-          "name": "lbk",
+          "name": "Liberecký kraj",
           "regions": []
         },
         {
           "code": "cz-msk",
-          "name": "msk",
+          "name": "Moravskoslezský kraj",
           "regions": []
         },
         {
           "code": "cz-olk",
-          "name": "olk",
+          "name": "Olomoucký kraj",
           "regions": []
         },
         {
           "code": "cz-pak",
-          "name": "pak",
+          "name": "Pardubický kraj",
           "regions": []
         },
         {
           "code": "cz-pha",
-          "name": "pha",
+          "name": "Praha",
           "regions": []
         },
         {
           "code": "cz-plz",
-          "name": "plz",
+          "name": "Plzeňský kraj",
           "regions": []
         },
         {
           "code": "cz-stc",
-          "name": "stc",
+          "name": "Středočeský kraj",
           "regions": []
         },
         {
           "code": "cz-ulk",
-          "name": "ulk",
+          "name": "Ústecký kraj",
           "regions": []
         },
         {
           "code": "cz-vys",
-          "name": "vys",
+          "name": "Vysočina",
           "regions": []
         },
         {
           "code": "cz-zlk",
-          "name": "zlk",
+          "name": "Zlínský kraj",
           "regions": []
         }
       ]
@@ -6604,13 +6650,369 @@
       "name": "Spain",
       "regions": [
         {
+          "code": "es-a",
+          "name": "Alicante",
+          "regions": []
+        },
+        {
+          "code": "es-ab",
+          "name": "Albacete",
+          "regions": []
+        },
+        {
+          "code": "es-al",
+          "name": "Almería",
+          "regions": []
+        },
+        {
+          "code": "es-an",
+          "name": "Andalucía",
+          "regions": []
+        },
+        {
+          "code": "es-ar",
+          "name": "Aragón",
+          "regions": []
+        },
+        {
           "code": "es-as",
           "name": "as",
           "regions": []
         },
         {
+          "code": "es-av",
+          "name": "Ávila",
+          "regions": []
+        },
+        {
+          "code": "es-b",
+          "name": "Barcelona",
+          "regions": []
+        },
+        {
+          "code": "es-ba",
+          "name": "Badajoz",
+          "regions": []
+        },
+        {
           "code": "es-bcn",
           "name": "bcn",
+          "regions": []
+        },
+        {
+          "code": "es-bi",
+          "name": "Vizcaya",
+          "regions": []
+        },
+        {
+          "code": "es-c",
+          "name": "La Coruña",
+          "regions": []
+        },
+        {
+          "code": "es-ca",
+          "name": "Cádiz",
+          "regions": [
+            {
+              "code": "11159",
+              "name": "Barbate",
+              "regions": []
+            },
+            {
+              "code": "11406",
+              "name": "Jerez de la Frontera",
+              "regions": []
+            },
+            {
+              "code": "11480",
+              "name": "Jerez de la Frontera",
+              "regions": []
+            },
+            {
+              "code": "11600",
+              "name": "Ubrique",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "es-cb",
+          "name": "Cantabria",
+          "regions": []
+        },
+        {
+          "code": "es-cc",
+          "name": "Cáceres",
+          "regions": []
+        },
+        {
+          "code": "es-ce",
+          "name": "Ceuta",
+          "regions": []
+        },
+        {
+          "code": "es-cl",
+          "name": "Castilla y León",
+          "regions": []
+        },
+        {
+          "code": "es-cm",
+          "name": "Castilla-La Mancha",
+          "regions": []
+        },
+        {
+          "code": "es-cn",
+          "name": "Canarias",
+          "regions": []
+        },
+        {
+          "code": "es-co",
+          "name": "Córdoba",
+          "regions": []
+        },
+        {
+          "code": "es-cr",
+          "name": "Ciudad Real",
+          "regions": []
+        },
+        {
+          "code": "es-cs",
+          "name": "Castellón",
+          "regions": []
+        },
+        {
+          "code": "es-ct",
+          "name": "Cataluña",
+          "regions": []
+        },
+        {
+          "code": "es-cu",
+          "name": "Cuenca",
+          "regions": []
+        },
+        {
+          "code": "es-ex",
+          "name": "Extremadura",
+          "regions": []
+        },
+        {
+          "code": "es-ga",
+          "name": "Galicia",
+          "regions": []
+        },
+        {
+          "code": "es-gc",
+          "name": "Las Palmas",
+          "regions": []
+        },
+        {
+          "code": "es-gi",
+          "name": "Gerona",
+          "regions": []
+        },
+        {
+          "code": "es-gr",
+          "name": "Granada",
+          "regions": []
+        },
+        {
+          "code": "es-gu",
+          "name": "Guadalajara",
+          "regions": []
+        },
+        {
+          "code": "es-h",
+          "name": "Huelva",
+          "regions": []
+        },
+        {
+          "code": "es-hu",
+          "name": "Huesca",
+          "regions": []
+        },
+        {
+          "code": "es-ib",
+          "name": "Islas Baleares",
+          "regions": []
+        },
+        {
+          "code": "es-j",
+          "name": "Jaén",
+          "regions": []
+        },
+        {
+          "code": "es-l",
+          "name": "Lérida",
+          "regions": []
+        },
+        {
+          "code": "es-le",
+          "name": "León",
+          "regions": []
+        },
+        {
+          "code": "es-lo",
+          "name": "La Rioja",
+          "regions": []
+        },
+        {
+          "code": "es-lu",
+          "name": "Lugo",
+          "regions": []
+        },
+        {
+          "code": "es-m",
+          "name": "Madrid",
+          "regions": []
+        },
+        {
+          "code": "es-ma",
+          "name": "Málaga",
+          "regions": []
+        },
+        {
+          "code": "es-mc",
+          "name": "Región de Murcia",
+          "regions": []
+        },
+        {
+          "code": "es-md",
+          "name": "Comunidad de Madrid",
+          "regions": []
+        },
+        {
+          "code": "es-ml",
+          "name": "Melilla",
+          "regions": []
+        },
+        {
+          "code": "es-mu",
+          "name": "Murcia",
+          "regions": []
+        },
+        {
+          "code": "es-na",
+          "name": "Navarra",
+          "regions": []
+        },
+        {
+          "code": "es-nc",
+          "name": "Navarra",
+          "regions": []
+        },
+        {
+          "code": "es-o",
+          "name": "Asturias",
+          "regions": []
+        },
+        {
+          "code": "es-or",
+          "name": "Orense",
+          "regions": []
+        },
+        {
+          "code": "es-p",
+          "name": "Palencia",
+          "regions": []
+        },
+        {
+          "code": "es-pm",
+          "name": "Baleares",
+          "regions": []
+        },
+        {
+          "code": "es-po",
+          "name": "Pontevedra",
+          "regions": []
+        },
+        {
+          "code": "es-pv",
+          "name": "País Vasco",
+          "regions": []
+        },
+        {
+          "code": "es-ri",
+          "name": "La Rioja",
+          "regions": []
+        },
+        {
+          "code": "es-s",
+          "name": "Cantabria",
+          "regions": []
+        },
+        {
+          "code": "es-sa",
+          "name": "Salamanca",
+          "regions": []
+        },
+        {
+          "code": "es-se",
+          "name": "Sevilla",
+          "regions": []
+        },
+        {
+          "code": "es-sg",
+          "name": "Segovia",
+          "regions": []
+        },
+        {
+          "code": "es-so",
+          "name": "Soria",
+          "regions": []
+        },
+        {
+          "code": "es-ss",
+          "name": "Guipúzcoa",
+          "regions": []
+        },
+        {
+          "code": "es-t",
+          "name": "Tarragona",
+          "regions": []
+        },
+        {
+          "code": "es-tf",
+          "name": "Santa Cruz de Tenerife",
+          "regions": []
+        },
+        {
+          "code": "es-to",
+          "name": "Toledo",
+          "regions": []
+        },
+        {
+          "code": "es-tr",
+          "name": "Teruel",
+          "regions": []
+        },
+        {
+          "code": "es-v",
+          "name": "Valencia",
+          "regions": []
+        },
+        {
+          "code": "es-va",
+          "name": "Valladolid",
+          "regions": []
+        },
+        {
+          "code": "es-vc",
+          "name": "Comunidad Valenciana",
+          "regions": []
+        },
+        {
+          "code": "es-vi",
+          "name": "Álava",
+          "regions": []
+        },
+        {
+          "code": "es-z",
+          "name": "Zaragoza",
+          "regions": []
+        },
+        {
+          "code": "es-za",
+          "name": "Zamora",
           "regions": []
         }
       ]
@@ -6698,6 +7100,11 @@
         {
           "code": "fr-17",
           "name": "17",
+          "regions": []
+        },
+        {
+          "code": "fr-20r",
+          "name": "Corse",
           "regions": []
         },
         {
@@ -6889,7 +7296,13 @@
         {
           "code": "fr-83",
           "name": "83",
-          "regions": []
+          "regions": [
+            {
+              "code": "tln",
+              "name": "Canton de Toulon",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "fr-84",
@@ -6968,6 +7381,22 @@
           "regions": []
         },
         {
+          "code": "fr-cor",
+          "name": "Corse",
+          "regions": [
+            {
+              "code": "fr-2a",
+              "name": "Corse-du-Sud",
+              "regions": []
+            },
+            {
+              "code": "fr-2b",
+              "name": "Haute-Corse",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "fr-cvl",
           "name": "cvl",
           "regions": []
@@ -6988,6 +7417,28 @@
           "regions": []
         },
         {
+          "code": "fr-gua",
+          "name": "Guadeloupe",
+          "regions": [
+            {
+              "code": "fr-971",
+              "name": "Guadeloupe",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "fr-guf",
+          "name": "Guyane",
+          "regions": [
+            {
+              "code": "fr-973",
+              "name": "Guyane",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "fr-hdf",
           "name": "hdf",
           "regions": []
@@ -7001,6 +7452,28 @@
           "code": "fr-jura",
           "name": "jura",
           "regions": []
+        },
+        {
+          "code": "fr-may",
+          "name": "Mayotte",
+          "regions": [
+            {
+              "code": "fr-976",
+              "name": "Mayotte",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "fr-mtq",
+          "name": "Martinique",
+          "regions": [
+            {
+              "code": "fr-972",
+              "name": "Martinique",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "fr-naq",
@@ -7031,6 +7504,17 @@
           "code": "fr-pdl",
           "name": "pdl",
           "regions": []
+        },
+        {
+          "code": "fr-reu",
+          "name": "La Réunion",
+          "regions": [
+            {
+              "code": "fr-974",
+              "name": "La Réunion",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "fr-sud",
@@ -7436,22 +7920,22 @@
       "regions": [
         {
           "code": "it-abr",
-          "name": "abr",
+          "name": "Abruzzo",
           "regions": []
         },
         {
           "code": "it-bas",
-          "name": "bas",
+          "name": "Basilicata",
           "regions": []
         },
         {
           "code": "it-cal",
-          "name": "cal",
+          "name": "Calabria",
           "regions": []
         },
         {
           "code": "it-cam",
-          "name": "cam",
+          "name": "Campania",
           "regions": []
         },
         {
@@ -7487,7 +7971,7 @@
         },
         {
           "code": "it-fvg",
-          "name": "fvg",
+          "name": "Friuli Venezia Giulia",
           "regions": [
             {
               "code": "it-fvg-pn",
@@ -7577,12 +8061,12 @@
         },
         {
           "code": "it-mar",
-          "name": "mar",
+          "name": "Marche",
           "regions": []
         },
         {
           "code": "it-mol",
-          "name": "mol",
+          "name": "Molise",
           "regions": []
         },
         {
@@ -7639,7 +8123,7 @@
         },
         {
           "code": "it-pug",
-          "name": "pug",
+          "name": "Puglia",
           "regions": [
             {
               "code": "it-pug-le",
@@ -7650,17 +8134,17 @@
         },
         {
           "code": "it-sar",
-          "name": "sar",
+          "name": "Sardegna",
           "regions": []
         },
         {
           "code": "it-sic",
-          "name": "sic",
+          "name": "Sicilia",
           "regions": []
         },
         {
           "code": "it-taa",
-          "name": "taa",
+          "name": "Trentino-Alto Adige",
           "regions": []
         },
         {
@@ -7676,17 +8160,17 @@
         },
         {
           "code": "it-umb",
-          "name": "umb",
+          "name": "Umbria",
           "regions": []
         },
         {
           "code": "it-vda",
-          "name": "vda",
+          "name": "Valle d'Aosta",
           "regions": []
         },
         {
           "code": "it-ven",
-          "name": "ven",
+          "name": "Veneto",
           "regions": []
         }
       ]
@@ -9461,6 +9945,31 @@
       "name": "Poland",
       "regions": [
         {
+          "code": "bzg",
+          "name": "Bydgoszcz / Kujawy i Pomorze",
+          "regions": []
+        },
+        {
+          "code": "gdn",
+          "name": "Trójmiasto / Pomorze",
+          "regions": []
+        },
+        {
+          "code": "krk",
+          "name": "Kraków / Małopolska",
+          "regions": []
+        },
+        {
+          "code": "ktw",
+          "name": "Górny Śląsk",
+          "regions": []
+        },
+        {
+          "code": "luz",
+          "name": "Lublin",
+          "regions": []
+        },
+        {
           "code": "pl-ds",
           "name": "ds",
           "regions": []
@@ -9542,6 +10051,17 @@
           "regions": []
         },
         {
+          "code": "pl-podlasie",
+          "name": "Podlasie",
+          "regions": [
+            {
+              "code": "pl-bia",
+              "name": "Bialystok",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "pl-sk",
           "name": "sk",
           "regions": [
@@ -9565,6 +10085,31 @@
         {
           "code": "pl-wp",
           "name": "wp",
+          "regions": []
+        },
+        {
+          "code": "poz",
+          "name": "Poznań / Wielkopolska",
+          "regions": []
+        },
+        {
+          "code": "rze",
+          "name": "Rzeszów / Podkarpacie",
+          "regions": []
+        },
+        {
+          "code": "szz",
+          "name": "Szczecin / Pomorze Zachodnie",
+          "regions": []
+        },
+        {
+          "code": "waw",
+          "name": "Warszawa / Mazowsze",
+          "regions": []
+        },
+        {
+          "code": "wro",
+          "name": "Wrocław / Dolny Śląsk",
           "regions": []
         }
       ]
@@ -9604,12 +10149,131 @@
           "regions": []
         },
         {
+          "code": "pt-acores",
+          "name": "Açores",
+          "regions": [
+            {
+              "code": "pt-ilha-da-graciosa",
+              "name": "Ilha da Graciosa",
+              "regions": []
+            },
+            {
+              "code": "pt-ilha-das-flores",
+              "name": "Ilha das Flores",
+              "regions": []
+            },
+            {
+              "code": "pt-ilha-de-santa-maria",
+              "name": "Ilha de Santa Maria",
+              "regions": []
+            },
+            {
+              "code": "pt-ilha-de-sao-jorge",
+              "name": "Ilha de São Jorge",
+              "regions": []
+            },
+            {
+              "code": "pt-ilha-de-sao-miguel",
+              "name": "Ilha de São Miguel",
+              "regions": []
+            },
+            {
+              "code": "pt-ilha-do-corvo",
+              "name": "Ilha do Corvo",
+              "regions": []
+            },
+            {
+              "code": "pt-ilha-do-faial",
+              "name": "Ilha do Faial",
+              "regions": []
+            },
+            {
+              "code": "pt-ilha-do-pico",
+              "name": "Ilha do Pico",
+              "regions": []
+            },
+            {
+              "code": "pt-ilha-terceira",
+              "name": "Ilha Terceira",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "pt-alentejo",
+          "name": "Alentejo",
+          "regions": [
+            {
+              "code": "pt-beja",
+              "name": "Beja",
+              "regions": []
+            },
+            {
+              "code": "pt-evora",
+              "name": "Évora",
+              "regions": []
+            },
+            {
+              "code": "pt-portalegre",
+              "name": "Portalegre",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "pt-algarve",
+          "name": "Algarve",
+          "regions": [
+            {
+              "code": "pt-faro",
+              "name": "Faro",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "pt-anepc",
           "name": "anepc",
           "regions": [
             {
               "code": "pt-anepc-norte",
               "name": "norte",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "pt-centro",
+          "name": "Centro",
+          "regions": [
+            {
+              "code": "pt-aveiro",
+              "name": "Aveiro",
+              "regions": []
+            },
+            {
+              "code": "pt-castelo-branco",
+              "name": "Castelo Branco",
+              "regions": []
+            },
+            {
+              "code": "pt-coimbra",
+              "name": "Coimbra",
+              "regions": []
+            },
+            {
+              "code": "pt-guarda",
+              "name": "Guarda",
+              "regions": []
+            },
+            {
+              "code": "pt-leiria",
+              "name": "Leiria",
+              "regions": []
+            },
+            {
+              "code": "pt-viseu",
+              "name": "Viseu",
               "regions": []
             }
           ]
@@ -9636,9 +10300,57 @@
           "regions": []
         },
         {
+          "code": "pt-lisboa-vale-do-tejo",
+          "name": "Lisboa e Vale do Tejo",
+          "regions": [
+            {
+              "code": "pt-santarem",
+              "name": "Santarém",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "pt-madeira",
+          "name": "Madeira",
+          "regions": [
+            {
+              "code": "pt-ilha-da-madeira",
+              "name": "Ilha da Madeira",
+              "regions": []
+            },
+            {
+              "code": "pt-ilha-de-porto-santo",
+              "name": "Ilha de Porto Santo",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "pt-norte",
           "name": "norte",
-          "regions": []
+          "regions": [
+            {
+              "code": "pt-braga",
+              "name": "Braga",
+              "regions": []
+            },
+            {
+              "code": "pt-braganca",
+              "name": "Bragança",
+              "regions": []
+            },
+            {
+              "code": "pt-viana-do-castelo",
+              "name": "Viana do Castelo",
+              "regions": []
+            },
+            {
+              "code": "pt-vila-real",
+              "name": "Vila Real",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "pt-porto",
@@ -9683,7 +10395,7 @@
         },
         {
           "code": "ro-b",
-          "name": "b",
+          "name": "Bucuresti",
           "regions": []
         },
         {
@@ -10031,12 +10743,57 @@
       "regions": [
         {
           "code": "sk-ba",
-          "name": "ba",
+          "name": "Bratislava",
+          "regions": []
+        },
+        {
+          "code": "sk-ke",
+          "name": "Kosice",
           "regions": []
         },
         {
           "code": "sk-ma",
           "name": "ma",
+          "regions": []
+        },
+        {
+          "code": "sk-mt",
+          "name": "Turiec",
+          "regions": []
+        },
+        {
+          "code": "sk-nr",
+          "name": "Nitra",
+          "regions": []
+        },
+        {
+          "code": "sk-pd",
+          "name": "Prievidza",
+          "regions": []
+        },
+        {
+          "code": "sk-po",
+          "name": "Presov",
+          "regions": []
+        },
+        {
+          "code": "sk-pp",
+          "name": "Poprad",
+          "regions": []
+        },
+        {
+          "code": "sk-vychod",
+          "name": "Vychodne Slovensko",
+          "regions": []
+        },
+        {
+          "code": "sk-za",
+          "name": "Zilina",
+          "regions": []
+        },
+        {
+          "code": "sk-zv",
+          "name": "Zvolen",
           "regions": []
         }
       ]
@@ -10259,6 +11016,23 @@
           ]
         },
         {
+          "code": "east",
+          "name": "Broad Northeast US region",
+          "regions": [
+            {
+              "code": "northeast",
+              "name": "Northeast US",
+              "regions": [
+                {
+                  "code": "nyc",
+                  "name": "New York City metro",
+                  "regions": []
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "erc",
           "name": "Emergency Response Communications",
           "regions": []
@@ -10328,6 +11102,37 @@
         {
           "code": "us-al",
           "name": "al",
+          "regions": [
+            {
+              "code": "us-al-auo",
+              "name": "Auburn AL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-al-bhm",
+              "name": "Birmingham AL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-al-dhn",
+              "name": "Dothan AL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-al-guf",
+              "name": "Gulf Shores AL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-al-mgm",
+              "name": "Montgomery AL Mesh Region",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "us-ar",
+          "name": "Arkansas",
           "regions": []
         },
         {
@@ -10346,12 +11151,152 @@
           "regions": []
         },
         {
+          "code": "us-dc",
+          "name": "District of Columbia",
+          "regions": []
+        },
+        {
+          "code": "us-de",
+          "name": "Delaware",
+          "regions": []
+        },
+        {
+          "code": "us-east",
+          "name": "East Coast Region",
+          "regions": []
+        },
+        {
           "code": "us-fl",
           "name": "fl",
           "regions": [
             {
+              "code": "us-apf",
+              "name": "Naples FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-dab",
+              "name": "Daytona Beach FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-ecp",
+              "name": "Panama City FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-fl-cfl",
+              "name": "Central FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-fl-gulf",
+              "name": "Gulf County FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-fl-north",
+              "name": "North FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-fl-nw",
+              "name": "Northwest FL Mesh Region",
+              "regions": []
+            },
+            {
               "code": "us-fl-pns",
               "name": "pns",
+              "regions": []
+            },
+            {
+              "code": "us-fl-south",
+              "name": "South FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-fpr",
+              "name": "Fort Pierce FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-fpy",
+              "name": "Perry-Foley FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-jax",
+              "name": "Jacksonville FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-lcq",
+              "name": "Five Points FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-mlb",
+              "name": "Melbourne FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-ocf",
+              "name": "Ocala FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-orl",
+              "name": "Orlando FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-pgd",
+              "name": "Charlotte FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-pns",
+              "name": "Pensacola FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-ppm",
+              "name": "Pompano Beach FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-rsw",
+              "name": "Lee FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-srq",
+              "name": "Sarasota-Bradenton FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-tlh",
+              "name": "Tallahassee FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-tpa",
+              "name": "Tampa FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-ust",
+              "name": "St Augustine FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-vps",
+              "name": "Destin-Fort Walton FL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-zph",
+              "name": "Zephyrhills FL Mesh Region",
               "regions": []
             }
           ]
@@ -10361,8 +11306,18 @@
           "name": "ga",
           "regions": [
             {
+              "code": "us-ga-ags",
+              "name": "Augusta GA Mesh Region",
+              "regions": []
+            },
+            {
               "code": "us-ga-atl",
               "name": "atl",
+              "regions": []
+            },
+            {
+              "code": "us-ga-mac",
+              "name": "Macon GA Mesh Region",
               "regions": []
             },
             {
@@ -10379,6 +11334,57 @@
               "code": "us-ga-nw",
               "name": "nw",
               "regions": []
+            },
+            {
+              "code": "us-ga-sav",
+              "name": "Savannah GA Mesh Region",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "us-gc",
+          "name": "Gulf Coast Region",
+          "regions": []
+        },
+        {
+          "code": "us-ky",
+          "name": "Kentucky",
+          "regions": []
+        },
+        {
+          "code": "us-la",
+          "name": "Louisiana",
+          "regions": [
+            {
+              "code": "us-la-lc",
+              "name": "Lake Charles LA Mesh",
+              "regions": []
+            },
+            {
+              "code": "us-la-lc-mm",
+              "name": "Lake Charles LA Mesh, MeshMapper variant of us-la-lc",
+              "regions": []
+            },
+            {
+              "code": "us-la-lft",
+              "name": "Lafayette LA Mesh",
+              "regions": []
+            },
+            {
+              "code": "us-la-lft-mm",
+              "name": "Lafayette LA Mesh, MeshMapper variant of us-la-lft",
+              "regions": []
+            },
+            {
+              "code": "us-la-msy",
+              "name": "Gulf Coast LA Mesh",
+              "regions": []
+            },
+            {
+              "code": "us-la-msy-mm",
+              "name": "Gulf Coast LA Mesh, MeshMapper variant of us-la-msy",
+              "regions": []
             }
           ]
         },
@@ -10393,13 +11399,60 @@
           "regions": []
         },
         {
+          "code": "us-md",
+          "name": "Maryland",
+          "regions": []
+        },
+        {
           "code": "us-mo",
           "name": "mo",
           "regions": []
         },
         {
+          "code": "us-ms",
+          "name": "Mississippi",
+          "regions": [
+            {
+              "code": "us-ms-gpt",
+              "name": "Gulfport-Biloxi MS Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-ms-gpt-mm",
+              "name": "Gulfport-Biloxi MS Mesh Region, MeshMapper variant of us-ms-gpt",
+              "regions": []
+            },
+            {
+              "code": "us-ms-jan",
+              "name": "Jackson MS Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-ms-ne",
+              "name": "NE MS Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-ms-ne-mm",
+              "name": "NE MS Mesh Region, MeshMapper variant of us-ms-ne",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "us-nc",
           "name": "nc",
+          "regions": [
+            {
+              "code": "rdu",
+              "name": "RDUMesh service area",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "us-ok",
+          "name": "Oklahoma",
           "regions": []
         },
         {
@@ -10408,8 +11461,18 @@
           "regions": []
         },
         {
+          "code": "us-sc",
+          "name": "South Carolina",
+          "regions": []
+        },
+        {
           "code": "us-se",
           "name": "se",
+          "regions": []
+        },
+        {
+          "code": "us-south",
+          "name": "South Region",
           "regions": []
         },
         {
@@ -10422,8 +11485,23 @@
           "name": "tn",
           "regions": [
             {
+              "code": "us-bna",
+              "name": "Nashville TN Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-cha",
+              "name": "Chattanooga TN Mesh Region",
+              "regions": []
+            },
+            {
               "code": "us-tn-east",
               "name": "east",
+              "regions": []
+            },
+            {
+              "code": "us-tys",
+              "name": "Knoxville TN Mesh Region",
               "regions": []
             }
           ]
@@ -10431,7 +11509,34 @@
         {
           "code": "us-tx",
           "name": "tx",
-          "regions": []
+          "regions": [
+            {
+              "code": "hou",
+              "name": "Houston TX Mesh Region",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "us-va",
+          "name": "Virginia",
+          "regions": [
+            {
+              "code": "us-va-nrv",
+              "name": "New River Valley VA Area Region",
+              "regions": []
+            },
+            {
+              "code": "us-va-roa",
+              "name": "Roanoke VA Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-va-sw",
+              "name": "Southwest VA Region",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "us-wa",
@@ -10444,6 +11549,11 @@
           "regions": []
         },
         {
+          "code": "us-wv",
+          "name": "West Virginia",
+          "regions": []
+        },
+        {
           "code": "utc",
           "name": "Utah County / Provo",
           "regions": []
@@ -10452,6 +11562,1000 @@
           "code": "west",
           "name": "Entire mesh",
           "regions": [
+            {
+              "code": "california",
+              "name": "California",
+              "regions": [
+                {
+                  "code": "bayarea",
+                  "name": "San Francisco Bay Area",
+                  "regions": [
+                    {
+                      "code": "eastbay",
+                      "name": "East Bay",
+                      "regions": [
+                        {
+                          "code": "eastcontracosta",
+                          "name": "East Contra Costa",
+                          "regions": []
+                        },
+                        {
+                          "code": "fremont",
+                          "name": "Southern Alameda",
+                          "regions": []
+                        },
+                        {
+                          "code": "hayward",
+                          "name": "Hayward / San Leandro",
+                          "regions": []
+                        },
+                        {
+                          "code": "livermore",
+                          "name": "Tri-Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "oakland",
+                          "name": "Oakland / Berkeley",
+                          "regions": []
+                        },
+                        {
+                          "code": "sanramon",
+                          "name": "San Ramon Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "walnutcreek",
+                          "name": "Diablo Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "westcontracosta",
+                          "name": "West Contra Costa",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "northbay",
+                      "name": "North Bay",
+                      "regions": [
+                        {
+                          "code": "fairfield",
+                          "name": "Fairfield / Vacaville",
+                          "regions": []
+                        },
+                        {
+                          "code": "healdsburg",
+                          "name": "Northern Sonoma",
+                          "regions": []
+                        },
+                        {
+                          "code": "millvalley",
+                          "name": "Southern Marin",
+                          "regions": []
+                        },
+                        {
+                          "code": "napa",
+                          "name": "Napa City",
+                          "regions": []
+                        },
+                        {
+                          "code": "petaluma",
+                          "name": "Petaluma",
+                          "regions": []
+                        },
+                        {
+                          "code": "pointreyes",
+                          "name": "West Marin",
+                          "regions": []
+                        },
+                        {
+                          "code": "sanrafael",
+                          "name": "Central Marin",
+                          "regions": []
+                        },
+                        {
+                          "code": "santarosa",
+                          "name": "Santa Rosa",
+                          "regions": []
+                        },
+                        {
+                          "code": "sonoma",
+                          "name": "Sonoma Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "sthelena",
+                          "name": "Upvalley",
+                          "regions": []
+                        },
+                        {
+                          "code": "vallejo",
+                          "name": "Vallejo / Benicia",
+                          "regions": []
+                        },
+                        {
+                          "code": "westsonoma",
+                          "name": "West Sonoma",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "peninsula",
+                      "name": "Peninsula",
+                      "regions": [
+                        {
+                          "code": "halfmoonbay",
+                          "name": "Coastside",
+                          "regions": []
+                        },
+                        {
+                          "code": "northpeninsula",
+                          "name": "North Peninsula",
+                          "regions": []
+                        },
+                        {
+                          "code": "redwoodcity",
+                          "name": "Redwood City / Menlo Park",
+                          "regions": []
+                        },
+                        {
+                          "code": "sanmateo",
+                          "name": "Mid-Peninsula",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "sf",
+                      "name": "San Francisco",
+                      "regions": [
+                        {
+                          "code": "eastsf",
+                          "name": "East SF",
+                          "regions": []
+                        },
+                        {
+                          "code": "westsf",
+                          "name": "West SF",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "southbay",
+                      "name": "South Bay",
+                      "regions": [
+                        {
+                          "code": "cupertino",
+                          "name": "West Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "gilroy",
+                          "name": "Gilroy / Morgan Hill",
+                          "regions": []
+                        },
+                        {
+                          "code": "paloalto",
+                          "name": "Palo Alto / Mountain View",
+                          "regions": []
+                        },
+                        {
+                          "code": "sanjose",
+                          "name": "San Jose",
+                          "regions": []
+                        },
+                        {
+                          "code": "sunnyvale",
+                          "name": "Sunnyvale / Santa Clara",
+                          "regions": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "centralcoast",
+                  "name": "Central Coast",
+                  "regions": [
+                    {
+                      "code": "bigsur",
+                      "name": "Big Sur",
+                      "regions": []
+                    },
+                    {
+                      "code": "hollister",
+                      "name": "Hollister",
+                      "regions": []
+                    },
+                    {
+                      "code": "king",
+                      "name": "King City",
+                      "regions": []
+                    },
+                    {
+                      "code": "montereybay",
+                      "name": "Monterey Bay",
+                      "regions": [
+                        {
+                          "code": "monterey",
+                          "name": "Monterey Peninsula",
+                          "regions": []
+                        },
+                        {
+                          "code": "salinas",
+                          "name": "Salinas Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "santacruz",
+                          "name": "Santa Cruz City",
+                          "regions": []
+                        },
+                        {
+                          "code": "scottsvalley",
+                          "name": "San Lorenzo Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "watsonville",
+                          "name": "Pajaro Valley",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "slo",
+                      "name": "SLO County",
+                      "regions": [
+                        {
+                          "code": "esterobay",
+                          "name": "Estero Bay",
+                          "regions": []
+                        },
+                        {
+                          "code": "slocity",
+                          "name": "San Luis Obispo",
+                          "regions": []
+                        },
+                        {
+                          "code": "slonorth",
+                          "name": "North County",
+                          "regions": []
+                        },
+                        {
+                          "code": "slosouth",
+                          "name": "South County",
+                          "regions": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "centralvalley",
+                  "name": "Central Valley",
+                  "regions": [
+                    {
+                      "code": "cvmid",
+                      "name": "Mid Valley",
+                      "regions": [
+                        {
+                          "code": "coalinga",
+                          "name": "Coalinga / Firebaugh",
+                          "regions": []
+                        },
+                        {
+                          "code": "fresno",
+                          "name": "Fresno / Clovis",
+                          "regions": []
+                        },
+                        {
+                          "code": "losbanos",
+                          "name": "Los Banos",
+                          "regions": []
+                        },
+                        {
+                          "code": "madera",
+                          "name": "Madera",
+                          "regions": []
+                        },
+                        {
+                          "code": "merced",
+                          "name": "Merced",
+                          "regions": []
+                        },
+                        {
+                          "code": "oakhurst",
+                          "name": "Oakhurst / Coarsegold",
+                          "regions": []
+                        },
+                        {
+                          "code": "sanger",
+                          "name": "Sanger / Reedley",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "cvnorth",
+                      "name": "North Valley",
+                      "regions": [
+                        {
+                          "code": "lodi",
+                          "name": "Lodi",
+                          "regions": []
+                        },
+                        {
+                          "code": "modesto",
+                          "name": "Modesto",
+                          "regions": []
+                        },
+                        {
+                          "code": "stockton",
+                          "name": "Stockton",
+                          "regions": []
+                        },
+                        {
+                          "code": "tracy",
+                          "name": "Tracy / Manteca",
+                          "regions": []
+                        },
+                        {
+                          "code": "turlock",
+                          "name": "Turlock",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "cvsouth",
+                      "name": "South Valley",
+                      "regions": [
+                        {
+                          "code": "bakersfield",
+                          "name": "Bakersfield",
+                          "regions": []
+                        },
+                        {
+                          "code": "delano",
+                          "name": "Delano / Wasco",
+                          "regions": []
+                        },
+                        {
+                          "code": "hanford",
+                          "name": "Kings County",
+                          "regions": []
+                        },
+                        {
+                          "code": "lakeisabella",
+                          "name": "Kern River Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "porterville",
+                          "name": "Porterville",
+                          "regions": []
+                        },
+                        {
+                          "code": "ridgecrest",
+                          "name": "Indian Wells Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "tehachapi",
+                          "name": "Tehachapi / Mojave",
+                          "regions": []
+                        },
+                        {
+                          "code": "threerivers",
+                          "name": "Sequoia & Kings Canyon",
+                          "regions": []
+                        },
+                        {
+                          "code": "tulare",
+                          "name": "Tulare City",
+                          "regions": []
+                        },
+                        {
+                          "code": "visalia",
+                          "name": "Visalia",
+                          "regions": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "norcal",
+                  "name": "North California",
+                  "regions": [
+                    {
+                      "code": "alturas",
+                      "name": "Alturas",
+                      "regions": []
+                    },
+                    {
+                      "code": "burney",
+                      "name": "Intermountain",
+                      "regions": []
+                    },
+                    {
+                      "code": "chico",
+                      "name": "Chico",
+                      "regions": []
+                    },
+                    {
+                      "code": "clearlake",
+                      "name": "Clear Lake",
+                      "regions": []
+                    },
+                    {
+                      "code": "colusa",
+                      "name": "Colusa County",
+                      "regions": []
+                    },
+                    {
+                      "code": "crescentcity",
+                      "name": "Crescent City",
+                      "regions": []
+                    },
+                    {
+                      "code": "eureka",
+                      "name": "Humboldt Bay",
+                      "regions": []
+                    },
+                    {
+                      "code": "fortbragg",
+                      "name": "Mendocino Coast",
+                      "regions": []
+                    },
+                    {
+                      "code": "garberville",
+                      "name": "Southern Humboldt",
+                      "regions": []
+                    },
+                    {
+                      "code": "klamathtrinity",
+                      "name": "Klamath-Trinity",
+                      "regions": []
+                    },
+                    {
+                      "code": "mountshasta",
+                      "name": "Mount Shasta",
+                      "regions": []
+                    },
+                    {
+                      "code": "oroville",
+                      "name": "Oroville",
+                      "regions": []
+                    },
+                    {
+                      "code": "paradise",
+                      "name": "Paradise Ridge",
+                      "regions": []
+                    },
+                    {
+                      "code": "plumas",
+                      "name": "Plumas County",
+                      "regions": []
+                    },
+                    {
+                      "code": "redding",
+                      "name": "Redding",
+                      "regions": []
+                    },
+                    {
+                      "code": "sierracounty",
+                      "name": "Sierra County",
+                      "regions": []
+                    },
+                    {
+                      "code": "susanville",
+                      "name": "Susanville",
+                      "regions": []
+                    },
+                    {
+                      "code": "tehama",
+                      "name": "Tehama County",
+                      "regions": []
+                    },
+                    {
+                      "code": "tulelake",
+                      "name": "Tulelake Basin",
+                      "regions": []
+                    },
+                    {
+                      "code": "ukiah",
+                      "name": "Ukiah Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "weaverville",
+                      "name": "Weaverville",
+                      "regions": []
+                    },
+                    {
+                      "code": "willows",
+                      "name": "Glenn County",
+                      "regions": []
+                    },
+                    {
+                      "code": "yreka",
+                      "name": "Yreka",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "sacramentofoothills",
+                  "name": "Sacramento Foothills",
+                  "regions": [
+                    {
+                      "code": "auburn",
+                      "name": "Auburn",
+                      "regions": []
+                    },
+                    {
+                      "code": "citrusheights",
+                      "name": "Citrus Heights / Carmichael",
+                      "regions": []
+                    },
+                    {
+                      "code": "davis",
+                      "name": "Davis",
+                      "regions": []
+                    },
+                    {
+                      "code": "elkgrove",
+                      "name": "Elk Grove / Galt",
+                      "regions": []
+                    },
+                    {
+                      "code": "folsom",
+                      "name": "Folsom / Rancho Cordova",
+                      "regions": []
+                    },
+                    {
+                      "code": "grassvalley",
+                      "name": "Grass Valley / Nevada City",
+                      "regions": []
+                    },
+                    {
+                      "code": "sacramento",
+                      "name": "Sacramento Central",
+                      "regions": []
+                    },
+                    {
+                      "code": "southplacer",
+                      "name": "South Placer",
+                      "regions": []
+                    },
+                    {
+                      "code": "westsac",
+                      "name": "West Sacramento",
+                      "regions": []
+                    },
+                    {
+                      "code": "woodland",
+                      "name": "Woodland",
+                      "regions": []
+                    },
+                    {
+                      "code": "yubasutter",
+                      "name": "Yuba-Sutter",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "sierranevada",
+                  "name": "Sierra Nevada",
+                  "regions": [
+                    {
+                      "code": "eastsierra",
+                      "name": "Eastern Sierra",
+                      "regions": [
+                        {
+                          "code": "bishop",
+                          "name": "Bishop",
+                          "regions": []
+                        },
+                        {
+                          "code": "bridgeport",
+                          "name": "Bridgeport / Lee Vining",
+                          "regions": []
+                        },
+                        {
+                          "code": "lonepine",
+                          "name": "Lone Pine / Owens Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "mammoth",
+                          "name": "Mammoth Lakes",
+                          "regions": []
+                        },
+                        {
+                          "code": "markleeville",
+                          "name": "Markleeville",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "goldcountry",
+                      "name": "Gold Country",
+                      "regions": [
+                        {
+                          "code": "amador",
+                          "name": "Amador County",
+                          "regions": []
+                        },
+                        {
+                          "code": "calaveras",
+                          "name": "Calaveras County",
+                          "regions": []
+                        },
+                        {
+                          "code": "edh",
+                          "name": "El Dorado Hills",
+                          "regions": []
+                        },
+                        {
+                          "code": "mariposa",
+                          "name": "Mariposa County",
+                          "regions": []
+                        },
+                        {
+                          "code": "placerville",
+                          "name": "Placerville",
+                          "regions": []
+                        },
+                        {
+                          "code": "sonora",
+                          "name": "Sonora",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "tahoe",
+                      "name": "Lake Tahoe",
+                      "regions": [
+                        {
+                          "code": "southlaketahoe",
+                          "name": "South Lake Tahoe",
+                          "regions": []
+                        },
+                        {
+                          "code": "tahoecity",
+                          "name": "North Lake Tahoe",
+                          "regions": []
+                        },
+                        {
+                          "code": "truckee",
+                          "name": "Truckee",
+                          "regions": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "socal",
+                  "name": "Southern California",
+                  "regions": [
+                    {
+                      "code": "imperial",
+                      "name": "Imperial County",
+                      "regions": [
+                        {
+                          "code": "imperialborder",
+                          "name": "Imperial Border",
+                          "regions": []
+                        },
+                        {
+                          "code": "imperialvalley",
+                          "name": "Imperial Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "lowercolorado",
+                          "name": "Lower Colorado",
+                          "regions": []
+                        },
+                        {
+                          "code": "northimperial",
+                          "name": "North Imperial",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "losangeles",
+                      "name": "Los Angeles County",
+                      "regions": [
+                        {
+                          "code": "antelopevalley",
+                          "name": "Antelope Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "catalina",
+                          "name": "Catalina Island",
+                          "regions": []
+                        },
+                        {
+                          "code": "gateway",
+                          "name": "Gateway Cities",
+                          "regions": []
+                        },
+                        {
+                          "code": "harbor",
+                          "name": "Harbor Area",
+                          "regions": []
+                        },
+                        {
+                          "code": "labasin",
+                          "name": "LA Basin",
+                          "regions": []
+                        },
+                        {
+                          "code": "pomonavalley",
+                          "name": "Pomona Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "santaclarita",
+                          "name": "Santa Clarita Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "santamonicamtns",
+                          "name": "Santa Monica Mountains",
+                          "regions": []
+                        },
+                        {
+                          "code": "sfv",
+                          "name": "San Fernando Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "sgv",
+                          "name": "San Gabriel Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "westside",
+                          "name": "Westside",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "orangecounty",
+                      "name": "Orange County",
+                      "regions": [
+                        {
+                          "code": "occanyon",
+                          "name": "Santa Ana Mountains",
+                          "regions": []
+                        },
+                        {
+                          "code": "occentral",
+                          "name": "Central County",
+                          "regions": []
+                        },
+                        {
+                          "code": "occoast",
+                          "name": "Coast",
+                          "regions": []
+                        },
+                        {
+                          "code": "ocnorth",
+                          "name": "North County",
+                          "regions": []
+                        },
+                        {
+                          "code": "ocsouth",
+                          "name": "South County",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "riverside",
+                      "name": "Riverside County",
+                      "regions": [
+                        {
+                          "code": "coachellavalley",
+                          "name": "Coachella Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "paloverde",
+                          "name": "Palo Verde Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "perrisvalley",
+                          "name": "Perris Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "sanjacintomountains",
+                          "name": "San Jacinto Mountains",
+                          "regions": []
+                        },
+                        {
+                          "code": "sanjacintovalley",
+                          "name": "San Jacinto Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "temeculavalley",
+                          "name": "Temecula Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "westernriverside",
+                          "name": "Western Riverside",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "sanbernardino",
+                      "name": "San Bernardino County",
+                      "regions": [
+                        {
+                          "code": "centralmojave",
+                          "name": "Central Mojave",
+                          "regions": []
+                        },
+                        {
+                          "code": "coloradoriver",
+                          "name": "Colorado River",
+                          "regions": []
+                        },
+                        {
+                          "code": "cucamonga",
+                          "name": "Cucamonga Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "morongobasin",
+                          "name": "Morongo Basin",
+                          "regions": []
+                        },
+                        {
+                          "code": "sbmountains",
+                          "name": "San Bernardino Mountains",
+                          "regions": []
+                        },
+                        {
+                          "code": "sbvalley",
+                          "name": "San Bernardino Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "victorvalley",
+                          "name": "Victor Valley",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "sandiego",
+                      "name": "San Diego County",
+                      "regions": [
+                        {
+                          "code": "borregovalley",
+                          "name": "Borrego Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "sdbackcountry",
+                          "name": "Backcountry",
+                          "regions": []
+                        },
+                        {
+                          "code": "sdeast",
+                          "name": "East County",
+                          "regions": []
+                        },
+                        {
+                          "code": "sdmetro",
+                          "name": "Metro",
+                          "regions": []
+                        },
+                        {
+                          "code": "sdnorthcoast",
+                          "name": "North County Coastal",
+                          "regions": []
+                        },
+                        {
+                          "code": "sdnorthinland",
+                          "name": "North County Inland",
+                          "regions": []
+                        },
+                        {
+                          "code": "sdsouth",
+                          "name": "South Bay",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "santabarbara",
+                      "name": "Santa Barbara County",
+                      "regions": [
+                        {
+                          "code": "cuyama",
+                          "name": "Cuyama Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "lompocvalley",
+                          "name": "Lompoc Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "santamaria",
+                          "name": "Santa Maria Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "santaynez",
+                          "name": "Santa Ynez Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "southcoast",
+                          "name": "South Coast",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "ventura",
+                      "name": "Ventura County",
+                      "regions": [
+                        {
+                          "code": "conejovalley",
+                          "name": "Conejo Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "ojaivalley",
+                          "name": "Ojai Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "oxnardplain",
+                          "name": "Oxnard Plain",
+                          "regions": []
+                        },
+                        {
+                          "code": "santaclarariver",
+                          "name": "Santa Clara River Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "simivalley",
+                          "name": "Simi Valley",
+                          "regions": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "code": "imw",
               "name": "Intermountain West",
@@ -10813,6 +12917,22 @@
   ],
   "flat": [
     {
+      "path": "11159",
+      "name": "Barbate"
+    },
+    {
+      "path": "11406",
+      "name": "Jerez de la Frontera"
+    },
+    {
+      "path": "11480",
+      "name": "Jerez de la Frontera"
+    },
+    {
+      "path": "11600",
+      "name": "Ubrique"
+    },
+    {
       "path": "ad",
       "name": "Andorra"
     },
@@ -10853,6 +12973,10 @@
       "name": "Altes Land"
     },
     {
+      "path": "alturas",
+      "name": "Alturas"
+    },
+    {
       "path": "alw",
       "name": "Walla Walla"
     },
@@ -10861,8 +12985,16 @@
       "name": "Armenia"
     },
     {
+      "path": "amador",
+      "name": "Amador County"
+    },
+    {
       "path": "ang",
       "name": "Angus area"
+    },
+    {
+      "path": "antelopevalley",
+      "name": "Antelope Valley"
     },
     {
       "path": "anx",
@@ -11225,6 +13357,10 @@
       "name": "per"
     },
     {
+      "path": "auburn",
+      "name": "Auburn"
+    },
+    {
       "path": "aw",
       "name": "Aruba"
     },
@@ -11239,6 +13375,14 @@
     {
       "path": "ba",
       "name": "Bosnia & Herzegovina"
+    },
+    {
+      "path": "bakersfield",
+      "name": "Bakersfield"
+    },
+    {
+      "path": "bayarea",
+      "name": "San Francisco Bay Area"
     },
     {
       "path": "bb",
@@ -11261,12 +13405,20 @@
       "name": "Belgium"
     },
     {
+      "path": "be-ant",
+      "name": "Grand Anvers"
+    },
+    {
       "path": "be-bru",
       "name": "Brussel"
     },
     {
       "path": "be-dgo",
       "name": "dgo"
+    },
+    {
+      "path": "be-gnt",
+      "name": "Grand Gand"
     },
     {
       "path": "be-lgg",
@@ -13645,6 +15797,14 @@
       "name": "Burundi"
     },
     {
+      "path": "bigsur",
+      "name": "Big Sur"
+    },
+    {
+      "path": "bishop",
+      "name": "Bishop"
+    },
+    {
       "path": "bj",
       "name": "Benin"
     },
@@ -13693,6 +15853,10 @@
       "name": "Bodø"
     },
     {
+      "path": "borregovalley",
+      "name": "Borrego Valley"
+    },
+    {
       "path": "bq",
       "name": "Caribbean Netherlands"
     },
@@ -13717,6 +15881,14 @@
       "name": "BreMesh (Bremen, Bremerhaven und Umland)"
     },
     {
+      "path": "brest",
+      "name": "Brest"
+    },
+    {
+      "path": "bridgeport",
+      "name": "Bridgeport / Lee Vining"
+    },
+    {
       "path": "bs",
       "name": "Bahamas"
     },
@@ -13727,6 +15899,10 @@
     {
       "path": "bt",
       "name": "Bhutan"
+    },
+    {
+      "path": "burney",
+      "name": "Intermountain"
     },
     {
       "path": "bv",
@@ -13757,6 +15933,10 @@
       "name": "Belize"
     },
     {
+      "path": "bzg",
+      "name": "Bydgoszcz / Kujawy i Pomorze"
+    },
+    {
       "path": "c-id",
       "name": "Central Idaho"
     },
@@ -13777,6 +15957,18 @@
       "name": "Canada"
     },
     {
+      "path": "calaveras",
+      "name": "Calaveras County"
+    },
+    {
+      "path": "california",
+      "name": "California"
+    },
+    {
+      "path": "catalina",
+      "name": "Catalina Island"
+    },
+    {
       "path": "cc",
       "name": "Cocos (Keeling) Islands"
     },
@@ -13795,6 +15987,18 @@
     {
       "path": "cen",
       "name": "Central Scotland"
+    },
+    {
+      "path": "centralcoast",
+      "name": "Central Coast"
+    },
+    {
+      "path": "centralmojave",
+      "name": "Central Mojave"
+    },
+    {
+      "path": "centralvalley",
+      "name": "Central Valley"
     },
     {
       "path": "cf",
@@ -13877,8 +16081,16 @@
       "name": "zh"
     },
     {
+      "path": "chico",
+      "name": "Chico"
+    },
+    {
       "path": "ci",
       "name": "Côte d’Ivoire"
+    },
+    {
+      "path": "citrusheights",
+      "name": "Citrus Heights / Carmichael"
     },
     {
       "path": "ck",
@@ -13887,6 +16099,10 @@
     {
       "path": "cl",
       "name": "Chile"
+    },
+    {
+      "path": "clearlake",
+      "name": "Clear Lake"
     },
     {
       "path": "cls",
@@ -13905,8 +16121,28 @@
       "name": "Colombia"
     },
     {
+      "path": "coachellavalley",
+      "name": "Coachella Valley"
+    },
+    {
+      "path": "coalinga",
+      "name": "Coalinga / Firebaugh"
+    },
+    {
       "path": "coast-or",
       "name": "Oregon Coast"
+    },
+    {
+      "path": "coloradoriver",
+      "name": "Colorado River"
+    },
+    {
+      "path": "colusa",
+      "name": "Colusa County"
+    },
+    {
+      "path": "conejovalley",
+      "name": "Conejo Valley"
     },
     {
       "path": "connacht",
@@ -13917,16 +16153,44 @@
       "name": "Costa Rica"
     },
     {
+      "path": "crescentcity",
+      "name": "Crescent City"
+    },
+    {
       "path": "cu",
       "name": "Cuba"
+    },
+    {
+      "path": "cucamonga",
+      "name": "Cucamonga Valley"
+    },
+    {
+      "path": "cupertino",
+      "name": "West Valley"
+    },
+    {
+      "path": "cuyama",
+      "name": "Cuyama Valley"
     },
     {
       "path": "cv",
       "name": "Cape Verde"
     },
     {
+      "path": "cvmid",
+      "name": "Mid Valley"
+    },
+    {
+      "path": "cvnorth",
+      "name": "North Valley"
+    },
+    {
       "path": "cvo",
       "name": "Corvallis / Albany"
+    },
+    {
+      "path": "cvsouth",
+      "name": "South Valley"
     },
     {
       "path": "cw",
@@ -13946,63 +16210,67 @@
     },
     {
       "path": "cz-hkk",
-      "name": "hkk"
+      "name": "Královéhradecký kraj"
     },
     {
       "path": "cz-jhc",
-      "name": "jhc"
+      "name": "Jihočeský kraj"
     },
     {
       "path": "cz-jmk",
-      "name": "jmk"
+      "name": "Jihomoravský kraj"
     },
     {
       "path": "cz-kvk",
-      "name": "kvk"
+      "name": "Karlovarský kraj"
     },
     {
       "path": "cz-lbk",
-      "name": "lbk"
+      "name": "Liberecký kraj"
     },
     {
       "path": "cz-msk",
-      "name": "msk"
+      "name": "Moravskoslezský kraj"
     },
     {
       "path": "cz-olk",
-      "name": "olk"
+      "name": "Olomoucký kraj"
     },
     {
       "path": "cz-pak",
-      "name": "pak"
+      "name": "Pardubický kraj"
     },
     {
       "path": "cz-pha",
-      "name": "pha"
+      "name": "Praha"
     },
     {
       "path": "cz-plz",
-      "name": "plz"
+      "name": "Plzeňský kraj"
     },
     {
       "path": "cz-stc",
-      "name": "stc"
+      "name": "Středočeský kraj"
     },
     {
       "path": "cz-ulk",
-      "name": "ulk"
+      "name": "Ústecký kraj"
     },
     {
       "path": "cz-vys",
-      "name": "vys"
+      "name": "Vysočina"
     },
     {
       "path": "cz-zlk",
-      "name": "zlk"
+      "name": "Zlínský kraj"
     },
     {
       "path": "dach",
       "name": "DACH-Region (DE/AT/CH)"
+    },
+    {
+      "path": "davis",
+      "name": "Davis"
     },
     {
       "path": "de",
@@ -15853,6 +18121,10 @@
       "name": "wtm"
     },
     {
+      "path": "delano",
+      "name": "Delano / Wasco"
+    },
+    {
       "path": "dij",
       "name": "Driggs / Teton Valley"
     },
@@ -15997,12 +18269,36 @@
       "name": "Eastern Washington"
     },
     {
+      "path": "east",
+      "name": "Broad Northeast US region"
+    },
+    {
+      "path": "eastbay",
+      "name": "East Bay"
+    },
+    {
+      "path": "eastcontracosta",
+      "name": "East Contra Costa"
+    },
+    {
+      "path": "eastsf",
+      "name": "East SF"
+    },
+    {
+      "path": "eastsierra",
+      "name": "Eastern Sierra"
+    },
+    {
       "path": "eat",
       "name": "Wenatchee"
     },
     {
       "path": "ec",
       "name": "Ecuador"
+    },
+    {
+      "path": "edh",
+      "name": "El Dorado Hills"
     },
     {
       "path": "edi",
@@ -16023,6 +18319,10 @@
     {
       "path": "eifel",
       "name": "Eifel"
+    },
+    {
+      "path": "elkgrove",
+      "name": "Elk Grove / Galt"
     },
     {
       "path": "eln",
@@ -16049,12 +18349,284 @@
       "name": "Spain"
     },
     {
+      "path": "es-a",
+      "name": "Alicante"
+    },
+    {
+      "path": "es-ab",
+      "name": "Albacete"
+    },
+    {
+      "path": "es-al",
+      "name": "Almería"
+    },
+    {
+      "path": "es-an",
+      "name": "Andalucía"
+    },
+    {
+      "path": "es-ar",
+      "name": "Aragón"
+    },
+    {
       "path": "es-as",
       "name": "as"
     },
     {
+      "path": "es-av",
+      "name": "Ávila"
+    },
+    {
+      "path": "es-b",
+      "name": "Barcelona"
+    },
+    {
+      "path": "es-ba",
+      "name": "Badajoz"
+    },
+    {
       "path": "es-bcn",
       "name": "bcn"
+    },
+    {
+      "path": "es-bi",
+      "name": "Vizcaya"
+    },
+    {
+      "path": "es-c",
+      "name": "La Coruña"
+    },
+    {
+      "path": "es-ca",
+      "name": "Cádiz"
+    },
+    {
+      "path": "es-cb",
+      "name": "Cantabria"
+    },
+    {
+      "path": "es-cc",
+      "name": "Cáceres"
+    },
+    {
+      "path": "es-ce",
+      "name": "Ceuta"
+    },
+    {
+      "path": "es-cl",
+      "name": "Castilla y León"
+    },
+    {
+      "path": "es-cm",
+      "name": "Castilla-La Mancha"
+    },
+    {
+      "path": "es-cn",
+      "name": "Canarias"
+    },
+    {
+      "path": "es-co",
+      "name": "Córdoba"
+    },
+    {
+      "path": "es-cr",
+      "name": "Ciudad Real"
+    },
+    {
+      "path": "es-cs",
+      "name": "Castellón"
+    },
+    {
+      "path": "es-ct",
+      "name": "Cataluña"
+    },
+    {
+      "path": "es-cu",
+      "name": "Cuenca"
+    },
+    {
+      "path": "es-ex",
+      "name": "Extremadura"
+    },
+    {
+      "path": "es-ga",
+      "name": "Galicia"
+    },
+    {
+      "path": "es-gc",
+      "name": "Las Palmas"
+    },
+    {
+      "path": "es-gi",
+      "name": "Gerona"
+    },
+    {
+      "path": "es-gr",
+      "name": "Granada"
+    },
+    {
+      "path": "es-gu",
+      "name": "Guadalajara"
+    },
+    {
+      "path": "es-h",
+      "name": "Huelva"
+    },
+    {
+      "path": "es-hu",
+      "name": "Huesca"
+    },
+    {
+      "path": "es-ib",
+      "name": "Islas Baleares"
+    },
+    {
+      "path": "es-j",
+      "name": "Jaén"
+    },
+    {
+      "path": "es-l",
+      "name": "Lérida"
+    },
+    {
+      "path": "es-le",
+      "name": "León"
+    },
+    {
+      "path": "es-lo",
+      "name": "La Rioja"
+    },
+    {
+      "path": "es-lu",
+      "name": "Lugo"
+    },
+    {
+      "path": "es-m",
+      "name": "Madrid"
+    },
+    {
+      "path": "es-ma",
+      "name": "Málaga"
+    },
+    {
+      "path": "es-mc",
+      "name": "Región de Murcia"
+    },
+    {
+      "path": "es-md",
+      "name": "Comunidad de Madrid"
+    },
+    {
+      "path": "es-ml",
+      "name": "Melilla"
+    },
+    {
+      "path": "es-mu",
+      "name": "Murcia"
+    },
+    {
+      "path": "es-na",
+      "name": "Navarra"
+    },
+    {
+      "path": "es-nc",
+      "name": "Navarra"
+    },
+    {
+      "path": "es-o",
+      "name": "Asturias"
+    },
+    {
+      "path": "es-or",
+      "name": "Orense"
+    },
+    {
+      "path": "es-p",
+      "name": "Palencia"
+    },
+    {
+      "path": "es-pm",
+      "name": "Baleares"
+    },
+    {
+      "path": "es-po",
+      "name": "Pontevedra"
+    },
+    {
+      "path": "es-pv",
+      "name": "País Vasco"
+    },
+    {
+      "path": "es-ri",
+      "name": "La Rioja"
+    },
+    {
+      "path": "es-s",
+      "name": "Cantabria"
+    },
+    {
+      "path": "es-sa",
+      "name": "Salamanca"
+    },
+    {
+      "path": "es-se",
+      "name": "Sevilla"
+    },
+    {
+      "path": "es-sg",
+      "name": "Segovia"
+    },
+    {
+      "path": "es-so",
+      "name": "Soria"
+    },
+    {
+      "path": "es-ss",
+      "name": "Guipúzcoa"
+    },
+    {
+      "path": "es-t",
+      "name": "Tarragona"
+    },
+    {
+      "path": "es-tf",
+      "name": "Santa Cruz de Tenerife"
+    },
+    {
+      "path": "es-to",
+      "name": "Toledo"
+    },
+    {
+      "path": "es-tr",
+      "name": "Teruel"
+    },
+    {
+      "path": "es-v",
+      "name": "Valencia"
+    },
+    {
+      "path": "es-va",
+      "name": "Valladolid"
+    },
+    {
+      "path": "es-vc",
+      "name": "Comunidad Valenciana"
+    },
+    {
+      "path": "es-vi",
+      "name": "Álava"
+    },
+    {
+      "path": "es-z",
+      "name": "Zaragoza"
+    },
+    {
+      "path": "es-za",
+      "name": "Zamora"
+    },
+    {
+      "path": "esterobay",
+      "name": "Estero Bay"
     },
     {
       "path": "et",
@@ -16077,12 +18649,20 @@
       "name": "Eugene / Springfield"
     },
     {
+      "path": "eureka",
+      "name": "Humboldt Bay"
+    },
+    {
       "path": "europe",
       "name": "Europe"
     },
     {
       "path": "eve",
       "name": "Evenes"
+    },
+    {
+      "path": "fairfield",
+      "name": "Fairfield / Vacaville"
     },
     {
       "path": "fal",
@@ -16121,6 +18701,14 @@
       "name": "Faroe Islands"
     },
     {
+      "path": "folsom",
+      "name": "Folsom / Rancho Cordova"
+    },
+    {
+      "path": "fortbragg",
+      "name": "Mendocino Coast"
+    },
+    {
       "path": "fr",
       "name": "France"
     },
@@ -16149,6 +18737,10 @@
       "name": "17"
     },
     {
+      "path": "fr-20r",
+      "name": "Corse"
+    },
+    {
       "path": "fr-21",
       "name": "21"
     },
@@ -16171,6 +18763,14 @@
     {
       "path": "fr-29",
       "name": "29"
+    },
+    {
+      "path": "fr-2a",
+      "name": "Corse-du-Sud"
+    },
+    {
+      "path": "fr-2b",
+      "name": "Haute-Corse"
     },
     {
       "path": "fr-30",
@@ -16325,6 +18925,26 @@
       "name": "95"
     },
     {
+      "path": "fr-971",
+      "name": "Guadeloupe"
+    },
+    {
+      "path": "fr-972",
+      "name": "Martinique"
+    },
+    {
+      "path": "fr-973",
+      "name": "Guyane"
+    },
+    {
+      "path": "fr-974",
+      "name": "La Réunion"
+    },
+    {
+      "path": "fr-976",
+      "name": "Mayotte"
+    },
+    {
       "path": "fr-ain",
       "name": "ain"
     },
@@ -16361,6 +18981,10 @@
       "name": "brest"
     },
     {
+      "path": "fr-cor",
+      "name": "Corse"
+    },
+    {
       "path": "fr-cvl",
       "name": "cvl"
     },
@@ -16377,6 +19001,14 @@
       "name": "gre"
     },
     {
+      "path": "fr-gua",
+      "name": "Guadeloupe"
+    },
+    {
+      "path": "fr-guf",
+      "name": "Guyane"
+    },
+    {
       "path": "fr-hdf",
       "name": "hdf"
     },
@@ -16387,6 +19019,14 @@
     {
       "path": "fr-jura",
       "name": "jura"
+    },
+    {
+      "path": "fr-may",
+      "name": "Mayotte"
+    },
+    {
+      "path": "fr-mtq",
+      "name": "Martinique"
     },
     {
       "path": "fr-naq",
@@ -16413,6 +19053,10 @@
       "name": "pdl"
     },
     {
+      "path": "fr-reu",
+      "name": "La Réunion"
+    },
+    {
       "path": "fr-sud",
       "name": "sud"
     },
@@ -16425,12 +19069,28 @@
       "name": "Frankfurt"
     },
     {
+      "path": "fremont",
+      "name": "Southern Alameda"
+    },
+    {
+      "path": "fresno",
+      "name": "Fresno / Clovis"
+    },
+    {
       "path": "fro",
       "name": "Florø"
     },
     {
       "path": "ga",
       "name": "Gabon"
+    },
+    {
+      "path": "garberville",
+      "name": "Southern Humboldt"
+    },
+    {
+      "path": "gateway",
+      "name": "Gateway Cities"
     },
     {
       "path": "gb",
@@ -16537,6 +19197,10 @@
       "name": "Grenada"
     },
     {
+      "path": "gdn",
+      "name": "Trójmiasto / Pomorze"
+    },
+    {
       "path": "ge",
       "name": "Georgia"
     },
@@ -16561,6 +19225,10 @@
       "name": "Gibraltar"
     },
     {
+      "path": "gilroy",
+      "name": "Gilroy / Morgan Hill"
+    },
+    {
       "path": "gl",
       "name": "Greenland"
     },
@@ -16577,6 +19245,14 @@
       "name": "Guinea"
     },
     {
+      "path": "goldcountry",
+      "name": "Gold Country"
+    },
+    {
+      "path": "gomel",
+      "name": "Gomel"
+    },
+    {
       "path": "gp",
       "name": "Guadeloupe"
     },
@@ -16589,8 +19265,16 @@
       "name": "Greece"
     },
     {
+      "path": "grassvalley",
+      "name": "Grass Valley / Nevada City"
+    },
+    {
       "path": "grh",
       "name": "Grays Harbor / WA Coast"
+    },
+    {
+      "path": "grodno",
+      "name": "Grodno"
     },
     {
       "path": "gs",
@@ -16617,8 +19301,16 @@
       "name": "Hasvik"
     },
     {
+      "path": "halfmoonbay",
+      "name": "Coastside"
+    },
+    {
       "path": "halle",
       "name": "Halle (Saale)"
+    },
+    {
+      "path": "hanford",
+      "name": "Kings County"
     },
     {
       "path": "hannover",
@@ -16629,8 +19321,20 @@
       "name": "Hansemesh (Großraum Hamburg)"
     },
     {
+      "path": "harbor",
+      "name": "Harbor Area"
+    },
+    {
       "path": "hau",
       "name": "Haugesund"
+    },
+    {
+      "path": "hayward",
+      "name": "Hayward / San Leandro"
+    },
+    {
+      "path": "healdsburg",
+      "name": "Northern Sonoma"
     },
     {
       "path": "heidemesh",
@@ -16655,6 +19359,14 @@
     {
       "path": "hn",
       "name": "Honduras"
+    },
+    {
+      "path": "hollister",
+      "name": "Hollister"
+    },
+    {
+      "path": "hou",
+      "name": "Houston TX Mesh Region"
     },
     {
       "path": "hov",
@@ -16703,6 +19415,18 @@
     {
       "path": "im",
       "name": "Isle of Man"
+    },
+    {
+      "path": "imperial",
+      "name": "Imperial County"
+    },
+    {
+      "path": "imperialborder",
+      "name": "Imperial Border"
+    },
+    {
+      "path": "imperialvalley",
+      "name": "Imperial Valley"
     },
     {
       "path": "imw",
@@ -16758,19 +19482,19 @@
     },
     {
       "path": "it-abr",
-      "name": "abr"
+      "name": "Abruzzo"
     },
     {
       "path": "it-bas",
-      "name": "bas"
+      "name": "Basilicata"
     },
     {
       "path": "it-cal",
-      "name": "cal"
+      "name": "Calabria"
     },
     {
       "path": "it-cam",
-      "name": "cam"
+      "name": "Campania"
     },
     {
       "path": "it-ch",
@@ -16798,7 +19522,7 @@
     },
     {
       "path": "it-fvg",
-      "name": "fvg"
+      "name": "Friuli Venezia Giulia"
     },
     {
       "path": "it-fvg-pn",
@@ -16866,11 +19590,11 @@
     },
     {
       "path": "it-mar",
-      "name": "mar"
+      "name": "Marche"
     },
     {
       "path": "it-mol",
-      "name": "mol"
+      "name": "Molise"
     },
     {
       "path": "it-nord",
@@ -16914,7 +19638,7 @@
     },
     {
       "path": "it-pug",
-      "name": "pug"
+      "name": "Puglia"
     },
     {
       "path": "it-pug-le",
@@ -16922,15 +19646,15 @@
     },
     {
       "path": "it-sar",
-      "name": "sar"
+      "name": "Sardegna"
     },
     {
       "path": "it-sic",
-      "name": "sic"
+      "name": "Sicilia"
     },
     {
       "path": "it-taa",
-      "name": "taa"
+      "name": "Trentino-Alto Adige"
     },
     {
       "path": "it-tos",
@@ -16942,15 +19666,15 @@
     },
     {
       "path": "it-umb",
-      "name": "umb"
+      "name": "Umbria"
     },
     {
       "path": "it-vda",
-      "name": "vda"
+      "name": "Valle d'Aosta"
     },
     {
       "path": "it-ven",
-      "name": "ven"
+      "name": "Veneto"
     },
     {
       "path": "je",
@@ -16985,12 +19709,20 @@
       "name": "Kiribati"
     },
     {
+      "path": "king",
+      "name": "King City"
+    },
+    {
       "path": "kit",
       "name": "Kitsap / Bremerton"
     },
     {
       "path": "kkn",
       "name": "Kirkenes"
+    },
+    {
+      "path": "klamathtrinity",
+      "name": "Klamath-Trinity"
     },
     {
       "path": "kls",
@@ -17017,12 +19749,20 @@
       "name": "South Korea"
     },
     {
+      "path": "krk",
+      "name": "Kraków / Małopolska"
+    },
+    {
       "path": "krs",
       "name": "Kjevik/Kristiansand"
     },
     {
       "path": "ksu",
       "name": "Kristiansund"
+    },
+    {
+      "path": "ktw",
+      "name": "Górny Śląsk"
     },
     {
       "path": "kun",
@@ -17045,6 +19785,14 @@
       "name": "Laos"
     },
     {
+      "path": "labasin",
+      "name": "LA Basin"
+    },
+    {
+      "path": "lakeisabella",
+      "name": "Kern River Valley"
+    },
+    {
       "path": "landkreis-harburg",
       "name": "Landkreis Harburg"
     },
@@ -17063,6 +19811,10 @@
     {
       "path": "li",
       "name": "Liechtenstein"
+    },
+    {
+      "path": "livermore",
+      "name": "Tri-Valley"
     },
     {
       "path": "lk",
@@ -17085,6 +19837,30 @@
       "name": "Klamath Falls"
     },
     {
+      "path": "lodi",
+      "name": "Lodi"
+    },
+    {
+      "path": "lompocvalley",
+      "name": "Lompoc Valley"
+    },
+    {
+      "path": "lonepine",
+      "name": "Lone Pine / Owens Valley"
+    },
+    {
+      "path": "losangeles",
+      "name": "Los Angeles County"
+    },
+    {
+      "path": "losbanos",
+      "name": "Los Banos"
+    },
+    {
+      "path": "lowercolorado",
+      "name": "Lower Colorado"
+    },
+    {
       "path": "lr",
       "name": "Liberia"
     },
@@ -17101,6 +19877,10 @@
       "name": "Luxembourg"
     },
     {
+      "path": "luz",
+      "name": "Lublin"
+    },
+    {
       "path": "lv",
       "name": "Latvia"
     },
@@ -17115,6 +19895,22 @@
     {
       "path": "ma",
       "name": "Morocco"
+    },
+    {
+      "path": "madera",
+      "name": "Madera"
+    },
+    {
+      "path": "mammoth",
+      "name": "Mammoth Lakes"
+    },
+    {
+      "path": "mariposa",
+      "name": "Mariposa County"
+    },
+    {
+      "path": "markleeville",
+      "name": "Markleeville"
     },
     {
       "path": "mayo",
@@ -17141,6 +19937,10 @@
       "name": "Mehamn"
     },
     {
+      "path": "merced",
+      "name": "Merced"
+    },
+    {
       "path": "mf",
       "name": "St. Martin"
     },
@@ -17155,6 +19955,14 @@
     {
       "path": "mh",
       "name": "Marshall Islands"
+    },
+    {
+      "path": "millvalley",
+      "name": "Southern Marin"
+    },
+    {
+      "path": "minsk",
+      "name": "Minsk"
     },
     {
       "path": "mjf",
@@ -17185,8 +19993,32 @@
       "name": "Macao SAR China"
     },
     {
+      "path": "modesto",
+      "name": "Modesto"
+    },
+    {
+      "path": "mogilev",
+      "name": "Mogilev"
+    },
+    {
       "path": "mol",
       "name": "Molde"
+    },
+    {
+      "path": "monterey",
+      "name": "Monterey Peninsula"
+    },
+    {
+      "path": "montereybay",
+      "name": "Monterey Bay"
+    },
+    {
+      "path": "morongobasin",
+      "name": "Morongo Basin"
+    },
+    {
+      "path": "mountshasta",
+      "name": "Mount Shasta"
     },
     {
       "path": "mp",
@@ -17259,6 +20091,10 @@
     {
       "path": "na",
       "name": "Namibia"
+    },
+    {
+      "path": "napa",
+      "name": "Napa City"
     },
     {
       "path": "nc",
@@ -18145,8 +20981,28 @@
       "name": "Connacht"
     },
     {
+      "path": "norcal",
+      "name": "North California"
+    },
+    {
       "path": "nordbaden",
       "name": "Regierungsbezirk Nordbaden"
+    },
+    {
+      "path": "northbay",
+      "name": "North Bay"
+    },
+    {
+      "path": "northeast",
+      "name": "Northeast US"
+    },
+    {
+      "path": "northimperial",
+      "name": "North Imperial"
+    },
+    {
+      "path": "northpeninsula",
+      "name": "North Peninsula"
     },
     {
       "path": "np",
@@ -18163,6 +21019,10 @@
     {
       "path": "nv",
       "name": "Nevada"
+    },
+    {
+      "path": "nyc",
+      "name": "New York City metro"
     },
     {
       "path": "nz",
@@ -18237,12 +21097,44 @@
       "name": "wtc"
     },
     {
+      "path": "oakhurst",
+      "name": "Oakhurst / Coarsegold"
+    },
+    {
+      "path": "oakland",
+      "name": "Oakland / Berkeley"
+    },
+    {
+      "path": "occanyon",
+      "name": "Santa Ana Mountains"
+    },
+    {
+      "path": "occentral",
+      "name": "Central County"
+    },
+    {
+      "path": "occoast",
+      "name": "Coast"
+    },
+    {
+      "path": "ocnorth",
+      "name": "North County"
+    },
+    {
+      "path": "ocsouth",
+      "name": "South County"
+    },
+    {
       "path": "odenwald",
       "name": "Odenwald"
     },
     {
       "path": "ogd",
       "name": "Ogden"
+    },
+    {
+      "path": "ojaivalley",
+      "name": "Ojai Valley"
     },
     {
       "path": "ola",
@@ -18265,6 +21157,14 @@
       "name": "Oregon"
     },
     {
+      "path": "orangecounty",
+      "name": "Orange County"
+    },
+    {
+      "path": "oroville",
+      "name": "Oroville"
+    },
+    {
       "path": "osl",
       "name": "Gardermoen/Oslo"
     },
@@ -18285,16 +21185,32 @@
       "name": "Tillamook"
     },
     {
+      "path": "oxnardplain",
+      "name": "Oxnard Plain"
+    },
+    {
       "path": "pa",
       "name": "Panama"
+    },
+    {
+      "path": "paloalto",
+      "name": "Palo Alto / Mountain View"
     },
     {
       "path": "palouse",
       "name": "Palouse"
     },
     {
+      "path": "paloverde",
+      "name": "Palo Verde Valley"
+    },
+    {
       "path": "pamina",
       "name": "Eurodistrikt PAMINA (DE/FR)"
+    },
+    {
+      "path": "paradise",
+      "name": "Paradise Ridge"
     },
     {
       "path": "pdt",
@@ -18313,8 +21229,20 @@
       "name": "Landkreis Peine"
     },
     {
+      "path": "peninsula",
+      "name": "Peninsula"
+    },
+    {
       "path": "per",
       "name": "Perth area"
+    },
+    {
+      "path": "perrisvalley",
+      "name": "Perris Valley"
+    },
+    {
+      "path": "petaluma",
+      "name": "Petaluma"
     },
     {
       "path": "pf",
@@ -18339,6 +21267,10 @@
     {
       "path": "pl",
       "name": "Poland"
+    },
+    {
+      "path": "pl-bia",
+      "name": "Bialystok"
     },
     {
       "path": "pl-ds",
@@ -18405,6 +21337,10 @@
       "name": "pm"
     },
     {
+      "path": "pl-podlasie",
+      "name": "Podlasie"
+    },
+    {
       "path": "pl-sk",
       "name": "sk"
     },
@@ -18425,8 +21361,16 @@
       "name": "wp"
     },
     {
+      "path": "placerville",
+      "name": "Placerville"
+    },
+    {
       "path": "plq",
       "name": "Vakarų Lietuva"
+    },
+    {
+      "path": "plumas",
+      "name": "Plumas County"
     },
     {
       "path": "pm",
@@ -18439,6 +21383,22 @@
     {
       "path": "pnw",
       "name": "Pacific Northwest"
+    },
+    {
+      "path": "pointreyes",
+      "name": "West Marin"
+    },
+    {
+      "path": "pomonavalley",
+      "name": "Pomona Valley"
+    },
+    {
+      "path": "porterville",
+      "name": "Porterville"
+    },
+    {
+      "path": "poz",
+      "name": "Poznań / Wielkopolska"
     },
     {
       "path": "pr",
@@ -18465,12 +21425,112 @@
       "name": "868"
     },
     {
+      "path": "pt-acores",
+      "name": "Açores"
+    },
+    {
+      "path": "pt-alentejo",
+      "name": "Alentejo"
+    },
+    {
+      "path": "pt-algarve",
+      "name": "Algarve"
+    },
+    {
       "path": "pt-anepc",
       "name": "anepc"
     },
     {
       "path": "pt-anepc-norte",
       "name": "norte"
+    },
+    {
+      "path": "pt-aveiro",
+      "name": "Aveiro"
+    },
+    {
+      "path": "pt-beja",
+      "name": "Beja"
+    },
+    {
+      "path": "pt-braga",
+      "name": "Braga"
+    },
+    {
+      "path": "pt-braganca",
+      "name": "Bragança"
+    },
+    {
+      "path": "pt-castelo-branco",
+      "name": "Castelo Branco"
+    },
+    {
+      "path": "pt-centro",
+      "name": "Centro"
+    },
+    {
+      "path": "pt-coimbra",
+      "name": "Coimbra"
+    },
+    {
+      "path": "pt-evora",
+      "name": "Évora"
+    },
+    {
+      "path": "pt-faro",
+      "name": "Faro"
+    },
+    {
+      "path": "pt-guarda",
+      "name": "Guarda"
+    },
+    {
+      "path": "pt-ilha-da-graciosa",
+      "name": "Ilha da Graciosa"
+    },
+    {
+      "path": "pt-ilha-da-madeira",
+      "name": "Ilha da Madeira"
+    },
+    {
+      "path": "pt-ilha-das-flores",
+      "name": "Ilha das Flores"
+    },
+    {
+      "path": "pt-ilha-de-porto-santo",
+      "name": "Ilha de Porto Santo"
+    },
+    {
+      "path": "pt-ilha-de-santa-maria",
+      "name": "Ilha de Santa Maria"
+    },
+    {
+      "path": "pt-ilha-de-sao-jorge",
+      "name": "Ilha de São Jorge"
+    },
+    {
+      "path": "pt-ilha-de-sao-miguel",
+      "name": "Ilha de São Miguel"
+    },
+    {
+      "path": "pt-ilha-do-corvo",
+      "name": "Ilha do Corvo"
+    },
+    {
+      "path": "pt-ilha-do-faial",
+      "name": "Ilha do Faial"
+    },
+    {
+      "path": "pt-ilha-do-pico",
+      "name": "Ilha do Pico"
+    },
+    {
+      "path": "pt-ilha-terceira",
+      "name": "Ilha Terceira"
+    },
+    {
+      "path": "pt-leiria",
+      "name": "Leiria"
     },
     {
       "path": "pt-lis",
@@ -18489,16 +21549,44 @@
       "name": "lisboa"
     },
     {
+      "path": "pt-lisboa-vale-do-tejo",
+      "name": "Lisboa e Vale do Tejo"
+    },
+    {
+      "path": "pt-madeira",
+      "name": "Madeira"
+    },
+    {
       "path": "pt-norte",
       "name": "norte"
+    },
+    {
+      "path": "pt-portalegre",
+      "name": "Portalegre"
     },
     {
       "path": "pt-porto",
       "name": "porto"
     },
     {
+      "path": "pt-santarem",
+      "name": "Santarém"
+    },
+    {
       "path": "pt-setubal",
       "name": "setubal"
+    },
+    {
+      "path": "pt-viana-do-castelo",
+      "name": "Viana do Castelo"
+    },
+    {
+      "path": "pt-vila-real",
+      "name": "Vila Real"
+    },
+    {
+      "path": "pt-viseu",
+      "name": "Viseu"
     },
     {
       "path": "puw",
@@ -18521,8 +21609,20 @@
       "name": "Roseburg"
     },
     {
+      "path": "rdu",
+      "name": "RDUMesh service area"
+    },
+    {
       "path": "re",
       "name": "Réunion"
+    },
+    {
+      "path": "redding",
+      "name": "Redding"
+    },
+    {
+      "path": "redwoodcity",
+      "name": "Redwood City / Menlo Park"
     },
     {
       "path": "rennsteigmesh",
@@ -18545,6 +21645,14 @@
       "name": "Rheinland"
     },
     {
+      "path": "ridgecrest",
+      "name": "Indian Wells Valley"
+    },
+    {
+      "path": "riverside",
+      "name": "Riverside County"
+    },
+    {
       "path": "ro",
       "name": "Romania"
     },
@@ -18554,7 +21662,7 @@
     },
     {
       "path": "ro-b",
-      "name": "b"
+      "name": "Bucuresti"
     },
     {
       "path": "ro-bv",
@@ -18629,6 +21737,10 @@
       "name": "Rwanda"
     },
     {
+      "path": "rze",
+      "name": "Rzeszów / Podkarpacie"
+    },
+    {
       "path": "s-id",
       "name": "Southern Idaho"
     },
@@ -18649,6 +21761,18 @@
       "name": "Großregion (Saar-Lor-Lux)"
     },
     {
+      "path": "sacramento",
+      "name": "Sacramento Central"
+    },
+    {
+      "path": "sacramentofoothills",
+      "name": "Sacramento Foothills"
+    },
+    {
+      "path": "salinas",
+      "name": "Salinas Valley"
+    },
+    {
       "path": "salishmesh",
       "name": "Salish Sea / Gulf Islands"
     },
@@ -18657,12 +21781,88 @@
       "name": "Samtgemeinde Tostedt"
     },
     {
+      "path": "sanbernardino",
+      "name": "San Bernardino County"
+    },
+    {
+      "path": "sandiego",
+      "name": "San Diego County"
+    },
+    {
+      "path": "sanger",
+      "name": "Sanger / Reedley"
+    },
+    {
+      "path": "sanjacintomountains",
+      "name": "San Jacinto Mountains"
+    },
+    {
+      "path": "sanjacintovalley",
+      "name": "San Jacinto Valley"
+    },
+    {
+      "path": "sanjose",
+      "name": "San Jose"
+    },
+    {
+      "path": "sanmateo",
+      "name": "Mid-Peninsula"
+    },
+    {
+      "path": "sanrafael",
+      "name": "Central Marin"
+    },
+    {
+      "path": "sanramon",
+      "name": "San Ramon Valley"
+    },
+    {
+      "path": "santabarbara",
+      "name": "Santa Barbara County"
+    },
+    {
+      "path": "santaclarariver",
+      "name": "Santa Clara River Valley"
+    },
+    {
+      "path": "santaclarita",
+      "name": "Santa Clarita Valley"
+    },
+    {
+      "path": "santacruz",
+      "name": "Santa Cruz City"
+    },
+    {
+      "path": "santamaria",
+      "name": "Santa Maria Valley"
+    },
+    {
+      "path": "santamonicamtns",
+      "name": "Santa Monica Mountains"
+    },
+    {
+      "path": "santarosa",
+      "name": "Santa Rosa"
+    },
+    {
+      "path": "santaynez",
+      "name": "Santa Ynez Valley"
+    },
+    {
       "path": "sauerland",
       "name": "Sauerland"
     },
     {
       "path": "sb",
       "name": "Solomon Islands"
+    },
+    {
+      "path": "sbmountains",
+      "name": "San Bernardino Mountains"
+    },
+    {
+      "path": "sbvalley",
+      "name": "San Bernardino Valley"
     },
     {
       "path": "sc",
@@ -18677,12 +21877,40 @@
       "name": "Scotland"
     },
     {
+      "path": "scottsvalley",
+      "name": "San Lorenzo Valley"
+    },
+    {
       "path": "sd",
       "name": "Sudan"
     },
     {
+      "path": "sdbackcountry",
+      "name": "Backcountry"
+    },
+    {
+      "path": "sdeast",
+      "name": "East County"
+    },
+    {
+      "path": "sdmetro",
+      "name": "Metro"
+    },
+    {
       "path": "sdn",
       "name": "Sandane"
+    },
+    {
+      "path": "sdnorthcoast",
+      "name": "North County Coastal"
+    },
+    {
+      "path": "sdnorthinland",
+      "name": "North County Inland"
+    },
+    {
+      "path": "sdsouth",
+      "name": "South Bay"
     },
     {
       "path": "se",
@@ -18809,12 +22037,24 @@
       "name": "Seevetal"
     },
     {
+      "path": "sf",
+      "name": "San Francisco"
+    },
+    {
+      "path": "sfv",
+      "name": "San Fernando Valley"
+    },
+    {
       "path": "sg",
       "name": "Singapore"
     },
     {
       "path": "sg-tostedt",
       "name": "tostedt"
+    },
+    {
+      "path": "sgv",
+      "name": "San Gabriel Valley"
     },
     {
       "path": "sh",
@@ -18837,6 +22077,18 @@
       "name": "Slovenia"
     },
     {
+      "path": "sierracounty",
+      "name": "Sierra County"
+    },
+    {
+      "path": "sierranevada",
+      "name": "Sierra Nevada"
+    },
+    {
+      "path": "simivalley",
+      "name": "Simi Valley"
+    },
+    {
       "path": "sj",
       "name": "Svalbard & Jan Mayen"
     },
@@ -18846,11 +22098,47 @@
     },
     {
       "path": "sk-ba",
-      "name": "ba"
+      "name": "Bratislava"
+    },
+    {
+      "path": "sk-ke",
+      "name": "Kosice"
     },
     {
       "path": "sk-ma",
       "name": "ma"
+    },
+    {
+      "path": "sk-mt",
+      "name": "Turiec"
+    },
+    {
+      "path": "sk-nr",
+      "name": "Nitra"
+    },
+    {
+      "path": "sk-pd",
+      "name": "Prievidza"
+    },
+    {
+      "path": "sk-po",
+      "name": "Presov"
+    },
+    {
+      "path": "sk-pp",
+      "name": "Poprad"
+    },
+    {
+      "path": "sk-vychod",
+      "name": "Vychodne Slovensko"
+    },
+    {
+      "path": "sk-za",
+      "name": "Zilina"
+    },
+    {
+      "path": "sk-zv",
+      "name": "Zvolen"
     },
     {
       "path": "skn",
@@ -18867,6 +22155,22 @@
     {
       "path": "sle",
       "name": "Salem / Keizer"
+    },
+    {
+      "path": "slo",
+      "name": "SLO County"
+    },
+    {
+      "path": "slocity",
+      "name": "San Luis Obispo"
+    },
+    {
+      "path": "slonorth",
+      "name": "North County"
+    },
+    {
+      "path": "slosouth",
+      "name": "South County"
     },
     {
       "path": "sm",
@@ -18897,6 +22201,10 @@
       "name": "Somalia"
     },
     {
+      "path": "socal",
+      "name": "Southern California"
+    },
+    {
       "path": "sog",
       "name": "Sogndal"
     },
@@ -18905,8 +22213,32 @@
       "name": "Sørkjosen"
     },
     {
+      "path": "sonoma",
+      "name": "Sonoma Valley"
+    },
+    {
+      "path": "sonora",
+      "name": "Sonora"
+    },
+    {
+      "path": "southbay",
+      "name": "South Bay"
+    },
+    {
+      "path": "southcoast",
+      "name": "South Coast"
+    },
+    {
       "path": "southisland",
       "name": "South Vancouver Island / Victoria"
+    },
+    {
+      "path": "southlaketahoe",
+      "name": "South Lake Tahoe"
+    },
+    {
+      "path": "southplacer",
+      "name": "South Placer"
     },
     {
       "path": "sqq",
@@ -18937,6 +22269,14 @@
       "name": "St. George"
     },
     {
+      "path": "sthelena",
+      "name": "Upvalley"
+    },
+    {
+      "path": "stockton",
+      "name": "Stockton"
+    },
+    {
       "path": "suedbaden",
       "name": "Regierungsbezirk Südbaden"
     },
@@ -18947,6 +22287,14 @@
     {
       "path": "sun",
       "name": "Sun Valley / Ketchum"
+    },
+    {
+      "path": "sunnyvale",
+      "name": "Sunnyvale / Santa Clara"
+    },
+    {
+      "path": "susanville",
+      "name": "Susanville"
     },
     {
       "path": "sv",
@@ -18989,6 +22337,18 @@
       "name": "Eswatini"
     },
     {
+      "path": "szz",
+      "name": "Szczecin / Pomorze Zachodnie"
+    },
+    {
+      "path": "tahoe",
+      "name": "Lake Tahoe"
+    },
+    {
+      "path": "tahoecity",
+      "name": "North Lake Tahoe"
+    },
+    {
       "path": "taunus",
       "name": "Taunus"
     },
@@ -19005,6 +22365,18 @@
       "name": "Chad"
     },
     {
+      "path": "tehachapi",
+      "name": "Tehachapi / Mojave"
+    },
+    {
+      "path": "tehama",
+      "name": "Tehama County"
+    },
+    {
+      "path": "temeculavalley",
+      "name": "Temecula Valley"
+    },
+    {
       "path": "tf",
       "name": "French Southern Territories"
     },
@@ -19017,6 +22389,10 @@
       "name": "Thailand"
     },
     {
+      "path": "threerivers",
+      "name": "Sequoia & Kings Canyon"
+    },
+    {
       "path": "tj",
       "name": "Tajikistan"
     },
@@ -19027,6 +22403,10 @@
     {
       "path": "tl",
       "name": "Timor-Leste"
+    },
+    {
+      "path": "tln",
+      "name": "Canton de Toulon"
     },
     {
       "path": "tm",
@@ -19049,6 +22429,10 @@
       "name": "Türkiye"
     },
     {
+      "path": "tracy",
+      "name": "Tracy / Manteca"
+    },
+    {
       "path": "trd",
       "name": "Værnes/Trondheim"
     },
@@ -19061,8 +22445,24 @@
       "name": "Trier"
     },
     {
+      "path": "truckee",
+      "name": "Truckee"
+    },
+    {
       "path": "tt",
       "name": "Trinidad & Tobago"
+    },
+    {
+      "path": "tulare",
+      "name": "Tulare City"
+    },
+    {
+      "path": "tulelake",
+      "name": "Tulelake Basin"
+    },
+    {
+      "path": "turlock",
+      "name": "Turlock"
     },
     {
       "path": "tv",
@@ -19089,6 +22489,10 @@
       "name": "Uganda"
     },
     {
+      "path": "ukiah",
+      "name": "Ukiah Valley"
+    },
+    {
       "path": "um",
       "name": "U.S. Outlying Islands"
     },
@@ -19109,32 +22513,124 @@
       "name": "al"
     },
     {
+      "path": "us-al-auo",
+      "name": "Auburn AL Mesh Region"
+    },
+    {
+      "path": "us-al-bhm",
+      "name": "Birmingham AL Mesh Region"
+    },
+    {
+      "path": "us-al-dhn",
+      "name": "Dothan AL Mesh Region"
+    },
+    {
+      "path": "us-al-guf",
+      "name": "Gulf Shores AL Mesh Region"
+    },
+    {
+      "path": "us-al-mgm",
+      "name": "Montgomery AL Mesh Region"
+    },
+    {
+      "path": "us-apf",
+      "name": "Naples FL Mesh Region"
+    },
+    {
+      "path": "us-ar",
+      "name": "Arkansas"
+    },
+    {
       "path": "us-bay",
       "name": "bay"
+    },
+    {
+      "path": "us-bna",
+      "name": "Nashville TN Mesh Region"
     },
     {
       "path": "us-ca",
       "name": "ca"
     },
     {
+      "path": "us-cha",
+      "name": "Chattanooga TN Mesh Region"
+    },
+    {
       "path": "us-co",
       "name": "co"
+    },
+    {
+      "path": "us-dab",
+      "name": "Daytona Beach FL Mesh Region"
+    },
+    {
+      "path": "us-dc",
+      "name": "District of Columbia"
+    },
+    {
+      "path": "us-de",
+      "name": "Delaware"
+    },
+    {
+      "path": "us-east",
+      "name": "East Coast Region"
+    },
+    {
+      "path": "us-ecp",
+      "name": "Panama City FL Mesh Region"
     },
     {
       "path": "us-fl",
       "name": "fl"
     },
     {
+      "path": "us-fl-cfl",
+      "name": "Central FL Mesh Region"
+    },
+    {
+      "path": "us-fl-gulf",
+      "name": "Gulf County FL Mesh Region"
+    },
+    {
+      "path": "us-fl-north",
+      "name": "North FL Mesh Region"
+    },
+    {
+      "path": "us-fl-nw",
+      "name": "Northwest FL Mesh Region"
+    },
+    {
       "path": "us-fl-pns",
       "name": "pns"
+    },
+    {
+      "path": "us-fl-south",
+      "name": "South FL Mesh Region"
+    },
+    {
+      "path": "us-fpr",
+      "name": "Fort Pierce FL Mesh Region"
+    },
+    {
+      "path": "us-fpy",
+      "name": "Perry-Foley FL Mesh Region"
     },
     {
       "path": "us-ga",
       "name": "ga"
     },
     {
+      "path": "us-ga-ags",
+      "name": "Augusta GA Mesh Region"
+    },
+    {
       "path": "us-ga-atl",
       "name": "atl"
+    },
+    {
+      "path": "us-ga-mac",
+      "name": "Macon GA Mesh Region"
     },
     {
       "path": "us-ga-ne",
@@ -19149,32 +22645,156 @@
       "name": "nw"
     },
     {
+      "path": "us-ga-sav",
+      "name": "Savannah GA Mesh Region"
+    },
+    {
+      "path": "us-gc",
+      "name": "Gulf Coast Region"
+    },
+    {
+      "path": "us-jax",
+      "name": "Jacksonville FL Mesh Region"
+    },
+    {
+      "path": "us-ky",
+      "name": "Kentucky"
+    },
+    {
+      "path": "us-la",
+      "name": "Louisiana"
+    },
+    {
+      "path": "us-la-lc",
+      "name": "Lake Charles LA Mesh"
+    },
+    {
+      "path": "us-la-lc-mm",
+      "name": "Lake Charles LA Mesh, MeshMapper variant of us-la-lc"
+    },
+    {
+      "path": "us-la-lft",
+      "name": "Lafayette LA Mesh"
+    },
+    {
+      "path": "us-la-lft-mm",
+      "name": "Lafayette LA Mesh, MeshMapper variant of us-la-lft"
+    },
+    {
+      "path": "us-la-msy",
+      "name": "Gulf Coast LA Mesh"
+    },
+    {
+      "path": "us-la-msy-mm",
+      "name": "Gulf Coast LA Mesh, MeshMapper variant of us-la-msy"
+    },
+    {
       "path": "us-lax",
       "name": "lax"
+    },
+    {
+      "path": "us-lcq",
+      "name": "Five Points FL Mesh Region"
     },
     {
       "path": "us-mci",
       "name": "mci"
     },
     {
+      "path": "us-md",
+      "name": "Maryland"
+    },
+    {
+      "path": "us-mlb",
+      "name": "Melbourne FL Mesh Region"
+    },
+    {
       "path": "us-mo",
       "name": "mo"
+    },
+    {
+      "path": "us-ms",
+      "name": "Mississippi"
+    },
+    {
+      "path": "us-ms-gpt",
+      "name": "Gulfport-Biloxi MS Mesh Region"
+    },
+    {
+      "path": "us-ms-gpt-mm",
+      "name": "Gulfport-Biloxi MS Mesh Region, MeshMapper variant of us-ms-gpt"
+    },
+    {
+      "path": "us-ms-jan",
+      "name": "Jackson MS Mesh Region"
+    },
+    {
+      "path": "us-ms-ne",
+      "name": "NE MS Mesh Region"
+    },
+    {
+      "path": "us-ms-ne-mm",
+      "name": "NE MS Mesh Region, MeshMapper variant of us-ms-ne"
     },
     {
       "path": "us-nc",
       "name": "nc"
     },
     {
+      "path": "us-ocf",
+      "name": "Ocala FL Mesh Region"
+    },
+    {
+      "path": "us-ok",
+      "name": "Oklahoma"
+    },
+    {
+      "path": "us-orl",
+      "name": "Orlando FL Mesh Region"
+    },
+    {
       "path": "us-pa",
       "name": "pa"
+    },
+    {
+      "path": "us-pgd",
+      "name": "Charlotte FL Mesh Region"
+    },
+    {
+      "path": "us-pns",
+      "name": "Pensacola FL Mesh Region"
+    },
+    {
+      "path": "us-ppm",
+      "name": "Pompano Beach FL Mesh Region"
+    },
+    {
+      "path": "us-rsw",
+      "name": "Lee FL Mesh Region"
+    },
+    {
+      "path": "us-sc",
+      "name": "South Carolina"
     },
     {
       "path": "us-se",
       "name": "se"
     },
     {
+      "path": "us-south",
+      "name": "South Region"
+    },
+    {
       "path": "us-southeast",
       "name": "southeast"
+    },
+    {
+      "path": "us-srq",
+      "name": "Sarasota-Bradenton FL Mesh Region"
+    },
+    {
+      "path": "us-tlh",
+      "name": "Tallahassee FL Mesh Region"
     },
     {
       "path": "us-tn",
@@ -19185,8 +22805,40 @@
       "name": "east"
     },
     {
+      "path": "us-tpa",
+      "name": "Tampa FL Mesh Region"
+    },
+    {
       "path": "us-tx",
       "name": "tx"
+    },
+    {
+      "path": "us-tys",
+      "name": "Knoxville TN Mesh Region"
+    },
+    {
+      "path": "us-ust",
+      "name": "St Augustine FL Mesh Region"
+    },
+    {
+      "path": "us-va",
+      "name": "Virginia"
+    },
+    {
+      "path": "us-va-nrv",
+      "name": "New River Valley VA Area Region"
+    },
+    {
+      "path": "us-va-roa",
+      "name": "Roanoke VA Mesh Region"
+    },
+    {
+      "path": "us-va-sw",
+      "name": "Southwest VA Region"
+    },
+    {
+      "path": "us-vps",
+      "name": "Destin-Fort Walton FL Mesh Region"
     },
     {
       "path": "us-wa",
@@ -19195,6 +22847,14 @@
     {
       "path": "us-wi",
       "name": "wi"
+    },
+    {
+      "path": "us-wv",
+      "name": "West Virginia"
+    },
+    {
+      "path": "us-zph",
+      "name": "Zephyrhills FL Mesh Region"
     },
     {
       "path": "ut",
@@ -19217,6 +22877,10 @@
       "name": "Vatican City"
     },
     {
+      "path": "vallejo",
+      "name": "Vallejo / Benicia"
+    },
+    {
       "path": "vanisle",
       "name": "Vancouver Island"
     },
@@ -19237,12 +22901,28 @@
       "name": "Venezuela"
     },
     {
+      "path": "ventura",
+      "name": "Ventura County"
+    },
+    {
       "path": "vg",
       "name": "British Virgin Islands"
     },
     {
       "path": "vi",
       "name": "U.S. Virgin Islands"
+    },
+    {
+      "path": "victorvalley",
+      "name": "Victor Valley"
+    },
+    {
+      "path": "visalia",
+      "name": "Visalia"
+    },
+    {
+      "path": "vitebsk",
+      "name": "Vitebsk"
     },
     {
       "path": "vn",
@@ -19265,12 +22945,36 @@
       "name": "Washington"
     },
     {
+      "path": "walnutcreek",
+      "name": "Diablo Valley"
+    },
+    {
+      "path": "watsonville",
+      "name": "Pajaro Valley"
+    },
+    {
+      "path": "waw",
+      "name": "Warszawa / Mazowsze"
+    },
+    {
       "path": "wb",
       "name": "Wasatch Back"
     },
     {
+      "path": "weaverville",
+      "name": "Weaverville"
+    },
+    {
       "path": "west",
       "name": "Entire mesh"
+    },
+    {
+      "path": "westcontracosta",
+      "name": "West Contra Costa"
+    },
+    {
+      "path": "westernriverside",
+      "name": "Western Riverside"
     },
     {
       "path": "westerwald",
@@ -19281,12 +22985,40 @@
       "name": "Westpfalz"
     },
     {
+      "path": "westsac",
+      "name": "West Sacramento"
+    },
+    {
+      "path": "westsf",
+      "name": "West SF"
+    },
+    {
+      "path": "westside",
+      "name": "Westside"
+    },
+    {
+      "path": "westsonoma",
+      "name": "West Sonoma"
+    },
+    {
       "path": "wf",
       "name": "Wallis & Futuna"
     },
     {
+      "path": "willows",
+      "name": "Glenn County"
+    },
+    {
       "path": "wls",
       "name": "Wales"
+    },
+    {
+      "path": "woodland",
+      "name": "Woodland"
+    },
+    {
+      "path": "wro",
+      "name": "Wrocław / Dolny Śląsk"
     },
     {
       "path": "ws",
@@ -19313,8 +23045,20 @@
       "name": "Yakima"
     },
     {
+      "path": "yreka",
+      "name": "Yreka"
+    },
+    {
       "path": "yt",
       "name": "Mayotte"
+    },
+    {
+      "path": "yubasutter",
+      "name": "Yuba-Sutter"
+    },
+    {
+      "path": "yyc",
+      "name": "Calgary & Airdrie regional identifier"
     },
     {
       "path": "za",
