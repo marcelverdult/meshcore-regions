@@ -4,22 +4,22 @@
   "regions": [
     {
       "code": "it-abr",
-      "name": "abr",
+      "name": "Abruzzo",
       "regions": []
     },
     {
       "code": "it-bas",
-      "name": "bas",
+      "name": "Basilicata",
       "regions": []
     },
     {
       "code": "it-cal",
-      "name": "cal",
+      "name": "Calabria",
       "regions": []
     },
     {
       "code": "it-cam",
-      "name": "cam",
+      "name": "Campania",
       "regions": []
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "it-fvg",
-      "name": "fvg",
+      "name": "Friuli Venezia Giulia",
       "regions": [
         {
           "code": "it-fvg-pn",
@@ -145,12 +145,12 @@
     },
     {
       "code": "it-mar",
-      "name": "mar",
+      "name": "Marche",
       "regions": []
     },
     {
       "code": "it-mol",
-      "name": "mol",
+      "name": "Molise",
       "regions": []
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "code": "it-pug",
-      "name": "pug",
+      "name": "Puglia",
       "regions": [
         {
           "code": "it-pug-le",
@@ -218,17 +218,17 @@
     },
     {
       "code": "it-sar",
-      "name": "sar",
+      "name": "Sardegna",
       "regions": []
     },
     {
       "code": "it-sic",
-      "name": "sic",
+      "name": "Sicilia",
       "regions": []
     },
     {
       "code": "it-taa",
-      "name": "taa",
+      "name": "Trentino-Alto Adige",
       "regions": []
     },
     {
@@ -244,17 +244,17 @@
     },
     {
       "code": "it-umb",
-      "name": "umb",
+      "name": "Umbria",
       "regions": []
     },
     {
       "code": "it-vda",
-      "name": "vda",
+      "name": "Valle d'Aosta",
       "regions": []
     },
     {
       "code": "it-ven",
-      "name": "ven",
+      "name": "Veneto",
       "regions": []
     }
   ]

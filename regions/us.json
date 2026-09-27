@@ -55,6 +55,23 @@
       ]
     },
     {
+      "code": "east",
+      "name": "Broad Northeast US region",
+      "regions": [
+        {
+          "code": "northeast",
+          "name": "Northeast US",
+          "regions": [
+            {
+              "code": "nyc",
+              "name": "New York City metro",
+              "regions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "code": "erc",
       "name": "Emergency Response Communications",
       "regions": []
@@ -124,6 +141,37 @@
     {
       "code": "us-al",
       "name": "al",
+      "regions": [
+        {
+          "code": "us-al-auo",
+          "name": "Auburn AL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-al-bhm",
+          "name": "Birmingham AL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-al-dhn",
+          "name": "Dothan AL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-al-guf",
+          "name": "Gulf Shores AL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-al-mgm",
+          "name": "Montgomery AL Mesh Region",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "us-ar",
+      "name": "Arkansas",
       "regions": []
     },
     {
@@ -142,12 +190,152 @@
       "regions": []
     },
     {
+      "code": "us-dc",
+      "name": "District of Columbia",
+      "regions": []
+    },
+    {
+      "code": "us-de",
+      "name": "Delaware",
+      "regions": []
+    },
+    {
+      "code": "us-east",
+      "name": "East Coast Region",
+      "regions": []
+    },
+    {
       "code": "us-fl",
       "name": "fl",
       "regions": [
         {
+          "code": "us-apf",
+          "name": "Naples FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-dab",
+          "name": "Daytona Beach FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-ecp",
+          "name": "Panama City FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-fl-cfl",
+          "name": "Central FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-fl-gulf",
+          "name": "Gulf County FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-fl-north",
+          "name": "North FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-fl-nw",
+          "name": "Northwest FL Mesh Region",
+          "regions": []
+        },
+        {
           "code": "us-fl-pns",
           "name": "pns",
+          "regions": []
+        },
+        {
+          "code": "us-fl-south",
+          "name": "South FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-fpr",
+          "name": "Fort Pierce FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-fpy",
+          "name": "Perry-Foley FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-jax",
+          "name": "Jacksonville FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-lcq",
+          "name": "Five Points FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-mlb",
+          "name": "Melbourne FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-ocf",
+          "name": "Ocala FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-orl",
+          "name": "Orlando FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-pgd",
+          "name": "Charlotte FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-pns",
+          "name": "Pensacola FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-ppm",
+          "name": "Pompano Beach FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-rsw",
+          "name": "Lee FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-srq",
+          "name": "Sarasota-Bradenton FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-tlh",
+          "name": "Tallahassee FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-tpa",
+          "name": "Tampa FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-ust",
+          "name": "St Augustine FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-vps",
+          "name": "Destin-Fort Walton FL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-zph",
+          "name": "Zephyrhills FL Mesh Region",
           "regions": []
         }
       ]
@@ -157,8 +345,18 @@
       "name": "ga",
       "regions": [
         {
+          "code": "us-ga-ags",
+          "name": "Augusta GA Mesh Region",
+          "regions": []
+        },
+        {
           "code": "us-ga-atl",
           "name": "atl",
+          "regions": []
+        },
+        {
+          "code": "us-ga-mac",
+          "name": "Macon GA Mesh Region",
           "regions": []
         },
         {
@@ -175,6 +373,57 @@
           "code": "us-ga-nw",
           "name": "nw",
           "regions": []
+        },
+        {
+          "code": "us-ga-sav",
+          "name": "Savannah GA Mesh Region",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "us-gc",
+      "name": "Gulf Coast Region",
+      "regions": []
+    },
+    {
+      "code": "us-ky",
+      "name": "Kentucky",
+      "regions": []
+    },
+    {
+      "code": "us-la",
+      "name": "Louisiana",
+      "regions": [
+        {
+          "code": "us-la-lc",
+          "name": "Lake Charles LA Mesh",
+          "regions": []
+        },
+        {
+          "code": "us-la-lc-mm",
+          "name": "Lake Charles LA Mesh, MeshMapper variant of us-la-lc",
+          "regions": []
+        },
+        {
+          "code": "us-la-lft",
+          "name": "Lafayette LA Mesh",
+          "regions": []
+        },
+        {
+          "code": "us-la-lft-mm",
+          "name": "Lafayette LA Mesh, MeshMapper variant of us-la-lft",
+          "regions": []
+        },
+        {
+          "code": "us-la-msy",
+          "name": "Gulf Coast LA Mesh",
+          "regions": []
+        },
+        {
+          "code": "us-la-msy-mm",
+          "name": "Gulf Coast LA Mesh, MeshMapper variant of us-la-msy",
+          "regions": []
         }
       ]
     },
@@ -189,13 +438,60 @@
       "regions": []
     },
     {
+      "code": "us-md",
+      "name": "Maryland",
+      "regions": []
+    },
+    {
       "code": "us-mo",
       "name": "mo",
       "regions": []
     },
     {
+      "code": "us-ms",
+      "name": "Mississippi",
+      "regions": [
+        {
+          "code": "us-ms-gpt",
+          "name": "Gulfport-Biloxi MS Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-ms-gpt-mm",
+          "name": "Gulfport-Biloxi MS Mesh Region, MeshMapper variant of us-ms-gpt",
+          "regions": []
+        },
+        {
+          "code": "us-ms-jan",
+          "name": "Jackson MS Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-ms-ne",
+          "name": "NE MS Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-ms-ne-mm",
+          "name": "NE MS Mesh Region, MeshMapper variant of us-ms-ne",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "us-nc",
       "name": "nc",
+      "regions": [
+        {
+          "code": "rdu",
+          "name": "RDUMesh service area",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "us-ok",
+      "name": "Oklahoma",
       "regions": []
     },
     {
@@ -204,8 +500,18 @@
       "regions": []
     },
     {
+      "code": "us-sc",
+      "name": "South Carolina",
+      "regions": []
+    },
+    {
       "code": "us-se",
       "name": "se",
+      "regions": []
+    },
+    {
+      "code": "us-south",
+      "name": "South Region",
       "regions": []
     },
     {
@@ -218,8 +524,23 @@
       "name": "tn",
       "regions": [
         {
+          "code": "us-bna",
+          "name": "Nashville TN Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-cha",
+          "name": "Chattanooga TN Mesh Region",
+          "regions": []
+        },
+        {
           "code": "us-tn-east",
           "name": "east",
+          "regions": []
+        },
+        {
+          "code": "us-tys",
+          "name": "Knoxville TN Mesh Region",
           "regions": []
         }
       ]
@@ -227,7 +548,34 @@
     {
       "code": "us-tx",
       "name": "tx",
-      "regions": []
+      "regions": [
+        {
+          "code": "hou",
+          "name": "Houston TX Mesh Region",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "us-va",
+      "name": "Virginia",
+      "regions": [
+        {
+          "code": "us-va-nrv",
+          "name": "New River Valley VA Area Region",
+          "regions": []
+        },
+        {
+          "code": "us-va-roa",
+          "name": "Roanoke VA Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-va-sw",
+          "name": "Southwest VA Region",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "us-wa",
@@ -240,6 +588,11 @@
       "regions": []
     },
     {
+      "code": "us-wv",
+      "name": "West Virginia",
+      "regions": []
+    },
+    {
       "code": "utc",
       "name": "Utah County / Provo",
       "regions": []
@@ -248,6 +601,1000 @@
       "code": "west",
       "name": "Entire mesh",
       "regions": [
+        {
+          "code": "california",
+          "name": "California",
+          "regions": [
+            {
+              "code": "bayarea",
+              "name": "San Francisco Bay Area",
+              "regions": [
+                {
+                  "code": "eastbay",
+                  "name": "East Bay",
+                  "regions": [
+                    {
+                      "code": "eastcontracosta",
+                      "name": "East Contra Costa",
+                      "regions": []
+                    },
+                    {
+                      "code": "fremont",
+                      "name": "Southern Alameda",
+                      "regions": []
+                    },
+                    {
+                      "code": "hayward",
+                      "name": "Hayward / San Leandro",
+                      "regions": []
+                    },
+                    {
+                      "code": "livermore",
+                      "name": "Tri-Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "oakland",
+                      "name": "Oakland / Berkeley",
+                      "regions": []
+                    },
+                    {
+                      "code": "sanramon",
+                      "name": "San Ramon Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "walnutcreek",
+                      "name": "Diablo Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "westcontracosta",
+                      "name": "West Contra Costa",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "northbay",
+                  "name": "North Bay",
+                  "regions": [
+                    {
+                      "code": "fairfield",
+                      "name": "Fairfield / Vacaville",
+                      "regions": []
+                    },
+                    {
+                      "code": "healdsburg",
+                      "name": "Northern Sonoma",
+                      "regions": []
+                    },
+                    {
+                      "code": "millvalley",
+                      "name": "Southern Marin",
+                      "regions": []
+                    },
+                    {
+                      "code": "napa",
+                      "name": "Napa City",
+                      "regions": []
+                    },
+                    {
+                      "code": "petaluma",
+                      "name": "Petaluma",
+                      "regions": []
+                    },
+                    {
+                      "code": "pointreyes",
+                      "name": "West Marin",
+                      "regions": []
+                    },
+                    {
+                      "code": "sanrafael",
+                      "name": "Central Marin",
+                      "regions": []
+                    },
+                    {
+                      "code": "santarosa",
+                      "name": "Santa Rosa",
+                      "regions": []
+                    },
+                    {
+                      "code": "sonoma",
+                      "name": "Sonoma Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "sthelena",
+                      "name": "Upvalley",
+                      "regions": []
+                    },
+                    {
+                      "code": "vallejo",
+                      "name": "Vallejo / Benicia",
+                      "regions": []
+                    },
+                    {
+                      "code": "westsonoma",
+                      "name": "West Sonoma",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "peninsula",
+                  "name": "Peninsula",
+                  "regions": [
+                    {
+                      "code": "halfmoonbay",
+                      "name": "Coastside",
+                      "regions": []
+                    },
+                    {
+                      "code": "northpeninsula",
+                      "name": "North Peninsula",
+                      "regions": []
+                    },
+                    {
+                      "code": "redwoodcity",
+                      "name": "Redwood City / Menlo Park",
+                      "regions": []
+                    },
+                    {
+                      "code": "sanmateo",
+                      "name": "Mid-Peninsula",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "sf",
+                  "name": "San Francisco",
+                  "regions": [
+                    {
+                      "code": "eastsf",
+                      "name": "East SF",
+                      "regions": []
+                    },
+                    {
+                      "code": "westsf",
+                      "name": "West SF",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "southbay",
+                  "name": "South Bay",
+                  "regions": [
+                    {
+                      "code": "cupertino",
+                      "name": "West Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "gilroy",
+                      "name": "Gilroy / Morgan Hill",
+                      "regions": []
+                    },
+                    {
+                      "code": "paloalto",
+                      "name": "Palo Alto / Mountain View",
+                      "regions": []
+                    },
+                    {
+                      "code": "sanjose",
+                      "name": "San Jose",
+                      "regions": []
+                    },
+                    {
+                      "code": "sunnyvale",
+                      "name": "Sunnyvale / Santa Clara",
+                      "regions": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "centralcoast",
+              "name": "Central Coast",
+              "regions": [
+                {
+                  "code": "bigsur",
+                  "name": "Big Sur",
+                  "regions": []
+                },
+                {
+                  "code": "hollister",
+                  "name": "Hollister",
+                  "regions": []
+                },
+                {
+                  "code": "king",
+                  "name": "King City",
+                  "regions": []
+                },
+                {
+                  "code": "montereybay",
+                  "name": "Monterey Bay",
+                  "regions": [
+                    {
+                      "code": "monterey",
+                      "name": "Monterey Peninsula",
+                      "regions": []
+                    },
+                    {
+                      "code": "salinas",
+                      "name": "Salinas Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "santacruz",
+                      "name": "Santa Cruz City",
+                      "regions": []
+                    },
+                    {
+                      "code": "scottsvalley",
+                      "name": "San Lorenzo Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "watsonville",
+                      "name": "Pajaro Valley",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "slo",
+                  "name": "SLO County",
+                  "regions": [
+                    {
+                      "code": "esterobay",
+                      "name": "Estero Bay",
+                      "regions": []
+                    },
+                    {
+                      "code": "slocity",
+                      "name": "San Luis Obispo",
+                      "regions": []
+                    },
+                    {
+                      "code": "slonorth",
+                      "name": "North County",
+                      "regions": []
+                    },
+                    {
+                      "code": "slosouth",
+                      "name": "South County",
+                      "regions": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "centralvalley",
+              "name": "Central Valley",
+              "regions": [
+                {
+                  "code": "cvmid",
+                  "name": "Mid Valley",
+                  "regions": [
+                    {
+                      "code": "coalinga",
+                      "name": "Coalinga / Firebaugh",
+                      "regions": []
+                    },
+                    {
+                      "code": "fresno",
+                      "name": "Fresno / Clovis",
+                      "regions": []
+                    },
+                    {
+                      "code": "losbanos",
+                      "name": "Los Banos",
+                      "regions": []
+                    },
+                    {
+                      "code": "madera",
+                      "name": "Madera",
+                      "regions": []
+                    },
+                    {
+                      "code": "merced",
+                      "name": "Merced",
+                      "regions": []
+                    },
+                    {
+                      "code": "oakhurst",
+                      "name": "Oakhurst / Coarsegold",
+                      "regions": []
+                    },
+                    {
+                      "code": "sanger",
+                      "name": "Sanger / Reedley",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "cvnorth",
+                  "name": "North Valley",
+                  "regions": [
+                    {
+                      "code": "lodi",
+                      "name": "Lodi",
+                      "regions": []
+                    },
+                    {
+                      "code": "modesto",
+                      "name": "Modesto",
+                      "regions": []
+                    },
+                    {
+                      "code": "stockton",
+                      "name": "Stockton",
+                      "regions": []
+                    },
+                    {
+                      "code": "tracy",
+                      "name": "Tracy / Manteca",
+                      "regions": []
+                    },
+                    {
+                      "code": "turlock",
+                      "name": "Turlock",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "cvsouth",
+                  "name": "South Valley",
+                  "regions": [
+                    {
+                      "code": "bakersfield",
+                      "name": "Bakersfield",
+                      "regions": []
+                    },
+                    {
+                      "code": "delano",
+                      "name": "Delano / Wasco",
+                      "regions": []
+                    },
+                    {
+                      "code": "hanford",
+                      "name": "Kings County",
+                      "regions": []
+                    },
+                    {
+                      "code": "lakeisabella",
+                      "name": "Kern River Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "porterville",
+                      "name": "Porterville",
+                      "regions": []
+                    },
+                    {
+                      "code": "ridgecrest",
+                      "name": "Indian Wells Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "tehachapi",
+                      "name": "Tehachapi / Mojave",
+                      "regions": []
+                    },
+                    {
+                      "code": "threerivers",
+                      "name": "Sequoia & Kings Canyon",
+                      "regions": []
+                    },
+                    {
+                      "code": "tulare",
+                      "name": "Tulare City",
+                      "regions": []
+                    },
+                    {
+                      "code": "visalia",
+                      "name": "Visalia",
+                      "regions": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "norcal",
+              "name": "North California",
+              "regions": [
+                {
+                  "code": "alturas",
+                  "name": "Alturas",
+                  "regions": []
+                },
+                {
+                  "code": "burney",
+                  "name": "Intermountain",
+                  "regions": []
+                },
+                {
+                  "code": "chico",
+                  "name": "Chico",
+                  "regions": []
+                },
+                {
+                  "code": "clearlake",
+                  "name": "Clear Lake",
+                  "regions": []
+                },
+                {
+                  "code": "colusa",
+                  "name": "Colusa County",
+                  "regions": []
+                },
+                {
+                  "code": "crescentcity",
+                  "name": "Crescent City",
+                  "regions": []
+                },
+                {
+                  "code": "eureka",
+                  "name": "Humboldt Bay",
+                  "regions": []
+                },
+                {
+                  "code": "fortbragg",
+                  "name": "Mendocino Coast",
+                  "regions": []
+                },
+                {
+                  "code": "garberville",
+                  "name": "Southern Humboldt",
+                  "regions": []
+                },
+                {
+                  "code": "klamathtrinity",
+                  "name": "Klamath-Trinity",
+                  "regions": []
+                },
+                {
+                  "code": "mountshasta",
+                  "name": "Mount Shasta",
+                  "regions": []
+                },
+                {
+                  "code": "oroville",
+                  "name": "Oroville",
+                  "regions": []
+                },
+                {
+                  "code": "paradise",
+                  "name": "Paradise Ridge",
+                  "regions": []
+                },
+                {
+                  "code": "plumas",
+                  "name": "Plumas County",
+                  "regions": []
+                },
+                {
+                  "code": "redding",
+                  "name": "Redding",
+                  "regions": []
+                },
+                {
+                  "code": "sierracounty",
+                  "name": "Sierra County",
+                  "regions": []
+                },
+                {
+                  "code": "susanville",
+                  "name": "Susanville",
+                  "regions": []
+                },
+                {
+                  "code": "tehama",
+                  "name": "Tehama County",
+                  "regions": []
+                },
+                {
+                  "code": "tulelake",
+                  "name": "Tulelake Basin",
+                  "regions": []
+                },
+                {
+                  "code": "ukiah",
+                  "name": "Ukiah Valley",
+                  "regions": []
+                },
+                {
+                  "code": "weaverville",
+                  "name": "Weaverville",
+                  "regions": []
+                },
+                {
+                  "code": "willows",
+                  "name": "Glenn County",
+                  "regions": []
+                },
+                {
+                  "code": "yreka",
+                  "name": "Yreka",
+                  "regions": []
+                }
+              ]
+            },
+            {
+              "code": "sacramentofoothills",
+              "name": "Sacramento Foothills",
+              "regions": [
+                {
+                  "code": "auburn",
+                  "name": "Auburn",
+                  "regions": []
+                },
+                {
+                  "code": "citrusheights",
+                  "name": "Citrus Heights / Carmichael",
+                  "regions": []
+                },
+                {
+                  "code": "davis",
+                  "name": "Davis",
+                  "regions": []
+                },
+                {
+                  "code": "elkgrove",
+                  "name": "Elk Grove / Galt",
+                  "regions": []
+                },
+                {
+                  "code": "folsom",
+                  "name": "Folsom / Rancho Cordova",
+                  "regions": []
+                },
+                {
+                  "code": "grassvalley",
+                  "name": "Grass Valley / Nevada City",
+                  "regions": []
+                },
+                {
+                  "code": "sacramento",
+                  "name": "Sacramento Central",
+                  "regions": []
+                },
+                {
+                  "code": "southplacer",
+                  "name": "South Placer",
+                  "regions": []
+                },
+                {
+                  "code": "westsac",
+                  "name": "West Sacramento",
+                  "regions": []
+                },
+                {
+                  "code": "woodland",
+                  "name": "Woodland",
+                  "regions": []
+                },
+                {
+                  "code": "yubasutter",
+                  "name": "Yuba-Sutter",
+                  "regions": []
+                }
+              ]
+            },
+            {
+              "code": "sierranevada",
+              "name": "Sierra Nevada",
+              "regions": [
+                {
+                  "code": "eastsierra",
+                  "name": "Eastern Sierra",
+                  "regions": [
+                    {
+                      "code": "bishop",
+                      "name": "Bishop",
+                      "regions": []
+                    },
+                    {
+                      "code": "bridgeport",
+                      "name": "Bridgeport / Lee Vining",
+                      "regions": []
+                    },
+                    {
+                      "code": "lonepine",
+                      "name": "Lone Pine / Owens Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "mammoth",
+                      "name": "Mammoth Lakes",
+                      "regions": []
+                    },
+                    {
+                      "code": "markleeville",
+                      "name": "Markleeville",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "goldcountry",
+                  "name": "Gold Country",
+                  "regions": [
+                    {
+                      "code": "amador",
+                      "name": "Amador County",
+                      "regions": []
+                    },
+                    {
+                      "code": "calaveras",
+                      "name": "Calaveras County",
+                      "regions": []
+                    },
+                    {
+                      "code": "edh",
+                      "name": "El Dorado Hills",
+                      "regions": []
+                    },
+                    {
+                      "code": "mariposa",
+                      "name": "Mariposa County",
+                      "regions": []
+                    },
+                    {
+                      "code": "placerville",
+                      "name": "Placerville",
+                      "regions": []
+                    },
+                    {
+                      "code": "sonora",
+                      "name": "Sonora",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "tahoe",
+                  "name": "Lake Tahoe",
+                  "regions": [
+                    {
+                      "code": "southlaketahoe",
+                      "name": "South Lake Tahoe",
+                      "regions": []
+                    },
+                    {
+                      "code": "tahoecity",
+                      "name": "North Lake Tahoe",
+                      "regions": []
+                    },
+                    {
+                      "code": "truckee",
+                      "name": "Truckee",
+                      "regions": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "socal",
+              "name": "Southern California",
+              "regions": [
+                {
+                  "code": "imperial",
+                  "name": "Imperial County",
+                  "regions": [
+                    {
+                      "code": "imperialborder",
+                      "name": "Imperial Border",
+                      "regions": []
+                    },
+                    {
+                      "code": "imperialvalley",
+                      "name": "Imperial Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "lowercolorado",
+                      "name": "Lower Colorado",
+                      "regions": []
+                    },
+                    {
+                      "code": "northimperial",
+                      "name": "North Imperial",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "losangeles",
+                  "name": "Los Angeles County",
+                  "regions": [
+                    {
+                      "code": "antelopevalley",
+                      "name": "Antelope Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "catalina",
+                      "name": "Catalina Island",
+                      "regions": []
+                    },
+                    {
+                      "code": "gateway",
+                      "name": "Gateway Cities",
+                      "regions": []
+                    },
+                    {
+                      "code": "harbor",
+                      "name": "Harbor Area",
+                      "regions": []
+                    },
+                    {
+                      "code": "labasin",
+                      "name": "LA Basin",
+                      "regions": []
+                    },
+                    {
+                      "code": "pomonavalley",
+                      "name": "Pomona Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "santaclarita",
+                      "name": "Santa Clarita Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "santamonicamtns",
+                      "name": "Santa Monica Mountains",
+                      "regions": []
+                    },
+                    {
+                      "code": "sfv",
+                      "name": "San Fernando Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "sgv",
+                      "name": "San Gabriel Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "westside",
+                      "name": "Westside",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "orangecounty",
+                  "name": "Orange County",
+                  "regions": [
+                    {
+                      "code": "occanyon",
+                      "name": "Santa Ana Mountains",
+                      "regions": []
+                    },
+                    {
+                      "code": "occentral",
+                      "name": "Central County",
+                      "regions": []
+                    },
+                    {
+                      "code": "occoast",
+                      "name": "Coast",
+                      "regions": []
+                    },
+                    {
+                      "code": "ocnorth",
+                      "name": "North County",
+                      "regions": []
+                    },
+                    {
+                      "code": "ocsouth",
+                      "name": "South County",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "riverside",
+                  "name": "Riverside County",
+                  "regions": [
+                    {
+                      "code": "coachellavalley",
+                      "name": "Coachella Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "paloverde",
+                      "name": "Palo Verde Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "perrisvalley",
+                      "name": "Perris Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "sanjacintomountains",
+                      "name": "San Jacinto Mountains",
+                      "regions": []
+                    },
+                    {
+                      "code": "sanjacintovalley",
+                      "name": "San Jacinto Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "temeculavalley",
+                      "name": "Temecula Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "westernriverside",
+                      "name": "Western Riverside",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "sanbernardino",
+                  "name": "San Bernardino County",
+                  "regions": [
+                    {
+                      "code": "centralmojave",
+                      "name": "Central Mojave",
+                      "regions": []
+                    },
+                    {
+                      "code": "coloradoriver",
+                      "name": "Colorado River",
+                      "regions": []
+                    },
+                    {
+                      "code": "cucamonga",
+                      "name": "Cucamonga Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "morongobasin",
+                      "name": "Morongo Basin",
+                      "regions": []
+                    },
+                    {
+                      "code": "sbmountains",
+                      "name": "San Bernardino Mountains",
+                      "regions": []
+                    },
+                    {
+                      "code": "sbvalley",
+                      "name": "San Bernardino Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "victorvalley",
+                      "name": "Victor Valley",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "sandiego",
+                  "name": "San Diego County",
+                  "regions": [
+                    {
+                      "code": "borregovalley",
+                      "name": "Borrego Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "sdbackcountry",
+                      "name": "Backcountry",
+                      "regions": []
+                    },
+                    {
+                      "code": "sdeast",
+                      "name": "East County",
+                      "regions": []
+                    },
+                    {
+                      "code": "sdmetro",
+                      "name": "Metro",
+                      "regions": []
+                    },
+                    {
+                      "code": "sdnorthcoast",
+                      "name": "North County Coastal",
+                      "regions": []
+                    },
+                    {
+                      "code": "sdnorthinland",
+                      "name": "North County Inland",
+                      "regions": []
+                    },
+                    {
+                      "code": "sdsouth",
+                      "name": "South Bay",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "santabarbara",
+                  "name": "Santa Barbara County",
+                  "regions": [
+                    {
+                      "code": "cuyama",
+                      "name": "Cuyama Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "lompocvalley",
+                      "name": "Lompoc Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "santamaria",
+                      "name": "Santa Maria Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "santaynez",
+                      "name": "Santa Ynez Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "southcoast",
+                      "name": "South Coast",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "ventura",
+                  "name": "Ventura County",
+                  "regions": [
+                    {
+                      "code": "conejovalley",
+                      "name": "Conejo Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "ojaivalley",
+                      "name": "Ojai Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "oxnardplain",
+                      "name": "Oxnard Plain",
+                      "regions": []
+                    },
+                    {
+                      "code": "santaclarariver",
+                      "name": "Santa Clara River Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "simivalley",
+                      "name": "Simi Valley",
+                      "regions": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "code": "imw",
           "name": "Intermountain West",

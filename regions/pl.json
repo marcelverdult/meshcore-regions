@@ -3,6 +3,31 @@
   "name": "Poland",
   "regions": [
     {
+      "code": "bzg",
+      "name": "Bydgoszcz / Kujawy i Pomorze",
+      "regions": []
+    },
+    {
+      "code": "gdn",
+      "name": "Trójmiasto / Pomorze",
+      "regions": []
+    },
+    {
+      "code": "krk",
+      "name": "Kraków / Małopolska",
+      "regions": []
+    },
+    {
+      "code": "ktw",
+      "name": "Górny Śląsk",
+      "regions": []
+    },
+    {
+      "code": "luz",
+      "name": "Lublin",
+      "regions": []
+    },
+    {
       "code": "pl-ds",
       "name": "ds",
       "regions": []
@@ -84,6 +109,17 @@
       "regions": []
     },
     {
+      "code": "pl-podlasie",
+      "name": "Podlasie",
+      "regions": [
+        {
+          "code": "pl-bia",
+          "name": "Bialystok",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "pl-sk",
       "name": "sk",
       "regions": [
@@ -107,6 +143,31 @@
     {
       "code": "pl-wp",
       "name": "wp",
+      "regions": []
+    },
+    {
+      "code": "poz",
+      "name": "Poznań / Wielkopolska",
+      "regions": []
+    },
+    {
+      "code": "rze",
+      "name": "Rzeszów / Podkarpacie",
+      "regions": []
+    },
+    {
+      "code": "szz",
+      "name": "Szczecin / Pomorze Zachodnie",
+      "regions": []
+    },
+    {
+      "code": "waw",
+      "name": "Warszawa / Mazowsze",
+      "regions": []
+    },
+    {
+      "code": "wro",
+      "name": "Wrocław / Dolny Śląsk",
       "regions": []
     }
   ]

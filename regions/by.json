@@ -1,5 +1,36 @@
 {
   "code": "by",
   "name": "Belarus",
-  "regions": []
+  "regions": [
+    {
+      "code": "brest",
+      "name": "Brest",
+      "regions": []
+    },
+    {
+      "code": "gomel",
+      "name": "Gomel",
+      "regions": []
+    },
+    {
+      "code": "grodno",
+      "name": "Grodno",
+      "regions": []
+    },
+    {
+      "code": "minsk",
+      "name": "Minsk",
+      "regions": []
+    },
+    {
+      "code": "mogilev",
+      "name": "Mogilev",
+      "regions": []
+    },
+    {
+      "code": "vitebsk",
+      "name": "Vitebsk",
+      "regions": []
+    }
+  ]
 }

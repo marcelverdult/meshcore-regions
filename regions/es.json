@@ -3,13 +3,369 @@
   "name": "Spain",
   "regions": [
     {
+      "code": "es-a",
+      "name": "Alicante",
+      "regions": []
+    },
+    {
+      "code": "es-ab",
+      "name": "Albacete",
+      "regions": []
+    },
+    {
+      "code": "es-al",
+      "name": "Almería",
+      "regions": []
+    },
+    {
+      "code": "es-an",
+      "name": "Andalucía",
+      "regions": []
+    },
+    {
+      "code": "es-ar",
+      "name": "Aragón",
+      "regions": []
+    },
+    {
       "code": "es-as",
       "name": "as",
       "regions": []
     },
     {
+      "code": "es-av",
+      "name": "Ávila",
+      "regions": []
+    },
+    {
+      "code": "es-b",
+      "name": "Barcelona",
+      "regions": []
+    },
+    {
+      "code": "es-ba",
+      "name": "Badajoz",
+      "regions": []
+    },
+    {
       "code": "es-bcn",
       "name": "bcn",
+      "regions": []
+    },
+    {
+      "code": "es-bi",
+      "name": "Vizcaya",
+      "regions": []
+    },
+    {
+      "code": "es-c",
+      "name": "La Coruña",
+      "regions": []
+    },
+    {
+      "code": "es-ca",
+      "name": "Cádiz",
+      "regions": [
+        {
+          "code": "11159",
+          "name": "Barbate",
+          "regions": []
+        },
+        {
+          "code": "11406",
+          "name": "Jerez de la Frontera",
+          "regions": []
+        },
+        {
+          "code": "11480",
+          "name": "Jerez de la Frontera",
+          "regions": []
+        },
+        {
+          "code": "11600",
+          "name": "Ubrique",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "es-cb",
+      "name": "Cantabria",
+      "regions": []
+    },
+    {
+      "code": "es-cc",
+      "name": "Cáceres",
+      "regions": []
+    },
+    {
+      "code": "es-ce",
+      "name": "Ceuta",
+      "regions": []
+    },
+    {
+      "code": "es-cl",
+      "name": "Castilla y León",
+      "regions": []
+    },
+    {
+      "code": "es-cm",
+      "name": "Castilla-La Mancha",
+      "regions": []
+    },
+    {
+      "code": "es-cn",
+      "name": "Canarias",
+      "regions": []
+    },
+    {
+      "code": "es-co",
+      "name": "Córdoba",
+      "regions": []
+    },
+    {
+      "code": "es-cr",
+      "name": "Ciudad Real",
+      "regions": []
+    },
+    {
+      "code": "es-cs",
+      "name": "Castellón",
+      "regions": []
+    },
+    {
+      "code": "es-ct",
+      "name": "Cataluña",
+      "regions": []
+    },
+    {
+      "code": "es-cu",
+      "name": "Cuenca",
+      "regions": []
+    },
+    {
+      "code": "es-ex",
+      "name": "Extremadura",
+      "regions": []
+    },
+    {
+      "code": "es-ga",
+      "name": "Galicia",
+      "regions": []
+    },
+    {
+      "code": "es-gc",
+      "name": "Las Palmas",
+      "regions": []
+    },
+    {
+      "code": "es-gi",
+      "name": "Gerona",
+      "regions": []
+    },
+    {
+      "code": "es-gr",
+      "name": "Granada",
+      "regions": []
+    },
+    {
+      "code": "es-gu",
+      "name": "Guadalajara",
+      "regions": []
+    },
+    {
+      "code": "es-h",
+      "name": "Huelva",
+      "regions": []
+    },
+    {
+      "code": "es-hu",
+      "name": "Huesca",
+      "regions": []
+    },
+    {
+      "code": "es-ib",
+      "name": "Islas Baleares",
+      "regions": []
+    },
+    {
+      "code": "es-j",
+      "name": "Jaén",
+      "regions": []
+    },
+    {
+      "code": "es-l",
+      "name": "Lérida",
+      "regions": []
+    },
+    {
+      "code": "es-le",
+      "name": "León",
+      "regions": []
+    },
+    {
+      "code": "es-lo",
+      "name": "La Rioja",
+      "regions": []
+    },
+    {
+      "code": "es-lu",
+      "name": "Lugo",
+      "regions": []
+    },
+    {
+      "code": "es-m",
+      "name": "Madrid",
+      "regions": []
+    },
+    {
+      "code": "es-ma",
+      "name": "Málaga",
+      "regions": []
+    },
+    {
+      "code": "es-mc",
+      "name": "Región de Murcia",
+      "regions": []
+    },
+    {
+      "code": "es-md",
+      "name": "Comunidad de Madrid",
+      "regions": []
+    },
+    {
+      "code": "es-ml",
+      "name": "Melilla",
+      "regions": []
+    },
+    {
+      "code": "es-mu",
+      "name": "Murcia",
+      "regions": []
+    },
+    {
+      "code": "es-na",
+      "name": "Navarra",
+      "regions": []
+    },
+    {
+      "code": "es-nc",
+      "name": "Navarra",
+      "regions": []
+    },
+    {
+      "code": "es-o",
+      "name": "Asturias",
+      "regions": []
+    },
+    {
+      "code": "es-or",
+      "name": "Orense",
+      "regions": []
+    },
+    {
+      "code": "es-p",
+      "name": "Palencia",
+      "regions": []
+    },
+    {
+      "code": "es-pm",
+      "name": "Baleares",
+      "regions": []
+    },
+    {
+      "code": "es-po",
+      "name": "Pontevedra",
+      "regions": []
+    },
+    {
+      "code": "es-pv",
+      "name": "País Vasco",
+      "regions": []
+    },
+    {
+      "code": "es-ri",
+      "name": "La Rioja",
+      "regions": []
+    },
+    {
+      "code": "es-s",
+      "name": "Cantabria",
+      "regions": []
+    },
+    {
+      "code": "es-sa",
+      "name": "Salamanca",
+      "regions": []
+    },
+    {
+      "code": "es-se",
+      "name": "Sevilla",
+      "regions": []
+    },
+    {
+      "code": "es-sg",
+      "name": "Segovia",
+      "regions": []
+    },
+    {
+      "code": "es-so",
+      "name": "Soria",
+      "regions": []
+    },
+    {
+      "code": "es-ss",
+      "name": "Guipúzcoa",
+      "regions": []
+    },
+    {
+      "code": "es-t",
+      "name": "Tarragona",
+      "regions": []
+    },
+    {
+      "code": "es-tf",
+      "name": "Santa Cruz de Tenerife",
+      "regions": []
+    },
+    {
+      "code": "es-to",
+      "name": "Toledo",
+      "regions": []
+    },
+    {
+      "code": "es-tr",
+      "name": "Teruel",
+      "regions": []
+    },
+    {
+      "code": "es-v",
+      "name": "Valencia",
+      "regions": []
+    },
+    {
+      "code": "es-va",
+      "name": "Valladolid",
+      "regions": []
+    },
+    {
+      "code": "es-vc",
+      "name": "Comunidad Valenciana",
+      "regions": []
+    },
+    {
+      "code": "es-vi",
+      "name": "Álava",
+      "regions": []
+    },
+    {
+      "code": "es-z",
+      "name": "Zaragoza",
+      "regions": []
+    },
+    {
+      "code": "es-za",
+      "name": "Zamora",
       "regions": []
     }
   ]
