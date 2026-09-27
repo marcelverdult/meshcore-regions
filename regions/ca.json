@@ -1,5 +1,33 @@
 {
   "code": "ca",
   "name": "Canada",
-  "regions": []
+  "regions": [
+    {
+      "code": "bc",
+      "name": "British Columbia",
+      "regions": [
+        {
+          "code": "salishmesh",
+          "name": "Salish Sea / Gulf Islands",
+          "regions": []
+        },
+        {
+          "code": "swbc",
+          "name": "Southwest BC / Lower Mainland",
+          "regions": []
+        },
+        {
+          "code": "vanisle",
+          "name": "Vancouver Island",
+          "regions": [
+            {
+              "code": "southisland",
+              "name": "South Vancouver Island / Victoria",
+              "regions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

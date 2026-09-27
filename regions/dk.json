@@ -64,6 +64,11 @@
       ]
     },
     {
+      "code": "dk-horsens",
+      "name": "Horsens",
+      "regions": []
+    },
+    {
       "code": "dk-jylland",
       "name": "jylland",
       "regions": []
@@ -76,6 +81,11 @@
     {
       "code": "dk-kbh",
       "name": "kbh",
+      "regions": []
+    },
+    {
+      "code": "dk-mdj",
+      "name": "Region Midtjylland",
       "regions": []
     },
     {

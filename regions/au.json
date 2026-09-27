@@ -4,21 +4,31 @@
   "regions": [
     {
       "code": "au-act",
-      "name": "act",
+      "name": "ACT",
       "regions": []
     },
     {
       "code": "au-hume",
-      "name": "hume",
+      "name": "Hume",
       "regions": []
     },
     {
       "code": "au-nsw",
-      "name": "nsw",
+      "name": "NSW",
       "regions": [
         {
+          "code": "au-nsw-abx",
+          "name": "Albury & Wodonga",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-arm",
+          "name": "Armidale / New England",
+          "regions": []
+        },
+        {
           "code": "au-nsw-bhs",
-          "name": "bhs",
+          "name": "Bathurst / Central West",
           "regions": []
         },
         {
@@ -28,7 +38,32 @@
         },
         {
           "code": "au-nsw-cw",
-          "name": "cw",
+          "name": "Central West",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-dge",
+          "name": "Mudgee",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-dnq",
+          "name": "Deniliquin",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-gos",
+          "name": "Central Coast",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-gul",
+          "name": "Goulburn / Southern Tablelands",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-hun",
+          "name": "Newcastle / Hunter",
           "regions": []
         },
         {
@@ -37,8 +72,23 @@
           "regions": []
         },
         {
+          "code": "au-nsw-mim",
+          "name": "Merimbula / Far South Coast",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-mya",
+          "name": "Moruya / Eurobodalla",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-noa",
+          "name": "NOA",
+          "regions": []
+        },
+        {
           "code": "au-nsw-ntl",
-          "name": "ntl",
+          "name": "Newcastle / Hunter",
           "regions": []
         },
         {
@@ -47,15 +97,40 @@
           "regions": []
         },
         {
+          "code": "au-nsw-oom",
+          "name": "Cooma / Snowy Mountains",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-syd",
+          "name": "Syd",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-tmw",
+          "name": "Tamworth / North West",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-tro",
+          "name": "Taree",
+          "regions": []
+        },
+        {
           "code": "au-nsw-wga",
-          "name": "wga",
+          "name": "Wagga Wagga / Riverina",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-wol",
+          "name": "Wollongong / Illawarra",
           "regions": []
         }
       ]
     },
     {
       "code": "au-qld",
-      "name": "qld",
+      "name": "QLD",
       "regions": []
     },
     {
@@ -82,21 +157,66 @@
     },
     {
       "code": "au-vic",
-      "name": "vic",
+      "name": "Victoria",
       "regions": [
+        {
+          "code": "au-vic-ballarat",
+          "name": "Ballarat",
+          "regions": []
+        },
+        {
+          "code": "au-vic-bendigo",
+          "name": "Bendigo",
+          "regions": []
+        },
+        {
+          "code": "au-vic-bright",
+          "name": "Bright",
+          "regions": []
+        },
+        {
+          "code": "au-vic-casey",
+          "name": "Casey",
+          "regions": []
+        },
         {
           "code": "au-vic-east",
           "name": "east",
           "regions": []
         },
         {
+          "code": "au-vic-geelong",
+          "name": "Geelong",
+          "regions": []
+        },
+        {
+          "code": "au-vic-gippsland",
+          "name": "Gippsland",
+          "regions": []
+        },
+        {
+          "code": "au-vic-mansfield",
+          "name": "Mansfield",
+          "regions": []
+        },
+        {
           "code": "au-vic-melbourne",
-          "name": "melbourne",
+          "name": "Melbourne",
           "regions": []
         },
         {
           "code": "au-vic-metro",
           "name": "metro",
+          "regions": []
+        },
+        {
+          "code": "au-vic-ptfairy",
+          "name": "Port Fairy",
+          "regions": []
+        },
+        {
+          "code": "au-vic-wbool",
+          "name": "Warrnambool",
           "regions": []
         }
       ]

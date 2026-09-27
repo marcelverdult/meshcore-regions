@@ -1,5 +1,91 @@
 {
   "code": "nz",
   "name": "New Zealand",
-  "regions": []
+  "regions": [
+    {
+      "code": "nz-auk",
+      "name": "auk",
+      "regions": []
+    },
+    {
+      "code": "nz-bop",
+      "name": "bop",
+      "regions": []
+    },
+    {
+      "code": "nz-can",
+      "name": "can",
+      "regions": []
+    },
+    {
+      "code": "nz-cit",
+      "name": "cit",
+      "regions": []
+    },
+    {
+      "code": "nz-gis",
+      "name": "gis",
+      "regions": []
+    },
+    {
+      "code": "nz-hkb",
+      "name": "hkb",
+      "regions": []
+    },
+    {
+      "code": "nz-mbh",
+      "name": "mbh",
+      "regions": []
+    },
+    {
+      "code": "nz-mwt",
+      "name": "mwt",
+      "regions": []
+    },
+    {
+      "code": "nz-nsn",
+      "name": "nsn",
+      "regions": []
+    },
+    {
+      "code": "nz-ntl",
+      "name": "ntl",
+      "regions": []
+    },
+    {
+      "code": "nz-ota",
+      "name": "ota",
+      "regions": []
+    },
+    {
+      "code": "nz-stl",
+      "name": "stl",
+      "regions": []
+    },
+    {
+      "code": "nz-tas",
+      "name": "tas",
+      "regions": []
+    },
+    {
+      "code": "nz-tki",
+      "name": "tki",
+      "regions": []
+    },
+    {
+      "code": "nz-wgn",
+      "name": "wgn",
+      "regions": []
+    },
+    {
+      "code": "nz-wko",
+      "name": "wko",
+      "regions": []
+    },
+    {
+      "code": "nz-wtc",
+      "name": "wtc",
+      "regions": []
+    }
+  ]
 }

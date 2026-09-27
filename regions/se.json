@@ -36,6 +36,111 @@
       "code": "se-wa",
       "name": "wa",
       "regions": []
+    },
+    {
+      "code": "se01",
+      "name": "Stockholms län",
+      "regions": []
+    },
+    {
+      "code": "se03",
+      "name": "Uppsala län",
+      "regions": []
+    },
+    {
+      "code": "se04",
+      "name": "Södermanlands län",
+      "regions": []
+    },
+    {
+      "code": "se05",
+      "name": "Östergötlands län",
+      "regions": []
+    },
+    {
+      "code": "se06",
+      "name": "Jönköpings län",
+      "regions": []
+    },
+    {
+      "code": "se07",
+      "name": "Kronobergs län",
+      "regions": []
+    },
+    {
+      "code": "se08",
+      "name": "Kalmar län",
+      "regions": []
+    },
+    {
+      "code": "se09",
+      "name": "Gotlands län",
+      "regions": []
+    },
+    {
+      "code": "se10",
+      "name": "Blekinge län",
+      "regions": []
+    },
+    {
+      "code": "se12",
+      "name": "Skåne län",
+      "regions": []
+    },
+    {
+      "code": "se13",
+      "name": "Hallands län",
+      "regions": []
+    },
+    {
+      "code": "se14",
+      "name": "Västra Götalands län",
+      "regions": []
+    },
+    {
+      "code": "se17",
+      "name": "Värmlands län",
+      "regions": []
+    },
+    {
+      "code": "se18",
+      "name": "Örebro län",
+      "regions": []
+    },
+    {
+      "code": "se19",
+      "name": "Västmanlands län",
+      "regions": []
+    },
+    {
+      "code": "se20",
+      "name": "Dalarnas län",
+      "regions": []
+    },
+    {
+      "code": "se21",
+      "name": "Gävleborgs län",
+      "regions": []
+    },
+    {
+      "code": "se22",
+      "name": "Västernorrlands län",
+      "regions": []
+    },
+    {
+      "code": "se23",
+      "name": "Jämtlands län",
+      "regions": []
+    },
+    {
+      "code": "se24",
+      "name": "Västerbottens län",
+      "regions": []
+    },
+    {
+      "code": "se25",
+      "name": "Norrbottens län",
+      "regions": []
     }
   ]
 }

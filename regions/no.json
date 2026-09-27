@@ -1,5 +1,341 @@
 {
   "code": "no",
   "name": "Norway",
-  "regions": []
+  "regions": [
+    {
+      "code": "aes",
+      "name": "Vigra/Ålesund",
+      "regions": []
+    },
+    {
+      "code": "alf",
+      "name": "Alta",
+      "regions": []
+    },
+    {
+      "code": "anx",
+      "name": "Andenes",
+      "regions": []
+    },
+    {
+      "code": "bdu",
+      "name": "Bardufoss",
+      "regions": []
+    },
+    {
+      "code": "bgo",
+      "name": "Flesland/Bergen",
+      "regions": []
+    },
+    {
+      "code": "bjf",
+      "name": "Båtsfjord",
+      "regions": []
+    },
+    {
+      "code": "bnn",
+      "name": "Brønnøysund",
+      "regions": []
+    },
+    {
+      "code": "boo",
+      "name": "Bodø",
+      "regions": []
+    },
+    {
+      "code": "bvg",
+      "name": "Berlevåg",
+      "regions": []
+    },
+    {
+      "code": "eve",
+      "name": "Evenes",
+      "regions": []
+    },
+    {
+      "code": "fde",
+      "name": "Førde",
+      "regions": []
+    },
+    {
+      "code": "fro",
+      "name": "Florø",
+      "regions": []
+    },
+    {
+      "code": "haa",
+      "name": "Hasvik",
+      "regions": []
+    },
+    {
+      "code": "hau",
+      "name": "Haugesund",
+      "regions": []
+    },
+    {
+      "code": "hft",
+      "name": "Hammerfest",
+      "regions": []
+    },
+    {
+      "code": "hov",
+      "name": "Ørsta-Volda",
+      "regions": []
+    },
+    {
+      "code": "hvg",
+      "name": "Honningsvåg",
+      "regions": []
+    },
+    {
+      "code": "kkn",
+      "name": "Kirkenes",
+      "regions": []
+    },
+    {
+      "code": "krs",
+      "name": "Kjevik/Kristiansand",
+      "regions": []
+    },
+    {
+      "code": "ksu",
+      "name": "Kristiansund",
+      "regions": []
+    },
+    {
+      "code": "lkl",
+      "name": "Lakselv",
+      "regions": []
+    },
+    {
+      "code": "lkn",
+      "name": "Leknes",
+      "regions": []
+    },
+    {
+      "code": "meh",
+      "name": "Mehamn",
+      "regions": []
+    },
+    {
+      "code": "mjf",
+      "name": "Mosjøen",
+      "regions": []
+    },
+    {
+      "code": "mol",
+      "name": "Molde",
+      "regions": []
+    },
+    {
+      "code": "mqn",
+      "name": "Mo i Rana",
+      "regions": []
+    },
+    {
+      "code": "no-03",
+      "name": "Oslo",
+      "regions": []
+    },
+    {
+      "code": "no-18",
+      "name": "Nordland",
+      "regions": []
+    },
+    {
+      "code": "no-32",
+      "name": "Akershus",
+      "regions": []
+    },
+    {
+      "code": "no-33",
+      "name": "Buskerud",
+      "regions": []
+    },
+    {
+      "code": "no-alta",
+      "name": "Alta",
+      "regions": []
+    },
+    {
+      "code": "no-bergen",
+      "name": "Bergen",
+      "regions": []
+    },
+    {
+      "code": "no-bodo",
+      "name": "Bodø",
+      "regions": []
+    },
+    {
+      "code": "no-drammen",
+      "name": "Drammen",
+      "regions": []
+    },
+    {
+      "code": "no-fredrikstad",
+      "name": "Fredrikstad",
+      "regions": []
+    },
+    {
+      "code": "no-hamar",
+      "name": "Hamar",
+      "regions": []
+    },
+    {
+      "code": "no-kirkenes",
+      "name": "Kirkenes",
+      "regions": []
+    },
+    {
+      "code": "no-kristiansand",
+      "name": "Kristiansand",
+      "regions": []
+    },
+    {
+      "code": "no-molde",
+      "name": "Molde",
+      "regions": []
+    },
+    {
+      "code": "no-nord",
+      "name": "Nord-Norge",
+      "regions": []
+    },
+    {
+      "code": "no-oslo",
+      "name": "Oslo",
+      "regions": []
+    },
+    {
+      "code": "no-ost",
+      "name": "Østlandet",
+      "regions": []
+    },
+    {
+      "code": "no-sandnes",
+      "name": "Sandnes",
+      "regions": []
+    },
+    {
+      "code": "no-skien",
+      "name": "Skien",
+      "regions": []
+    },
+    {
+      "code": "no-stavanger",
+      "name": "Stavanger",
+      "regions": []
+    },
+    {
+      "code": "no-tonsberg",
+      "name": "Tønsberg",
+      "regions": []
+    },
+    {
+      "code": "no-tromso",
+      "name": "Tromsø",
+      "regions": []
+    },
+    {
+      "code": "no-trondheim",
+      "name": "Trondheim",
+      "regions": []
+    },
+    {
+      "code": "ola",
+      "name": "Ørland",
+      "regions": []
+    },
+    {
+      "code": "osl",
+      "name": "Gardermoen/Oslo",
+      "regions": []
+    },
+    {
+      "code": "osy",
+      "name": "Namsos",
+      "regions": []
+    },
+    {
+      "code": "ret",
+      "name": "Røst",
+      "regions": []
+    },
+    {
+      "code": "rrs",
+      "name": "Røros",
+      "regions": []
+    },
+    {
+      "code": "rvk",
+      "name": "Rørvik",
+      "regions": []
+    },
+    {
+      "code": "sdn",
+      "name": "Sandane",
+      "regions": []
+    },
+    {
+      "code": "skn",
+      "name": "Stokmarknes",
+      "regions": []
+    },
+    {
+      "code": "sog",
+      "name": "Sogndal",
+      "regions": []
+    },
+    {
+      "code": "soj",
+      "name": "Sørkjosen",
+      "regions": []
+    },
+    {
+      "code": "srp",
+      "name": "Stord",
+      "regions": []
+    },
+    {
+      "code": "ssj",
+      "name": "Sandnessjøen",
+      "regions": []
+    },
+    {
+      "code": "svg",
+      "name": "Sola/Stavanger",
+      "regions": []
+    },
+    {
+      "code": "svj",
+      "name": "Svolvær",
+      "regions": []
+    },
+    {
+      "code": "tos",
+      "name": "Tromsø",
+      "regions": []
+    },
+    {
+      "code": "trd",
+      "name": "Værnes/Trondheim",
+      "regions": []
+    },
+    {
+      "code": "trf",
+      "name": "Torp/Sandefjord",
+      "regions": []
+    },
+    {
+      "code": "vaw",
+      "name": "Vardø",
+      "regions": []
+    },
+    {
+      "code": "vds",
+      "name": "Vadsø",
+      "regions": []
+    }
+  ]
 }

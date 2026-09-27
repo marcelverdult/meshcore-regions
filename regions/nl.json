@@ -149,6 +149,11 @@
       "regions": []
     },
     {
+      "code": "nl-ein",
+      "name": "ein",
+      "regions": []
+    },
+    {
       "code": "nl-emn",
       "name": "emn",
       "regions": []
@@ -532,6 +537,11 @@
         {
           "code": "nl-nh-cas",
           "name": "cas",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-dhr",
+          "name": "dhr",
           "regions": []
         },
         {

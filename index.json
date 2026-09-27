@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:54:06Z",
+  "generated_at": "2026-09-27T00:10:15Z",
   "tree": [
     {
       "code": "ad",
@@ -248,21 +248,31 @@
       "regions": [
         {
           "code": "au-act",
-          "name": "act",
+          "name": "ACT",
           "regions": []
         },
         {
           "code": "au-hume",
-          "name": "hume",
+          "name": "Hume",
           "regions": []
         },
         {
           "code": "au-nsw",
-          "name": "nsw",
+          "name": "NSW",
           "regions": [
             {
+              "code": "au-nsw-abx",
+              "name": "Albury & Wodonga",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-arm",
+              "name": "Armidale / New England",
+              "regions": []
+            },
+            {
               "code": "au-nsw-bhs",
-              "name": "bhs",
+              "name": "Bathurst / Central West",
               "regions": []
             },
             {
@@ -272,7 +282,32 @@
             },
             {
               "code": "au-nsw-cw",
-              "name": "cw",
+              "name": "Central West",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-dge",
+              "name": "Mudgee",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-dnq",
+              "name": "Deniliquin",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-gos",
+              "name": "Central Coast",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-gul",
+              "name": "Goulburn / Southern Tablelands",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-hun",
+              "name": "Newcastle / Hunter",
               "regions": []
             },
             {
@@ -281,8 +316,23 @@
               "regions": []
             },
             {
+              "code": "au-nsw-mim",
+              "name": "Merimbula / Far South Coast",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-mya",
+              "name": "Moruya / Eurobodalla",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-noa",
+              "name": "NOA",
+              "regions": []
+            },
+            {
               "code": "au-nsw-ntl",
-              "name": "ntl",
+              "name": "Newcastle / Hunter",
               "regions": []
             },
             {
@@ -291,15 +341,40 @@
               "regions": []
             },
             {
+              "code": "au-nsw-oom",
+              "name": "Cooma / Snowy Mountains",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-syd",
+              "name": "Syd",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-tmw",
+              "name": "Tamworth / North West",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-tro",
+              "name": "Taree",
+              "regions": []
+            },
+            {
               "code": "au-nsw-wga",
-              "name": "wga",
+              "name": "Wagga Wagga / Riverina",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-wol",
+              "name": "Wollongong / Illawarra",
               "regions": []
             }
           ]
         },
         {
           "code": "au-qld",
-          "name": "qld",
+          "name": "QLD",
           "regions": []
         },
         {
@@ -326,21 +401,66 @@
         },
         {
           "code": "au-vic",
-          "name": "vic",
+          "name": "Victoria",
           "regions": [
+            {
+              "code": "au-vic-ballarat",
+              "name": "Ballarat",
+              "regions": []
+            },
+            {
+              "code": "au-vic-bendigo",
+              "name": "Bendigo",
+              "regions": []
+            },
+            {
+              "code": "au-vic-bright",
+              "name": "Bright",
+              "regions": []
+            },
+            {
+              "code": "au-vic-casey",
+              "name": "Casey",
+              "regions": []
+            },
             {
               "code": "au-vic-east",
               "name": "east",
               "regions": []
             },
             {
+              "code": "au-vic-geelong",
+              "name": "Geelong",
+              "regions": []
+            },
+            {
+              "code": "au-vic-gippsland",
+              "name": "Gippsland",
+              "regions": []
+            },
+            {
+              "code": "au-vic-mansfield",
+              "name": "Mansfield",
+              "regions": []
+            },
+            {
               "code": "au-vic-melbourne",
-              "name": "melbourne",
+              "name": "Melbourne",
               "regions": []
             },
             {
               "code": "au-vic-metro",
               "name": "metro",
+              "regions": []
+            },
+            {
+              "code": "au-vic-ptfairy",
+              "name": "Port Fairy",
+              "regions": []
+            },
+            {
+              "code": "au-vic-wbool",
+              "name": "Warrnambool",
               "regions": []
             }
           ]
@@ -3404,7 +3524,19 @@
     {
       "code": "br",
       "name": "Brazil",
-      "regions": []
+      "regions": [
+        {
+          "code": "br-sp",
+          "name": "São Paulo",
+          "regions": [
+            {
+              "code": "br-sp-15",
+              "name": "Sorocaba",
+              "regions": []
+            }
+          ]
+        }
+      ]
     },
     {
       "code": "bs",
@@ -3445,7 +3577,35 @@
     {
       "code": "ca",
       "name": "Canada",
-      "regions": []
+      "regions": [
+        {
+          "code": "bc",
+          "name": "British Columbia",
+          "regions": [
+            {
+              "code": "salishmesh",
+              "name": "Salish Sea / Gulf Islands",
+              "regions": []
+            },
+            {
+              "code": "swbc",
+              "name": "Southwest BC / Lower Mainland",
+              "regions": []
+            },
+            {
+              "code": "vanisle",
+              "name": "Vancouver Island",
+              "regions": [
+                {
+                  "code": "southisland",
+                  "name": "South Vancouver Island / Victoria",
+                  "regions": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "code": "cc",
@@ -5361,6 +5521,11 @@
           ]
         },
         {
+          "code": "de-nl",
+          "name": "nl",
+          "regions": []
+        },
+        {
           "code": "de-nom",
           "name": "nom",
           "regions": []
@@ -6328,6 +6493,11 @@
           ]
         },
         {
+          "code": "dk-horsens",
+          "name": "Horsens",
+          "regions": []
+        },
+        {
           "code": "dk-jylland",
           "name": "jylland",
           "regions": []
@@ -6340,6 +6510,11 @@
         {
           "code": "dk-kbh",
           "name": "kbh",
+          "regions": []
+        },
+        {
+          "code": "dk-mdj",
+          "name": "Region Midtjylland",
           "regions": []
         },
         {
@@ -6431,6 +6606,11 @@
         {
           "code": "es-as",
           "name": "as",
+          "regions": []
+        },
+        {
+          "code": "es-bcn",
+          "name": "bcn",
           "regions": []
         }
       ]
@@ -6875,8 +7055,29 @@
       "name": "United Kingdom",
       "regions": [
         {
+          "code": "eng",
+          "name": "England",
+          "regions": [
+            {
+              "code": "neng",
+              "name": "Northern England",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "gb-bkm",
           "name": "bkm",
+          "regions": []
+        },
+        {
+          "code": "gb-dorset",
+          "name": "dorset",
+          "regions": []
+        },
+        {
+          "code": "gb-eb-nw",
+          "name": "nw",
           "regions": []
         },
         {
@@ -6901,6 +7102,17 @@
             {
               "code": "gb-eng-nw",
               "name": "nw",
+              "regions": [
+                {
+                  "code": "gb-eng-nw-ross",
+                  "name": "ross",
+                  "regions": []
+                }
+              ]
+            },
+            {
+              "code": "gb-eng-rdale",
+              "name": "rdale",
               "regions": []
             },
             {
@@ -6921,8 +7133,18 @@
           "regions": []
         },
         {
+          "code": "gb-mid",
+          "name": "Midlands",
+          "regions": []
+        },
+        {
           "code": "gb-nir",
           "name": "nir",
+          "regions": []
+        },
+        {
+          "code": "gb-nth",
+          "name": "North East",
           "regions": []
         },
         {
@@ -6946,6 +7168,16 @@
           "regions": []
         },
         {
+          "code": "gb-sth",
+          "name": "South East",
+          "regions": []
+        },
+        {
+          "code": "gb-swt",
+          "name": "South West",
+          "regions": []
+        },
+        {
           "code": "gb-wls",
           "name": "wls",
           "regions": []
@@ -6953,6 +7185,27 @@
         {
           "code": "gb-yor",
           "name": "yor",
+          "regions": []
+        },
+        {
+          "code": "suffolk",
+          "name": "Suffolk",
+          "regions": [
+            {
+              "code": "ipswich",
+              "name": "Ipswich",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "swsw",
+          "name": "South West & South Wales",
+          "regions": []
+        },
+        {
+          "code": "wls",
+          "name": "Wales",
           "regions": []
         }
       ]
@@ -7091,7 +7344,19 @@
     {
       "code": "ie",
       "name": "Ireland",
-      "regions": []
+      "regions": [
+        {
+          "code": "connacht",
+          "name": "Connacht",
+          "regions": [
+            {
+              "code": "mayo",
+              "name": "County Mayo",
+              "regions": []
+            }
+          ]
+        }
+      ]
     },
     {
       "code": "il",
@@ -7101,7 +7366,13 @@
     {
       "code": "im",
       "name": "Isle of Man",
-      "regions": []
+      "regions": [
+        {
+          "code": "iom",
+          "name": "Isle of Man",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "in",
@@ -7118,8 +7389,28 @@
       "name": "Island of Ireland",
       "regions": [
         {
+          "code": "bhd",
+          "name": "Ulster",
+          "regions": []
+        },
+        {
+          "code": "dub",
+          "name": "Leinster",
+          "regions": []
+        },
+        {
           "code": "ioi-admin",
           "name": "admin",
+          "regions": []
+        },
+        {
+          "code": "noc",
+          "name": "Connacht",
+          "regions": []
+        },
+        {
+          "code": "snn",
+          "name": "Munster",
           "regions": []
         }
       ]
@@ -7519,7 +7810,28 @@
     {
       "code": "lt",
       "name": "Lithuania",
-      "regions": []
+      "regions": [
+        {
+          "code": "kun",
+          "name": "Pietų Lietuva",
+          "regions": []
+        },
+        {
+          "code": "plq",
+          "name": "Vakarų Lietuva",
+          "regions": []
+        },
+        {
+          "code": "sqq",
+          "name": "Šiaurės Lietuva",
+          "regions": []
+        },
+        {
+          "code": "vno",
+          "name": "Rytų Lietuva",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "lu",
@@ -7846,6 +8158,11 @@
         {
           "code": "nl-edm",
           "name": "edm",
+          "regions": []
+        },
+        {
+          "code": "nl-ein",
+          "name": "ein",
           "regions": []
         },
         {
@@ -8232,6 +8549,11 @@
             {
               "code": "nl-nh-cas",
               "name": "cas",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-dhr",
+              "name": "dhr",
               "regions": []
             },
             {
@@ -8655,7 +8977,343 @@
     {
       "code": "no",
       "name": "Norway",
-      "regions": []
+      "regions": [
+        {
+          "code": "aes",
+          "name": "Vigra/Ålesund",
+          "regions": []
+        },
+        {
+          "code": "alf",
+          "name": "Alta",
+          "regions": []
+        },
+        {
+          "code": "anx",
+          "name": "Andenes",
+          "regions": []
+        },
+        {
+          "code": "bdu",
+          "name": "Bardufoss",
+          "regions": []
+        },
+        {
+          "code": "bgo",
+          "name": "Flesland/Bergen",
+          "regions": []
+        },
+        {
+          "code": "bjf",
+          "name": "Båtsfjord",
+          "regions": []
+        },
+        {
+          "code": "bnn",
+          "name": "Brønnøysund",
+          "regions": []
+        },
+        {
+          "code": "boo",
+          "name": "Bodø",
+          "regions": []
+        },
+        {
+          "code": "bvg",
+          "name": "Berlevåg",
+          "regions": []
+        },
+        {
+          "code": "eve",
+          "name": "Evenes",
+          "regions": []
+        },
+        {
+          "code": "fde",
+          "name": "Førde",
+          "regions": []
+        },
+        {
+          "code": "fro",
+          "name": "Florø",
+          "regions": []
+        },
+        {
+          "code": "haa",
+          "name": "Hasvik",
+          "regions": []
+        },
+        {
+          "code": "hau",
+          "name": "Haugesund",
+          "regions": []
+        },
+        {
+          "code": "hft",
+          "name": "Hammerfest",
+          "regions": []
+        },
+        {
+          "code": "hov",
+          "name": "Ørsta-Volda",
+          "regions": []
+        },
+        {
+          "code": "hvg",
+          "name": "Honningsvåg",
+          "regions": []
+        },
+        {
+          "code": "kkn",
+          "name": "Kirkenes",
+          "regions": []
+        },
+        {
+          "code": "krs",
+          "name": "Kjevik/Kristiansand",
+          "regions": []
+        },
+        {
+          "code": "ksu",
+          "name": "Kristiansund",
+          "regions": []
+        },
+        {
+          "code": "lkl",
+          "name": "Lakselv",
+          "regions": []
+        },
+        {
+          "code": "lkn",
+          "name": "Leknes",
+          "regions": []
+        },
+        {
+          "code": "meh",
+          "name": "Mehamn",
+          "regions": []
+        },
+        {
+          "code": "mjf",
+          "name": "Mosjøen",
+          "regions": []
+        },
+        {
+          "code": "mol",
+          "name": "Molde",
+          "regions": []
+        },
+        {
+          "code": "mqn",
+          "name": "Mo i Rana",
+          "regions": []
+        },
+        {
+          "code": "no-03",
+          "name": "Oslo",
+          "regions": []
+        },
+        {
+          "code": "no-18",
+          "name": "Nordland",
+          "regions": []
+        },
+        {
+          "code": "no-32",
+          "name": "Akershus",
+          "regions": []
+        },
+        {
+          "code": "no-33",
+          "name": "Buskerud",
+          "regions": []
+        },
+        {
+          "code": "no-alta",
+          "name": "Alta",
+          "regions": []
+        },
+        {
+          "code": "no-bergen",
+          "name": "Bergen",
+          "regions": []
+        },
+        {
+          "code": "no-bodo",
+          "name": "Bodø",
+          "regions": []
+        },
+        {
+          "code": "no-drammen",
+          "name": "Drammen",
+          "regions": []
+        },
+        {
+          "code": "no-fredrikstad",
+          "name": "Fredrikstad",
+          "regions": []
+        },
+        {
+          "code": "no-hamar",
+          "name": "Hamar",
+          "regions": []
+        },
+        {
+          "code": "no-kirkenes",
+          "name": "Kirkenes",
+          "regions": []
+        },
+        {
+          "code": "no-kristiansand",
+          "name": "Kristiansand",
+          "regions": []
+        },
+        {
+          "code": "no-molde",
+          "name": "Molde",
+          "regions": []
+        },
+        {
+          "code": "no-nord",
+          "name": "Nord-Norge",
+          "regions": []
+        },
+        {
+          "code": "no-oslo",
+          "name": "Oslo",
+          "regions": []
+        },
+        {
+          "code": "no-ost",
+          "name": "Østlandet",
+          "regions": []
+        },
+        {
+          "code": "no-sandnes",
+          "name": "Sandnes",
+          "regions": []
+        },
+        {
+          "code": "no-skien",
+          "name": "Skien",
+          "regions": []
+        },
+        {
+          "code": "no-stavanger",
+          "name": "Stavanger",
+          "regions": []
+        },
+        {
+          "code": "no-tonsberg",
+          "name": "Tønsberg",
+          "regions": []
+        },
+        {
+          "code": "no-tromso",
+          "name": "Tromsø",
+          "regions": []
+        },
+        {
+          "code": "no-trondheim",
+          "name": "Trondheim",
+          "regions": []
+        },
+        {
+          "code": "ola",
+          "name": "Ørland",
+          "regions": []
+        },
+        {
+          "code": "osl",
+          "name": "Gardermoen/Oslo",
+          "regions": []
+        },
+        {
+          "code": "osy",
+          "name": "Namsos",
+          "regions": []
+        },
+        {
+          "code": "ret",
+          "name": "Røst",
+          "regions": []
+        },
+        {
+          "code": "rrs",
+          "name": "Røros",
+          "regions": []
+        },
+        {
+          "code": "rvk",
+          "name": "Rørvik",
+          "regions": []
+        },
+        {
+          "code": "sdn",
+          "name": "Sandane",
+          "regions": []
+        },
+        {
+          "code": "skn",
+          "name": "Stokmarknes",
+          "regions": []
+        },
+        {
+          "code": "sog",
+          "name": "Sogndal",
+          "regions": []
+        },
+        {
+          "code": "soj",
+          "name": "Sørkjosen",
+          "regions": []
+        },
+        {
+          "code": "srp",
+          "name": "Stord",
+          "regions": []
+        },
+        {
+          "code": "ssj",
+          "name": "Sandnessjøen",
+          "regions": []
+        },
+        {
+          "code": "svg",
+          "name": "Sola/Stavanger",
+          "regions": []
+        },
+        {
+          "code": "svj",
+          "name": "Svolvær",
+          "regions": []
+        },
+        {
+          "code": "tos",
+          "name": "Tromsø",
+          "regions": []
+        },
+        {
+          "code": "trd",
+          "name": "Værnes/Trondheim",
+          "regions": []
+        },
+        {
+          "code": "trf",
+          "name": "Torp/Sandefjord",
+          "regions": []
+        },
+        {
+          "code": "vaw",
+          "name": "Vardø",
+          "regions": []
+        },
+        {
+          "code": "vds",
+          "name": "Vadsø",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "np",
@@ -8675,7 +9333,93 @@
     {
       "code": "nz",
       "name": "New Zealand",
-      "regions": []
+      "regions": [
+        {
+          "code": "nz-auk",
+          "name": "auk",
+          "regions": []
+        },
+        {
+          "code": "nz-bop",
+          "name": "bop",
+          "regions": []
+        },
+        {
+          "code": "nz-can",
+          "name": "can",
+          "regions": []
+        },
+        {
+          "code": "nz-cit",
+          "name": "cit",
+          "regions": []
+        },
+        {
+          "code": "nz-gis",
+          "name": "gis",
+          "regions": []
+        },
+        {
+          "code": "nz-hkb",
+          "name": "hkb",
+          "regions": []
+        },
+        {
+          "code": "nz-mbh",
+          "name": "mbh",
+          "regions": []
+        },
+        {
+          "code": "nz-mwt",
+          "name": "mwt",
+          "regions": []
+        },
+        {
+          "code": "nz-nsn",
+          "name": "nsn",
+          "regions": []
+        },
+        {
+          "code": "nz-ntl",
+          "name": "ntl",
+          "regions": []
+        },
+        {
+          "code": "nz-ota",
+          "name": "ota",
+          "regions": []
+        },
+        {
+          "code": "nz-stl",
+          "name": "stl",
+          "regions": []
+        },
+        {
+          "code": "nz-tas",
+          "name": "tas",
+          "regions": []
+        },
+        {
+          "code": "nz-tki",
+          "name": "tki",
+          "regions": []
+        },
+        {
+          "code": "nz-wgn",
+          "name": "wgn",
+          "regions": []
+        },
+        {
+          "code": "nz-wko",
+          "name": "wko",
+          "regions": []
+        },
+        {
+          "code": "nz-wtc",
+          "name": "wtc",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "om",
@@ -9038,7 +9782,55 @@
     {
       "code": "sco",
       "name": "Scotland",
-      "regions": []
+      "regions": [
+        {
+          "code": "cen",
+          "name": "Central Scotland",
+          "regions": [
+            {
+              "code": "edi",
+              "name": "Edinburgh area",
+              "regions": []
+            },
+            {
+              "code": "fal",
+              "name": "Falkirk area",
+              "regions": []
+            },
+            {
+              "code": "gla",
+              "name": "Glasgow area",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "fif",
+          "name": "Fife",
+          "regions": []
+        },
+        {
+          "code": "tay",
+          "name": "Tayside",
+          "regions": [
+            {
+              "code": "ang",
+              "name": "Angus area",
+              "regions": []
+            },
+            {
+              "code": "dun",
+              "name": "Dundee area",
+              "regions": []
+            },
+            {
+              "code": "per",
+              "name": "Perth area",
+              "regions": []
+            }
+          ]
+        }
+      ]
     },
     {
       "code": "sd",
@@ -9082,6 +9874,111 @@
         {
           "code": "se-wa",
           "name": "wa",
+          "regions": []
+        },
+        {
+          "code": "se01",
+          "name": "Stockholms län",
+          "regions": []
+        },
+        {
+          "code": "se03",
+          "name": "Uppsala län",
+          "regions": []
+        },
+        {
+          "code": "se04",
+          "name": "Södermanlands län",
+          "regions": []
+        },
+        {
+          "code": "se05",
+          "name": "Östergötlands län",
+          "regions": []
+        },
+        {
+          "code": "se06",
+          "name": "Jönköpings län",
+          "regions": []
+        },
+        {
+          "code": "se07",
+          "name": "Kronobergs län",
+          "regions": []
+        },
+        {
+          "code": "se08",
+          "name": "Kalmar län",
+          "regions": []
+        },
+        {
+          "code": "se09",
+          "name": "Gotlands län",
+          "regions": []
+        },
+        {
+          "code": "se10",
+          "name": "Blekinge län",
+          "regions": []
+        },
+        {
+          "code": "se12",
+          "name": "Skåne län",
+          "regions": []
+        },
+        {
+          "code": "se13",
+          "name": "Hallands län",
+          "regions": []
+        },
+        {
+          "code": "se14",
+          "name": "Västra Götalands län",
+          "regions": []
+        },
+        {
+          "code": "se17",
+          "name": "Värmlands län",
+          "regions": []
+        },
+        {
+          "code": "se18",
+          "name": "Örebro län",
+          "regions": []
+        },
+        {
+          "code": "se19",
+          "name": "Västmanlands län",
+          "regions": []
+        },
+        {
+          "code": "se20",
+          "name": "Dalarnas län",
+          "regions": []
+        },
+        {
+          "code": "se21",
+          "name": "Gävleborgs län",
+          "regions": []
+        },
+        {
+          "code": "se22",
+          "name": "Västernorrlands län",
+          "regions": []
+        },
+        {
+          "code": "se23",
+          "name": "Jämtlands län",
+          "regions": []
+        },
+        {
+          "code": "se24",
+          "name": "Västerbottens län",
+          "regions": []
+        },
+        {
+          "code": "se25",
+          "name": "Norrbottens län",
           "regions": []
         }
       ]
@@ -9310,6 +10207,125 @@
       "name": "United States",
       "regions": [
         {
+          "code": "alw",
+          "name": "Walla Walla",
+          "regions": []
+        },
+        {
+          "code": "boi",
+          "name": "Boise",
+          "regions": []
+        },
+        {
+          "code": "c-id",
+          "name": "Central Idaho",
+          "regions": [
+            {
+              "code": "myl",
+              "name": "McCall",
+              "regions": []
+            },
+            {
+              "code": "smn",
+              "name": "Lemhi County",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "cda",
+          "name": "Coeur d'Alene / N. Idaho",
+          "regions": []
+        },
+        {
+          "code": "e-id",
+          "name": "Eastern Idaho",
+          "regions": [
+            {
+              "code": "dij",
+              "name": "Driggs / Teton Valley",
+              "regions": []
+            },
+            {
+              "code": "ida",
+              "name": "Idaho Falls",
+              "regions": []
+            },
+            {
+              "code": "pih",
+              "name": "Pocatello",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "erc",
+          "name": "Emergency Response Communications",
+          "regions": []
+        },
+        {
+          "code": "fca",
+          "name": "Flathead Valley / Kalispell",
+          "regions": []
+        },
+        {
+          "code": "n-id",
+          "name": "Northern Idaho",
+          "regions": [
+            {
+              "code": "lws",
+              "name": "Lewiston / Clearwater / Grangeville",
+              "regions": []
+            },
+            {
+              "code": "uofi",
+              "name": "University of Idaho, Moscow campus",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "ogd",
+          "name": "Ogden",
+          "regions": []
+        },
+        {
+          "code": "psc",
+          "name": "Tri-Cities",
+          "regions": []
+        },
+        {
+          "code": "puw",
+          "name": "Pullman",
+          "regions": []
+        },
+        {
+          "code": "s-id",
+          "name": "Southern Idaho",
+          "regions": [
+            {
+              "code": "sun",
+              "name": "Sun Valley / Ketchum",
+              "regions": []
+            },
+            {
+              "code": "twf",
+              "name": "Twin Falls",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "slc",
+          "name": "Salt Lake City",
+          "regions": []
+        },
+        {
+          "code": "sw-id",
+          "name": "Southwest Idaho",
+          "regions": []
+        },
+        {
           "code": "us-al",
           "name": "al",
           "regions": []
@@ -9367,6 +10383,11 @@
           ]
         },
         {
+          "code": "us-lax",
+          "name": "lax",
+          "regions": []
+        },
+        {
           "code": "us-mci",
           "name": "mci",
           "regions": []
@@ -9379,6 +10400,11 @@
         {
           "code": "us-nc",
           "name": "nc",
+          "regions": []
+        },
+        {
+          "code": "us-pa",
+          "name": "pa",
           "regions": []
         },
         {
@@ -9411,6 +10437,296 @@
           "code": "us-wa",
           "name": "wa",
           "regions": []
+        },
+        {
+          "code": "us-wi",
+          "name": "wi",
+          "regions": []
+        },
+        {
+          "code": "utc",
+          "name": "Utah County / Provo",
+          "regions": []
+        },
+        {
+          "code": "west",
+          "name": "Entire mesh",
+          "regions": [
+            {
+              "code": "imw",
+              "name": "Intermountain West",
+              "regions": [
+                {
+                  "code": "inw",
+                  "name": "Inland Northwest",
+                  "regions": []
+                },
+                {
+                  "code": "nv",
+                  "name": "Nevada",
+                  "regions": []
+                },
+                {
+                  "code": "ut",
+                  "name": "Utah",
+                  "regions": [
+                    {
+                      "code": "c-ut",
+                      "name": "Central Utah",
+                      "regions": []
+                    },
+                    {
+                      "code": "n-ut",
+                      "name": "Northern Utah",
+                      "regions": []
+                    },
+                    {
+                      "code": "s-ut",
+                      "name": "Southern Utah",
+                      "regions": [
+                        {
+                          "code": "ced",
+                          "name": "Cedar City",
+                          "regions": []
+                        },
+                        {
+                          "code": "stg",
+                          "name": "St. George",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "wb",
+                      "name": "Wasatch Back",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "wy",
+                  "name": "Wyoming",
+                  "regions": []
+                }
+              ]
+            },
+            {
+              "code": "pnw",
+              "name": "Pacific Northwest",
+              "regions": [
+                {
+                  "code": "or",
+                  "name": "Oregon",
+                  "regions": [
+                    {
+                      "code": "c-or",
+                      "name": "Central Oregon",
+                      "regions": [
+                        {
+                          "code": "bend",
+                          "name": "Bend / Redmond",
+                          "regions": []
+                        },
+                        {
+                          "code": "bke",
+                          "name": "Baker City",
+                          "regions": []
+                        },
+                        {
+                          "code": "pdt",
+                          "name": "Pendleton",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "coast-or",
+                      "name": "Oregon Coast",
+                      "regions": [
+                        {
+                          "code": "ast",
+                          "name": "Astoria / Seaside",
+                          "regions": []
+                        },
+                        {
+                          "code": "onp",
+                          "name": "Newport / Lincoln City",
+                          "regions": []
+                        },
+                        {
+                          "code": "oth",
+                          "name": "North Bend / Coos Bay",
+                          "regions": []
+                        },
+                        {
+                          "code": "otk",
+                          "name": "Tillamook",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "pdx",
+                      "name": "Portland Metro",
+                      "regions": []
+                    },
+                    {
+                      "code": "s-or",
+                      "name": "Southern Oregon",
+                      "regions": [
+                        {
+                          "code": "lmt",
+                          "name": "Klamath Falls",
+                          "regions": []
+                        },
+                        {
+                          "code": "mfr",
+                          "name": "Medford / Ashland",
+                          "regions": []
+                        },
+                        {
+                          "code": "rbg",
+                          "name": "Roseburg",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "wv",
+                      "name": "Willamette Valley",
+                      "regions": [
+                        {
+                          "code": "cvo",
+                          "name": "Corvallis / Albany",
+                          "regions": []
+                        },
+                        {
+                          "code": "eug",
+                          "name": "Eugene / Springfield",
+                          "regions": []
+                        },
+                        {
+                          "code": "mmv",
+                          "name": "McMinnville / Yamhill",
+                          "regions": []
+                        },
+                        {
+                          "code": "sle",
+                          "name": "Salem / Keizer",
+                          "regions": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "palouse",
+                  "name": "Palouse",
+                  "regions": []
+                },
+                {
+                  "code": "wa",
+                  "name": "Washington",
+                  "regions": [
+                    {
+                      "code": "c-wa",
+                      "name": "Central Washington",
+                      "regions": [
+                        {
+                          "code": "eat",
+                          "name": "Wenatchee",
+                          "regions": []
+                        },
+                        {
+                          "code": "eln",
+                          "name": "Ellensburg",
+                          "regions": []
+                        },
+                        {
+                          "code": "eph",
+                          "name": "Ephrata",
+                          "regions": []
+                        },
+                        {
+                          "code": "ykm",
+                          "name": "Yakima",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "e-wa",
+                      "name": "Eastern Washington",
+                      "regions": [
+                        {
+                          "code": "geg",
+                          "name": "Spokane",
+                          "regions": []
+                        },
+                        {
+                          "code": "wsu",
+                          "name": "WSU Pullman campus",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "sw-wa",
+                      "name": "Southwest Washington",
+                      "regions": [
+                        {
+                          "code": "cls",
+                          "name": "Centralia / Chehalis",
+                          "regions": []
+                        },
+                        {
+                          "code": "kls",
+                          "name": "Kelso / Longview",
+                          "regions": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "w-wa",
+                      "name": "Western Washington",
+                      "regions": [
+                        {
+                          "code": "bli",
+                          "name": "Bellingham / Whatcom",
+                          "regions": []
+                        },
+                        {
+                          "code": "bvs",
+                          "name": "Skagit Valley",
+                          "regions": []
+                        },
+                        {
+                          "code": "grh",
+                          "name": "Grays Harbor / WA Coast",
+                          "regions": []
+                        },
+                        {
+                          "code": "kit",
+                          "name": "Kitsap / Bremerton",
+                          "regions": []
+                        },
+                        {
+                          "code": "oly",
+                          "name": "Olympia / Lacey / Tumwater",
+                          "regions": []
+                        },
+                        {
+                          "code": "sea",
+                          "name": "Seattle / Tacoma / Bellevue",
+                          "regions": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -9505,6 +10821,10 @@
       "name": "United Arab Emirates"
     },
     {
+      "path": "aes",
+      "name": "Vigra/Ålesund"
+    },
+    {
       "path": "af",
       "name": "Afghanistan"
     },
@@ -9521,6 +10841,10 @@
       "name": "Albania"
     },
     {
+      "path": "alf",
+      "name": "Alta"
+    },
+    {
       "path": "allgaeu",
       "name": "Allgäu"
     },
@@ -9529,8 +10853,20 @@
       "name": "Altes Land"
     },
     {
+      "path": "alw",
+      "name": "Walla Walla"
+    },
+    {
       "path": "am",
       "name": "Armenia"
+    },
+    {
+      "path": "ang",
+      "name": "Angus area"
+    },
+    {
+      "path": "anx",
+      "name": "Andenes"
     },
     {
       "path": "ao",
@@ -9547,6 +10883,10 @@
     {
       "path": "as",
       "name": "American Samoa"
+    },
+    {
+      "path": "ast",
+      "name": "Astoria / Seaside"
     },
     {
       "path": "at",
@@ -9698,19 +11038,27 @@
     },
     {
       "path": "au-act",
-      "name": "act"
+      "name": "ACT"
     },
     {
       "path": "au-hume",
-      "name": "hume"
+      "name": "Hume"
     },
     {
       "path": "au-nsw",
-      "name": "nsw"
+      "name": "NSW"
+    },
+    {
+      "path": "au-nsw-abx",
+      "name": "Albury & Wodonga"
+    },
+    {
+      "path": "au-nsw-arm",
+      "name": "Armidale / New England"
     },
     {
       "path": "au-nsw-bhs",
-      "name": "bhs"
+      "name": "Bathurst / Central West"
     },
     {
       "path": "au-nsw-bmt",
@@ -9718,27 +11066,79 @@
     },
     {
       "path": "au-nsw-cw",
-      "name": "cw"
+      "name": "Central West"
+    },
+    {
+      "path": "au-nsw-dge",
+      "name": "Mudgee"
+    },
+    {
+      "path": "au-nsw-dnq",
+      "name": "Deniliquin"
+    },
+    {
+      "path": "au-nsw-gos",
+      "name": "Central Coast"
+    },
+    {
+      "path": "au-nsw-gul",
+      "name": "Goulburn / Southern Tablelands"
+    },
+    {
+      "path": "au-nsw-hun",
+      "name": "Newcastle / Hunter"
     },
     {
       "path": "au-nsw-mge",
       "name": "mge"
     },
     {
+      "path": "au-nsw-mim",
+      "name": "Merimbula / Far South Coast"
+    },
+    {
+      "path": "au-nsw-mya",
+      "name": "Moruya / Eurobodalla"
+    },
+    {
+      "path": "au-nsw-noa",
+      "name": "NOA"
+    },
+    {
       "path": "au-nsw-ntl",
-      "name": "ntl"
+      "name": "Newcastle / Hunter"
     },
     {
       "path": "au-nsw-oag",
       "name": "oag"
     },
     {
+      "path": "au-nsw-oom",
+      "name": "Cooma / Snowy Mountains"
+    },
+    {
+      "path": "au-nsw-syd",
+      "name": "Syd"
+    },
+    {
+      "path": "au-nsw-tmw",
+      "name": "Tamworth / North West"
+    },
+    {
+      "path": "au-nsw-tro",
+      "name": "Taree"
+    },
+    {
       "path": "au-nsw-wga",
-      "name": "wga"
+      "name": "Wagga Wagga / Riverina"
+    },
+    {
+      "path": "au-nsw-wol",
+      "name": "Wollongong / Illawarra"
     },
     {
       "path": "au-qld",
-      "name": "qld"
+      "name": "QLD"
     },
     {
       "path": "au-sa",
@@ -9758,19 +11158,55 @@
     },
     {
       "path": "au-vic",
-      "name": "vic"
+      "name": "Victoria"
+    },
+    {
+      "path": "au-vic-ballarat",
+      "name": "Ballarat"
+    },
+    {
+      "path": "au-vic-bendigo",
+      "name": "Bendigo"
+    },
+    {
+      "path": "au-vic-bright",
+      "name": "Bright"
+    },
+    {
+      "path": "au-vic-casey",
+      "name": "Casey"
     },
     {
       "path": "au-vic-east",
       "name": "east"
     },
     {
+      "path": "au-vic-geelong",
+      "name": "Geelong"
+    },
+    {
+      "path": "au-vic-gippsland",
+      "name": "Gippsland"
+    },
+    {
+      "path": "au-vic-mansfield",
+      "name": "Mansfield"
+    },
+    {
       "path": "au-vic-melbourne",
-      "name": "melbourne"
+      "name": "Melbourne"
     },
     {
       "path": "au-vic-metro",
       "name": "metro"
+    },
+    {
+      "path": "au-vic-ptfairy",
+      "name": "Port Fairy"
+    },
+    {
+      "path": "au-vic-wbool",
+      "name": "Warrnambool"
     },
     {
       "path": "au-wa",
@@ -9809,8 +11245,16 @@
       "name": "Barbados"
     },
     {
+      "path": "bc",
+      "name": "British Columbia"
+    },
+    {
       "path": "bd",
       "name": "Bangladesh"
+    },
+    {
+      "path": "bdu",
+      "name": "Bardufoss"
     },
     {
       "path": "be",
@@ -11357,6 +12801,10 @@
       "name": "Neufchâteau"
     },
     {
+      "path": "bend",
+      "name": "Bend / Redmond"
+    },
+    {
       "path": "bendi",
       "name": "Nandrin"
     },
@@ -12181,8 +13629,16 @@
       "name": "nw"
     },
     {
+      "path": "bgo",
+      "name": "Flesland/Bergen"
+    },
+    {
       "path": "bh",
       "name": "Bahrain"
+    },
+    {
+      "path": "bhd",
+      "name": "Ulster"
     },
     {
       "path": "bi",
@@ -12193,8 +13649,20 @@
       "name": "Benin"
     },
     {
+      "path": "bjf",
+      "name": "Båtsfjord"
+    },
+    {
+      "path": "bke",
+      "name": "Baker City"
+    },
+    {
       "path": "bl",
       "name": "St. Barthélemy"
+    },
+    {
+      "path": "bli",
+      "name": "Bellingham / Whatcom"
     },
     {
       "path": "bm",
@@ -12205,12 +13673,24 @@
       "name": "Brunei"
     },
     {
+      "path": "bnn",
+      "name": "Brønnøysund"
+    },
+    {
       "path": "bo",
       "name": "Bolivia"
     },
     {
+      "path": "boi",
+      "name": "Boise"
+    },
+    {
       "path": "bonn",
       "name": "Bonn"
+    },
+    {
+      "path": "boo",
+      "name": "Bodø"
     },
     {
       "path": "bq",
@@ -12219,6 +13699,14 @@
     {
       "path": "br",
       "name": "Brazil"
+    },
+    {
+      "path": "br-sp",
+      "name": "São Paulo"
+    },
+    {
+      "path": "br-sp-15",
+      "name": "Sorocaba"
     },
     {
       "path": "braunschweig",
@@ -12249,6 +13737,14 @@
       "name": "cv"
     },
     {
+      "path": "bvg",
+      "name": "Berlevåg"
+    },
+    {
+      "path": "bvs",
+      "name": "Skagit Valley"
+    },
+    {
       "path": "bw",
       "name": "Botswana"
     },
@@ -12261,6 +13757,22 @@
       "name": "Belize"
     },
     {
+      "path": "c-id",
+      "name": "Central Idaho"
+    },
+    {
+      "path": "c-or",
+      "name": "Central Oregon"
+    },
+    {
+      "path": "c-ut",
+      "name": "Central Utah"
+    },
+    {
+      "path": "c-wa",
+      "name": "Central Washington"
+    },
+    {
       "path": "ca",
       "name": "Canada"
     },
@@ -12271,6 +13783,18 @@
     {
       "path": "cd",
       "name": "Congo - Kinshasa"
+    },
+    {
+      "path": "cda",
+      "name": "Coeur d'Alene / N. Idaho"
+    },
+    {
+      "path": "ced",
+      "name": "Cedar City"
+    },
+    {
+      "path": "cen",
+      "name": "Central Scotland"
     },
     {
       "path": "cf",
@@ -12365,6 +13889,10 @@
       "name": "Chile"
     },
     {
+      "path": "cls",
+      "name": "Centralia / Chehalis"
+    },
+    {
       "path": "cm",
       "name": "Cameroon"
     },
@@ -12377,6 +13905,14 @@
       "name": "Colombia"
     },
     {
+      "path": "coast-or",
+      "name": "Oregon Coast"
+    },
+    {
+      "path": "connacht",
+      "name": "Connacht"
+    },
+    {
       "path": "cr",
       "name": "Costa Rica"
     },
@@ -12387,6 +13923,10 @@
     {
       "path": "cv",
       "name": "Cape Verde"
+    },
+    {
+      "path": "cvo",
+      "name": "Corvallis / Albany"
     },
     {
       "path": "cw",
@@ -13705,6 +15245,10 @@
       "name": "Landkreis Wittmund"
     },
     {
+      "path": "de-nl",
+      "name": "nl"
+    },
+    {
       "path": "de-nom",
       "name": "nom"
     },
@@ -14309,6 +15853,10 @@
       "name": "wtm"
     },
     {
+      "path": "dij",
+      "name": "Driggs / Teton Valley"
+    },
+    {
       "path": "dj",
       "name": "Djibouti"
     },
@@ -14365,6 +15913,10 @@
       "name": "svendborg"
     },
     {
+      "path": "dk-horsens",
+      "name": "Horsens"
+    },
+    {
       "path": "dk-jylland",
       "name": "jylland"
     },
@@ -14375,6 +15927,10 @@
     {
       "path": "dk-kbh",
       "name": "kbh"
+    },
+    {
+      "path": "dk-mdj",
+      "name": "Region Midtjylland"
     },
     {
       "path": "dk-mj",
@@ -14421,12 +15977,36 @@
       "name": "Dreiländereck NL/BE/DE"
     },
     {
+      "path": "dub",
+      "name": "Leinster"
+    },
+    {
+      "path": "dun",
+      "name": "Dundee area"
+    },
+    {
       "path": "dz",
       "name": "Algeria"
     },
     {
+      "path": "e-id",
+      "name": "Eastern Idaho"
+    },
+    {
+      "path": "e-wa",
+      "name": "Eastern Washington"
+    },
+    {
+      "path": "eat",
+      "name": "Wenatchee"
+    },
+    {
       "path": "ec",
       "name": "Ecuador"
+    },
+    {
+      "path": "edi",
+      "name": "Edinburgh area"
     },
     {
       "path": "ee",
@@ -14445,8 +16025,24 @@
       "name": "Eifel"
     },
     {
+      "path": "eln",
+      "name": "Ellensburg"
+    },
+    {
+      "path": "eng",
+      "name": "England"
+    },
+    {
+      "path": "eph",
+      "name": "Ephrata"
+    },
+    {
       "path": "er",
       "name": "Eritrea"
+    },
+    {
+      "path": "erc",
+      "name": "Emergency Response Communications"
     },
     {
       "path": "es",
@@ -14455,6 +16051,10 @@
     {
       "path": "es-as",
       "name": "as"
+    },
+    {
+      "path": "es-bcn",
+      "name": "bcn"
     },
     {
       "path": "et",
@@ -14473,12 +16073,36 @@
       "name": "Europe"
     },
     {
+      "path": "eug",
+      "name": "Eugene / Springfield"
+    },
+    {
       "path": "europe",
       "name": "Europe"
     },
     {
+      "path": "eve",
+      "name": "Evenes"
+    },
+    {
+      "path": "fal",
+      "name": "Falkirk area"
+    },
+    {
+      "path": "fca",
+      "name": "Flathead Valley / Kalispell"
+    },
+    {
+      "path": "fde",
+      "name": "Førde"
+    },
+    {
       "path": "fi",
       "name": "Finland"
+    },
+    {
+      "path": "fif",
+      "name": "Fife"
     },
     {
       "path": "fj",
@@ -14801,6 +16425,10 @@
       "name": "Frankfurt"
     },
     {
+      "path": "fro",
+      "name": "Florø"
+    },
+    {
       "path": "ga",
       "name": "Gabon"
     },
@@ -14811,6 +16439,14 @@
     {
       "path": "gb-bkm",
       "name": "bkm"
+    },
+    {
+      "path": "gb-dorset",
+      "name": "dorset"
+    },
+    {
+      "path": "gb-eb-nw",
+      "name": "nw"
     },
     {
       "path": "gb-eng",
@@ -14833,6 +16469,14 @@
       "name": "nw"
     },
     {
+      "path": "gb-eng-nw-ross",
+      "name": "ross"
+    },
+    {
+      "path": "gb-eng-rdale",
+      "name": "rdale"
+    },
+    {
       "path": "gb-eng-yh",
       "name": "yh"
     },
@@ -14845,8 +16489,16 @@
       "name": "lon"
     },
     {
+      "path": "gb-mid",
+      "name": "Midlands"
+    },
+    {
       "path": "gb-nir",
       "name": "nir"
+    },
+    {
+      "path": "gb-nth",
+      "name": "North East"
     },
     {
       "path": "gb-nw",
@@ -14865,6 +16517,14 @@
       "name": "sct"
     },
     {
+      "path": "gb-sth",
+      "name": "South East"
+    },
+    {
+      "path": "gb-swt",
+      "name": "South West"
+    },
+    {
       "path": "gb-wls",
       "name": "wls"
     },
@@ -14879,6 +16539,10 @@
     {
       "path": "ge",
       "name": "Georgia"
+    },
+    {
+      "path": "geg",
+      "name": "Spokane"
     },
     {
       "path": "gf",
@@ -14901,6 +16565,10 @@
       "name": "Greenland"
     },
     {
+      "path": "gla",
+      "name": "Glasgow area"
+    },
+    {
       "path": "gm",
       "name": "Gambia"
     },
@@ -14919,6 +16587,10 @@
     {
       "path": "gr",
       "name": "Greece"
+    },
+    {
+      "path": "grh",
+      "name": "Grays Harbor / WA Coast"
     },
     {
       "path": "gs",
@@ -14941,6 +16613,10 @@
       "name": "Guyana"
     },
     {
+      "path": "haa",
+      "name": "Hasvik"
+    },
+    {
       "path": "halle",
       "name": "Halle (Saale)"
     },
@@ -14953,8 +16629,16 @@
       "name": "Hansemesh (Großraum Hamburg)"
     },
     {
+      "path": "hau",
+      "name": "Haugesund"
+    },
+    {
       "path": "heidemesh",
       "name": "Heidemesh (LK DAN/LG/UE)"
+    },
+    {
+      "path": "hft",
+      "name": "Hammerfest"
     },
     {
       "path": "hildesheim",
@@ -14971,6 +16655,10 @@
     {
       "path": "hn",
       "name": "Honduras"
+    },
+    {
+      "path": "hov",
+      "name": "Ørsta-Volda"
     },
     {
       "path": "hr",
@@ -14993,8 +16681,16 @@
       "name": "Hungary"
     },
     {
+      "path": "hvg",
+      "name": "Honningsvåg"
+    },
+    {
       "path": "id",
       "name": "Indonesia"
+    },
+    {
+      "path": "ida",
+      "name": "Idaho Falls"
     },
     {
       "path": "ie",
@@ -15009,8 +16705,16 @@
       "name": "Isle of Man"
     },
     {
+      "path": "imw",
+      "name": "Intermountain West"
+    },
+    {
       "path": "in",
       "name": "India"
+    },
+    {
+      "path": "inw",
+      "name": "Inland Northwest"
     },
     {
       "path": "io",
@@ -15023,6 +16727,14 @@
     {
       "path": "ioi-admin",
       "name": "admin"
+    },
+    {
+      "path": "iom",
+      "name": "Isle of Man"
+    },
+    {
+      "path": "ipswich",
+      "name": "Ipswich"
     },
     {
       "path": "iq",
@@ -15273,6 +16985,18 @@
       "name": "Kiribati"
     },
     {
+      "path": "kit",
+      "name": "Kitsap / Bremerton"
+    },
+    {
+      "path": "kkn",
+      "name": "Kirkenes"
+    },
+    {
+      "path": "kls",
+      "name": "Kelso / Longview"
+    },
+    {
       "path": "km",
       "name": "Comoros"
     },
@@ -15291,6 +17015,18 @@
     {
       "path": "kr",
       "name": "South Korea"
+    },
+    {
+      "path": "krs",
+      "name": "Kjevik/Kristiansand"
+    },
+    {
+      "path": "ksu",
+      "name": "Kristiansund"
+    },
+    {
+      "path": "kun",
+      "name": "Pietų Lietuva"
     },
     {
       "path": "kw",
@@ -15337,6 +17073,18 @@
       "name": "stade"
     },
     {
+      "path": "lkl",
+      "name": "Lakselv"
+    },
+    {
+      "path": "lkn",
+      "name": "Leknes"
+    },
+    {
+      "path": "lmt",
+      "name": "Klamath Falls"
+    },
+    {
       "path": "lr",
       "name": "Liberia"
     },
@@ -15357,12 +17105,20 @@
       "name": "Latvia"
     },
     {
+      "path": "lws",
+      "name": "Lewiston / Clearwater / Grangeville"
+    },
+    {
       "path": "ly",
       "name": "Libya"
     },
     {
       "path": "ma",
       "name": "Morocco"
+    },
+    {
+      "path": "mayo",
+      "name": "County Mayo"
     },
     {
       "path": "mc",
@@ -15381,8 +17137,16 @@
       "name": "Montenegro"
     },
     {
+      "path": "meh",
+      "name": "Mehamn"
+    },
+    {
       "path": "mf",
       "name": "St. Martin"
+    },
+    {
+      "path": "mfr",
+      "name": "Medford / Ashland"
     },
     {
       "path": "mg",
@@ -15391,6 +17155,10 @@
     {
       "path": "mh",
       "name": "Marshall Islands"
+    },
+    {
+      "path": "mjf",
+      "name": "Mosjøen"
     },
     {
       "path": "mk",
@@ -15405,6 +17173,10 @@
       "name": "Myanmar (Burma)"
     },
     {
+      "path": "mmv",
+      "name": "McMinnville / Yamhill"
+    },
+    {
       "path": "mn",
       "name": "Mongolia"
     },
@@ -15413,12 +17185,20 @@
       "name": "Macao SAR China"
     },
     {
+      "path": "mol",
+      "name": "Molde"
+    },
+    {
       "path": "mp",
       "name": "Northern Mariana Islands"
     },
     {
       "path": "mq",
       "name": "Martinique"
+    },
+    {
+      "path": "mqn",
+      "name": "Mo i Rana"
     },
     {
       "path": "mr",
@@ -15453,6 +17233,10 @@
       "name": "Malaysia"
     },
     {
+      "path": "myl",
+      "name": "McCall"
+    },
+    {
       "path": "mz",
       "name": "Mozambique"
     },
@@ -15465,6 +17249,14 @@
       "name": "um"
     },
     {
+      "path": "n-id",
+      "name": "Northern Idaho"
+    },
+    {
+      "path": "n-ut",
+      "name": "Northern Utah"
+    },
+    {
       "path": "na",
       "name": "Namibia"
     },
@@ -15475,6 +17267,10 @@
     {
       "path": "ne",
       "name": "Niger"
+    },
+    {
+      "path": "neng",
+      "name": "Northern England"
     },
     {
       "path": "nf",
@@ -15611,6 +17407,10 @@
     {
       "path": "nl-edm",
       "name": "edm"
+    },
+    {
+      "path": "nl-ein",
+      "name": "ein"
     },
     {
       "path": "nl-emn",
@@ -15915,6 +17715,10 @@
     {
       "path": "nl-nh-cas",
       "name": "cas"
+    },
+    {
+      "path": "nl-nh-dhr",
+      "name": "dhr"
     },
     {
       "path": "nl-nh-dim",
@@ -16249,6 +18053,98 @@
       "name": "Norway"
     },
     {
+      "path": "no-03",
+      "name": "Oslo"
+    },
+    {
+      "path": "no-18",
+      "name": "Nordland"
+    },
+    {
+      "path": "no-32",
+      "name": "Akershus"
+    },
+    {
+      "path": "no-33",
+      "name": "Buskerud"
+    },
+    {
+      "path": "no-alta",
+      "name": "Alta"
+    },
+    {
+      "path": "no-bergen",
+      "name": "Bergen"
+    },
+    {
+      "path": "no-bodo",
+      "name": "Bodø"
+    },
+    {
+      "path": "no-drammen",
+      "name": "Drammen"
+    },
+    {
+      "path": "no-fredrikstad",
+      "name": "Fredrikstad"
+    },
+    {
+      "path": "no-hamar",
+      "name": "Hamar"
+    },
+    {
+      "path": "no-kirkenes",
+      "name": "Kirkenes"
+    },
+    {
+      "path": "no-kristiansand",
+      "name": "Kristiansand"
+    },
+    {
+      "path": "no-molde",
+      "name": "Molde"
+    },
+    {
+      "path": "no-nord",
+      "name": "Nord-Norge"
+    },
+    {
+      "path": "no-oslo",
+      "name": "Oslo"
+    },
+    {
+      "path": "no-ost",
+      "name": "Østlandet"
+    },
+    {
+      "path": "no-sandnes",
+      "name": "Sandnes"
+    },
+    {
+      "path": "no-skien",
+      "name": "Skien"
+    },
+    {
+      "path": "no-stavanger",
+      "name": "Stavanger"
+    },
+    {
+      "path": "no-tonsberg",
+      "name": "Tønsberg"
+    },
+    {
+      "path": "no-tromso",
+      "name": "Tromsø"
+    },
+    {
+      "path": "no-trondheim",
+      "name": "Trondheim"
+    },
+    {
+      "path": "noc",
+      "name": "Connacht"
+    },
+    {
       "path": "nordbaden",
       "name": "Regierungsbezirk Nordbaden"
     },
@@ -16265,28 +18161,148 @@
       "name": "Niue"
     },
     {
+      "path": "nv",
+      "name": "Nevada"
+    },
+    {
       "path": "nz",
       "name": "New Zealand"
+    },
+    {
+      "path": "nz-auk",
+      "name": "auk"
+    },
+    {
+      "path": "nz-bop",
+      "name": "bop"
+    },
+    {
+      "path": "nz-can",
+      "name": "can"
+    },
+    {
+      "path": "nz-cit",
+      "name": "cit"
+    },
+    {
+      "path": "nz-gis",
+      "name": "gis"
+    },
+    {
+      "path": "nz-hkb",
+      "name": "hkb"
+    },
+    {
+      "path": "nz-mbh",
+      "name": "mbh"
+    },
+    {
+      "path": "nz-mwt",
+      "name": "mwt"
+    },
+    {
+      "path": "nz-nsn",
+      "name": "nsn"
+    },
+    {
+      "path": "nz-ntl",
+      "name": "ntl"
+    },
+    {
+      "path": "nz-ota",
+      "name": "ota"
+    },
+    {
+      "path": "nz-stl",
+      "name": "stl"
+    },
+    {
+      "path": "nz-tas",
+      "name": "tas"
+    },
+    {
+      "path": "nz-tki",
+      "name": "tki"
+    },
+    {
+      "path": "nz-wgn",
+      "name": "wgn"
+    },
+    {
+      "path": "nz-wko",
+      "name": "wko"
+    },
+    {
+      "path": "nz-wtc",
+      "name": "wtc"
     },
     {
       "path": "odenwald",
       "name": "Odenwald"
     },
     {
+      "path": "ogd",
+      "name": "Ogden"
+    },
+    {
+      "path": "ola",
+      "name": "Ørland"
+    },
+    {
+      "path": "oly",
+      "name": "Olympia / Lacey / Tumwater"
+    },
+    {
       "path": "om",
       "name": "Oman"
+    },
+    {
+      "path": "onp",
+      "name": "Newport / Lincoln City"
+    },
+    {
+      "path": "or",
+      "name": "Oregon"
+    },
+    {
+      "path": "osl",
+      "name": "Gardermoen/Oslo"
     },
     {
       "path": "ostfriesland",
       "name": "Ostfriesland"
     },
     {
+      "path": "osy",
+      "name": "Namsos"
+    },
+    {
+      "path": "oth",
+      "name": "North Bend / Coos Bay"
+    },
+    {
+      "path": "otk",
+      "name": "Tillamook"
+    },
+    {
       "path": "pa",
       "name": "Panama"
     },
     {
+      "path": "palouse",
+      "name": "Palouse"
+    },
+    {
       "path": "pamina",
       "name": "Eurodistrikt PAMINA (DE/FR)"
+    },
+    {
+      "path": "pdt",
+      "name": "Pendleton"
+    },
+    {
+      "path": "pdx",
+      "name": "Portland Metro"
     },
     {
       "path": "pe",
@@ -16295,6 +18311,10 @@
     {
       "path": "peine",
       "name": "Landkreis Peine"
+    },
+    {
+      "path": "per",
+      "name": "Perth area"
     },
     {
       "path": "pf",
@@ -16307,6 +18327,10 @@
     {
       "path": "ph",
       "name": "Philippines"
+    },
+    {
+      "path": "pih",
+      "name": "Pocatello"
     },
     {
       "path": "pk",
@@ -16401,6 +18425,10 @@
       "name": "wp"
     },
     {
+      "path": "plq",
+      "name": "Vakarų Lietuva"
+    },
+    {
       "path": "pm",
       "name": "St. Pierre & Miquelon"
     },
@@ -16409,12 +18437,20 @@
       "name": "Pitcairn Islands"
     },
     {
+      "path": "pnw",
+      "name": "Pacific Northwest"
+    },
+    {
       "path": "pr",
       "name": "Puerto Rico"
     },
     {
       "path": "ps",
       "name": "Palestinian Territories"
+    },
+    {
+      "path": "psc",
+      "name": "Tri-Cities"
     },
     {
       "path": "pt",
@@ -16465,6 +18501,10 @@
       "name": "setubal"
     },
     {
+      "path": "puw",
+      "name": "Pullman"
+    },
+    {
       "path": "pw",
       "name": "Palau"
     },
@@ -16477,12 +18517,20 @@
       "name": "Qatar"
     },
     {
+      "path": "rbg",
+      "name": "Roseburg"
+    },
+    {
       "path": "re",
       "name": "Réunion"
     },
     {
       "path": "rennsteigmesh",
       "name": "Rennsteigmesh (Region um den Rennsteig)"
+    },
+    {
+      "path": "ret",
+      "name": "Røst"
     },
     {
       "path": "rhein-main",
@@ -16553,6 +18601,10 @@
       "name": "vest"
     },
     {
+      "path": "rrs",
+      "name": "Røros"
+    },
+    {
       "path": "rs",
       "name": "Serbia"
     },
@@ -16569,8 +18621,24 @@
       "name": "Ruhrgebiet"
     },
     {
+      "path": "rvk",
+      "name": "Rørvik"
+    },
+    {
       "path": "rw",
       "name": "Rwanda"
+    },
+    {
+      "path": "s-id",
+      "name": "Southern Idaho"
+    },
+    {
+      "path": "s-or",
+      "name": "Southern Oregon"
+    },
+    {
+      "path": "s-ut",
+      "name": "Southern Utah"
     },
     {
       "path": "sa",
@@ -16579,6 +18647,10 @@
     {
       "path": "saarlorlux",
       "name": "Großregion (Saar-Lor-Lux)"
+    },
+    {
+      "path": "salishmesh",
+      "name": "Salish Sea / Gulf Islands"
     },
     {
       "path": "samtgemeinde-tostedt",
@@ -16607,6 +18679,10 @@
     {
       "path": "sd",
       "name": "Sudan"
+    },
+    {
+      "path": "sdn",
+      "name": "Sandane"
     },
     {
       "path": "se",
@@ -16639,6 +18715,94 @@
     {
       "path": "se-wa",
       "name": "wa"
+    },
+    {
+      "path": "se01",
+      "name": "Stockholms län"
+    },
+    {
+      "path": "se03",
+      "name": "Uppsala län"
+    },
+    {
+      "path": "se04",
+      "name": "Södermanlands län"
+    },
+    {
+      "path": "se05",
+      "name": "Östergötlands län"
+    },
+    {
+      "path": "se06",
+      "name": "Jönköpings län"
+    },
+    {
+      "path": "se07",
+      "name": "Kronobergs län"
+    },
+    {
+      "path": "se08",
+      "name": "Kalmar län"
+    },
+    {
+      "path": "se09",
+      "name": "Gotlands län"
+    },
+    {
+      "path": "se10",
+      "name": "Blekinge län"
+    },
+    {
+      "path": "se12",
+      "name": "Skåne län"
+    },
+    {
+      "path": "se13",
+      "name": "Hallands län"
+    },
+    {
+      "path": "se14",
+      "name": "Västra Götalands län"
+    },
+    {
+      "path": "se17",
+      "name": "Värmlands län"
+    },
+    {
+      "path": "se18",
+      "name": "Örebro län"
+    },
+    {
+      "path": "se19",
+      "name": "Västmanlands län"
+    },
+    {
+      "path": "se20",
+      "name": "Dalarnas län"
+    },
+    {
+      "path": "se21",
+      "name": "Gävleborgs län"
+    },
+    {
+      "path": "se22",
+      "name": "Västernorrlands län"
+    },
+    {
+      "path": "se23",
+      "name": "Jämtlands län"
+    },
+    {
+      "path": "se24",
+      "name": "Västerbottens län"
+    },
+    {
+      "path": "se25",
+      "name": "Norrbottens län"
+    },
+    {
+      "path": "sea",
+      "name": "Seattle / Tacoma / Bellevue"
     },
     {
       "path": "seevetal",
@@ -16689,12 +18853,28 @@
       "name": "ma"
     },
     {
+      "path": "skn",
+      "name": "Stokmarknes"
+    },
+    {
       "path": "sl",
       "name": "Sierra Leone"
     },
     {
+      "path": "slc",
+      "name": "Salt Lake City"
+    },
+    {
+      "path": "sle",
+      "name": "Salem / Keizer"
+    },
+    {
       "path": "sm",
       "name": "San Marino"
+    },
+    {
+      "path": "smn",
+      "name": "Lemhi County"
     },
     {
       "path": "sn",
@@ -16709,28 +18889,92 @@
       "name": "msn"
     },
     {
+      "path": "snn",
+      "name": "Munster"
+    },
+    {
       "path": "so",
       "name": "Somalia"
+    },
+    {
+      "path": "sog",
+      "name": "Sogndal"
+    },
+    {
+      "path": "soj",
+      "name": "Sørkjosen"
+    },
+    {
+      "path": "southisland",
+      "name": "South Vancouver Island / Victoria"
+    },
+    {
+      "path": "sqq",
+      "name": "Šiaurės Lietuva"
     },
     {
       "path": "sr",
       "name": "Suriname"
     },
     {
+      "path": "srp",
+      "name": "Stord"
+    },
+    {
       "path": "ss",
       "name": "South Sudan"
+    },
+    {
+      "path": "ssj",
+      "name": "Sandnessjøen"
     },
     {
       "path": "st",
       "name": "São Tomé & Príncipe"
     },
     {
+      "path": "stg",
+      "name": "St. George"
+    },
+    {
       "path": "suedbaden",
       "name": "Regierungsbezirk Südbaden"
     },
     {
+      "path": "suffolk",
+      "name": "Suffolk"
+    },
+    {
+      "path": "sun",
+      "name": "Sun Valley / Ketchum"
+    },
+    {
       "path": "sv",
       "name": "El Salvador"
+    },
+    {
+      "path": "svg",
+      "name": "Sola/Stavanger"
+    },
+    {
+      "path": "svj",
+      "name": "Svolvær"
+    },
+    {
+      "path": "sw-id",
+      "name": "Southwest Idaho"
+    },
+    {
+      "path": "sw-wa",
+      "name": "Southwest Washington"
+    },
+    {
+      "path": "swbc",
+      "name": "Southwest BC / Lower Mainland"
+    },
+    {
+      "path": "swsw",
+      "name": "South West & South Wales"
     },
     {
       "path": "sx",
@@ -16747,6 +18991,10 @@
     {
       "path": "taunus",
       "name": "Taunus"
+    },
+    {
+      "path": "tay",
+      "name": "Tayside"
     },
     {
       "path": "tc",
@@ -16793,8 +19041,20 @@
       "name": "Tonga"
     },
     {
+      "path": "tos",
+      "name": "Tromsø"
+    },
+    {
       "path": "tr",
       "name": "Türkiye"
+    },
+    {
+      "path": "trd",
+      "name": "Værnes/Trondheim"
+    },
+    {
+      "path": "trf",
+      "name": "Torp/Sandefjord"
     },
     {
       "path": "trier",
@@ -16813,6 +19073,10 @@
       "name": "Taiwan"
     },
     {
+      "path": "twf",
+      "name": "Twin Falls"
+    },
+    {
       "path": "tz",
       "name": "Tanzania"
     },
@@ -16827,6 +19091,10 @@
     {
       "path": "um",
       "name": "U.S. Outlying Islands"
+    },
+    {
+      "path": "uofi",
+      "name": "University of Idaho, Moscow campus"
     },
     {
       "path": "upper-rhine",
@@ -16881,6 +19149,10 @@
       "name": "nw"
     },
     {
+      "path": "us-lax",
+      "name": "lax"
+    },
+    {
       "path": "us-mci",
       "name": "mci"
     },
@@ -16891,6 +19163,10 @@
     {
       "path": "us-nc",
       "name": "nc"
+    },
+    {
+      "path": "us-pa",
+      "name": "pa"
     },
     {
       "path": "us-se",
@@ -16917,6 +19193,18 @@
       "name": "wa"
     },
     {
+      "path": "us-wi",
+      "name": "wi"
+    },
+    {
+      "path": "ut",
+      "name": "Utah"
+    },
+    {
+      "path": "utc",
+      "name": "Utah County / Provo"
+    },
+    {
       "path": "uy",
       "name": "Uruguay"
     },
@@ -16929,8 +19217,20 @@
       "name": "Vatican City"
     },
     {
+      "path": "vanisle",
+      "name": "Vancouver Island"
+    },
+    {
+      "path": "vaw",
+      "name": "Vardø"
+    },
+    {
       "path": "vc",
       "name": "St. Vincent & Grenadines"
+    },
+    {
+      "path": "vds",
+      "name": "Vadsø"
     },
     {
       "path": "ve",
@@ -16949,8 +19249,28 @@
       "name": "Vietnam"
     },
     {
+      "path": "vno",
+      "name": "Rytų Lietuva"
+    },
+    {
       "path": "vu",
       "name": "Vanuatu"
+    },
+    {
+      "path": "w-wa",
+      "name": "Western Washington"
+    },
+    {
+      "path": "wa",
+      "name": "Washington"
+    },
+    {
+      "path": "wb",
+      "name": "Wasatch Back"
+    },
+    {
+      "path": "west",
+      "name": "Entire mesh"
     },
     {
       "path": "westerwald",
@@ -16965,12 +19285,32 @@
       "name": "Wallis & Futuna"
     },
     {
+      "path": "wls",
+      "name": "Wales"
+    },
+    {
       "path": "ws",
       "name": "Samoa"
     },
     {
+      "path": "wsu",
+      "name": "WSU Pullman campus"
+    },
+    {
+      "path": "wv",
+      "name": "Willamette Valley"
+    },
+    {
+      "path": "wy",
+      "name": "Wyoming"
+    },
+    {
       "path": "ye",
       "name": "Yemen"
+    },
+    {
+      "path": "ykm",
+      "name": "Yakima"
     },
     {
       "path": "yt",

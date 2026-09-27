@@ -3,8 +3,28 @@
   "name": "Island of Ireland",
   "regions": [
     {
+      "code": "bhd",
+      "name": "Ulster",
+      "regions": []
+    },
+    {
+      "code": "dub",
+      "name": "Leinster",
+      "regions": []
+    },
+    {
       "code": "ioi-admin",
       "name": "admin",
+      "regions": []
+    },
+    {
+      "code": "noc",
+      "name": "Connacht",
+      "regions": []
+    },
+    {
+      "code": "snn",
+      "name": "Munster",
       "regions": []
     }
   ]

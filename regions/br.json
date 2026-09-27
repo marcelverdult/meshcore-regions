@@ -1,5 +1,17 @@
 {
   "code": "br",
   "name": "Brazil",
-  "regions": []
+  "regions": [
+    {
+      "code": "br-sp",
+      "name": "São Paulo",
+      "regions": [
+        {
+          "code": "br-sp-15",
+          "name": "Sorocaba",
+          "regions": []
+        }
+      ]
+    }
+  ]
 }

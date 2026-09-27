@@ -3,6 +3,125 @@
   "name": "United States",
   "regions": [
     {
+      "code": "alw",
+      "name": "Walla Walla",
+      "regions": []
+    },
+    {
+      "code": "boi",
+      "name": "Boise",
+      "regions": []
+    },
+    {
+      "code": "c-id",
+      "name": "Central Idaho",
+      "regions": [
+        {
+          "code": "myl",
+          "name": "McCall",
+          "regions": []
+        },
+        {
+          "code": "smn",
+          "name": "Lemhi County",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "cda",
+      "name": "Coeur d'Alene / N. Idaho",
+      "regions": []
+    },
+    {
+      "code": "e-id",
+      "name": "Eastern Idaho",
+      "regions": [
+        {
+          "code": "dij",
+          "name": "Driggs / Teton Valley",
+          "regions": []
+        },
+        {
+          "code": "ida",
+          "name": "Idaho Falls",
+          "regions": []
+        },
+        {
+          "code": "pih",
+          "name": "Pocatello",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "erc",
+      "name": "Emergency Response Communications",
+      "regions": []
+    },
+    {
+      "code": "fca",
+      "name": "Flathead Valley / Kalispell",
+      "regions": []
+    },
+    {
+      "code": "n-id",
+      "name": "Northern Idaho",
+      "regions": [
+        {
+          "code": "lws",
+          "name": "Lewiston / Clearwater / Grangeville",
+          "regions": []
+        },
+        {
+          "code": "uofi",
+          "name": "University of Idaho, Moscow campus",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "ogd",
+      "name": "Ogden",
+      "regions": []
+    },
+    {
+      "code": "psc",
+      "name": "Tri-Cities",
+      "regions": []
+    },
+    {
+      "code": "puw",
+      "name": "Pullman",
+      "regions": []
+    },
+    {
+      "code": "s-id",
+      "name": "Southern Idaho",
+      "regions": [
+        {
+          "code": "sun",
+          "name": "Sun Valley / Ketchum",
+          "regions": []
+        },
+        {
+          "code": "twf",
+          "name": "Twin Falls",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "slc",
+      "name": "Salt Lake City",
+      "regions": []
+    },
+    {
+      "code": "sw-id",
+      "name": "Southwest Idaho",
+      "regions": []
+    },
+    {
       "code": "us-al",
       "name": "al",
       "regions": []
@@ -60,6 +179,11 @@
       ]
     },
     {
+      "code": "us-lax",
+      "name": "lax",
+      "regions": []
+    },
+    {
       "code": "us-mci",
       "name": "mci",
       "regions": []
@@ -72,6 +196,11 @@
     {
       "code": "us-nc",
       "name": "nc",
+      "regions": []
+    },
+    {
+      "code": "us-pa",
+      "name": "pa",
       "regions": []
     },
     {
@@ -104,6 +233,296 @@
       "code": "us-wa",
       "name": "wa",
       "regions": []
+    },
+    {
+      "code": "us-wi",
+      "name": "wi",
+      "regions": []
+    },
+    {
+      "code": "utc",
+      "name": "Utah County / Provo",
+      "regions": []
+    },
+    {
+      "code": "west",
+      "name": "Entire mesh",
+      "regions": [
+        {
+          "code": "imw",
+          "name": "Intermountain West",
+          "regions": [
+            {
+              "code": "inw",
+              "name": "Inland Northwest",
+              "regions": []
+            },
+            {
+              "code": "nv",
+              "name": "Nevada",
+              "regions": []
+            },
+            {
+              "code": "ut",
+              "name": "Utah",
+              "regions": [
+                {
+                  "code": "c-ut",
+                  "name": "Central Utah",
+                  "regions": []
+                },
+                {
+                  "code": "n-ut",
+                  "name": "Northern Utah",
+                  "regions": []
+                },
+                {
+                  "code": "s-ut",
+                  "name": "Southern Utah",
+                  "regions": [
+                    {
+                      "code": "ced",
+                      "name": "Cedar City",
+                      "regions": []
+                    },
+                    {
+                      "code": "stg",
+                      "name": "St. George",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "wb",
+                  "name": "Wasatch Back",
+                  "regions": []
+                }
+              ]
+            },
+            {
+              "code": "wy",
+              "name": "Wyoming",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "pnw",
+          "name": "Pacific Northwest",
+          "regions": [
+            {
+              "code": "or",
+              "name": "Oregon",
+              "regions": [
+                {
+                  "code": "c-or",
+                  "name": "Central Oregon",
+                  "regions": [
+                    {
+                      "code": "bend",
+                      "name": "Bend / Redmond",
+                      "regions": []
+                    },
+                    {
+                      "code": "bke",
+                      "name": "Baker City",
+                      "regions": []
+                    },
+                    {
+                      "code": "pdt",
+                      "name": "Pendleton",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "coast-or",
+                  "name": "Oregon Coast",
+                  "regions": [
+                    {
+                      "code": "ast",
+                      "name": "Astoria / Seaside",
+                      "regions": []
+                    },
+                    {
+                      "code": "onp",
+                      "name": "Newport / Lincoln City",
+                      "regions": []
+                    },
+                    {
+                      "code": "oth",
+                      "name": "North Bend / Coos Bay",
+                      "regions": []
+                    },
+                    {
+                      "code": "otk",
+                      "name": "Tillamook",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "pdx",
+                  "name": "Portland Metro",
+                  "regions": []
+                },
+                {
+                  "code": "s-or",
+                  "name": "Southern Oregon",
+                  "regions": [
+                    {
+                      "code": "lmt",
+                      "name": "Klamath Falls",
+                      "regions": []
+                    },
+                    {
+                      "code": "mfr",
+                      "name": "Medford / Ashland",
+                      "regions": []
+                    },
+                    {
+                      "code": "rbg",
+                      "name": "Roseburg",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "wv",
+                  "name": "Willamette Valley",
+                  "regions": [
+                    {
+                      "code": "cvo",
+                      "name": "Corvallis / Albany",
+                      "regions": []
+                    },
+                    {
+                      "code": "eug",
+                      "name": "Eugene / Springfield",
+                      "regions": []
+                    },
+                    {
+                      "code": "mmv",
+                      "name": "McMinnville / Yamhill",
+                      "regions": []
+                    },
+                    {
+                      "code": "sle",
+                      "name": "Salem / Keizer",
+                      "regions": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "palouse",
+              "name": "Palouse",
+              "regions": []
+            },
+            {
+              "code": "wa",
+              "name": "Washington",
+              "regions": [
+                {
+                  "code": "c-wa",
+                  "name": "Central Washington",
+                  "regions": [
+                    {
+                      "code": "eat",
+                      "name": "Wenatchee",
+                      "regions": []
+                    },
+                    {
+                      "code": "eln",
+                      "name": "Ellensburg",
+                      "regions": []
+                    },
+                    {
+                      "code": "eph",
+                      "name": "Ephrata",
+                      "regions": []
+                    },
+                    {
+                      "code": "ykm",
+                      "name": "Yakima",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "e-wa",
+                  "name": "Eastern Washington",
+                  "regions": [
+                    {
+                      "code": "geg",
+                      "name": "Spokane",
+                      "regions": []
+                    },
+                    {
+                      "code": "wsu",
+                      "name": "WSU Pullman campus",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "sw-wa",
+                  "name": "Southwest Washington",
+                  "regions": [
+                    {
+                      "code": "cls",
+                      "name": "Centralia / Chehalis",
+                      "regions": []
+                    },
+                    {
+                      "code": "kls",
+                      "name": "Kelso / Longview",
+                      "regions": []
+                    }
+                  ]
+                },
+                {
+                  "code": "w-wa",
+                  "name": "Western Washington",
+                  "regions": [
+                    {
+                      "code": "bli",
+                      "name": "Bellingham / Whatcom",
+                      "regions": []
+                    },
+                    {
+                      "code": "bvs",
+                      "name": "Skagit Valley",
+                      "regions": []
+                    },
+                    {
+                      "code": "grh",
+                      "name": "Grays Harbor / WA Coast",
+                      "regions": []
+                    },
+                    {
+                      "code": "kit",
+                      "name": "Kitsap / Bremerton",
+                      "regions": []
+                    },
+                    {
+                      "code": "oly",
+                      "name": "Olympia / Lacey / Tumwater",
+                      "regions": []
+                    },
+                    {
+                      "code": "sea",
+                      "name": "Seattle / Tacoma / Bellevue",
+                      "regions": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

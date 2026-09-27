@@ -6,6 +6,11 @@
       "code": "es-as",
       "name": "as",
       "regions": []
+    },
+    {
+      "code": "es-bcn",
+      "name": "bcn",
+      "regions": []
     }
   ]
 }

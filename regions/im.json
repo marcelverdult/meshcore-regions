@@ -1,5 +1,11 @@
 {
   "code": "im",
   "name": "Isle of Man",
-  "regions": []
+  "regions": [
+    {
+      "code": "iom",
+      "name": "Isle of Man",
+      "regions": []
+    }
+  ]
 }

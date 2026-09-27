@@ -1,5 +1,17 @@
 {
   "code": "ie",
   "name": "Ireland",
-  "regions": []
+  "regions": [
+    {
+      "code": "connacht",
+      "name": "Connacht",
+      "regions": [
+        {
+          "code": "mayo",
+          "name": "County Mayo",
+          "regions": []
+        }
+      ]
+    }
+  ]
 }

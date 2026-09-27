@@ -1,5 +1,53 @@
 {
   "code": "sco",
   "name": "Scotland",
-  "regions": []
+  "regions": [
+    {
+      "code": "cen",
+      "name": "Central Scotland",
+      "regions": [
+        {
+          "code": "edi",
+          "name": "Edinburgh area",
+          "regions": []
+        },
+        {
+          "code": "fal",
+          "name": "Falkirk area",
+          "regions": []
+        },
+        {
+          "code": "gla",
+          "name": "Glasgow area",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "fif",
+      "name": "Fife",
+      "regions": []
+    },
+    {
+      "code": "tay",
+      "name": "Tayside",
+      "regions": [
+        {
+          "code": "ang",
+          "name": "Angus area",
+          "regions": []
+        },
+        {
+          "code": "dun",
+          "name": "Dundee area",
+          "regions": []
+        },
+        {
+          "code": "per",
+          "name": "Perth area",
+          "regions": []
+        }
+      ]
+    }
+  ]
 }

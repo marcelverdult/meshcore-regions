@@ -1,5 +1,26 @@
 {
   "code": "lt",
   "name": "Lithuania",
-  "regions": []
+  "regions": [
+    {
+      "code": "kun",
+      "name": "Pietų Lietuva",
+      "regions": []
+    },
+    {
+      "code": "plq",
+      "name": "Vakarų Lietuva",
+      "regions": []
+    },
+    {
+      "code": "sqq",
+      "name": "Šiaurės Lietuva",
+      "regions": []
+    },
+    {
+      "code": "vno",
+      "name": "Rytų Lietuva",
+      "regions": []
+    }
+  ]
 }

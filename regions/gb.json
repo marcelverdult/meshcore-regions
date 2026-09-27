@@ -3,8 +3,29 @@
   "name": "United Kingdom",
   "regions": [
     {
+      "code": "eng",
+      "name": "England",
+      "regions": [
+        {
+          "code": "neng",
+          "name": "Northern England",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "gb-bkm",
       "name": "bkm",
+      "regions": []
+    },
+    {
+      "code": "gb-dorset",
+      "name": "dorset",
+      "regions": []
+    },
+    {
+      "code": "gb-eb-nw",
+      "name": "nw",
       "regions": []
     },
     {
@@ -29,6 +50,17 @@
         {
           "code": "gb-eng-nw",
           "name": "nw",
+          "regions": [
+            {
+              "code": "gb-eng-nw-ross",
+              "name": "ross",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "gb-eng-rdale",
+          "name": "rdale",
           "regions": []
         },
         {
@@ -49,8 +81,18 @@
       "regions": []
     },
     {
+      "code": "gb-mid",
+      "name": "Midlands",
+      "regions": []
+    },
+    {
       "code": "gb-nir",
       "name": "nir",
+      "regions": []
+    },
+    {
+      "code": "gb-nth",
+      "name": "North East",
       "regions": []
     },
     {
@@ -74,6 +116,16 @@
       "regions": []
     },
     {
+      "code": "gb-sth",
+      "name": "South East",
+      "regions": []
+    },
+    {
+      "code": "gb-swt",
+      "name": "South West",
+      "regions": []
+    },
+    {
       "code": "gb-wls",
       "name": "wls",
       "regions": []
@@ -81,6 +133,27 @@
     {
       "code": "gb-yor",
       "name": "yor",
+      "regions": []
+    },
+    {
+      "code": "suffolk",
+      "name": "Suffolk",
+      "regions": [
+        {
+          "code": "ipswich",
+          "name": "Ipswich",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "swsw",
+      "name": "South West & South Wales",
+      "regions": []
+    },
+    {
+      "code": "wls",
+      "name": "Wales",
       "regions": []
     }
   ]
