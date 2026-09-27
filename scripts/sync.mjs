@@ -33,44 +33,45 @@ async function fetchUpstream(url) {
   return { status: res.status, names: body.regions.map((r) => r.name).filter((n) => typeof n === 'string') };
 }
 
+// Index every node by code, not just the roots: a code is unique across the
+// whole catalog, and maintainers may re-nest a node under another country
+// (e.g. `lk-stade` lives under `de`, not Sri Lanka). Placement must honour
+// that instead of re-creating the code under its prefix root.
 function indexTreeByCode(tree) {
-  const map = new Map();
-  for (const r of tree) map.set(r.code, r);
-  return map;
+  const rootMap = new Map();
+  const byCode = new Map();
+  const walk = (n) => {
+    byCode.set(n.code, n);
+    if (Array.isArray(n.regions)) for (const c of n.regions) walk(c);
+  };
+  for (const r of tree) { rootMap.set(r.code, r); walk(r); }
+  return { rootMap, byCode };
 }
 
-function findOrPlace(rootMap, segments) {
+function findOrPlace(index, segments) {
   // Returns: { kind: 'noop' | 'add' | 'todo', addPath?, addParent?, reason? }
-  const [root, ...rest] = segments;
-  const rootNode = rootMap.get(root);
-  if (!rootNode) return { kind: 'todo', reason: 'no_root' };
+  const { rootMap, byCode } = index;
+  const finalPath = segments.join('-');
+  if (byCode.has(finalPath)) return { kind: 'noop' };
 
-  if (rest.length === 0) return { kind: 'noop' };
+  const [root] = segments;
+  if (!rootMap.has(root)) return { kind: 'todo', reason: 'no_root' };
 
-  let node = rootNode;
-  let traversedPath = root;
-  for (let i = 0; i < rest.length - 1; i++) {
-    const seg = rest[i];
-    const childPath = `${traversedPath}-${seg}`;
-    if (!Array.isArray(node.regions)) {
-      return { kind: 'todo', reason: `missing_parent:${childPath}` };
-    }
-    const child = node.regions.find((c) => c.code === childPath);
-    if (!child) {
-      return { kind: 'todo', reason: `missing_parent:${childPath}` };
-    }
-    node = child;
-    traversedPath = childPath;
+  // Every ancestor prefix must exist somewhere in the tree.
+  for (let i = 2; i < segments.length; i++) {
+    const childPath = segments.slice(0, i).join('-');
+    if (!byCode.has(childPath)) return { kind: 'todo', reason: `missing_parent:${childPath}` };
   }
 
-  const final = rest[rest.length - 1];
-  const finalPath = `${traversedPath}-${final}`;
+  const parentPath = segments.slice(0, -1).join('-');
+  const node = byCode.get(parentPath);
+  const final = segments[segments.length - 1];
   if (!Array.isArray(node.regions)) node.regions = [];
-  if (node.regions.find((c) => c.code === finalPath)) return { kind: 'noop' };
-
-  node.regions.push({ code: finalPath, name: final, regions: [] });
+  const added = { code: finalPath, name: final, regions: [] };
+  node.regions.push(added);
   node.regions.sort((a, b) => a.code.localeCompare(b.code));
-  return { kind: 'add', addPath: finalPath, addParent: traversedPath };
+  byCode.set(finalPath, added);
+  return { kind: 'add', addPath: finalPath, addParent: parentPath };
 }
 
 function pathsInTree(tree) {
@@ -181,7 +182,7 @@ async function main() {
   console.log(`run ${NOW_ISO} status=${status} upstream_count=${names.length}`);
 
   const tree = loadTree();
-  const rootMap = indexTreeByCode(tree);
+  const codeIndex = indexTreeByCode(tree);
 
   let added = 0;
   const newTodoEntries = [];
@@ -196,7 +197,7 @@ async function main() {
       newTodoEntries.push({ raw, reason: 'invalid_chars' });
       continue;
     }
-    const result = findOrPlace(rootMap, raw.split('-'));
+    const result = findOrPlace(codeIndex, raw.split('-'));
     if (result.kind === 'noop') {
       console.log(`noop ${raw}`);
     } else if (result.kind === 'add') {
@@ -228,7 +229,7 @@ async function main() {
       // Re-evaluate against updated tree to keep reason fresh
       let reEval = null;
       if (!NAME_RE.test(entry.raw)) reEval = { kind: 'todo', reason: 'invalid_chars' };
-      else reEval = findOrPlace(rootMap, entry.raw.split('-'));
+      else reEval = findOrPlace(codeIndex, entry.raw.split('-'));
       if (reEval.kind === 'noop') {
         console.log(`resolved ${entry.raw}  (was bucket=${k}, reason=${entry.reason})`);
         resolved++;
