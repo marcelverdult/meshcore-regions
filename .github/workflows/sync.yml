@@ -53,6 +53,18 @@ jobs:
           } >> "$GITHUB_OUTPUT"
           rm -f sync.log
 
+      # The sync PR auto-merges before validate.yml's pull_request run gets a
+      # job (no required checks on main), so validate here, before any PR is
+      # opened. Same inputs as a bot PR: base = main, changed = sync's diff.
+      - name: Validate sync result
+        run: |
+          git add -A regions/ unsorted/ index.json README.md
+          GH_CHANGED_FILES="$(git diff --cached --name-only HEAD)" \
+          GH_BASE_REF="$(git rev-parse HEAD)" \
+          GH_PR_AUTHOR="github-actions[bot]" \
+          GH_LABELS="" \
+          node scripts/validate.mjs
+
       - name: Open or update sync PR
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
