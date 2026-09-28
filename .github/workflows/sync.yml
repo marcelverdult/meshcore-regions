@@ -86,7 +86,10 @@ jobs:
           else
             pr_number="$(gh pr create --base main --head "$branch" --title "$msg" --body "Automated sync from upstream." | sed -n 's#.*/pull/\([0-9]*\).*#\1#p')"
           fi
-          gh pr merge "$pr_number" --merge --delete-branch --auto
+          # --auto is refused when the PR is already mergeable ("clean status");
+          # the data was validated above, so merge directly in that case.
+          gh pr merge "$pr_number" --merge --delete-branch --auto \
+            || gh pr merge "$pr_number" --merge --delete-branch
 
       - name: Prune old workflow runs
         if: always()
