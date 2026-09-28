@@ -56,13 +56,22 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-09-27T08:49:08Z`
+- Last sync: `2026-09-28T09:13:31Z`
 - Roots: 252
-- Total nodes: 2153
-- Unsorted entries: 1094
+- Total nodes: 2563
+- Unsorted entries: 1090
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-09-27T11:07:49Z | manual | fab4b07 | Merge pull request #108 from marcelverdult/add/meshrank-unsorted-2026-09-27 |
+| 2026-09-27T11:05:54Z | manual | 81a566c | chore(unsorted): add 162 on-air region codes without country root |
+| 2026-09-27T11:00:20Z | manual | 14f8070 | Merge pull request #106 from marcelverdult/add/community-regions-batch2-2026-09-27 |
+| 2026-09-27T08:49:14Z | sync | ed13c5a | Merge pull request #107 from marcelverdult/sync/auto |
+| 2026-09-27T08:49:09Z | sync | 951ee6b | sync: 4 added, 185 resolved, 1094 unsorted |
+| 2026-09-27T02:46:52Z | manual | 11f0e44 | chore: leave index.json to the sync bot |
+| 2026-09-27T02:46:29Z | manual | 0f6cbf0 | fix(de): move lk-stade (Landkreis Stade) from lk to de |
+| 2026-09-27T02:46:29Z | manual | c59bf4d | fix(sync): place codes by global code index, not only under prefix root |
+| 2026-09-27T02:17:18Z | manual | a1d4925 | feat: add 410 regions from community region lists (batch 2) |
 | 2026-09-27T02:10:38Z | manual | 4cc2146 | feat: add 256 regions from community region lists (batch 1) |
 | 2026-09-27T01:54:22Z | manual | 204f18f | feat(de): add regions from meshcore-de.fyi repeater region list |
 | 2026-09-26T08:12:29Z | sync | 41955fa | Merge pull request #105 from marcelverdult/sync/auto |
@@ -74,15 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-09-22T08:07:16Z | sync | 17d48ef | Merge pull request #102 from marcelverdult/sync/auto |
 | 2026-09-22T08:07:07Z | sync | ebfda85 | sync: 5 added, 75 resolved, 1099 unsorted |
 | 2026-09-20T08:10:23Z | sync | c736620 | Merge pull request #101 from marcelverdult/sync/auto |
-| 2026-09-20T08:10:08Z | sync | 61e74fb | sync: 2 added, 75 resolved, 1082 unsorted |
-| 2026-09-19T07:42:25Z | sync | 9156fb7 | Merge pull request #100 from marcelverdult/sync/auto |
-| 2026-09-19T07:42:19Z | sync | c5b731e | sync: 4 added, 75 resolved, 1078 unsorted |
-| 2026-09-18T07:50:26Z | sync | 93b113f | Merge pull request #99 from marcelverdult/sync/auto |
-| 2026-09-18T07:50:09Z | sync | f29f4f1 | sync: 4 added, 84 resolved, 1074 unsorted |
-| 2026-09-17T22:22:31Z | manual | b1d7752 | Merge pull request #85 from Garbaz/main |
-| 2026-09-17T22:22:21Z | manual | 5e969cb | Merge branch 'main' into main |
-| 2026-09-17T08:16:15Z | sync | 9764b18 | Merge pull request #98 from marcelverdult/sync/auto |
-| 2026-09-17T08:16:09Z | sync | e429a42 | sync: 18 added, 58 resolved, 1080 unsorted |
 
 <!-- regions:auto-status:end -->
 

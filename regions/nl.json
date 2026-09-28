@@ -210,8 +210,18 @@
           "regions": []
         },
         {
+          "code": "nl-ge-bar",
+          "name": "bar",
+          "regions": []
+        },
+        {
           "code": "nl-ge-ddm",
           "name": "ddm",
+          "regions": []
+        },
+        {
+          "code": "nl-ge-doi",
+          "name": "doi",
           "regions": []
         },
         {
@@ -277,6 +287,11 @@
         {
           "code": "nl-ge-wgw",
           "name": "wgw",
+          "regions": []
+        },
+        {
+          "code": "nl-ge-zev",
+          "name": "zev",
           "regions": []
         },
         {
@@ -802,8 +817,23 @@
           "regions": []
         },
         {
+          "code": "nl-ut-rhe",
+          "name": "rhe",
+          "regions": []
+        },
+        {
           "code": "nl-ut-rve",
           "name": "rve",
+          "regions": []
+        },
+        {
+          "code": "nl-ut-utc",
+          "name": "utc",
+          "regions": []
+        },
+        {
+          "code": "nl-ut-vee",
+          "name": "vee",
           "regions": []
         }
       ]
