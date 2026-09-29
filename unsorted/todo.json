@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:11:43Z",
+  "generated_at": "2026-09-29T09:21:04Z",
   "buckets": {
     "a": [
       {
@@ -5465,6 +5465,11 @@
         "first_seen": "2026-08-04T05:41:10Z"
       },
       {
+        "raw": "MGL",
+        "reason": "invalid_chars",
+        "first_seen": "2026-09-29T09:21:04Z"
+      },
+      {
         "raw": "NCE",
         "reason": "invalid_chars",
         "first_seen": "2026-09-05T07:16:15Z"
@@ -5473,6 +5478,11 @@
         "raw": "NTX",
         "reason": "invalid_chars",
         "first_seen": "2026-09-25T08:25:08Z"
+      },
+      {
+        "raw": "NW",
+        "reason": "invalid_chars",
+        "first_seen": "2026-09-29T09:21:04Z"
       },
       {
         "raw": "OOL",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:11:43Z",
+  "generated_at": "2026-09-29T09:21:04Z",
   "tree": [
     {
       "code": "ad",
@@ -5108,7 +5108,13 @@
             {
               "code": "de-he-vb",
               "name": "vb",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-he-vb-lat",
+                  "name": "lat",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "frankfurt",
@@ -6083,7 +6089,13 @@
             {
               "code": "de-sn-c",
               "name": "Großraum Chemnitz",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-sn-c-stonehenge",
+                  "name": "stonehenge",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-sn-chemnitz",
@@ -6394,6 +6406,11 @@
         {
           "code": "de-west",
           "name": "Westdeutschland",
+          "regions": []
+        },
+        {
+          "code": "de-wingst",
+          "name": "wingst",
           "regions": []
         },
         {
@@ -8904,6 +8921,11 @@
           "regions": []
         },
         {
+          "code": "nl-hlm",
+          "name": "hlm",
+          "regions": []
+        },
+        {
           "code": "nl-hrd",
           "name": "hrd",
           "regions": []
@@ -9006,6 +9028,11 @@
             {
               "code": "nl-nb-smg",
               "name": "smg",
+              "regions": []
+            },
+            {
+              "code": "nl-nb-val",
+              "name": "val",
               "regions": []
             },
             {
@@ -17248,6 +17275,10 @@
       "name": "vb"
     },
     {
+      "path": "de-he-vb-lat",
+      "name": "lat"
+    },
+    {
       "path": "de-hes",
       "name": "hes"
     },
@@ -17948,6 +17979,10 @@
       "name": "Großraum Chemnitz"
     },
     {
+      "path": "de-sn-c-stonehenge",
+      "name": "stonehenge"
+    },
+    {
       "path": "de-sn-chemnitz",
       "name": "chemnitz"
     },
@@ -18186,6 +18221,10 @@
     {
       "path": "de-west",
       "name": "Westdeutschland"
+    },
+    {
+      "path": "de-wingst",
+      "name": "wingst"
     },
     {
       "path": "de-wtm",
@@ -20504,6 +20543,10 @@
       "name": "hhw"
     },
     {
+      "path": "nl-hlm",
+      "name": "hlm"
+    },
+    {
       "path": "nl-hrd",
       "name": "hrd"
     },
@@ -20586,6 +20629,10 @@
     {
       "path": "nl-nb-smg",
       "name": "smg"
+    },
+    {
+      "path": "nl-nb-val",
+      "name": "val"
     },
     {
       "path": "nl-nb-vgt",
