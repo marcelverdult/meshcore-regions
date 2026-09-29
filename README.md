@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-09-28T10:11:43Z`
+- Last sync: `2026-09-29T09:21:04Z`
 - Roots: 252
-- Total nodes: 2563
-- Unsorted entries: 1090
+- Total nodes: 2568
+- Unsorted entries: 1092
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-09-28T10:14:35Z | sync | adac5ea | Merge pull request #111 from marcelverdult/sync/auto |
+| 2026-09-28T10:11:46Z | sync | fc0c135 | sync: 0 added, 0 resolved, 1090 unsorted |
 | 2026-09-28T12:08:42Z | manual | 53e158f | ci(sync): fall back to a direct merge when auto-merge is refused |
 | 2026-09-28T12:07:34Z | manual | b265c48 | Merge pull request #110 from marcelverdult/sync/auto |
 | 2026-09-28T10:05:17Z | sync | c7848ea | sync: 0 added, 0 resolved, 1090 unsorted |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-09-27T02:10:38Z | manual | 4cc2146 | feat: add 256 regions from community region lists (batch 1) |
 | 2026-09-27T01:54:22Z | manual | 204f18f | feat(de): add regions from meshcore-de.fyi repeater region list |
 | 2026-09-26T08:12:29Z | sync | 41955fa | Merge pull request #105 from marcelverdult/sync/auto |
-| 2026-09-26T08:12:22Z | sync | 79b62a5 | sync: 9 added, 87 resolved, 1121 unsorted |
-| 2026-09-25T08:25:54Z | sync | 88dfcad | Merge pull request #104 from marcelverdult/sync/auto |
 
 <!-- regions:auto-status:end -->
 

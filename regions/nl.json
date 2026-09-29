@@ -383,6 +383,11 @@
       "regions": []
     },
     {
+      "code": "nl-hlm",
+      "name": "hlm",
+      "regions": []
+    },
+    {
       "code": "nl-hrd",
       "name": "hrd",
       "regions": []
@@ -485,6 +490,11 @@
         {
           "code": "nl-nb-smg",
           "name": "smg",
+          "regions": []
+        },
+        {
+          "code": "nl-nb-val",
+          "name": "val",
           "regions": []
         },
         {

@@ -1190,7 +1190,13 @@
         {
           "code": "de-he-vb",
           "name": "vb",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-he-vb-lat",
+              "name": "lat",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "frankfurt",
@@ -2165,7 +2171,13 @@
         {
           "code": "de-sn-c",
           "name": "Großraum Chemnitz",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-sn-c-stonehenge",
+              "name": "stonehenge",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-sn-chemnitz",
@@ -2476,6 +2488,11 @@
     {
       "code": "de-west",
       "name": "Westdeutschland",
+      "regions": []
+    },
+    {
+      "code": "de-wingst",
+      "name": "wingst",
       "regions": []
     },
     {
