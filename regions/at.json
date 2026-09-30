@@ -55,7 +55,13 @@
     {
       "code": "at-noe",
       "name": "noe",
-      "regions": []
+      "regions": [
+        {
+          "code": "at-noe-wb",
+          "name": "wb",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "at-nord",

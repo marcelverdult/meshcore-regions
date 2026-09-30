@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:21:04Z",
+  "generated_at": "2026-09-30T09:11:36Z",
   "buckets": {
     "a": [
       {
@@ -999,6 +999,11 @@
         "first_seen": "2026-07-27T06:20:43Z"
       },
       {
+        "raw": "dk_fyn",
+        "reason": "invalid_chars",
+        "first_seen": "2026-09-30T09:11:36Z"
+      },
+      {
         "raw": "dk2",
         "reason": "no_root",
         "first_seen": "2026-07-10T06:36:56Z"
@@ -1636,6 +1641,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "erf",
+        "reason": "no_root",
+        "first_seen": "2026-09-30T09:11:36Z"
+      },
+      {
         "raw": "erfurt",
         "reason": "no_root",
         "first_seen": "2026-08-05T05:39:23Z"
@@ -1684,6 +1694,11 @@
         "raw": "eugene",
         "reason": "no_root",
         "first_seen": "2026-06-05T23:22:07Z"
+      },
+      {
+        "raw": "eur",
+        "reason": "no_root",
+        "first_seen": "2026-09-30T09:11:36Z"
       },
       {
         "raw": "europa",
@@ -2530,6 +2545,11 @@
         "first_seen": "2026-05-26T04:25:53Z"
       },
       {
+        "raw": "lept",
+        "reason": "no_root",
+        "first_seen": "2026-09-30T09:11:36Z"
+      },
+      {
         "raw": "leq",
         "reason": "no_root",
         "first_seen": "2026-07-18T05:18:09Z"
@@ -2982,6 +3002,11 @@
         "raw": "newengland",
         "reason": "no_root",
         "first_seen": "2026-07-12T05:49:39Z"
+      },
+      {
+        "raw": "news",
+        "reason": "no_root",
+        "first_seen": "2026-09-30T09:11:36Z"
       },
       {
         "raw": "newzealand",
@@ -3468,6 +3493,11 @@
         "first_seen": "2026-06-06T09:27:12Z"
       },
       {
+        "raw": "piemonte",
+        "reason": "no_root",
+        "first_seen": "2026-09-30T09:11:36Z"
+      },
+      {
         "raw": "ping",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -3835,6 +3865,11 @@
         "raw": "rix",
         "reason": "no_root",
         "first_seen": "2026-07-16T05:32:42Z"
+      },
+      {
+        "raw": "rkn",
+        "reason": "no_root",
+        "first_seen": "2026-09-30T09:11:36Z"
       },
       {
         "raw": "ro-nt",
@@ -5045,6 +5080,11 @@
         "raw": "wittingen",
         "reason": "no_root",
         "first_seen": "2026-07-13T06:07:31Z"
+      },
+      {
+        "raw": "wl",
+        "reason": "no_root",
+        "first_seen": "2026-09-30T09:11:36Z"
       },
       {
         "raw": "wlg",
