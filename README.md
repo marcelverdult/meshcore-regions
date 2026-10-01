@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-09-30T09:11:36Z`
+- Last sync: `2026-10-01T09:39:12Z`
 - Roots: 252
-- Total nodes: 2570
-- Unsorted entries: 1100
+- Total nodes: 2574
+- Unsorted entries: 1109
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-09-30T09:11:47Z | sync | 2ad3636 | Merge pull request #113 from marcelverdult/sync/auto |
+| 2026-09-30T09:11:38Z | sync | 0ff9301 | sync: 2 added, 0 resolved, 1100 unsorted |
 | 2026-09-29T09:24:08Z | sync | 0260e66 | Merge pull request #112 from marcelverdult/sync/auto |
 | 2026-09-29T09:21:06Z | sync | a18d984 | sync: 5 added, 0 resolved, 1092 unsorted |
 | 2026-09-28T10:14:35Z | sync | adac5ea | Merge pull request #111 from marcelverdult/sync/auto |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-09-27T02:46:52Z | manual | 11f0e44 | chore: leave index.json to the sync bot |
 | 2026-09-27T02:46:29Z | manual | 0f6cbf0 | fix(de): move lk-stade (Landkreis Stade) from lk to de |
 | 2026-09-27T02:46:29Z | manual | c59bf4d | fix(sync): place codes by global code index, not only under prefix root |
-| 2026-09-27T02:17:18Z | manual | a1d4925 | feat: add 410 regions from community region lists (batch 2) |
-| 2026-09-27T02:10:38Z | manual | 4cc2146 | feat: add 256 regions from community region lists (batch 1) |
 
 <!-- regions:auto-status:end -->
 

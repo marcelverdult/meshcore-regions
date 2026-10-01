@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:11:36Z",
+  "generated_at": "2026-10-01T09:39:12Z",
   "buckets": {
     "a": [
       {
@@ -275,6 +275,11 @@
         "first_seen": "2026-06-12T04:30:42Z"
       },
       {
+        "raw": "bauerbahn",
+        "reason": "no_root",
+        "first_seen": "2026-10-01T09:39:12Z"
+      },
+      {
         "raw": "bay",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
@@ -318,6 +323,11 @@
         "raw": "belgg",
         "reason": "no_root",
         "first_seen": "2026-07-15T05:23:57Z"
+      },
+      {
+        "raw": "belgique",
+        "reason": "no_root",
+        "first_seen": "2026-10-01T09:39:12Z"
       },
       {
         "raw": "belgium",
@@ -498,6 +508,16 @@
         "raw": "bru",
         "reason": "no_root",
         "first_seen": "2026-08-10T04:24:08Z"
+      },
+      {
+        "raw": "brussels",
+        "reason": "no_root",
+        "first_seen": "2026-10-01T09:39:12Z"
+      },
+      {
+        "raw": "bruxelles",
+        "reason": "no_root",
+        "first_seen": "2026-10-01T09:39:12Z"
       },
       {
         "raw": "btlfd",
@@ -2147,6 +2167,11 @@
         "first_seen": "2026-09-08T07:39:14Z"
       },
       {
+        "raw": "hh",
+        "reason": "no_root",
+        "first_seen": "2026-10-01T09:39:12Z"
+      },
+      {
         "raw": "high-rhine",
         "reason": "no_root",
         "first_seen": "2026-06-04T04:31:07Z"
@@ -3339,6 +3364,11 @@
         "raw": "on-sw",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "onny",
+        "reason": "no_root",
+        "first_seen": "2026-10-01T09:39:12Z"
       },
       {
         "raw": "opf",
@@ -5157,6 +5187,11 @@
         "first_seen": "2026-05-23T04:17:08Z"
       },
       {
+        "raw": "wvn",
+        "reason": "no_root",
+        "first_seen": "2026-10-01T09:39:12Z"
+      },
+      {
         "raw": "ww",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -5478,6 +5513,16 @@
         "raw": "Illingen",
         "reason": "invalid_chars",
         "first_seen": "2026-06-13T04:30:26Z"
+      },
+      {
+        "raw": "It-lig",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-01T09:39:12Z"
+      },
+      {
+        "raw": "Italia",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-01T09:39:12Z"
       },
       {
         "raw": "Kämpfelbach",

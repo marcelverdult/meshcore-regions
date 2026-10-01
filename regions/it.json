@@ -202,6 +202,11 @@
           "code": "it-pie-vb",
           "name": "vb",
           "regions": []
+        },
+        {
+          "code": "it-pie-ver",
+          "name": "ver",
+          "regions": []
         }
       ]
     },
@@ -245,6 +250,11 @@
     {
       "code": "it-umb",
       "name": "Umbria",
+      "regions": []
+    },
+    {
+      "code": "it-var",
+      "name": "var",
       "regions": []
     },
     {
