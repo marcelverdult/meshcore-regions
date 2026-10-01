@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:11:36Z",
+  "generated_at": "2026-10-01T09:39:12Z",
   "tree": [
     {
       "code": "ad",
@@ -4875,6 +4875,11 @@
               "name": "Unterfranken",
               "regions": [
                 {
+                  "code": "de-by-ufr-kt",
+                  "name": "kt",
+                  "regions": []
+                },
+                {
                   "code": "de-by-ufr-sw",
                   "name": "sw",
                   "regions": []
@@ -8171,6 +8176,11 @@
               "code": "it-pie-vb",
               "name": "vb",
               "regions": []
+            },
+            {
+              "code": "it-pie-ver",
+              "name": "ver",
+              "regions": []
             }
           ]
         },
@@ -8214,6 +8224,11 @@
         {
           "code": "it-umb",
           "name": "Umbria",
+          "regions": []
+        },
+        {
+          "code": "it-var",
+          "name": "var",
           "regions": []
         },
         {
@@ -8836,6 +8851,11 @@
             {
               "code": "nl-ge-wgw",
               "name": "wgw",
+              "regions": []
+            },
+            {
+              "code": "nl-ge-wtw",
+              "name": "wtw",
               "regions": []
             },
             {
@@ -17106,6 +17126,10 @@
       "name": "Unterfranken"
     },
     {
+      "path": "de-by-ufr-kt",
+      "name": "kt"
+    },
+    {
       "path": "de-by-ufr-sw",
       "name": "sw"
     },
@@ -19766,6 +19790,10 @@
       "name": "vb"
     },
     {
+      "path": "it-pie-ver",
+      "name": "ver"
+    },
+    {
       "path": "it-pug",
       "name": "Puglia"
     },
@@ -19796,6 +19824,10 @@
     {
       "path": "it-umb",
       "name": "Umbria"
+    },
+    {
+      "path": "it-var",
+      "name": "var"
     },
     {
       "path": "it-vda",
@@ -20488,6 +20520,10 @@
     {
       "path": "nl-ge-wgw",
       "name": "wgw"
+    },
+    {
+      "path": "nl-ge-wtw",
+      "name": "wtw"
     },
     {
       "path": "nl-ge-zev",

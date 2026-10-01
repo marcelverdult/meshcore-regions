@@ -951,6 +951,11 @@
           "name": "Unterfranken",
           "regions": [
             {
+              "code": "de-by-ufr-kt",
+              "name": "kt",
+              "regions": []
+            },
+            {
               "code": "de-by-ufr-sw",
               "name": "sw",
               "regions": []
