@@ -1384,6 +1384,11 @@
           "regions": []
         },
         {
+          "code": "de-mv-ovp",
+          "name": "ovp",
+          "regions": []
+        },
+        {
           "code": "de-mv-sbg",
           "name": "sbg",
           "regions": []
@@ -2142,6 +2147,11 @@
           ]
         },
         {
+          "code": "de-sh-se",
+          "name": "se",
+          "regions": []
+        },
+        {
           "code": "de-sh-slfl",
           "name": "Schleswig-Flensburg",
           "regions": []
@@ -2223,6 +2233,11 @@
         {
           "code": "de-sn-fg",
           "name": "fg",
+          "regions": []
+        },
+        {
+          "code": "de-sn-gr",
+          "name": "gr",
           "regions": []
         },
         {
@@ -2493,6 +2508,11 @@
     {
       "code": "de-w",
       "name": "w",
+      "regions": []
+    },
+    {
+      "code": "de-wb",
+      "name": "wb",
       "regions": []
     },
     {

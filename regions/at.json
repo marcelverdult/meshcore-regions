@@ -154,7 +154,13 @@
     {
       "code": "at-t",
       "name": "t",
-      "regions": []
+      "regions": [
+        {
+          "code": "at-t-ku",
+          "name": "ku",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "at-vbg",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:39:12Z",
+  "generated_at": "2026-10-02T09:13:23Z",
   "tree": [
     {
       "code": "ad",
@@ -212,7 +212,13 @@
         {
           "code": "at-t",
           "name": "t",
-          "regions": []
+          "regions": [
+            {
+              "code": "at-t-ku",
+              "name": "ku",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "at-vbg",
@@ -5308,6 +5314,11 @@
               "regions": []
             },
             {
+              "code": "de-mv-ovp",
+              "name": "ovp",
+              "regions": []
+            },
+            {
               "code": "de-mv-sbg",
               "name": "sbg",
               "regions": []
@@ -6066,6 +6077,11 @@
               ]
             },
             {
+              "code": "de-sh-se",
+              "name": "se",
+              "regions": []
+            },
+            {
               "code": "de-sh-slfl",
               "name": "Schleswig-Flensburg",
               "regions": []
@@ -6147,6 +6163,11 @@
             {
               "code": "de-sn-fg",
               "name": "fg",
+              "regions": []
+            },
+            {
+              "code": "de-sn-gr",
+              "name": "gr",
               "regions": []
             },
             {
@@ -6417,6 +6438,11 @@
         {
           "code": "de-w",
           "name": "w",
+          "regions": []
+        },
+        {
+          "code": "de-wb",
+          "name": "wb",
           "regions": []
         },
         {
@@ -13258,6 +13284,10 @@
       "name": "t"
     },
     {
+      "path": "at-t-ku",
+      "name": "ku"
+    },
+    {
       "path": "at-vbg",
       "name": "vbg"
     },
@@ -17454,6 +17484,10 @@
       "name": "nwm"
     },
     {
+      "path": "de-mv-ovp",
+      "name": "ovp"
+    },
+    {
       "path": "de-mv-sbg",
       "name": "sbg"
     },
@@ -17990,6 +18024,10 @@
       "name": "eck"
     },
     {
+      "path": "de-sh-se",
+      "name": "se"
+    },
+    {
       "path": "de-sh-slfl",
       "name": "Schleswig-Flensburg"
     },
@@ -18052,6 +18090,10 @@
     {
       "path": "de-sn-fg",
       "name": "fg"
+    },
+    {
+      "path": "de-sn-gr",
+      "name": "gr"
     },
     {
       "path": "de-sn-km",
@@ -18260,6 +18302,10 @@
     {
       "path": "de-w",
       "name": "w"
+    },
+    {
+      "path": "de-wb",
+      "name": "wb"
     },
     {
       "path": "de-west",
