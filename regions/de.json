@@ -1178,6 +1178,11 @@
           "regions": []
         },
         {
+          "code": "de-he-kb",
+          "name": "kb",
+          "regions": []
+        },
+        {
           "code": "de-he-ks",
           "name": "ks",
           "regions": []
@@ -1825,6 +1830,11 @@
           "regions": []
         },
         {
+          "code": "de-nw-me",
+          "name": "me",
+          "regions": []
+        },
+        {
           "code": "de-nw-mh",
           "name": "mh",
           "regions": []
@@ -1947,6 +1957,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "de-oal",
+      "name": "oal",
+      "regions": []
     },
     {
       "code": "de-ost",

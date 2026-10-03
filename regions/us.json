@@ -158,6 +158,11 @@
           "regions": []
         },
         {
+          "code": "us-al-fhp",
+          "name": "fhp",
+          "regions": []
+        },
+        {
           "code": "us-al-guf",
           "name": "Gulf Shores AL Mesh Region",
           "regions": []
@@ -165,6 +170,11 @@
         {
           "code": "us-al-mgm",
           "name": "Montgomery AL Mesh Region",
+          "regions": []
+        },
+        {
+          "code": "us-al-mob",
+          "name": "mob",
           "regions": []
         }
       ]
