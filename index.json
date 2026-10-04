@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:45:41Z",
+  "generated_at": "2026-10-04T09:11:49Z",
   "tree": [
     {
       "code": "ad",
@@ -4877,6 +4877,11 @@
               "regions": []
             },
             {
+              "code": "de-by-uf",
+              "name": "uf",
+              "regions": []
+            },
+            {
               "code": "de-by-ufr",
               "name": "Unterfranken",
               "regions": [
@@ -5082,6 +5087,11 @@
           "name": "Hessen",
           "regions": [
             {
+              "code": "de-he-f",
+              "name": "f",
+              "regions": []
+            },
+            {
               "code": "de-he-fb",
               "name": "fb",
               "regions": []
@@ -5120,6 +5130,11 @@
             {
               "code": "de-he-ldk",
               "name": "ldk",
+              "regions": []
+            },
+            {
+              "code": "de-he-mr",
+              "name": "mr",
               "regions": []
             },
             {
@@ -5231,6 +5246,11 @@
         {
           "code": "de-le",
           "name": "le",
+          "regions": []
+        },
+        {
+          "code": "de-lemfoerde",
+          "name": "lemfoerde",
           "regions": []
         },
         {
@@ -5352,6 +5372,11 @@
             {
               "code": "de-ne-aur",
               "name": "aur",
+              "regions": []
+            },
+            {
+              "code": "de-ne-ce",
+              "name": "ce",
               "regions": []
             },
             {
@@ -6045,6 +6070,11 @@
               "regions": []
             },
             {
+              "code": "de-sh-kiel",
+              "name": "kiel",
+              "regions": []
+            },
+            {
               "code": "de-sh-nms",
               "name": "nms",
               "regions": []
@@ -6073,6 +6103,16 @@
             {
               "code": "de-sh-ploe",
               "name": "Plön",
+              "regions": []
+            },
+            {
+              "code": "de-sh-ploen",
+              "name": "ploen",
+              "regions": []
+            },
+            {
+              "code": "de-sh-preetz",
+              "name": "preetz",
               "regions": []
             },
             {
@@ -6468,6 +6508,11 @@
         {
           "code": "de-wingst",
           "name": "wingst",
+          "regions": []
+        },
+        {
+          "code": "de-wn",
+          "name": "wn",
           "regions": []
         },
         {
@@ -17177,6 +17222,10 @@
       "name": "ua"
     },
     {
+      "path": "de-by-uf",
+      "name": "uf"
+    },
+    {
       "path": "de-by-ufr",
       "name": "Unterfranken"
     },
@@ -17333,6 +17382,10 @@
       "name": "Hessen"
     },
     {
+      "path": "de-he-f",
+      "name": "f"
+    },
+    {
       "path": "de-he-fb",
       "name": "fb"
     },
@@ -17363,6 +17416,10 @@
     {
       "path": "de-he-ldk",
       "name": "ldk"
+    },
+    {
+      "path": "de-he-mr",
+      "name": "mr"
     },
     {
       "path": "de-he-mtk",
@@ -17443,6 +17500,10 @@
     {
       "path": "de-le",
       "name": "le"
+    },
+    {
+      "path": "de-lemfoerde",
+      "name": "lemfoerde"
     },
     {
       "path": "de-magdeburg",
@@ -17539,6 +17600,10 @@
     {
       "path": "de-ne-aur",
       "name": "aur"
+    },
+    {
+      "path": "de-ne-ce",
+      "name": "ce"
     },
     {
       "path": "de-ne-lip",
@@ -18025,6 +18090,10 @@
       "name": "Kiel"
     },
     {
+      "path": "de-sh-kiel",
+      "name": "kiel"
+    },
+    {
       "path": "de-sh-nms",
       "name": "nms"
     },
@@ -18047,6 +18116,14 @@
     {
       "path": "de-sh-ploe",
       "name": "Plön"
+    },
+    {
+      "path": "de-sh-ploen",
+      "name": "ploen"
+    },
+    {
+      "path": "de-sh-preetz",
+      "name": "preetz"
     },
     {
       "path": "de-sh-rd",
@@ -18351,6 +18428,10 @@
     {
       "path": "de-wingst",
       "name": "wingst"
+    },
+    {
+      "path": "de-wn",
+      "name": "wn"
     },
     {
       "path": "de-wtm",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:45:41Z",
+  "generated_at": "2026-10-04T09:11:49Z",
   "buckets": {
     "a": [
       {
@@ -243,6 +243,11 @@
         "raw": "b",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "backnang",
+        "reason": "no_root",
+        "first_seen": "2026-10-04T09:11:49Z"
       },
       {
         "raw": "bad-homburg",
@@ -2768,6 +2773,11 @@
         "raw": "lyx",
         "reason": "no_root",
         "first_seen": "2026-07-18T05:18:09Z"
+      },
+      {
+        "raw": "lz",
+        "reason": "no_root",
+        "first_seen": "2026-10-04T09:11:49Z"
       }
     ],
     "m": [
@@ -5371,6 +5381,11 @@
         "first_seen": "2026-05-29T04:29:46Z"
       },
       {
+        "raw": "yu",
+        "reason": "no_root",
+        "first_seen": "2026-10-04T09:11:49Z"
+      },
+      {
         "raw": "yxu",
         "reason": "no_root",
         "first_seen": "2026-06-08T04:31:32Z"
@@ -5508,6 +5523,11 @@
         "raw": "DE-NW-OWL",
         "reason": "invalid_chars",
         "first_seen": "2026-10-02T09:13:23Z"
+      },
+      {
+        "raw": "De-West",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-04T09:11:49Z"
       },
       {
         "raw": "DET",
