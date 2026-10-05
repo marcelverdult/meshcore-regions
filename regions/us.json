@@ -406,6 +406,11 @@
       "name": "Louisiana",
       "regions": [
         {
+          "code": "us-la-gno",
+          "name": "gno",
+          "regions": []
+        },
+        {
           "code": "us-la-lc",
           "name": "Lake Charles LA Mesh",
           "regions": []

@@ -561,6 +561,11 @@
           "regions": []
         },
         {
+          "code": "de-by-aug",
+          "name": "aug",
+          "regions": []
+        },
+        {
           "code": "de-by-aux",
           "name": "aux",
           "regions": []
@@ -2166,6 +2171,11 @@
             {
               "code": "de-sh-pi-flora",
               "name": "flora",
+              "regions": []
+            },
+            {
+              "code": "de-sh-pi-quickborn",
+              "name": "quickborn",
               "regions": []
             }
           ]

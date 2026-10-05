@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:11:49Z",
+  "generated_at": "2026-10-05T09:52:36Z",
   "tree": [
     {
       "code": "ad",
@@ -88,6 +88,11 @@
         {
           "code": "at-gf",
           "name": "gf",
+          "regions": []
+        },
+        {
+          "code": "at-kb",
+          "name": "kb",
           "regions": []
         },
         {
@@ -180,6 +185,11 @@
         {
           "code": "at-pl",
           "name": "pl",
+          "regions": []
+        },
+        {
+          "code": "at-re",
+          "name": "re",
           "regions": []
         },
         {
@@ -3857,6 +3867,21 @@
       "name": "Czechia",
       "regions": [
         {
+          "code": "cz-52",
+          "name": "52",
+          "regions": []
+        },
+        {
+          "code": "cz-53",
+          "name": "53",
+          "regions": []
+        },
+        {
+          "code": "cz-71",
+          "name": "71",
+          "regions": []
+        },
+        {
           "code": "cz-hkk",
           "name": "Královéhradecký kraj",
           "regions": []
@@ -4488,6 +4513,11 @@
             {
               "code": "de-by-ans",
               "name": "ans",
+              "regions": []
+            },
+            {
+              "code": "de-by-aug",
+              "name": "aug",
               "regions": []
             },
             {
@@ -6097,6 +6127,11 @@
                   "code": "de-sh-pi-flora",
                   "name": "flora",
                   "regions": []
+                },
+                {
+                  "code": "de-sh-pi-quickborn",
+                  "name": "quickborn",
+                  "regions": []
                 }
               ]
             },
@@ -7219,6 +7254,11 @@
         {
           "code": "fr-01",
           "name": "01",
+          "regions": []
+        },
+        {
+          "code": "fr-02",
+          "name": "02",
           "regions": []
         },
         {
@@ -8703,6 +8743,11 @@
           "regions": []
         },
         {
+          "code": "nl-br",
+          "name": "br",
+          "regions": []
+        },
+        {
           "code": "nl-brd",
           "name": "brd",
           "regions": []
@@ -9128,6 +9173,11 @@
           "name": "Noord-Brabant",
           "regions": [
             {
+              "code": "nl-nb-bee",
+              "name": "bee",
+              "regions": []
+            },
+            {
               "code": "nl-nb-brd",
               "name": "brd",
               "regions": []
@@ -9140,6 +9190,11 @@
             {
               "code": "nl-nb-htb",
               "name": "htb",
+              "regions": []
+            },
+            {
+              "code": "nl-nb-laa",
+              "name": "laa",
               "regions": []
             },
             {
@@ -10237,6 +10292,11 @@
         {
           "code": "pl-mz",
           "name": "mz",
+          "regions": []
+        },
+        {
+          "code": "pl-op",
+          "name": "op",
           "regions": []
         },
         {
@@ -11565,6 +11625,11 @@
           "code": "us-la",
           "name": "Louisiana",
           "regions": [
+            {
+              "code": "us-la-gno",
+              "name": "gno",
+              "regions": []
+            },
             {
               "code": "us-la-lc",
               "name": "Lake Charles LA Mesh",
@@ -13258,6 +13323,10 @@
       "name": "gf"
     },
     {
+      "path": "at-kb",
+      "name": "kb"
+    },
+    {
       "path": "at-ktn",
       "name": "ktn"
     },
@@ -13328,6 +13397,10 @@
     {
       "path": "at-pl",
       "name": "pl"
+    },
+    {
+      "path": "at-re",
+      "name": "re"
     },
     {
       "path": "at-sbg",
@@ -16438,6 +16511,18 @@
       "name": "Czechia"
     },
     {
+      "path": "cz-52",
+      "name": "52"
+    },
+    {
+      "path": "cz-53",
+      "name": "53"
+    },
+    {
+      "path": "cz-71",
+      "name": "71"
+    },
+    {
       "path": "cz-hkk",
       "name": "Královéhradecký kraj"
     },
@@ -16916,6 +17001,10 @@
     {
       "path": "de-by-ans",
       "name": "ans"
+    },
+    {
+      "path": "de-by-aug",
+      "name": "aug"
     },
     {
       "path": "de-by-aux",
@@ -18114,6 +18203,10 @@
       "name": "flora"
     },
     {
+      "path": "de-sh-pi-quickborn",
+      "name": "quickborn"
+    },
+    {
       "path": "de-sh-ploe",
       "name": "Plön"
     },
@@ -19032,6 +19125,10 @@
     {
       "path": "fr-01",
       "name": "01"
+    },
+    {
+      "path": "fr-02",
+      "name": "02"
     },
     {
       "path": "fr-06",
@@ -20498,6 +20595,10 @@
       "name": "ass"
     },
     {
+      "path": "nl-br",
+      "name": "br"
+    },
+    {
       "path": "nl-brd",
       "name": "brd"
     },
@@ -20834,6 +20935,10 @@
       "name": "Noord-Brabant"
     },
     {
+      "path": "nl-nb-bee",
+      "name": "bee"
+    },
+    {
       "path": "nl-nb-brd",
       "name": "brd"
     },
@@ -20844,6 +20949,10 @@
     {
       "path": "nl-nb-htb",
       "name": "htb"
+    },
+    {
+      "path": "nl-nb-laa",
+      "name": "laa"
     },
     {
       "path": "nl-nb-smg",
@@ -21692,6 +21801,10 @@
     {
       "path": "pl-mz",
       "name": "mz"
+    },
+    {
+      "path": "pl-op",
+      "name": "op"
     },
     {
       "path": "pl-pk",
@@ -23036,6 +23149,10 @@
     {
       "path": "us-la",
       "name": "Louisiana"
+    },
+    {
+      "path": "us-la-gno",
+      "name": "gno"
     },
     {
       "path": "us-la-lc",

@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-10-04T09:11:49Z`
+- Last sync: `2026-10-05T09:52:36Z`
 - Roots: 252
-- Total nodes: 2594
-- Unsorted entries: 1122
+- Total nodes: 2607
+- Unsorted entries: 1128
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-10-04T09:11:58Z | sync | a330390 | Merge pull request #117 from marcelverdult/sync/auto |
+| 2026-10-04T09:11:51Z | sync | baa4fa0 | sync: 9 added, 0 resolved, 1122 unsorted |
 | 2026-10-03T08:46:04Z | sync | 3ae188e | Merge pull request #116 from marcelverdult/sync/auto |
 | 2026-10-03T08:45:43Z | sync | 8d3dc32 | sync: 5 added, 0 resolved, 1118 unsorted |
 | 2026-10-02T09:13:33Z | sync | d790d20 | Merge pull request #115 from marcelverdult/sync/auto |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-09-28T12:02:01Z | manual | cad7863 | ci(sync): validate sync output before opening the PR |
 | 2026-09-28T09:14:40Z | sync | bbcced1 | Merge pull request #109 from marcelverdult/sync/auto |
 | 2026-09-28T09:13:32Z | sync | 2f1d081 | sync: 7 added, 171 resolved, 1090 unsorted |
-| 2026-09-27T11:07:49Z | manual | fab4b07 | Merge pull request #108 from marcelverdult/add/meshrank-unsorted-2026-09-27 |
-| 2026-09-27T11:05:54Z | manual | 81a566c | chore(unsorted): add 162 on-air region codes without country root |
 
 <!-- regions:auto-status:end -->
 

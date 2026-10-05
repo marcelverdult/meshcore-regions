@@ -53,6 +53,11 @@
       "regions": []
     },
     {
+      "code": "nl-br",
+      "name": "br",
+      "regions": []
+    },
+    {
       "code": "nl-brd",
       "name": "brd",
       "regions": []
@@ -478,6 +483,11 @@
       "name": "Noord-Brabant",
       "regions": [
         {
+          "code": "nl-nb-bee",
+          "name": "bee",
+          "regions": []
+        },
+        {
           "code": "nl-nb-brd",
           "name": "brd",
           "regions": []
@@ -490,6 +500,11 @@
         {
           "code": "nl-nb-htb",
           "name": "htb",
+          "regions": []
+        },
+        {
+          "code": "nl-nb-laa",
+          "name": "laa",
           "regions": []
         },
         {

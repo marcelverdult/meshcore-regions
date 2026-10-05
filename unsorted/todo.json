@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:11:49Z",
+  "generated_at": "2026-10-05T09:52:36Z",
   "buckets": {
     "a": [
       {
@@ -924,6 +924,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "de-dw-ul",
+        "reason": "missing_parent:de-dw",
+        "first_seen": "2026-10-05T09:52:36Z"
+      },
+      {
         "raw": "de-he-gi-gi-allendorf-lahn",
         "reason": "missing_parent:de-he-gi-gi-allendorf",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1679,6 +1684,11 @@
         "raw": "ens",
         "reason": "no_root",
         "first_seen": "2026-06-12T04:30:42Z"
+      },
+      {
+        "raw": "enzkeis",
+        "reason": "no_root",
+        "first_seen": "2026-10-05T09:52:36Z"
       },
       {
         "raw": "enzkreis",
@@ -3947,6 +3957,11 @@
         "first_seen": "2026-09-30T09:11:36Z"
       },
       {
+        "raw": "rlp",
+        "reason": "no_root",
+        "first_seen": "2026-10-05T09:52:36Z"
+      },
+      {
         "raw": "ro-nt",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
@@ -4317,6 +4332,11 @@
         "raw": "slv",
         "reason": "no_root",
         "first_seen": "2026-07-31T05:58:52Z"
+      },
+      {
+        "raw": "sof",
+        "reason": "no_root",
+        "first_seen": "2026-10-05T09:52:36Z"
       },
       {
         "raw": "sofia",
@@ -5510,6 +5530,11 @@
         "first_seen": "2026-09-25T08:25:08Z"
       },
       {
+        "raw": "DE-BY-MM",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-05T09:52:36Z"
+      },
+      {
         "raw": "DE-HE",
         "reason": "invalid_chars",
         "first_seen": "2026-09-28T09:13:31Z"
@@ -5533,6 +5558,11 @@
         "raw": "DET",
         "reason": "invalid_chars",
         "first_seen": "2026-09-22T08:07:06Z"
+      },
+      {
+        "raw": "Deutschland",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-05T09:52:36Z"
       },
       {
         "raw": "DFW",
