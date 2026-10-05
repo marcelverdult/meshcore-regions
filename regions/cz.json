@@ -3,6 +3,21 @@
   "name": "Czechia",
   "regions": [
     {
+      "code": "cz-52",
+      "name": "52",
+      "regions": []
+    },
+    {
+      "code": "cz-53",
+      "name": "53",
+      "regions": []
+    },
+    {
+      "code": "cz-71",
+      "name": "71",
+      "regions": []
+    },
+    {
       "code": "cz-hkk",
       "name": "Královéhradecký kraj",
       "regions": []

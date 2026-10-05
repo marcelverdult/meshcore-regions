@@ -33,6 +33,11 @@
       "regions": []
     },
     {
+      "code": "at-kb",
+      "name": "kb",
+      "regions": []
+    },
+    {
       "code": "at-ktn",
       "name": "ktn",
       "regions": []
@@ -122,6 +127,11 @@
     {
       "code": "at-pl",
       "name": "pl",
+      "regions": []
+    },
+    {
+      "code": "at-re",
+      "name": "re",
       "regions": []
     },
     {
