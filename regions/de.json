@@ -1774,6 +1774,11 @@
           "regions": []
         },
         {
+          "code": "de-nw-ac",
+          "name": "ac",
+          "regions": []
+        },
+        {
           "code": "de-nw-bf",
           "name": "bf",
           "regions": []
@@ -2023,6 +2028,11 @@
       "name": "rlp",
       "regions": [
         {
+          "code": "de-rlp-az",
+          "name": "az",
+          "regions": []
+        },
+        {
           "code": "de-rlp-dbg",
           "name": "dbg",
           "regions": []
@@ -2056,6 +2066,11 @@
         {
           "code": "de-rp-ingelheim",
           "name": "ingelheim",
+          "regions": []
+        },
+        {
+          "code": "de-rp-kh",
+          "name": "kh",
           "regions": []
         },
         {

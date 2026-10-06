@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:52:36Z",
+  "generated_at": "2026-10-06T09:39:45Z",
   "buckets": {
     "a": [
       {
@@ -1716,6 +1716,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "eschweiler",
+        "reason": "no_root",
+        "first_seen": "2026-10-06T09:39:45Z"
+      },
+      {
         "raw": "ess",
         "reason": "no_root",
         "first_seen": "2026-08-23T03:43:27Z"
@@ -1778,6 +1783,11 @@
         "first_seen": "2026-06-13T04:30:26Z"
       },
       {
+        "raw": "fdy",
+        "reason": "no_root",
+        "first_seen": "2026-10-06T09:39:45Z"
+      },
+      {
         "raw": "feuchtwangen",
         "reason": "no_root",
         "first_seen": "2026-08-28T14:46:15Z"
@@ -1806,6 +1816,11 @@
         "raw": "fischmarkt",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "fkb",
+        "reason": "no_root",
+        "first_seen": "2026-10-06T09:39:45Z"
       },
       {
         "raw": "fl",
@@ -3214,6 +3229,11 @@
         "first_seen": "2026-08-07T14:55:38Z"
       },
       {
+        "raw": "nrk",
+        "reason": "no_root",
+        "first_seen": "2026-10-06T09:39:45Z"
+      },
+      {
         "raw": "nrn",
         "reason": "no_root",
         "first_seen": "2026-08-23T03:43:27Z"
@@ -4419,6 +4439,11 @@
         "first_seen": "2026-08-11T10:56:33Z"
       },
       {
+        "raw": "spm",
+        "reason": "no_root",
+        "first_seen": "2026-10-06T09:39:45Z"
+      },
+      {
         "raw": "srb",
         "reason": "no_root",
         "first_seen": "2026-09-28T09:13:31Z"
@@ -5230,6 +5255,11 @@
         "raw": "wolfsburg",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "wor",
+        "reason": "no_root",
+        "first_seen": "2026-10-06T09:39:45Z"
       },
       {
         "raw": "world",
