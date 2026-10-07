@@ -714,6 +714,11 @@
           "regions": []
         },
         {
+          "code": "de-by-mf",
+          "name": "mf",
+          "regions": []
+        },
+        {
           "code": "de-by-mfr",
           "name": "Mittelfranken",
           "regions": [
@@ -743,6 +748,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-by-mitte",
+          "name": "mitte",
+          "regions": []
         },
         {
           "code": "de-by-mn",
@@ -2546,6 +2556,11 @@
         {
           "code": "de-th-son",
           "name": "Landkreis Sonneberg",
+          "regions": []
+        },
+        {
+          "code": "de-th-sued",
+          "name": "sued",
           "regions": []
         },
         {

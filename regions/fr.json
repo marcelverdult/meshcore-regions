@@ -316,6 +316,11 @@
       "regions": []
     },
     {
+      "code": "fr-bzh",
+      "name": "bzh",
+      "regions": []
+    },
+    {
       "code": "fr-cor",
       "name": "Corse",
       "regions": [

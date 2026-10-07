@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:39:45Z",
+  "generated_at": "2026-10-07T09:37:05Z",
   "tree": [
     {
       "code": "ad",
@@ -4669,6 +4669,11 @@
               "regions": []
             },
             {
+              "code": "de-by-mf",
+              "name": "mf",
+              "regions": []
+            },
+            {
               "code": "de-by-mfr",
               "name": "Mittelfranken",
               "regions": [
@@ -4698,6 +4703,11 @@
                   "regions": []
                 }
               ]
+            },
+            {
+              "code": "de-by-mitte",
+              "name": "mitte",
+              "regions": []
             },
             {
               "code": "de-by-mn",
@@ -6504,6 +6514,11 @@
               "regions": []
             },
             {
+              "code": "de-th-sued",
+              "name": "sued",
+              "regions": []
+            },
+            {
               "code": "de-th-themar",
               "name": "Themar",
               "regions": []
@@ -7577,6 +7592,11 @@
         {
           "code": "fr-brest",
           "name": "brest",
+          "regions": []
+        },
+        {
+          "code": "fr-bzh",
+          "name": "bzh",
           "regions": []
         },
         {
@@ -17143,6 +17163,10 @@
       "name": "Landkreis Lindau (Bodensee)"
     },
     {
+      "path": "de-by-mf",
+      "name": "mf"
+    },
+    {
       "path": "de-by-mfr",
       "name": "Mittelfranken"
     },
@@ -17165,6 +17189,10 @@
     {
       "path": "de-by-mfr-nea",
       "name": "Landkreis Neustadt an der Aisch"
+    },
+    {
+      "path": "de-by-mitte",
+      "name": "mitte"
     },
     {
       "path": "de-by-mn",
@@ -18511,6 +18539,10 @@
       "name": "Landkreis Sonneberg"
     },
     {
+      "path": "de-th-sued",
+      "name": "sued"
+    },
+    {
       "path": "de-th-themar",
       "name": "Themar"
     },
@@ -19425,6 +19457,10 @@
     {
       "path": "fr-brest",
       "name": "brest"
+    },
+    {
+      "path": "fr-bzh",
+      "name": "bzh"
     },
     {
       "path": "fr-cor",
