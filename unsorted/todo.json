@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:39:45Z",
+  "generated_at": "2026-10-07T09:37:05Z",
   "buckets": {
     "a": [
       {
@@ -423,6 +423,11 @@
         "raw": "bliesgau",
         "reason": "no_root",
         "first_seen": "2026-06-09T04:25:33Z"
+      },
+      {
+        "raw": "bliregion",
+        "reason": "no_root",
+        "first_seen": "2026-10-07T09:37:05Z"
       },
       {
         "raw": "blk",
@@ -902,6 +907,16 @@
         "raw": "de_bw",
         "reason": "invalid_chars",
         "first_seen": "2026-08-28T14:46:15Z"
+      },
+      {
+        "raw": "de_ni",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-07T09:37:05Z"
+      },
+      {
+        "raw": "de_os",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-07T09:37:05Z"
       },
       {
         "raw": "de-",
@@ -4007,6 +4022,11 @@
         "first_seen": "2026-08-07T14:55:38Z"
       },
       {
+        "raw": "romd",
+        "reason": "no_root",
+        "first_seen": "2026-10-07T09:37:05Z"
+      },
+      {
         "raw": "ronge",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
@@ -5085,6 +5105,11 @@
         "raw": "wachtberg",
         "reason": "no_root",
         "first_seen": "2026-08-10T04:24:08Z"
+      },
+      {
+        "raw": "wadern",
+        "reason": "no_root",
+        "first_seen": "2026-10-07T09:37:05Z"
       },
       {
         "raw": "waldeck-frankenberg",
