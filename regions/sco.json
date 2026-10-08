@@ -29,6 +29,11 @@
       "regions": []
     },
     {
+      "code": "sco-admin",
+      "name": "admin",
+      "regions": []
+    },
+    {
       "code": "tay",
       "name": "Tayside",
       "regions": [
