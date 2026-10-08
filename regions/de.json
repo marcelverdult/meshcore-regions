@@ -1501,6 +1501,11 @@
           "regions": []
         },
         {
+          "code": "de-ni-bu",
+          "name": "bu",
+          "regions": []
+        },
+        {
           "code": "de-ni-ce",
           "name": "ce",
           "regions": []
@@ -1963,6 +1968,11 @@
         {
           "code": "de-nw-te",
           "name": "te",
+          "regions": []
+        },
+        {
+          "code": "de-nw-waf",
+          "name": "waf",
           "regions": []
         },
         {
