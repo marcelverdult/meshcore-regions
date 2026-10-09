@@ -458,6 +458,11 @@
       "regions": []
     },
     {
+      "code": "us-midwest",
+      "name": "midwest",
+      "regions": []
+    },
+    {
       "code": "us-mo",
       "name": "mo",
       "regions": []

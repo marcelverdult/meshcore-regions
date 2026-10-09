@@ -18,6 +18,11 @@
       "regions": []
     },
     {
+      "code": "nl-alk",
+      "name": "alk",
+      "regions": []
+    },
+    {
       "code": "nl-alm",
       "name": "alm",
       "regions": []
@@ -356,6 +361,11 @@
           "regions": []
         },
         {
+          "code": "nl-gr-wld",
+          "name": "wld",
+          "regions": []
+        },
+        {
           "code": "nl-gr-zui",
           "name": "zui",
           "regions": []
@@ -471,6 +481,11 @@
     {
       "code": "nl-mdl",
       "name": "mdl",
+      "regions": []
+    },
+    {
+      "code": "nl-mdm",
+      "name": "mdm",
       "regions": []
     },
     {
@@ -818,6 +833,11 @@
       "regions": []
     },
     {
+      "code": "nl-tsl",
+      "name": "tsl",
+      "regions": []
+    },
+    {
       "code": "nl-ut",
       "name": "Utrecht",
       "regions": [
@@ -881,6 +901,11 @@
     {
       "code": "nl-vee",
       "name": "vee",
+      "regions": []
+    },
+    {
+      "code": "nl-vel",
+      "name": "vel",
       "regions": []
     },
     {
