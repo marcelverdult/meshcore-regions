@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:51:56Z",
+  "generated_at": "2026-10-10T09:15:59Z",
   "buckets": {
     "a": [
       {
@@ -585,6 +585,11 @@
         "first_seen": "2026-08-20T19:24:47Z"
       },
       {
+        "raw": "buseck",
+        "reason": "no_root",
+        "first_seen": "2026-10-10T09:15:59Z"
+      },
+      {
         "raw": "bwe",
         "reason": "no_root",
         "first_seen": "2026-08-13T04:45:49Z"
@@ -949,6 +954,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "de-by-m-land",
+        "reason": "missing_parent:de-by-m",
+        "first_seen": "2026-10-10T09:15:59Z"
+      },
+      {
         "raw": "de-dw-ul",
         "reason": "missing_parent:de-dw",
         "first_seen": "2026-10-05T09:52:36Z"
@@ -972,6 +982,11 @@
         "raw": "de-nds-lkos",
         "reason": "missing_parent:de-nds",
         "first_seen": "2026-06-14T04:31:20Z"
+      },
+      {
+        "raw": "de-nw-wesel-schepersfeld",
+        "reason": "missing_parent:de-nw-wesel",
+        "first_seen": "2026-10-10T09:15:59Z"
       },
       {
         "raw": "de-rhein-main",
@@ -1237,6 +1252,16 @@
         "raw": "dk5700",
         "reason": "no_root",
         "first_seen": "2026-05-29T04:29:46Z"
+      },
+      {
+        "raw": "dk575",
+        "reason": "no_root",
+        "first_seen": "2026-10-10T09:15:59Z"
+      },
+      {
+        "raw": "dk5750",
+        "reason": "no_root",
+        "first_seen": "2026-10-10T09:15:59Z"
       },
       {
         "raw": "dk577",
@@ -1818,6 +1843,11 @@
         "first_seen": "2026-08-28T14:46:15Z"
       },
       {
+        "raw": "feuerwehr",
+        "reason": "no_root",
+        "first_seen": "2026-10-10T09:15:59Z"
+      },
+      {
         "raw": "ffm",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1979,6 +2009,11 @@
       }
     ],
     "g": [
+      {
+        "raw": "g05",
+        "reason": "no_root",
+        "first_seen": "2026-10-10T09:15:59Z"
+      },
       {
         "raw": "galloway",
         "reason": "no_root",
@@ -2980,6 +3015,11 @@
         "raw": "mitte",
         "reason": "no_root",
         "first_seen": "2026-06-01T04:31:59Z"
+      },
+      {
+        "raw": "mitteldeutschland",
+        "reason": "no_root",
+        "first_seen": "2026-10-10T09:15:59Z"
       },
       {
         "raw": "mj",
