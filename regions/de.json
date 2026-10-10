@@ -152,6 +152,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-srb",
+          "name": "srb",
+          "regions": []
+        },
+        {
           "code": "de-bb-tf",
           "name": "Teltow-Fläming",
           "regions": []
@@ -331,6 +336,11 @@
         {
           "code": "de-bw-kg",
           "name": "kg",
+          "regions": []
+        },
+        {
+          "code": "de-bw-kn",
+          "name": "kn",
           "regions": []
         },
         {
@@ -1811,6 +1821,11 @@
         {
           "code": "de-nw-bo",
           "name": "bo",
+          "regions": []
+        },
+        {
+          "code": "de-nw-dn",
+          "name": "dn",
           "regions": []
         },
         {
