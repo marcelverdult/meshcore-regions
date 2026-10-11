@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:15:59Z",
+  "generated_at": "2026-10-11T09:32:59Z",
   "tree": [
     {
       "code": "ad",
@@ -5948,6 +5948,11 @@
             {
               "code": "de-nw-waf",
               "name": "waf",
+              "regions": []
+            },
+            {
+              "code": "de-nw-wesel",
+              "name": "wesel",
               "regions": []
             },
             {
@@ -18186,6 +18191,10 @@
     {
       "path": "de-nw-waf",
       "name": "waf"
+    },
+    {
+      "path": "de-nw-wesel",
+      "name": "wesel"
     },
     {
       "path": "de-nw-west",
