@@ -1991,6 +1991,11 @@
           "regions": []
         },
         {
+          "code": "de-nw-wesel",
+          "name": "wesel",
+          "regions": []
+        },
+        {
           "code": "de-nw-west",
           "name": "west",
           "regions": []
