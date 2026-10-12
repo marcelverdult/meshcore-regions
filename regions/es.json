@@ -111,7 +111,13 @@
     {
       "code": "es-cm",
       "name": "Castilla-La Mancha",
-      "regions": []
+      "regions": [
+        {
+          "code": "es-cm-gu",
+          "name": "gu",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "es-cn",

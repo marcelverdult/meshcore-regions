@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:32:59Z",
+  "generated_at": "2026-10-12T10:03:29Z",
   "buckets": {
     "a": [
       {
@@ -268,6 +268,11 @@
         "raw": "baltics",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "bamberg",
+        "reason": "no_root",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "banbridge",
@@ -2123,6 +2128,11 @@
         "raw": "gou",
         "reason": "no_root",
         "first_seen": "2026-09-11T07:38:47Z"
+      },
+      {
+        "raw": "graz",
+        "reason": "no_root",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "greatermanchester",
@@ -4042,6 +4052,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "rhoen",
+        "reason": "no_root",
+        "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
         "raw": "ri",
         "reason": "no_root",
         "first_seen": "2026-07-12T05:49:39Z"
@@ -4217,6 +4232,11 @@
         "raw": "schwalm-eder",
         "reason": "no_root",
         "first_seen": "2026-06-12T04:30:42Z"
+      },
+      {
+        "raw": "schweinfurt",
+        "reason": "no_root",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "schwerin",
@@ -4821,6 +4841,11 @@
         "first_seen": "2026-08-07T14:55:38Z"
       },
       {
+        "raw": "thueringen",
+        "reason": "no_root",
+        "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
         "raw": "ti",
         "reason": "no_root",
         "first_seen": "2026-05-31T04:30:27Z"
@@ -5262,6 +5287,11 @@
         "first_seen": "2026-07-15T05:23:57Z"
       },
       {
+        "raw": "weiterstadt",
+        "reason": "no_root",
+        "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
         "raw": "wermelskirchen",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -5400,6 +5430,11 @@
         "raw": "wsws",
         "reason": "no_root",
         "first_seen": "2026-05-23T04:17:08Z"
+      },
+      {
+        "raw": "wuerzburg",
+        "reason": "no_root",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "wvn",
@@ -5583,6 +5618,11 @@
         "first_seen": "2026-09-11T07:38:47Z"
       },
       {
+        "raw": "zuercher-unterland",
+        "reason": "no_root",
+        "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
         "raw": "zwickau",
         "reason": "no_root",
         "first_seen": "2026-05-30T04:22:12Z"
@@ -5640,6 +5680,11 @@
         "first_seen": "2026-07-23T05:46:57Z"
       },
       {
+        "raw": "AAH",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
         "raw": "Adrasec-74",
         "reason": "invalid_chars",
         "first_seen": "2026-09-27T08:49:08Z"
@@ -5663,6 +5708,16 @@
         "raw": "BNE",
         "reason": "invalid_chars",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "BRU",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
+        "raw": "CGN",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "CH",
@@ -5725,9 +5780,24 @@
         "first_seen": "2026-09-22T08:07:06Z"
       },
       {
+        "raw": "DUS",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
         "raw": "Echterdingen",
         "reason": "invalid_chars",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "ENS",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
+        "raw": "ESS",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "Europe",
@@ -5738,6 +5808,11 @@
         "raw": "F",
         "reason": "invalid_chars",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "FRA",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "Fredericia",
@@ -5753,6 +5828,11 @@
         "raw": "Hagen",
         "reason": "invalid_chars",
         "first_seen": "2026-09-19T07:42:18Z"
+      },
+      {
+        "raw": "HHN",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "Illingen",
@@ -5773,6 +5853,11 @@
         "raw": "Kämpfelbach",
         "reason": "invalid_chars",
         "first_seen": "2026-08-10T04:24:08Z"
+      },
+      {
+        "raw": "LAL",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "Luebeck",
@@ -5800,9 +5885,19 @@
         "first_seen": "2026-09-29T09:21:04Z"
       },
       {
+        "raw": "MST",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
         "raw": "NCE",
         "reason": "invalid_chars",
         "first_seen": "2026-09-05T07:16:15Z"
+      },
+      {
+        "raw": "NRN",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "NTX",
@@ -5818,6 +5913,11 @@
         "raw": "OOL",
         "reason": "invalid_chars",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "PAD",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-12T10:03:29Z"
       },
       {
         "raw": "Petersberg",
