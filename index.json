@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:32:59Z",
+  "generated_at": "2026-10-12T10:03:29Z",
   "tree": [
     {
       "code": "ad",
@@ -3998,6 +3998,11 @@
           "regions": []
         },
         {
+          "code": "de-all",
+          "name": "all",
+          "regions": []
+        },
+        {
           "code": "de-allgaeu",
           "name": "allgaeu",
           "regions": []
@@ -4256,6 +4261,11 @@
             {
               "code": "de-bw-fr",
               "name": "Freiburg / LKBH",
+              "regions": []
+            },
+            {
+              "code": "de-bw-gd",
+              "name": "gd",
               "regions": []
             },
             {
@@ -5141,6 +5151,11 @@
           "code": "de-he",
           "name": "Hessen",
           "regions": [
+            {
+              "code": "de-he-da",
+              "name": "da",
+              "regions": []
+            },
             {
               "code": "de-he-f",
               "name": "f",
@@ -7002,7 +7017,13 @@
         {
           "code": "es-cm",
           "name": "Castilla-La Mancha",
-          "regions": []
+          "regions": [
+            {
+              "code": "es-cm-gu",
+              "name": "gu",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "es-cn",
@@ -16717,6 +16738,10 @@
       "name": "Allgäu-Bodensee-Oberschwaben"
     },
     {
+      "path": "de-all",
+      "name": "all"
+    },
+    {
       "path": "de-allgaeu",
       "name": "allgaeu"
     },
@@ -16923,6 +16948,10 @@
     {
       "path": "de-bw-fr",
       "name": "Freiburg / LKBH"
+    },
+    {
+      "path": "de-bw-gd",
+      "name": "gd"
     },
     {
       "path": "de-bw-gp",
@@ -17599,6 +17628,10 @@
     {
       "path": "de-he",
       "name": "Hessen"
+    },
+    {
+      "path": "de-he-da",
+      "name": "da"
     },
     {
       "path": "de-he-f",
@@ -18991,6 +19024,10 @@
     {
       "path": "es-cm",
       "name": "Castilla-La Mancha"
+    },
+    {
+      "path": "es-cm-gu",
+      "name": "gu"
     },
     {
       "path": "es-cn",

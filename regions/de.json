@@ -38,6 +38,11 @@
       "regions": []
     },
     {
+      "code": "de-all",
+      "name": "all",
+      "regions": []
+    },
+    {
       "code": "de-allgaeu",
       "name": "allgaeu",
       "regions": []
@@ -296,6 +301,11 @@
         {
           "code": "de-bw-fr",
           "name": "Freiburg / LKBH",
+          "regions": []
+        },
+        {
+          "code": "de-bw-gd",
+          "name": "gd",
           "regions": []
         },
         {
@@ -1181,6 +1191,11 @@
       "code": "de-he",
       "name": "Hessen",
       "regions": [
+        {
+          "code": "de-he-da",
+          "name": "da",
+          "regions": []
+        },
         {
           "code": "de-he-f",
           "name": "f",
