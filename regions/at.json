@@ -155,6 +155,11 @@
       "name": "stmk",
       "regions": [
         {
+          "code": "at-stmk-gu",
+          "name": "gu",
+          "regions": []
+        },
+        {
           "code": "at-stmk-lb",
           "name": "lb",
           "regions": []
