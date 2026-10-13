@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:03:29Z",
+  "generated_at": "2026-10-13T09:56:02Z",
   "tree": [
     {
       "code": "ad",
@@ -212,6 +212,11 @@
           "code": "at-stmk",
           "name": "stmk",
           "regions": [
+            {
+              "code": "at-stmk-gu",
+              "name": "gu",
+              "regions": []
+            },
             {
               "code": "at-stmk-lb",
               "name": "lb",
@@ -13548,6 +13553,10 @@
     {
       "path": "at-stmk",
       "name": "stmk"
+    },
+    {
+      "path": "at-stmk-gu",
+      "name": "gu"
     },
     {
       "path": "at-stmk-lb",

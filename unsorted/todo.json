@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:03:29Z",
+  "generated_at": "2026-10-13T09:56:02Z",
   "buckets": {
     "a": [
       {
@@ -1007,6 +1007,11 @@
         "raw": "de-ro-dbg",
         "reason": "missing_parent:de-ro",
         "first_seen": "2026-07-05T06:33:48Z"
+      },
+      {
+        "raw": "de-süd",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-13T09:56:02Z"
       },
       {
         "raw": "de-wn-str",
@@ -2300,6 +2305,11 @@
         "raw": "hh",
         "reason": "no_root",
         "first_seen": "2026-10-01T09:39:12Z"
+      },
+      {
+        "raw": "hig",
+        "reason": "no_root",
+        "first_seen": "2026-10-13T09:56:02Z"
       },
       {
         "raw": "high-rhine",
@@ -4507,6 +4517,11 @@
         "raw": "solingen",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "solling",
+        "reason": "no_root",
+        "first_seen": "2026-10-13T09:56:02Z"
       },
       {
         "raw": "somerset",
