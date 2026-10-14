@@ -1454,6 +1454,11 @@
           "regions": []
         },
         {
+          "code": "de-mv-rug",
+          "name": "rug",
+          "regions": []
+        },
+        {
           "code": "de-mv-sbg",
           "name": "sbg",
           "regions": []
@@ -2373,6 +2378,11 @@
         {
           "code": "de-sn-gr",
           "name": "gr",
+          "regions": []
+        },
+        {
+          "code": "de-sn-grm",
+          "name": "grm",
           "regions": []
         },
         {

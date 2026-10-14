@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:56:02Z",
+  "generated_at": "2026-10-14T08:16:16Z",
   "buckets": {
     "a": [
       {
@@ -1601,6 +1601,16 @@
         "first_seen": "2026-06-06T09:27:12Z"
       },
       {
+        "raw": "ebe",
+        "reason": "no_root",
+        "first_seen": "2026-10-14T08:16:16Z"
+      },
+      {
+        "raw": "ed",
+        "reason": "no_root",
+        "first_seen": "2026-10-14T08:16:16Z"
+      },
+      {
         "raw": "edm",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
@@ -1659,6 +1669,11 @@
         "raw": "emergency",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "emm",
+        "reason": "no_root",
+        "first_seen": "2026-10-14T08:16:16Z"
       },
       {
         "raw": "en",
@@ -2048,6 +2063,11 @@
         "raw": "gda",
         "reason": "no_root",
         "first_seen": "2026-07-22T05:41:45Z"
+      },
+      {
+        "raw": "gelsenkirchen",
+        "reason": "no_root",
+        "first_seen": "2026-10-14T08:16:16Z"
       },
       {
         "raw": "general",
