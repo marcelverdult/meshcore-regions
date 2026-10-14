@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:56:02Z",
+  "generated_at": "2026-10-14T08:16:16Z",
   "tree": [
     {
       "code": "ad",
@@ -124,6 +124,11 @@
           "code": "at-noe",
           "name": "noe",
           "regions": [
+            {
+              "code": "at-noe-tu",
+              "name": "tu",
+              "regions": []
+            },
             {
               "code": "at-noe-wb",
               "name": "wb",
@@ -3770,6 +3775,11 @@
           "regions": []
         },
         {
+          "code": "ch-ost",
+          "name": "ost",
+          "regions": []
+        },
+        {
           "code": "ch-rg",
           "name": "rg",
           "regions": []
@@ -3777,6 +3787,11 @@
         {
           "code": "ch-ro",
           "name": "ro",
+          "regions": []
+        },
+        {
+          "code": "ch-sg",
+          "name": "sg",
           "regions": []
         },
         {
@@ -5419,6 +5434,11 @@
               "regions": []
             },
             {
+              "code": "de-mv-rug",
+              "name": "rug",
+              "regions": []
+            },
+            {
               "code": "de-mv-sbg",
               "name": "sbg",
               "regions": []
@@ -6338,6 +6358,11 @@
             {
               "code": "de-sn-gr",
               "name": "gr",
+              "regions": []
+            },
+            {
+              "code": "de-sn-grm",
+              "name": "grm",
               "regions": []
             },
             {
@@ -7899,6 +7924,11 @@
         {
           "code": "gb-mid",
           "name": "Midlands",
+          "regions": []
+        },
+        {
+          "code": "gb-ne",
+          "name": "ne",
           "regions": []
         },
         {
@@ -13487,6 +13517,10 @@
       "name": "noe"
     },
     {
+      "path": "at-noe-tu",
+      "name": "tu"
+    },
+    {
       "path": "at-noe-wb",
       "name": "wb"
     },
@@ -16495,12 +16529,20 @@
       "name": "ne"
     },
     {
+      "path": "ch-ost",
+      "name": "ost"
+    },
+    {
       "path": "ch-rg",
       "name": "rg"
     },
     {
       "path": "ch-ro",
       "name": "ro"
+    },
+    {
+      "path": "ch-sg",
+      "name": "sg"
     },
     {
       "path": "ch-sh",
@@ -17839,6 +17881,10 @@
       "name": "ovp"
     },
     {
+      "path": "de-mv-rug",
+      "name": "rug"
+    },
+    {
       "path": "de-mv-sbg",
       "name": "sbg"
     },
@@ -18501,6 +18547,10 @@
     {
       "path": "de-sn-gr",
       "name": "gr"
+    },
+    {
+      "path": "de-sn-grm",
+      "name": "grm"
     },
     {
       "path": "de-sn-km",
@@ -19777,6 +19827,10 @@
     {
       "path": "gb-mid",
       "name": "Midlands"
+    },
+    {
+      "path": "gb-ne",
+      "name": "ne"
     },
     {
       "path": "gb-nir",

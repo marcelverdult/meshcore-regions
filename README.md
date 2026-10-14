@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-10-13T09:56:02Z`
+- Last sync: `2026-10-14T08:16:16Z`
 - Roots: 252
-- Total nodes: 2635
-- Unsorted entries: 1181
+- Total nodes: 2641
+- Unsorted entries: 1185
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-10-13T09:56:12Z | sync | 6c39d74 | Merge pull request #126 from marcelverdult/sync/auto |
+| 2026-10-13T09:56:03Z | sync | 18f34a4 | sync: 1 added, 0 resolved, 1181 unsorted |
 | 2026-10-12T10:04:18Z | sync | db336df | Merge pull request #125 from marcelverdult/sync/auto |
 | 2026-10-12T10:03:30Z | sync | 7aa8b30 | sync: 4 added, 0 resolved, 1178 unsorted |
 | 2026-10-11T09:33:23Z | sync | 2c2964a | Merge pull request #124 from marcelverdult/sync/auto |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-10-05T09:52:38Z | sync | 2fd5ce0 | sync: 13 added, 0 resolved, 1128 unsorted |
 | 2026-10-04T09:11:58Z | sync | a330390 | Merge pull request #117 from marcelverdult/sync/auto |
 | 2026-10-04T09:11:51Z | sync | baa4fa0 | sync: 9 added, 0 resolved, 1122 unsorted |
-| 2026-10-03T08:46:04Z | sync | 3ae188e | Merge pull request #116 from marcelverdult/sync/auto |
-| 2026-10-03T08:45:43Z | sync | 8d3dc32 | sync: 5 added, 0 resolved, 1118 unsorted |
 
 <!-- regions:auto-status:end -->
 
