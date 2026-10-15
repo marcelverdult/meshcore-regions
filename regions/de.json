@@ -571,6 +571,16 @@
           "regions": []
         },
         {
+          "code": "de-by-a",
+          "name": "a",
+          "regions": []
+        },
+        {
+          "code": "de-by-agb",
+          "name": "agb",
+          "regions": []
+        },
+        {
           "code": "de-by-an",
           "name": "an",
           "regions": []
@@ -1566,6 +1576,16 @@
           "regions": []
         },
         {
+          "code": "de-ni-emden",
+          "name": "emden",
+          "regions": []
+        },
+        {
+          "code": "de-ni-ems",
+          "name": "ems",
+          "regions": []
+        },
+        {
           "code": "de-ni-fri",
           "name": "Landkreis Friesland",
           "regions": []
@@ -2100,6 +2120,11 @@
       ]
     },
     {
+      "code": "de-roettingen",
+      "name": "roettingen",
+      "regions": []
+    },
+    {
       "code": "de-rp",
       "name": "Rheinland-Pfalz",
       "regions": [
@@ -2520,6 +2545,11 @@
       "regions": []
     },
     {
+      "code": "de-taubertal",
+      "name": "taubertal",
+      "regions": []
+    },
+    {
       "code": "de-test",
       "name": "test",
       "regions": []
@@ -2683,6 +2713,11 @@
     {
       "code": "de-wtm",
       "name": "wtm",
+      "regions": []
+    },
+    {
+      "code": "de-wue",
+      "name": "wue",
       "regions": []
     },
     {
