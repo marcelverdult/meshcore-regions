@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:16:16Z",
+  "generated_at": "2026-10-15T07:53:23Z",
   "buckets": {
     "a": [
       {
@@ -1499,6 +1499,11 @@
         "first_seen": "2026-05-23T04:17:08Z"
       },
       {
+        "raw": "dtis",
+        "reason": "no_root",
+        "first_seen": "2026-10-15T07:53:23Z"
+      },
+      {
         "raw": "dtm",
         "reason": "no_root",
         "first_seen": "2026-07-16T05:32:42Z"
@@ -2045,6 +2050,11 @@
         "first_seen": "2026-10-10T09:15:59Z"
       },
       {
+        "raw": "galicia",
+        "reason": "no_root",
+        "first_seen": "2026-10-15T07:53:23Z"
+      },
+      {
         "raw": "galloway",
         "reason": "no_root",
         "first_seen": "2026-08-05T00:37:29Z"
@@ -2380,6 +2390,11 @@
         "raw": "htn",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "hud",
+        "reason": "no_root",
+        "first_seen": "2026-10-15T07:53:23Z"
       },
       {
         "raw": "humber",
@@ -3042,9 +3057,24 @@
         "first_seen": "2026-08-05T05:39:23Z"
       },
       {
+        "raw": "mi",
+        "reason": "no_root",
+        "first_seen": "2026-10-15T07:53:23Z"
+      },
+      {
+        "raw": "mi-east",
+        "reason": "no_root",
+        "first_seen": "2026-10-15T07:53:23Z"
+      },
+      {
         "raw": "midlands",
         "reason": "no_root",
         "first_seen": "2026-05-26T11:23:33Z"
+      },
+      {
+        "raw": "midwest",
+        "reason": "no_root",
+        "first_seen": "2026-10-15T07:53:23Z"
       },
       {
         "raw": "milkyway",
@@ -3070,6 +3100,11 @@
         "raw": "mj",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "mkh",
+        "reason": "no_root",
+        "first_seen": "2026-10-15T07:53:23Z"
       },
       {
         "raw": "mkk",
@@ -5973,6 +6008,11 @@
         "raw": "Sco",
         "reason": "invalid_chars",
         "first_seen": "2026-09-25T08:25:08Z"
+      },
+      {
+        "raw": "SI",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-15T07:53:23Z"
       },
       {
         "raw": "THW",

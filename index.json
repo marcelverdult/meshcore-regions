@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:16:16Z",
+  "generated_at": "2026-10-15T07:53:23Z",
   "tree": [
     {
       "code": "ad",
@@ -4551,6 +4551,16 @@
               "regions": []
             },
             {
+              "code": "de-by-a",
+              "name": "a",
+              "regions": []
+            },
+            {
+              "code": "de-by-agb",
+              "name": "agb",
+              "regions": []
+            },
+            {
               "code": "de-by-an",
               "name": "an",
               "regions": []
@@ -5546,6 +5556,16 @@
               "regions": []
             },
             {
+              "code": "de-ni-emden",
+              "name": "emden",
+              "regions": []
+            },
+            {
+              "code": "de-ni-ems",
+              "name": "ems",
+              "regions": []
+            },
+            {
               "code": "de-ni-fri",
               "name": "Landkreis Friesland",
               "regions": []
@@ -6080,6 +6100,11 @@
           ]
         },
         {
+          "code": "de-roettingen",
+          "name": "roettingen",
+          "regions": []
+        },
+        {
           "code": "de-rp",
           "name": "Rheinland-Pfalz",
           "regions": [
@@ -6500,6 +6525,11 @@
           "regions": []
         },
         {
+          "code": "de-taubertal",
+          "name": "taubertal",
+          "regions": []
+        },
+        {
           "code": "de-test",
           "name": "test",
           "regions": []
@@ -6663,6 +6693,11 @@
         {
           "code": "de-wtm",
           "name": "wtm",
+          "regions": []
+        },
+        {
+          "code": "de-wue",
+          "name": "wue",
           "regions": []
         },
         {
@@ -9015,6 +9050,11 @@
           "name": "Friesland",
           "regions": [
             {
+              "code": "nl-fr-bgu",
+              "name": "bgu",
+              "regions": []
+            },
+            {
               "code": "nl-fr-hrn",
               "name": "hrn",
               "regions": []
@@ -9025,6 +9065,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "nl-frl",
+          "name": "frl",
+          "regions": []
         },
         {
           "code": "nl-ge",
@@ -9297,6 +9342,11 @@
         {
           "code": "nl-lmm",
           "name": "lmm",
+          "regions": []
+        },
+        {
+          "code": "nl-lwr",
+          "name": "lwr",
           "regions": []
         },
         {
@@ -17197,6 +17247,14 @@
       "name": "Bayern"
     },
     {
+      "path": "de-by-a",
+      "name": "a"
+    },
+    {
+      "path": "de-by-agb",
+      "name": "agb"
+    },
+    {
       "path": "de-by-an",
       "name": "an"
     },
@@ -17961,6 +18019,14 @@
       "name": "Emden"
     },
     {
+      "path": "de-ni-emden",
+      "name": "emden"
+    },
+    {
+      "path": "de-ni-ems",
+      "name": "ems"
+    },
+    {
       "path": "de-ni-fri",
       "name": "Landkreis Friesland"
     },
@@ -18333,6 +18399,10 @@
       "name": "dbg"
     },
     {
+      "path": "de-roettingen",
+      "name": "roettingen"
+    },
+    {
       "path": "de-rp",
       "name": "Rheinland-Pfalz"
     },
@@ -18653,6 +18723,10 @@
       "name": "sz"
     },
     {
+      "path": "de-taubertal",
+      "name": "taubertal"
+    },
+    {
       "path": "de-test",
       "name": "test"
     },
@@ -18783,6 +18857,10 @@
     {
       "path": "de-wtm",
       "name": "wtm"
+    },
+    {
+      "path": "de-wue",
+      "name": "wue"
     },
     {
       "path": "delano",
@@ -20977,12 +21055,20 @@
       "name": "Friesland"
     },
     {
+      "path": "nl-fr-bgu",
+      "name": "bgu"
+    },
+    {
       "path": "nl-fr-hrn",
       "name": "hrn"
     },
     {
       "path": "nl-fr-tsl",
       "name": "tsl"
+    },
+    {
+      "path": "nl-frl",
+      "name": "frl"
     },
     {
       "path": "nl-ge",
@@ -21199,6 +21285,10 @@
     {
       "path": "nl-lmm",
       "name": "lmm"
+    },
+    {
+      "path": "nl-lwr",
+      "name": "lwr"
     },
     {
       "path": "nl-mdl",

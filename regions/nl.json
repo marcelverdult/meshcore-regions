@@ -194,6 +194,11 @@
       "name": "Friesland",
       "regions": [
         {
+          "code": "nl-fr-bgu",
+          "name": "bgu",
+          "regions": []
+        },
+        {
           "code": "nl-fr-hrn",
           "name": "hrn",
           "regions": []
@@ -204,6 +209,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "nl-frl",
+      "name": "frl",
+      "regions": []
     },
     {
       "code": "nl-ge",
@@ -476,6 +486,11 @@
     {
       "code": "nl-lmm",
       "name": "lmm",
+      "regions": []
+    },
+    {
+      "code": "nl-lwr",
+      "name": "lwr",
       "regions": []
     },
     {
