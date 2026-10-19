@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:53:23Z",
+  "generated_at": "2026-10-19T18:42:34Z",
   "buckets": {
     "a": [
       {
@@ -398,6 +398,11 @@
         "raw": "bfc",
         "reason": "no_root",
         "first_seen": "2026-09-10T07:43:27Z"
+      },
+      {
+        "raw": "bgd",
+        "reason": "no_root",
+        "first_seen": "2026-10-19T18:42:34Z"
       },
       {
         "raw": "bgl",
@@ -1359,6 +1364,11 @@
         "first_seen": "2026-08-07T14:55:38Z"
       },
       {
+        "raw": "dmiholjac",
+        "reason": "no_root",
+        "first_seen": "2026-10-19T18:42:34Z"
+      },
+      {
         "raw": "dmt",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1938,6 +1948,11 @@
         "first_seen": "2026-06-01T18:50:44Z"
       },
       {
+        "raw": "fmm",
+        "reason": "no_root",
+        "first_seen": "2026-10-19T18:42:34Z"
+      },
+      {
         "raw": "fmo",
         "reason": "no_root",
         "first_seen": "2026-09-17T08:16:09Z"
@@ -2375,6 +2390,11 @@
         "raw": "hrc",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "hrvatska",
+        "reason": "no_root",
+        "first_seen": "2026-10-19T18:42:34Z"
       },
       {
         "raw": "hsa",
@@ -3312,6 +3332,11 @@
         "raw": "nordic",
         "reason": "no_root",
         "first_seen": "2026-06-28T04:30:25Z"
+      },
+      {
+        "raw": "nordwest",
+        "reason": "no_root",
+        "first_seen": "2026-10-19T18:42:34Z"
       },
       {
         "raw": "norf",
@@ -5770,6 +5795,11 @@
         "first_seen": "2026-09-25T08:25:08Z"
       },
       {
+        "raw": "BALTIC",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-19T18:42:34Z"
+      },
+      {
         "raw": "BNA",
         "reason": "invalid_chars",
         "first_seen": "2026-06-18T04:30:47Z"
@@ -5815,9 +5845,19 @@
         "first_seen": "2026-09-28T09:13:31Z"
       },
       {
+        "raw": "DE-NW-HX",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-19T18:42:34Z"
+      },
+      {
         "raw": "DE-NW-OWL",
         "reason": "invalid_chars",
         "first_seen": "2026-10-02T09:13:23Z"
+      },
+      {
+        "raw": "DE-NW-PB",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-19T18:42:34Z"
       },
       {
         "raw": "DE-RP-COC",
@@ -5880,6 +5920,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "FEW",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-19T18:42:34Z"
+      },
+      {
         "raw": "FRA",
         "reason": "invalid_chars",
         "first_seen": "2026-10-12T10:03:29Z"
@@ -5898,6 +5943,16 @@
         "raw": "Hagen",
         "reason": "invalid_chars",
         "first_seen": "2026-09-19T07:42:18Z"
+      },
+      {
+        "raw": "HAJ",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-19T18:42:34Z"
+      },
+      {
+        "raw": "HAM",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-19T18:42:34Z"
       },
       {
         "raw": "HHN",
@@ -5923,6 +5978,11 @@
         "raw": "Kämpfelbach",
         "reason": "invalid_chars",
         "first_seen": "2026-08-10T04:24:08Z"
+      },
+      {
+        "raw": "KSF",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-19T18:42:34Z"
       },
       {
         "raw": "LAL",
@@ -5978,6 +6038,11 @@
         "raw": "NW",
         "reason": "invalid_chars",
         "first_seen": "2026-09-29T09:21:04Z"
+      },
+      {
+        "raw": "ODE",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-19T18:42:34Z"
       },
       {
         "raw": "OOL",

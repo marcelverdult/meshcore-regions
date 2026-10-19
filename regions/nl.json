@@ -199,6 +199,11 @@
           "regions": []
         },
         {
+          "code": "nl-fr-dfm",
+          "name": "dfm",
+          "regions": []
+        },
+        {
           "code": "nl-fr-hrn",
           "name": "hrn",
           "regions": []
@@ -960,6 +965,16 @@
         {
           "code": "nl-ze-mdl",
           "name": "mdl",
+          "regions": []
+        },
+        {
+          "code": "nl-ze-swd",
+          "name": "swd",
+          "regions": []
+        },
+        {
+          "code": "nl-ze-zie",
+          "name": "zie",
           "regions": []
         }
       ]

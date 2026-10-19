@@ -45,7 +45,13 @@
     {
       "code": "at-ktn",
       "name": "ktn",
-      "regions": []
+      "regions": [
+        {
+          "code": "at-ktn-wo",
+          "name": "wo",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "at-ku",
