@@ -21,9 +21,13 @@ function fatal(msg) {
   process.exit(1);
 }
 
+const USER_AGENT = 'meshcore-regions-sync/1 (+https://github.com/marcelverdult/meshcore-regions)';
+
 async function fetchUpstream(url) {
   let res;
-  try { res = await fetch(url); }
+  // Node's default UA is the bare string "node", which kiekr.app's Cloudflare
+  // rules block as an anonymous scraper. Identify the sync job instead.
+  try { res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } }); }
   catch (e) { fatal(`fetch failed (${e.constructor?.name || 'Error'})`); }
   if (!res.ok) fatal(`upstream HTTP ${res.status}`);
   let body;
