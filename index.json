@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:53:23Z",
+  "generated_at": "2026-10-19T18:42:34Z",
   "tree": [
     {
       "code": "ad",
@@ -103,7 +103,13 @@
         {
           "code": "at-ktn",
           "name": "ktn",
-          "regions": []
+          "regions": [
+            {
+              "code": "at-ktn-wo",
+              "name": "wo",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "at-ku",
@@ -3592,6 +3598,11 @@
           "name": "São Paulo",
           "regions": [
             {
+              "code": "br-sp-11",
+              "name": "11",
+              "regions": []
+            },
+            {
               "code": "br-sp-15",
               "name": "Sorocaba",
               "regions": []
@@ -4354,6 +4365,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-lph",
+              "name": "lph",
+              "regions": []
+            },
+            {
               "code": "de-bw-ma",
               "name": "ma",
               "regions": []
@@ -4601,6 +4617,11 @@
               "regions": []
             },
             {
+              "code": "de-by-deg",
+              "name": "deg",
+              "regions": []
+            },
+            {
               "code": "de-by-dlg",
               "name": "dlg",
               "regions": []
@@ -4762,6 +4783,11 @@
             {
               "code": "de-by-mitte",
               "name": "mitte",
+              "regions": []
+            },
+            {
+              "code": "de-by-mme",
+              "name": "mme",
               "regions": []
             },
             {
@@ -5259,6 +5285,11 @@
               ]
             },
             {
+              "code": "de-he-wmk",
+              "name": "wmk",
+              "regions": []
+            },
+            {
               "code": "frankfurt",
               "name": "Frankfurt",
               "regions": []
@@ -5487,6 +5518,11 @@
             {
               "code": "de-ne-lip",
               "name": "lip",
+              "regions": []
+            },
+            {
+              "code": "de-ne-wtm",
+              "name": "wtm",
               "regions": []
             }
           ]
@@ -5859,6 +5895,11 @@
               "regions": []
             },
             {
+              "code": "de-nw-erf",
+              "name": "erf",
+              "regions": []
+            },
+            {
               "code": "de-nw-gl",
               "name": "Rheinisch-Bergischer Kreis",
               "regions": []
@@ -6141,6 +6182,11 @@
             {
               "code": "de-rp-kl",
               "name": "Kaiserslautern",
+              "regions": []
+            },
+            {
+              "code": "de-rp-ko",
+              "name": "ko",
               "regions": []
             },
             {
@@ -7391,7 +7437,13 @@
     {
       "code": "fm",
       "name": "Micronesia",
-      "regions": []
+      "regions": [
+        {
+          "code": "fm-112",
+          "name": "112",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "fo",
@@ -8398,6 +8450,11 @@
               "regions": []
             },
             {
+              "code": "it-lom-pv",
+              "name": "pv",
+              "regions": []
+            },
+            {
               "code": "it-lom-va",
               "name": "va",
               "regions": []
@@ -9052,6 +9109,11 @@
             {
               "code": "nl-fr-bgu",
               "name": "bgu",
+              "regions": []
+            },
+            {
+              "code": "nl-fr-dfm",
+              "name": "dfm",
               "regions": []
             },
             {
@@ -9816,6 +9878,16 @@
             {
               "code": "nl-ze-mdl",
               "name": "mdl",
+              "regions": []
+            },
+            {
+              "code": "nl-ze-swd",
+              "name": "swd",
+              "regions": []
+            },
+            {
+              "code": "nl-ze-zie",
+              "name": "zie",
               "regions": []
             }
           ]
@@ -13551,6 +13623,10 @@
       "name": "ktn"
     },
     {
+      "path": "at-ktn-wo",
+      "name": "wo"
+    },
+    {
       "path": "at-ku",
       "name": "ku"
     },
@@ -16399,6 +16475,10 @@
       "name": "São Paulo"
     },
     {
+      "path": "br-sp-11",
+      "name": "11"
+    },
+    {
       "path": "br-sp-15",
       "name": "Sorocaba"
     },
@@ -17107,6 +17187,10 @@
       "name": "Lörrach"
     },
     {
+      "path": "de-bw-lph",
+      "name": "lph"
+    },
+    {
       "path": "de-bw-ma",
       "name": "ma"
     },
@@ -17287,6 +17371,10 @@
       "name": "Stadt und Landkreis Dachau"
     },
     {
+      "path": "de-by-deg",
+      "name": "deg"
+    },
+    {
       "path": "de-by-dlg",
       "name": "dlg"
     },
@@ -17413,6 +17501,10 @@
     {
       "path": "de-by-mitte",
       "name": "mitte"
+    },
+    {
+      "path": "de-by-mme",
+      "name": "mme"
     },
     {
       "path": "de-by-mn",
@@ -17799,6 +17891,10 @@
       "name": "lat"
     },
     {
+      "path": "de-he-wmk",
+      "name": "wmk"
+    },
+    {
       "path": "de-hes",
       "name": "hes"
     },
@@ -17973,6 +18069,10 @@
     {
       "path": "de-ne-lip",
       "name": "lip"
+    },
+    {
+      "path": "de-ne-wtm",
+      "name": "wtm"
     },
     {
       "path": "de-ni",
@@ -18227,6 +18327,10 @@
       "name": "e"
     },
     {
+      "path": "de-nw-erf",
+      "name": "erf"
+    },
+    {
       "path": "de-nw-gl",
       "name": "Rheinisch-Bergischer Kreis"
     },
@@ -18433,6 +18537,10 @@
     {
       "path": "de-rp-kl",
       "name": "Kaiserslautern"
+    },
+    {
+      "path": "de-rp-ko",
+      "name": "ko"
     },
     {
       "path": "de-rp-koblenz",
@@ -19443,6 +19551,10 @@
       "name": "Micronesia"
     },
     {
+      "path": "fm-112",
+      "name": "112"
+    },
+    {
       "path": "fo",
       "name": "Faroe Islands"
     },
@@ -20343,6 +20455,10 @@
       "name": "Milano"
     },
     {
+      "path": "it-lom-pv",
+      "name": "pv"
+    },
+    {
       "path": "it-lom-va",
       "name": "va"
     },
@@ -21059,6 +21175,10 @@
       "name": "bgu"
     },
     {
+      "path": "nl-fr-dfm",
+      "name": "dfm"
+    },
+    {
       "path": "nl-fr-hrn",
       "name": "hrn"
     },
@@ -21661,6 +21781,14 @@
     {
       "path": "nl-ze-mdl",
       "name": "mdl"
+    },
+    {
+      "path": "nl-ze-swd",
+      "name": "swd"
+    },
+    {
+      "path": "nl-ze-zie",
+      "name": "zie"
     },
     {
       "path": "nl-zh",

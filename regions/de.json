@@ -374,6 +374,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-lph",
+          "name": "lph",
+          "regions": []
+        },
+        {
           "code": "de-bw-ma",
           "name": "ma",
           "regions": []
@@ -621,6 +626,11 @@
           "regions": []
         },
         {
+          "code": "de-by-deg",
+          "name": "deg",
+          "regions": []
+        },
+        {
           "code": "de-by-dlg",
           "name": "dlg",
           "regions": []
@@ -782,6 +792,11 @@
         {
           "code": "de-by-mitte",
           "name": "mitte",
+          "regions": []
+        },
+        {
+          "code": "de-by-mme",
+          "name": "mme",
           "regions": []
         },
         {
@@ -1279,6 +1294,11 @@
           ]
         },
         {
+          "code": "de-he-wmk",
+          "name": "wmk",
+          "regions": []
+        },
+        {
           "code": "frankfurt",
           "name": "Frankfurt",
           "regions": []
@@ -1507,6 +1527,11 @@
         {
           "code": "de-ne-lip",
           "name": "lip",
+          "regions": []
+        },
+        {
+          "code": "de-ne-wtm",
+          "name": "wtm",
           "regions": []
         }
       ]
@@ -1879,6 +1904,11 @@
           "regions": []
         },
         {
+          "code": "de-nw-erf",
+          "name": "erf",
+          "regions": []
+        },
+        {
           "code": "de-nw-gl",
           "name": "Rheinisch-Bergischer Kreis",
           "regions": []
@@ -2161,6 +2191,11 @@
         {
           "code": "de-rp-kl",
           "name": "Kaiserslautern",
+          "regions": []
+        },
+        {
+          "code": "de-rp-ko",
+          "name": "ko",
           "regions": []
         },
         {

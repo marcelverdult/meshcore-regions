@@ -1,5 +1,11 @@
 {
   "code": "fm",
   "name": "Micronesia",
-  "regions": []
+  "regions": [
+    {
+      "code": "fm-112",
+      "name": "112",
+      "regions": []
+    }
+  ]
 }
