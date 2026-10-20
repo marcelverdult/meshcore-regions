@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:43:02Z",
+  "generated_at": "2026-10-20T08:04:42Z",
   "tree": [
     {
       "code": "ad",
@@ -8367,6 +8367,17 @@
           "regions": []
         },
         {
+          "code": "it-fri",
+          "name": "fri",
+          "regions": [
+            {
+              "code": "it-fri-vg",
+              "name": "vg",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "it-fvg",
           "name": "Friuli Venezia Giulia",
           "regions": [
@@ -8411,6 +8422,11 @@
             {
               "code": "it-lig-im",
               "name": "im",
+              "regions": []
+            },
+            {
+              "code": "it-lig-sa",
+              "name": "sa",
               "regions": []
             },
             {
@@ -8460,6 +8476,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "it-lunigiana",
+          "name": "lunigiana",
+          "regions": []
         },
         {
           "code": "it-mar",
@@ -8563,6 +8584,11 @@
           "code": "it-tos",
           "name": "Toscana",
           "regions": [
+            {
+              "code": "it-tos-fi",
+              "name": "fi",
+              "regions": []
+            },
             {
               "code": "it-tos-ms",
               "name": "Massa",
@@ -20391,6 +20417,14 @@
       "name": "fr"
     },
     {
+      "path": "it-fri",
+      "name": "fri"
+    },
+    {
+      "path": "it-fri-vg",
+      "name": "vg"
+    },
+    {
       "path": "it-fvg",
       "name": "Friuli Venezia Giulia"
     },
@@ -20427,6 +20461,10 @@
       "name": "im"
     },
     {
+      "path": "it-lig-sa",
+      "name": "sa"
+    },
+    {
       "path": "it-lig-sp",
       "name": "Spezia"
     },
@@ -20461,6 +20499,10 @@
     {
       "path": "it-lom-va",
       "name": "va"
+    },
+    {
+      "path": "it-lunigiana",
+      "name": "lunigiana"
     },
     {
       "path": "it-mar",
@@ -20541,6 +20583,10 @@
     {
       "path": "it-tos",
       "name": "Toscana"
+    },
+    {
+      "path": "it-tos-fi",
+      "name": "fi"
     },
     {
       "path": "it-tos-ms",
