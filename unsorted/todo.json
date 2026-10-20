@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:43:02Z",
+  "generated_at": "2026-10-20T08:04:42Z",
   "buckets": {
     "a": [
       {
@@ -1094,6 +1094,11 @@
         "first_seen": "2026-07-27T06:20:43Z"
       },
       {
+        "raw": "di-ni",
+        "reason": "no_root",
+        "first_seen": "2026-10-20T08:04:42Z"
+      },
+      {
         "raw": "di-ni-el",
         "reason": "no_root",
         "first_seen": "2026-08-07T15:33:09Z"
@@ -1277,6 +1282,16 @@
         "raw": "dk5750",
         "reason": "no_root",
         "first_seen": "2026-10-10T09:15:59Z"
+      },
+      {
+        "raw": "dk576",
+        "reason": "no_root",
+        "first_seen": "2026-10-20T08:04:42Z"
+      },
+      {
+        "raw": "dk5762",
+        "reason": "no_root",
+        "first_seen": "2026-10-20T08:04:42Z"
       },
       {
         "raw": "dk577",
@@ -4294,6 +4309,11 @@
         "first_seen": "2026-07-30T05:32:53Z"
       },
       {
+        "raw": "sat",
+        "reason": "no_root",
+        "first_seen": "2026-10-20T08:04:42Z"
+      },
+      {
         "raw": "save",
         "reason": "no_root",
         "first_seen": "2026-07-16T05:32:42Z"
@@ -4502,6 +4522,11 @@
         "raw": "sensor",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "setex",
+        "reason": "no_root",
+        "first_seen": "2026-10-20T08:04:42Z"
       },
       {
         "raw": "setubal",
@@ -4924,6 +4949,11 @@
         "raw": "test9",
         "reason": "no_root",
         "first_seen": "2026-08-15T03:31:58Z"
+      },
+      {
+        "raw": "texas",
+        "reason": "no_root",
+        "first_seen": "2026-10-20T08:04:42Z"
       },
       {
         "raw": "tholey",
@@ -5988,6 +6018,11 @@
         "raw": "LAL",
         "reason": "invalid_chars",
         "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
+        "raw": "LIN",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-20T08:04:42Z"
       },
       {
         "raw": "Luebeck",

@@ -54,6 +54,17 @@
       "regions": []
     },
     {
+      "code": "it-fri",
+      "name": "fri",
+      "regions": [
+        {
+          "code": "it-fri-vg",
+          "name": "vg",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "it-fvg",
       "name": "Friuli Venezia Giulia",
       "regions": [
@@ -98,6 +109,11 @@
         {
           "code": "it-lig-im",
           "name": "im",
+          "regions": []
+        },
+        {
+          "code": "it-lig-sa",
+          "name": "sa",
           "regions": []
         },
         {
@@ -147,6 +163,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "it-lunigiana",
+      "name": "lunigiana",
+      "regions": []
     },
     {
       "code": "it-mar",
@@ -250,6 +271,11 @@
       "code": "it-tos",
       "name": "Toscana",
       "regions": [
+        {
+          "code": "it-tos-fi",
+          "name": "fi",
+          "regions": []
+        },
         {
           "code": "it-tos-ms",
           "name": "Massa",
