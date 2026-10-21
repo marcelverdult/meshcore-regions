@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:04:42Z",
+  "generated_at": "2026-10-21T08:10:14Z",
   "buckets": {
     "a": [
       {
@@ -493,6 +493,11 @@
         "raw": "bos",
         "reason": "no_root",
         "first_seen": "2026-07-21T05:42:27Z"
+      },
+      {
+        "raw": "bot",
+        "reason": "no_root",
+        "first_seen": "2026-10-21T08:10:14Z"
       },
       {
         "raw": "bra",
@@ -3995,6 +4000,11 @@
         "raw": "raleigh",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "rao",
+        "reason": "no_root",
+        "first_seen": "2026-10-21T08:10:14Z"
       },
       {
         "raw": "ravensburg",

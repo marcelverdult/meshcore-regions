@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:04:42Z",
+  "generated_at": "2026-10-21T08:10:14Z",
   "tree": [
     {
       "code": "ad",
@@ -3606,6 +3606,16 @@
               "code": "br-sp-15",
               "name": "Sorocaba",
               "regions": []
+            },
+            {
+              "code": "br-sp-16",
+              "name": "16",
+              "regions": []
+            },
+            {
+              "code": "br-sp-19",
+              "name": "19",
+              "regions": []
             }
           ]
         }
@@ -5302,6 +5312,11 @@
           "regions": []
         },
         {
+          "code": "de-hf",
+          "name": "hf",
+          "regions": []
+        },
+        {
           "code": "de-hgw",
           "name": "hgw",
           "regions": []
@@ -5385,6 +5400,11 @@
           "regions": []
         },
         {
+          "code": "de-lkos",
+          "name": "lkos",
+          "regions": []
+        },
+        {
           "code": "de-magdeburg",
           "name": "magdeburg",
           "regions": []
@@ -5392,6 +5412,11 @@
         {
           "code": "de-mh",
           "name": "mh",
+          "regions": []
+        },
+        {
+          "code": "de-mi",
+          "name": "mi",
           "regions": []
         },
         {
@@ -6097,6 +6122,11 @@
         {
           "code": "de-oal",
           "name": "oal",
+          "regions": []
+        },
+        {
+          "code": "de-os",
+          "name": "os",
           "regions": []
         },
         {
@@ -16509,6 +16539,14 @@
       "name": "Sorocaba"
     },
     {
+      "path": "br-sp-16",
+      "name": "16"
+    },
+    {
+      "path": "br-sp-19",
+      "name": "19"
+    },
+    {
       "path": "braunschweig",
       "name": "Braunschweig"
     },
@@ -17925,6 +17963,10 @@
       "name": "hes"
     },
     {
+      "path": "de-hf",
+      "name": "hf"
+    },
+    {
       "path": "de-hgw",
       "name": "hgw"
     },
@@ -17989,12 +18031,20 @@
       "name": "lemfoerde"
     },
     {
+      "path": "de-lkos",
+      "name": "lkos"
+    },
+    {
       "path": "de-magdeburg",
       "name": "magdeburg"
     },
     {
       "path": "de-mh",
       "name": "mh"
+    },
+    {
+      "path": "de-mi",
+      "name": "mi"
     },
     {
       "path": "de-mitte",
@@ -18495,6 +18545,10 @@
     {
       "path": "de-oal",
       "name": "oal"
+    },
+    {
+      "path": "de-os",
+      "name": "os"
     },
     {
       "path": "de-ost",

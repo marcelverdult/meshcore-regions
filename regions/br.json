@@ -15,6 +15,16 @@
           "code": "br-sp-15",
           "name": "Sorocaba",
           "regions": []
+        },
+        {
+          "code": "br-sp-16",
+          "name": "16",
+          "regions": []
+        },
+        {
+          "code": "br-sp-19",
+          "name": "19",
+          "regions": []
         }
       ]
     }
