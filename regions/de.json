@@ -1311,6 +1311,11 @@
       "regions": []
     },
     {
+      "code": "de-hf",
+      "name": "hf",
+      "regions": []
+    },
+    {
       "code": "de-hgw",
       "name": "hgw",
       "regions": []
@@ -1394,6 +1399,11 @@
       "regions": []
     },
     {
+      "code": "de-lkos",
+      "name": "lkos",
+      "regions": []
+    },
+    {
       "code": "de-magdeburg",
       "name": "magdeburg",
       "regions": []
@@ -1401,6 +1411,11 @@
     {
       "code": "de-mh",
       "name": "mh",
+      "regions": []
+    },
+    {
+      "code": "de-mi",
+      "name": "mi",
       "regions": []
     },
     {
@@ -2106,6 +2121,11 @@
     {
       "code": "de-oal",
       "name": "oal",
+      "regions": []
+    },
+    {
+      "code": "de-os",
+      "name": "os",
       "regions": []
     },
     {
