@@ -724,6 +724,11 @@
           ]
         },
         {
+          "code": "de-by-kg",
+          "name": "kg",
+          "regions": []
+        },
+        {
           "code": "de-by-kru",
           "name": "kru",
           "regions": []
@@ -932,6 +937,11 @@
             {
               "code": "de-by-opf-new",
               "name": "new",
+              "regions": []
+            },
+            {
+              "code": "de-by-opf-tir",
+              "name": "tir",
               "regions": []
             },
             {
@@ -1268,6 +1278,11 @@
           "regions": []
         },
         {
+          "code": "de-he-mkk",
+          "name": "mkk",
+          "regions": []
+        },
+        {
           "code": "de-he-mr",
           "name": "mr",
           "regions": []
@@ -1296,6 +1311,11 @@
         {
           "code": "de-he-wmk",
           "name": "wmk",
+          "regions": []
+        },
+        {
+          "code": "de-he-woelfersheim",
+          "name": "woelfersheim",
           "regions": []
         },
         {
@@ -1850,6 +1870,11 @@
       "regions": []
     },
     {
+      "code": "de-north",
+      "name": "north",
+      "regions": []
+    },
+    {
       "code": "de-nrw",
       "name": "nrw",
       "regions": []
@@ -2168,6 +2193,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "de-roehn",
+      "name": "roehn",
+      "regions": []
     },
     {
       "code": "de-roettingen",
@@ -2733,6 +2763,11 @@
     {
       "code": "de-tn",
       "name": "tn",
+      "regions": []
+    },
+    {
+      "code": "de-uff",
+      "name": "uff",
       "regions": []
     },
     {
