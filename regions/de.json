@@ -2078,7 +2078,13 @@
         {
           "code": "de-nw-so",
           "name": "Kreis Soest",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-nw-so-lippstadt",
+              "name": "lippstadt",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-nw-st",
@@ -2166,6 +2172,11 @@
     {
       "code": "de-owl",
       "name": "owl",
+      "regions": []
+    },
+    {
+      "code": "de-p",
+      "name": "p",
       "regions": []
     },
     {
@@ -2288,6 +2299,11 @@
     {
       "code": "de-ruhrgebiet",
       "name": "ruhrgebiet",
+      "regions": []
+    },
+    {
+      "code": "de-s",
+      "name": "s",
       "regions": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:11:04Z",
+  "generated_at": "2026-10-23T08:08:48Z",
   "tree": [
     {
       "code": "ad",
@@ -130,6 +130,11 @@
           "code": "at-noe",
           "name": "noe",
           "regions": [
+            {
+              "code": "at-noe-me",
+              "name": "me",
+              "regions": []
+            },
             {
               "code": "at-noe-tu",
               "name": "tu",
@@ -6079,7 +6084,13 @@
             {
               "code": "de-nw-so",
               "name": "Kreis Soest",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-nw-so-lippstadt",
+                  "name": "lippstadt",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-nw-st",
@@ -6167,6 +6178,11 @@
         {
           "code": "de-owl",
           "name": "owl",
+          "regions": []
+        },
+        {
+          "code": "de-p",
+          "name": "p",
           "regions": []
         },
         {
@@ -6289,6 +6305,11 @@
         {
           "code": "de-ruhrgebiet",
           "name": "ruhrgebiet",
+          "regions": []
+        },
+        {
+          "code": "de-s",
+          "name": "s",
           "regions": []
         },
         {
@@ -8643,6 +8664,11 @@
         {
           "code": "it-taa",
           "name": "Trentino-Alto Adige",
+          "regions": []
+        },
+        {
+          "code": "it-to",
+          "name": "to",
           "regions": []
         },
         {
@@ -13734,6 +13760,10 @@
       "name": "noe"
     },
     {
+      "path": "at-noe-me",
+      "name": "me"
+    },
+    {
       "path": "at-noe-tu",
       "name": "tu"
     },
@@ -18566,6 +18596,10 @@
       "name": "Kreis Soest"
     },
     {
+      "path": "de-nw-so-lippstadt",
+      "name": "lippstadt"
+    },
+    {
       "path": "de-nw-st",
       "name": "st"
     },
@@ -18616,6 +18650,10 @@
     {
       "path": "de-owl",
       "name": "owl"
+    },
+    {
+      "path": "de-p",
+      "name": "p"
     },
     {
       "path": "de-pi",
@@ -18708,6 +18746,10 @@
     {
       "path": "de-ruhrgebiet",
       "name": "ruhrgebiet"
+    },
+    {
+      "path": "de-s",
+      "name": "s"
     },
     {
       "path": "de-sa",
@@ -20696,6 +20738,10 @@
     {
       "path": "it-taa",
       "name": "Trentino-Alto Adige"
+    },
+    {
+      "path": "it-to",
+      "name": "to"
     },
     {
       "path": "it-tos",
