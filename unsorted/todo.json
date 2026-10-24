@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:08:48Z",
+  "generated_at": "2026-10-24T07:47:38Z",
   "buckets": {
     "a": [
       {
@@ -992,6 +992,11 @@
         "raw": "de-leipzig-halle",
         "reason": "missing_parent:de-leipzig",
         "first_seen": "2026-06-04T04:31:07Z"
+      },
+      {
+        "raw": "de-mv-rüg",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-24T07:47:38Z"
       },
       {
         "raw": "de-nds-lkos",
@@ -4265,6 +4270,11 @@
         "raw": "ruebach",
         "reason": "no_root",
         "first_seen": "2026-08-09T04:12:10Z"
+      },
+      {
+        "raw": "ruhrgbiet",
+        "reason": "no_root",
+        "first_seen": "2026-10-24T07:47:38Z"
       }
     ],
     "s": [
