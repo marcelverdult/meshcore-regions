@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:08:48Z",
+  "generated_at": "2026-10-24T07:47:38Z",
   "tree": [
     {
       "code": "ad",
@@ -4257,7 +4257,13 @@
             {
               "code": "de-bw-bad",
               "name": "Baden-Baden",
-              "regions": []
+              "regions": [
+                {
+                  "code": "de-bw-bad-bad",
+                  "name": "bad",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-bw-bb",
@@ -5103,6 +5109,11 @@
         {
           "code": "de-dus",
           "name": "dus",
+          "regions": []
+        },
+        {
+          "code": "de-eic",
+          "name": "eic",
           "regions": []
         },
         {
@@ -9239,6 +9250,11 @@
               "regions": []
             },
             {
+              "code": "nl-fr-lwr",
+              "name": "lwr",
+              "regions": []
+            },
+            {
               "code": "nl-fr-tsl",
               "name": "tsl",
               "regions": []
@@ -10086,6 +10102,11 @@
             {
               "code": "nl-zh-wss",
               "name": "wss",
+              "regions": []
+            },
+            {
+              "code": "nl-zh-ztm",
+              "name": "ztm",
               "regions": []
             }
           ]
@@ -17220,6 +17241,10 @@
       "name": "Baden-Baden"
     },
     {
+      "path": "de-bw-bad-bad",
+      "name": "bad"
+    },
+    {
       "path": "de-bw-bb",
       "name": "Böblingen/Sindelfingen"
     },
@@ -17866,6 +17891,10 @@
     {
       "path": "de-dus",
       "name": "dus"
+    },
+    {
+      "path": "de-eic",
+      "name": "eic"
     },
     {
       "path": "de-eifel",
@@ -21392,6 +21421,10 @@
       "name": "hrn"
     },
     {
+      "path": "nl-fr-lwr",
+      "name": "lwr"
+    },
+    {
       "path": "nl-fr-tsl",
       "name": "tsl"
     },
@@ -22062,6 +22095,10 @@
     {
       "path": "nl-zh-wss",
       "name": "wss"
+    },
+    {
+      "path": "nl-zh-ztm",
+      "name": "ztm"
     },
     {
       "path": "nl-zuid",

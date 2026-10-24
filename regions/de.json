@@ -251,7 +251,13 @@
         {
           "code": "de-bw-bad",
           "name": "Baden-Baden",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-bw-bad-bad",
+              "name": "bad",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-bw-bb",
@@ -1097,6 +1103,11 @@
     {
       "code": "de-dus",
       "name": "dus",
+      "regions": []
+    },
+    {
+      "code": "de-eic",
+      "name": "eic",
       "regions": []
     },
     {

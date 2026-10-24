@@ -209,6 +209,11 @@
           "regions": []
         },
         {
+          "code": "nl-fr-lwr",
+          "name": "lwr",
+          "regions": []
+        },
+        {
           "code": "nl-fr-tsl",
           "name": "tsl",
           "regions": []
@@ -1056,6 +1061,11 @@
         {
           "code": "nl-zh-wss",
           "name": "wss",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-ztm",
+          "name": "ztm",
           "regions": []
         }
       ]
