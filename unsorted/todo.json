@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T07:47:38Z",
+  "generated_at": "2026-10-25T07:59:15Z",
   "buckets": {
     "a": [
       {
@@ -428,6 +428,11 @@
         "raw": "bla",
         "reason": "no_root",
         "first_seen": "2026-07-06T07:05:04Z"
+      },
+      {
+        "raw": "blackpool",
+        "reason": "no_root",
+        "first_seen": "2026-10-25T07:59:15Z"
       },
       {
         "raw": "bliesgau",
@@ -1154,9 +1159,39 @@
         "first_seen": "2026-08-21T03:43:49Z"
       },
       {
+        "raw": "dk4",
+        "reason": "no_root",
+        "first_seen": "2026-10-25T07:59:15Z"
+      },
+      {
+        "raw": "dk41",
+        "reason": "no_root",
+        "first_seen": "2026-10-25T07:59:15Z"
+      },
+      {
         "raw": "dk42",
         "reason": "no_root",
         "first_seen": "2026-06-01T04:31:59Z"
+      },
+      {
+        "raw": "dk46",
+        "reason": "no_root",
+        "first_seen": "2026-10-25T07:59:15Z"
+      },
+      {
+        "raw": "dk47",
+        "reason": "no_root",
+        "first_seen": "2026-10-25T07:59:15Z"
+      },
+      {
+        "raw": "dk470",
+        "reason": "no_root",
+        "first_seen": "2026-10-25T07:59:15Z"
+      },
+      {
+        "raw": "dk4700",
+        "reason": "no_root",
+        "first_seen": "2026-10-25T07:59:15Z"
       },
       {
         "raw": "dk5",
@@ -2596,6 +2631,11 @@
         "raw": "ka",
         "reason": "no_root",
         "first_seen": "2026-07-10T06:36:56Z"
+      },
+      {
+        "raw": "kaempfelbach",
+        "reason": "no_root",
+        "first_seen": "2026-10-25T07:59:15Z"
       },
       {
         "raw": "kahla",

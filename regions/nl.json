@@ -538,6 +538,11 @@
           "regions": []
         },
         {
+          "code": "nl-nb-hlv",
+          "name": "hlv",
+          "regions": []
+        },
+        {
           "code": "nl-nb-htb",
           "name": "htb",
           "regions": []
@@ -550,6 +555,11 @@
         {
           "code": "nl-nb-smg",
           "name": "smg",
+          "regions": []
+        },
+        {
+          "code": "nl-nb-tlb",
+          "name": "tlb",
           "regions": []
         },
         {
