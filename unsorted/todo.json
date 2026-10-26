@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:59:15Z",
+  "generated_at": "2026-10-26T08:21:00Z",
   "buckets": {
     "a": [
       {
@@ -1009,6 +1009,16 @@
         "first_seen": "2026-06-14T04:31:20Z"
       },
       {
+        "raw": "de-ne-rkn-dmg",
+        "reason": "missing_parent:de-ne-rkn",
+        "first_seen": "2026-10-26T08:21:00Z"
+      },
+      {
+        "raw": "de-ne-rkn-gv",
+        "reason": "missing_parent:de-ne-rkn",
+        "first_seen": "2026-10-26T08:21:00Z"
+      },
+      {
         "raw": "de-nw-wesel-schepersfeld",
         "reason": "missing_parent:de-nw-wesel",
         "first_seen": "2026-10-10T09:15:59Z"
@@ -1402,6 +1412,11 @@
         "raw": "dk71",
         "reason": "no_root",
         "first_seen": "2026-07-10T06:36:56Z"
+      },
+      {
+        "raw": "dl",
+        "reason": "no_root",
+        "first_seen": "2026-10-26T08:21:00Z"
       },
       {
         "raw": "dl-mitte",

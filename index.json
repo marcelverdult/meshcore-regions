@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:59:15Z",
+  "generated_at": "2026-10-26T08:21:00Z",
   "tree": [
     {
       "code": "ad",
@@ -6091,6 +6091,17 @@
               "code": "de-nw-re",
               "name": "re",
               "regions": []
+            },
+            {
+              "code": "de-nw-rkn",
+              "name": "rkn",
+              "regions": [
+                {
+                  "code": "de-nw-rkn-ne",
+                  "name": "ne",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "de-nw-shg",
@@ -18639,6 +18650,14 @@
     {
       "path": "de-nw-re",
       "name": "re"
+    },
+    {
+      "path": "de-nw-rkn",
+      "name": "rkn"
+    },
+    {
+      "path": "de-nw-rkn-ne",
+      "name": "ne"
     },
     {
       "path": "de-nw-shg",
