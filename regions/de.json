@@ -2091,6 +2091,16 @@
           "name": "rkn",
           "regions": [
             {
+              "code": "de-nw-rkn-dmg",
+              "name": "dmg",
+              "regions": []
+            },
+            {
+              "code": "de-nw-rkn-gv",
+              "name": "gv",
+              "regions": []
+            },
+            {
               "code": "de-nw-rkn-ne",
               "name": "ne",
               "regions": []
