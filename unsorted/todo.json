@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T08:21:00Z",
+  "generated_at": "2026-10-27T08:32:37Z",
   "buckets": {
     "a": [
       {
@@ -253,6 +253,11 @@
         "raw": "bad-homburg",
         "reason": "no_root",
         "first_seen": "2026-09-08T07:39:14Z"
+      },
+      {
+        "raw": "baltic",
+        "reason": "no_root",
+        "first_seen": "2026-10-27T08:32:37Z"
       },
       {
         "raw": "balticmesh",
@@ -4320,6 +4325,16 @@
         "raw": "rp",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ru-ros-KSh",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-27T08:32:37Z"
+      },
+      {
+        "raw": "ru-ros-RnD",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-27T08:32:37Z"
       },
       {
         "raw": "ruebach",

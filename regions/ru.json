@@ -1,5 +1,17 @@
 {
   "code": "ru",
   "name": "Russia",
-  "regions": []
+  "regions": [
+    {
+      "code": "ru-ros",
+      "name": "ros",
+      "regions": [
+        {
+          "code": "ru-ros-rnd",
+          "name": "rnd",
+          "regions": []
+        }
+      ]
+    }
+  ]
 }

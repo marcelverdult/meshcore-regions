@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T08:21:00Z",
+  "generated_at": "2026-10-27T08:32:37Z",
   "tree": [
     {
       "code": "ad",
@@ -156,6 +156,11 @@
           "code": "at-ooe",
           "name": "ooe",
           "regions": [
+            {
+              "code": "at-ooe-br",
+              "name": "br",
+              "regions": []
+            },
             {
               "code": "at-ooe-fr",
               "name": "fr",
@@ -6097,6 +6102,16 @@
               "name": "rkn",
               "regions": [
                 {
+                  "code": "de-nw-rkn-dmg",
+                  "name": "dmg",
+                  "regions": []
+                },
+                {
+                  "code": "de-nw-rkn-gv",
+                  "name": "gv",
+                  "regions": []
+                },
+                {
                   "code": "de-nw-rkn-ne",
                   "name": "ne",
                   "regions": []
@@ -8861,6 +8876,11 @@
           "regions": []
         },
         {
+          "code": "lt-vl",
+          "name": "vl",
+          "regions": []
+        },
+        {
           "code": "plq",
           "name": "Vakarų Lietuva",
           "regions": []
@@ -11175,7 +11195,19 @@
     {
       "code": "ru",
       "name": "Russia",
-      "regions": []
+      "regions": [
+        {
+          "code": "ru-ros",
+          "name": "ros",
+          "regions": [
+            {
+              "code": "ru-ros-rnd",
+              "name": "rnd",
+              "regions": []
+            }
+          ]
+        }
+      ]
     },
     {
       "code": "rw",
@@ -13830,6 +13862,10 @@
     {
       "path": "at-ooe",
       "name": "ooe"
+    },
+    {
+      "path": "at-ooe-br",
+      "name": "br"
     },
     {
       "path": "at-ooe-fr",
@@ -18656,6 +18692,14 @@
       "name": "rkn"
     },
     {
+      "path": "de-nw-rkn-dmg",
+      "name": "dmg"
+    },
+    {
+      "path": "de-nw-rkn-gv",
+      "name": "gv"
+    },
+    {
       "path": "de-nw-rkn-ne",
       "name": "ne"
     },
@@ -21044,6 +21088,10 @@
       "name": "Lithuania"
     },
     {
+      "path": "lt-vl",
+      "name": "vl"
+    },
+    {
       "path": "lu",
       "name": "Luxembourg"
     },
@@ -23010,6 +23058,14 @@
     {
       "path": "ru",
       "name": "Russia"
+    },
+    {
+      "path": "ru-ros",
+      "name": "ros"
+    },
+    {
+      "path": "ru-ros-rnd",
+      "name": "rnd"
     },
     {
       "path": "ruhrgebiet",
