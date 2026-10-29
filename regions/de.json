@@ -1106,6 +1106,16 @@
       "regions": []
     },
     {
+      "code": "de-drb",
+      "name": "drb",
+      "regions": []
+    },
+    {
+      "code": "de-drg",
+      "name": "drg",
+      "regions": []
+    },
+    {
       "code": "de-dus",
       "name": "dus",
       "regions": []
@@ -2395,6 +2405,11 @@
         {
           "code": "de-sh-nms",
           "name": "nms",
+          "regions": []
+        },
+        {
+          "code": "de-sh-nord",
+          "name": "nord",
           "regions": []
         },
         {
