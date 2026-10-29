@@ -265,7 +265,13 @@
     {
       "code": "it-taa",
       "name": "Trentino-Alto Adige",
-      "regions": []
+      "regions": [
+        {
+          "code": "it-taa-bz",
+          "name": "bz",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "it-to",
