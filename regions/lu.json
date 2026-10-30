@@ -1,5 +1,11 @@
 {
   "code": "lu",
   "name": "Luxembourg",
-  "regions": []
+  "regions": [
+    {
+      "code": "lu-alert",
+      "name": "alert",
+      "regions": []
+    }
+  ]
 }

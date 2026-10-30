@@ -20,7 +20,13 @@
     {
       "code": "fr-07",
       "name": "07",
-      "regions": []
+      "regions": [
+        {
+          "code": "fr-07-26",
+          "name": "26",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "fr-13",
@@ -65,7 +71,13 @@
     {
       "code": "fr-26",
       "name": "26",
-      "regions": []
+      "regions": [
+        {
+          "code": "fr-26-07",
+          "name": "07",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "fr-29",

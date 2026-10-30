@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:10:56Z",
+  "generated_at": "2026-10-30T09:22:42Z",
   "buckets": {
     "a": [
       {
@@ -505,6 +505,11 @@
         "first_seen": "2026-07-21T05:42:27Z"
       },
       {
+        "raw": "bos-wnd",
+        "reason": "no_root",
+        "first_seen": "2026-10-30T09:22:42Z"
+      },
+      {
         "raw": "bot",
         "reason": "no_root",
         "first_seen": "2026-10-21T08:10:14Z"
@@ -528,6 +533,11 @@
         "raw": "bremen",
         "reason": "no_root",
         "first_seen": "2026-06-12T04:30:42Z"
+      },
+      {
+        "raw": "bremensh",
+        "reason": "no_root",
+        "first_seen": "2026-10-30T09:22:42Z"
       },
       {
         "raw": "brighton",
@@ -2850,6 +2860,11 @@
         "first_seen": "2026-08-21T08:10:45Z"
       },
       {
+        "raw": "lanzo",
+        "reason": "no_root",
+        "first_seen": "2026-10-30T09:22:42Z"
+      },
+      {
         "raw": "lar",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
@@ -4882,6 +4897,11 @@
         "raw": "su",
         "reason": "no_root",
         "first_seen": "2026-07-21T05:42:27Z"
+      },
+      {
+        "raw": "sud",
+        "reason": "no_root",
+        "first_seen": "2026-10-30T09:22:42Z"
       },
       {
         "raw": "suisse",
