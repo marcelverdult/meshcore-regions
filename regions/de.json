@@ -663,6 +663,11 @@
           "regions": []
         },
         {
+          "code": "de-by-enm",
+          "name": "enm",
+          "regions": []
+        },
+        {
           "code": "de-by-ffb",
           "name": "ffb",
           "regions": []
@@ -988,6 +993,11 @@
           "regions": []
         },
         {
+          "code": "de-by-piflas",
+          "name": "piflas",
+          "regions": []
+        },
+        {
           "code": "de-by-r",
           "name": "r",
           "regions": []
@@ -1273,6 +1283,11 @@
           "regions": []
         },
         {
+          "code": "de-he-fz",
+          "name": "fz",
+          "regions": []
+        },
+        {
           "code": "de-he-gi",
           "name": "gi",
           "regions": [
@@ -1286,6 +1301,11 @@
         {
           "code": "de-he-hef",
           "name": "hef",
+          "regions": []
+        },
+        {
+          "code": "de-he-hr",
+          "name": "hr",
           "regions": []
         },
         {
@@ -1327,6 +1347,11 @@
           "code": "de-he-vb",
           "name": "vb",
           "regions": [
+            {
+              "code": "de-he-vb-als",
+              "name": "als",
+              "regions": []
+            },
             {
               "code": "de-he-vb-lat",
               "name": "lat",
@@ -1383,6 +1408,11 @@
       ]
     },
     {
+      "code": "de-hn",
+      "name": "hn",
+      "regions": []
+    },
+    {
       "code": "de-hsk",
       "name": "hsk",
       "regions": []
@@ -1432,6 +1462,11 @@
     {
       "code": "de-laho",
       "name": "laho",
+      "regions": []
+    },
+    {
+      "code": "de-lb",
+      "name": "lb",
       "regions": []
     },
     {
