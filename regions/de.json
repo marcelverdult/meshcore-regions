@@ -183,6 +183,11 @@
           "regions": []
         },
         {
+          "code": "de-be-fr",
+          "name": "fr",
+          "regions": []
+        },
+        {
           "code": "de-be-gps",
           "name": "gps",
           "regions": []
@@ -2677,6 +2682,11 @@
         {
           "code": "de-st-de",
           "name": "de",
+          "regions": []
+        },
+        {
+          "code": "de-st-hal",
+          "name": "hal",
           "regions": []
         },
         {

@@ -168,6 +168,11 @@
           "regions": []
         },
         {
+          "code": "us-al-gul",
+          "name": "gul",
+          "regions": []
+        },
+        {
           "code": "us-al-mgm",
           "name": "Montgomery AL Mesh Region",
           "regions": []
