@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:22:42Z",
+  "generated_at": "2026-10-31T09:08:58Z",
   "buckets": {
     "a": [
       {
@@ -206,6 +206,11 @@
         "raw": "au-",
         "reason": "invalid_chars",
         "first_seen": "2026-09-17T08:16:09Z"
+      },
+      {
+        "raw": "au-nw-bhs",
+        "reason": "missing_parent:au-nw",
+        "first_seen": "2026-10-31T09:08:58Z"
       },
       {
         "raw": "aurich",
@@ -1062,6 +1067,16 @@
         "raw": "de-süd",
         "reason": "invalid_chars",
         "first_seen": "2026-10-13T09:56:02Z"
+      },
+      {
+        "raw": "de-th-slf-ru",
+        "reason": "missing_parent:de-th-slf",
+        "first_seen": "2026-10-31T09:08:58Z"
+      },
+      {
+        "raw": "de-th-slf-ru-cu",
+        "reason": "missing_parent:de-th-slf",
+        "first_seen": "2026-10-31T09:08:58Z"
       },
       {
         "raw": "de-wn-str",
@@ -5293,6 +5308,11 @@
         "first_seen": "2026-07-21T05:42:27Z"
       },
       {
+        "raw": "us~",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-31T09:08:58Z"
+      },
+      {
         "raw": "usa",
         "reason": "no_root",
         "first_seen": "2026-05-23T04:17:08Z"
@@ -5973,6 +5993,26 @@
         "raw": "AT",
         "reason": "invalid_chars",
         "first_seen": "2026-09-25T08:25:08Z"
+      },
+      {
+        "raw": "AT-BGLD",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-31T09:08:58Z"
+      },
+      {
+        "raw": "AT-NOE",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-31T09:08:58Z"
+      },
+      {
+        "raw": "AT-STMK",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-31T09:08:58Z"
+      },
+      {
+        "raw": "AT-W",
+        "reason": "invalid_chars",
+        "first_seen": "2026-10-31T09:08:58Z"
       },
       {
         "raw": "BALTIC",

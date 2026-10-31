@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:22:42Z",
+  "generated_at": "2026-10-31T09:08:58Z",
   "tree": [
     {
       "code": "ad",
@@ -4194,6 +4194,11 @@
               "regions": []
             },
             {
+              "code": "de-be-fr",
+              "name": "fr",
+              "regions": []
+            },
+            {
               "code": "de-be-gps",
               "name": "gps",
               "regions": []
@@ -6688,6 +6693,11 @@
             {
               "code": "de-st-de",
               "name": "de",
+              "regions": []
+            },
+            {
+              "code": "de-st-hal",
+              "name": "hal",
               "regions": []
             },
             {
@@ -11968,6 +11978,11 @@
             {
               "code": "us-al-guf",
               "name": "Gulf Shores AL Mesh Region",
+              "regions": []
+            },
+            {
+              "code": "us-al-gul",
+              "name": "gul",
               "regions": []
             },
             {
@@ -17351,6 +17366,10 @@
       "name": "bb"
     },
     {
+      "path": "de-be-fr",
+      "name": "fr"
+    },
+    {
       "path": "de-be-gps",
       "name": "gps"
     },
@@ -19229,6 +19248,10 @@
     {
       "path": "de-st-de",
       "name": "de"
+    },
+    {
+      "path": "de-st-hal",
+      "name": "hal"
     },
     {
       "path": "de-st-hbs",
@@ -24053,6 +24076,10 @@
     {
       "path": "us-al-guf",
       "name": "Gulf Shores AL Mesh Region"
+    },
+    {
+      "path": "us-al-gul",
+      "name": "gul"
     },
     {
       "path": "us-al-mgm",
