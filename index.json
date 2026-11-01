@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:08:58Z",
+  "generated_at": "2026-11-01T09:56:22Z",
   "tree": [
     {
       "code": "ad",
@@ -4416,6 +4416,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-obk",
+              "name": "obk",
+              "regions": []
+            },
+            {
               "code": "de-bw-og",
               "name": "Offenburg / Ortenau",
               "regions": []
@@ -5929,7 +5934,13 @@
         {
           "code": "de-nl",
           "name": "nl",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-nl-lip",
+              "name": "lip",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-nom",
@@ -6718,6 +6729,11 @@
             {
               "code": "de-st-saw",
               "name": "saw",
+              "regions": []
+            },
+            {
+              "code": "de-st-sk",
+              "name": "sk",
               "regions": []
             },
             {
@@ -17542,6 +17558,10 @@
       "name": "Müllheim"
     },
     {
+      "path": "de-bw-obk",
+      "name": "obk"
+    },
+    {
       "path": "de-bw-og",
       "name": "Offenburg / Ortenau"
     },
@@ -18678,6 +18698,10 @@
       "name": "nl"
     },
     {
+      "path": "de-nl-lip",
+      "name": "lip"
+    },
+    {
       "path": "de-nom",
       "name": "nom"
     },
@@ -19268,6 +19292,10 @@
     {
       "path": "de-st-saw",
       "name": "saw"
+    },
+    {
+      "path": "de-st-sk",
+      "name": "sk"
     },
     {
       "path": "de-str",

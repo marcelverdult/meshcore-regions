@@ -405,6 +405,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-obk",
+          "name": "obk",
+          "regions": []
+        },
+        {
           "code": "de-bw-og",
           "name": "Offenburg / Ortenau",
           "regions": []
@@ -1918,7 +1923,13 @@
     {
       "code": "de-nl",
       "name": "nl",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-nl-lip",
+          "name": "lip",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-nom",
@@ -2707,6 +2718,11 @@
         {
           "code": "de-st-saw",
           "name": "saw",
+          "regions": []
+        },
+        {
+          "code": "de-st-sk",
+          "name": "sk",
           "regions": []
         },
         {
