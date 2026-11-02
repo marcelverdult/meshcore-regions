@@ -3,6 +3,11 @@
   "name": "Switzerland",
   "regions": [
     {
+      "code": "ch-ag",
+      "name": "ag",
+      "regions": []
+    },
+    {
       "code": "ch-be",
       "name": "be",
       "regions": []
