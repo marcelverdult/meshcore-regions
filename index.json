@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:56:22Z",
+  "generated_at": "2026-11-02T10:23:47Z",
   "tree": [
     {
       "code": "ad",
@@ -3761,6 +3761,11 @@
       "name": "Switzerland",
       "regions": [
         {
+          "code": "ch-ag",
+          "name": "ag",
+          "regions": []
+        },
+        {
           "code": "ch-be",
           "name": "be",
           "regions": []
@@ -5044,6 +5049,11 @@
               "regions": []
             },
             {
+              "code": "de-by-sta",
+              "name": "sta",
+              "regions": []
+            },
+            {
               "code": "de-by-sued",
               "name": "sued",
               "regions": []
@@ -5826,6 +5836,11 @@
             {
               "code": "de-ni-os",
               "name": "Stadt und Landkreis Osnabrück",
+              "regions": []
+            },
+            {
+              "code": "de-ni-pe",
+              "name": "pe",
               "regions": []
             },
             {
@@ -9718,6 +9733,11 @@
         {
           "code": "nl-mdm",
           "name": "mdm",
+          "regions": []
+        },
+        {
+          "code": "nl-mst",
+          "name": "mst",
           "regions": []
         },
         {
@@ -16970,6 +16990,10 @@
       "name": "Switzerland"
     },
     {
+      "path": "ch-ag",
+      "name": "ag"
+    },
+    {
       "path": "ch-be",
       "name": "be"
     },
@@ -18038,6 +18062,10 @@
       "name": "Stadt und Landkreis Straubing-Bogen"
     },
     {
+      "path": "de-by-sta",
+      "name": "sta"
+    },
+    {
       "path": "de-by-sued",
       "name": "sued"
     },
@@ -18636,6 +18664,10 @@
     {
       "path": "de-ni-os",
       "name": "Stadt und Landkreis Osnabrück"
+    },
+    {
+      "path": "de-ni-pe",
+      "name": "pe"
     },
     {
       "path": "de-ni-ri",
@@ -21980,6 +22012,10 @@
     {
       "path": "nl-mdm",
       "name": "mdm"
+    },
+    {
+      "path": "nl-mst",
+      "name": "mst"
     },
     {
       "path": "nl-naa",

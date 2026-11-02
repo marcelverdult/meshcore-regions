@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:56:22Z",
+  "generated_at": "2026-11-02T10:23:47Z",
   "buckets": {
     "a": [
       {
@@ -5340,6 +5340,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "varese",
+        "reason": "no_root",
+        "first_seen": "2026-11-02T10:23:47Z"
+      },
+      {
         "raw": "vd",
         "reason": "no_root",
         "first_seen": "2026-08-18T03:37:37Z"
@@ -5348,6 +5353,11 @@
         "raw": "veneto",
         "reason": "no_root",
         "first_seen": "2026-07-21T05:42:27Z"
+      },
+      {
+        "raw": "verbania",
+        "reason": "no_root",
+        "first_seen": "2026-11-02T10:23:47Z"
       },
       {
         "raw": "vie",

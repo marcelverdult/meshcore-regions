@@ -1033,6 +1033,11 @@
           "regions": []
         },
         {
+          "code": "de-by-sta",
+          "name": "sta",
+          "regions": []
+        },
+        {
           "code": "de-by-sued",
           "name": "sued",
           "regions": []
@@ -1815,6 +1820,11 @@
         {
           "code": "de-ni-os",
           "name": "Stadt und Landkreis Osnabrück",
+          "regions": []
+        },
+        {
+          "code": "de-ni-pe",
+          "name": "pe",
           "regions": []
         },
         {
