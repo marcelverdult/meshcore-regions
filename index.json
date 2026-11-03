@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:23:47Z",
+  "generated_at": "2026-11-03T10:21:38Z",
   "tree": [
     {
       "code": "ad",
@@ -4635,6 +4635,11 @@
             {
               "code": "de-by-aux",
               "name": "aux",
+              "regions": []
+            },
+            {
+              "code": "de-by-bg",
+              "name": "bg",
               "regions": []
             },
             {
@@ -17736,6 +17741,10 @@
     {
       "path": "de-by-aux",
       "name": "aux"
+    },
+    {
+      "path": "de-by-bg",
+      "name": "bg"
     },
     {
       "path": "de-by-bw",

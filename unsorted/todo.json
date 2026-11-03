@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:23:47Z",
+  "generated_at": "2026-11-03T10:21:38Z",
   "buckets": {
     "a": [
       {
@@ -186,6 +186,11 @@
         "raw": "ashville-nc",
         "reason": "no_root",
         "first_seen": "2026-09-12T07:32:02Z"
+      },
+      {
+        "raw": "asturias",
+        "reason": "no_root",
+        "first_seen": "2026-11-03T10:21:38Z"
       },
       {
         "raw": "atl",
@@ -3464,6 +3469,11 @@
         "first_seen": "2026-09-20T08:10:07Z"
       },
       {
+        "raw": "nordest",
+        "reason": "no_root",
+        "first_seen": "2026-11-03T10:21:38Z"
+      },
+      {
         "raw": "nordharz",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -5622,6 +5632,11 @@
         "first_seen": "2026-08-24T03:47:32Z"
       },
       {
+        "raw": "weyemesh",
+        "reason": "no_root",
+        "first_seen": "2026-11-03T10:21:38Z"
+      },
+      {
         "raw": "weyhe",
         "reason": "no_root",
         "first_seen": "2026-08-31T09:09:53Z"
@@ -6285,6 +6300,11 @@
         "first_seen": "2026-09-25T08:25:08Z"
       },
       {
+        "raw": "Nw",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-03T10:21:38Z"
+      },
+      {
         "raw": "NW",
         "reason": "invalid_chars",
         "first_seen": "2026-09-29T09:21:04Z"
@@ -6313,6 +6333,11 @@
         "raw": "PL",
         "reason": "invalid_chars",
         "first_seen": "2026-09-25T08:25:08Z"
+      },
+      {
+        "raw": "Rheinland",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-03T10:21:38Z"
       },
       {
         "raw": "Ruhrgebiet",
