@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:21:38Z",
+  "generated_at": "2026-11-05T10:08:54Z",
   "tree": [
     {
       "code": "ad",
@@ -130,6 +130,11 @@
           "code": "at-noe",
           "name": "noe",
           "regions": [
+            {
+              "code": "at-noe-bn",
+              "name": "bn",
+              "regions": []
+            },
             {
               "code": "at-noe-me",
               "name": "me",
@@ -3667,6 +3672,11 @@
           "regions": []
         },
         {
+          "code": "by-muc",
+          "name": "muc",
+          "regions": []
+        },
+        {
           "code": "gomel",
           "name": "Gomel",
           "regions": []
@@ -5083,8 +5093,18 @@
               "name": "Unterfranken",
               "regions": [
                 {
+                  "code": "de-by-ufr-has",
+                  "name": "has",
+                  "regions": []
+                },
+                {
                   "code": "de-by-ufr-kt",
                   "name": "kt",
+                  "regions": []
+                },
+                {
+                  "code": "de-by-ufr-msp",
+                  "name": "msp",
                   "regions": []
                 },
                 {
@@ -7989,6 +8009,11 @@
           ]
         },
         {
+          "code": "fr-be",
+          "name": "be",
+          "regions": []
+        },
+        {
           "code": "fr-bfc",
           "name": "bfc",
           "regions": []
@@ -9351,6 +9376,11 @@
             {
               "code": "nl-dr-mdd",
               "name": "mdd",
+              "regions": []
+            },
+            {
+              "code": "nl-dr-mep",
+              "name": "mep",
               "regions": []
             },
             {
@@ -13999,6 +14029,10 @@
       "name": "noe"
     },
     {
+      "path": "at-noe-bn",
+      "name": "bn"
+    },
+    {
       "path": "at-noe-me",
       "name": "me"
     },
@@ -16911,6 +16945,10 @@
       "name": "Belarus"
     },
     {
+      "path": "by-muc",
+      "name": "muc"
+    },
+    {
       "path": "bz",
       "name": "Belize"
     },
@@ -18095,8 +18133,16 @@
       "name": "Unterfranken"
     },
     {
+      "path": "de-by-ufr-has",
+      "name": "has"
+    },
+    {
       "path": "de-by-ufr-kt",
       "name": "kt"
+    },
+    {
+      "path": "de-by-ufr-msp",
+      "name": "msp"
     },
     {
       "path": "de-by-ufr-sw",
@@ -20371,6 +20417,10 @@
       "name": "xbk"
     },
     {
+      "path": "fr-be",
+      "name": "be"
+    },
+    {
       "path": "fr-bfc",
       "name": "bfc"
     },
@@ -21717,6 +21767,10 @@
     {
       "path": "nl-dr-mdd",
       "name": "mdd"
+    },
+    {
+      "path": "nl-dr-mep",
+      "name": "mep"
     },
     {
       "path": "nl-dr-nb3",
