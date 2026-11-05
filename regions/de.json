@@ -1067,8 +1067,18 @@
           "name": "Unterfranken",
           "regions": [
             {
+              "code": "de-by-ufr-has",
+              "name": "has",
+              "regions": []
+            },
+            {
               "code": "de-by-ufr-kt",
               "name": "kt",
+              "regions": []
+            },
+            {
+              "code": "de-by-ufr-msp",
+              "name": "msp",
               "regions": []
             },
             {
