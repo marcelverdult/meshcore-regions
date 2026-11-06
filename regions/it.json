@@ -153,6 +153,11 @@
           "regions": []
         },
         {
+          "code": "it-lom-pie",
+          "name": "pie",
+          "regions": []
+        },
+        {
           "code": "it-lom-pv",
           "name": "pv",
           "regions": []
@@ -227,11 +232,22 @@
         {
           "code": "it-pie-to",
           "name": "Torino",
-          "regions": []
+          "regions": [
+            {
+              "code": "it-pie-to-perrero",
+              "name": "perrero",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "it-pie-vb",
           "name": "vb",
+          "regions": []
+        },
+        {
+          "code": "it-pie-vc",
+          "name": "vc",
           "regions": []
         },
         {

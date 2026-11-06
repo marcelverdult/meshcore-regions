@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:08:54Z",
+  "generated_at": "2026-11-06T10:13:25Z",
   "buckets": {
     "a": [
       {
@@ -1037,11 +1037,6 @@
         "raw": "de-mv-rüg",
         "reason": "invalid_chars",
         "first_seen": "2026-10-24T07:47:38Z"
-      },
-      {
-        "raw": "de-nds-lkos",
-        "reason": "missing_parent:de-nds",
-        "first_seen": "2026-06-14T04:31:20Z"
       },
       {
         "raw": "de-ne-rkn-dmg",
@@ -4469,6 +4464,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "saarloroux",
+        "reason": "no_root",
+        "first_seen": "2026-11-06T10:13:25Z"
+      },
+      {
         "raw": "saarlouis",
         "reason": "no_root",
         "first_seen": "2026-06-02T04:30:54Z"
@@ -4922,6 +4922,11 @@
         "raw": "stoon",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "stormarn",
+        "reason": "no_root",
+        "first_seen": "2026-11-06T10:13:25Z"
       },
       {
         "raw": "str",

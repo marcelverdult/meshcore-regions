@@ -1079,6 +1079,11 @@
           "regions": []
         },
         {
+          "code": "nl-zh-moo",
+          "name": "moo",
+          "regions": []
+        },
+        {
           "code": "nl-zh-ndp",
           "name": "ndp",
           "regions": []
@@ -1106,6 +1111,11 @@
         {
           "code": "nl-zh-wss",
           "name": "wss",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-zdp",
+          "name": "zdp",
           "regions": []
         },
         {

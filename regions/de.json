@@ -1438,6 +1438,11 @@
       ]
     },
     {
+      "code": "de-hi",
+      "name": "hi",
+      "regions": []
+    },
+    {
       "code": "de-hn",
       "name": "hn",
       "regions": []
@@ -1632,6 +1637,17 @@
         {
           "code": "de-mv-vr",
           "name": "vr",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "de-nds",
+      "name": "nds",
+      "regions": [
+        {
+          "code": "de-nds-lkos",
+          "name": "lkos",
           "regions": []
         }
       ]

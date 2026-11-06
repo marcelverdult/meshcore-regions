@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:08:54Z",
+  "generated_at": "2026-11-06T10:13:25Z",
   "tree": [
     {
       "code": "ad",
@@ -3793,7 +3793,13 @@
         {
           "code": "ch-fr",
           "name": "fr",
-          "regions": []
+          "regions": [
+            {
+              "code": "ch-fr-ju",
+              "name": "ju",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "ch-ge",
@@ -5464,6 +5470,11 @@
           ]
         },
         {
+          "code": "de-hi",
+          "name": "hi",
+          "regions": []
+        },
+        {
           "code": "de-hn",
           "name": "hn",
           "regions": []
@@ -5658,6 +5669,17 @@
             {
               "code": "de-mv-vr",
               "name": "vr",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "de-nds",
+          "name": "nds",
+          "regions": [
+            {
+              "code": "de-nds-lkos",
+              "name": "lkos",
               "regions": []
             }
           ]
@@ -8732,6 +8754,11 @@
               "regions": []
             },
             {
+              "code": "it-lom-pie",
+              "name": "pie",
+              "regions": []
+            },
+            {
               "code": "it-lom-pv",
               "name": "pv",
               "regions": []
@@ -8806,11 +8833,22 @@
             {
               "code": "it-pie-to",
               "name": "Torino",
-              "regions": []
+              "regions": [
+                {
+                  "code": "it-pie-to-perrero",
+                  "name": "perrero",
+                  "regions": []
+                }
+              ]
             },
             {
               "code": "it-pie-vb",
               "name": "vb",
+              "regions": []
+            },
+            {
+              "code": "it-pie-vc",
+              "name": "vc",
               "regions": []
             },
             {
@@ -10306,6 +10344,11 @@
               "regions": []
             },
             {
+              "code": "nl-zh-moo",
+              "name": "moo",
+              "regions": []
+            },
+            {
               "code": "nl-zh-ndp",
               "name": "ndp",
               "regions": []
@@ -10333,6 +10376,11 @@
             {
               "code": "nl-zh-wss",
               "name": "wss",
+              "regions": []
+            },
+            {
+              "code": "nl-zh-zdp",
+              "name": "zdp",
               "regions": []
             },
             {
@@ -17053,6 +17101,10 @@
       "name": "fr"
     },
     {
+      "path": "ch-fr-ju",
+      "name": "ju"
+    },
+    {
       "path": "ch-ge",
       "name": "ge"
     },
@@ -18413,6 +18465,10 @@
       "name": "la"
     },
     {
+      "path": "de-hi",
+      "name": "hi"
+    },
+    {
       "path": "de-hn",
       "name": "hn"
     },
@@ -18567,6 +18623,14 @@
     {
       "path": "de-mv-vr",
       "name": "vr"
+    },
+    {
+      "path": "de-nds",
+      "name": "nds"
+    },
+    {
+      "path": "de-nds-lkos",
+      "name": "lkos"
     },
     {
       "path": "de-ne",
@@ -21061,6 +21125,10 @@
       "name": "Milano"
     },
     {
+      "path": "it-lom-pie",
+      "name": "pie"
+    },
+    {
       "path": "it-lom-pv",
       "name": "pv"
     },
@@ -21121,8 +21189,16 @@
       "name": "Torino"
     },
     {
+      "path": "it-pie-to-perrero",
+      "name": "perrero"
+    },
+    {
       "path": "it-pie-vb",
       "name": "vb"
+    },
+    {
+      "path": "it-pie-vc",
+      "name": "vc"
     },
     {
       "path": "it-pie-ver",
@@ -22501,6 +22577,10 @@
       "name": "lsv"
     },
     {
+      "path": "nl-zh-moo",
+      "name": "moo"
+    },
+    {
       "path": "nl-zh-ndp",
       "name": "ndp"
     },
@@ -22523,6 +22603,10 @@
     {
       "path": "nl-zh-wss",
       "name": "wss"
+    },
+    {
+      "path": "nl-zh-zdp",
+      "name": "zdp"
     },
     {
       "path": "nl-zh-ztm",
