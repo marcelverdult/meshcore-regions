@@ -25,7 +25,13 @@
     {
       "code": "ch-fr",
       "name": "fr",
-      "regions": []
+      "regions": [
+        {
+          "code": "ch-fr-ju",
+          "name": "ju",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "ch-ge",
