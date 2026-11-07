@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:13:25Z",
+  "generated_at": "2026-11-07T09:29:24Z",
   "buckets": {
     "a": [
       {
@@ -5806,6 +5806,11 @@
     ],
     "y": [
       {
+        "raw": "yakima-co",
+        "reason": "no_root",
+        "first_seen": "2026-11-07T09:29:24Z"
+      },
+      {
         "raw": "ycd",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
@@ -6093,6 +6098,16 @@
         "raw": "DE",
         "reason": "invalid_chars",
         "first_seen": "2026-09-25T08:25:08Z"
+      },
+      {
+        "raw": "DE-BY",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-07T09:29:24Z"
+      },
+      {
+        "raw": "DE-BY-MFR",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-07T09:29:24Z"
       },
       {
         "raw": "DE-BY-MM",
