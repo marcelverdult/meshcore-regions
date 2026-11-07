@@ -208,6 +208,11 @@
           "regions": []
         },
         {
+          "code": "de-be-th",
+          "name": "th",
+          "regions": []
+        },
+        {
           "code": "de-be-ulm",
           "name": "ulm",
           "regions": []
@@ -2629,6 +2634,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-sn-de",
+          "name": "de",
+          "regions": []
         },
         {
           "code": "de-sn-dresden",
