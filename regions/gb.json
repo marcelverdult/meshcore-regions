@@ -14,6 +14,11 @@
       ]
     },
     {
+      "code": "gb-berks",
+      "name": "berks",
+      "regions": []
+    },
+    {
       "code": "gb-bkm",
       "name": "bkm",
       "regions": []
@@ -26,6 +31,11 @@
     {
       "code": "gb-eb-nw",
       "name": "nw",
+      "regions": []
+    },
+    {
+      "code": "gb-en",
+      "name": "en",
       "regions": []
     },
     {
@@ -78,6 +88,11 @@
     {
       "code": "gb-lon",
       "name": "lon",
+      "regions": []
+    },
+    {
+      "code": "gb-london",
+      "name": "london",
       "regions": []
     },
     {
