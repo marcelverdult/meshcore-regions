@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:29:24Z",
+  "generated_at": "2026-11-08T09:45:18Z",
   "buckets": {
     "a": [
       {
@@ -883,11 +883,6 @@
       },
       {
         "raw": "cys",
-        "reason": "no_root",
-        "first_seen": "2026-08-07T14:55:38Z"
-      },
-      {
-        "raw": "cz-sudety",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
       },
@@ -3315,6 +3310,11 @@
         "raw": "molfsee",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "monschau",
+        "reason": "no_root",
+        "first_seen": "2026-11-08T09:45:18Z"
       },
       {
         "raw": "mosel",
@@ -6065,6 +6065,11 @@
         "first_seen": "2026-10-31T09:08:58Z"
       },
       {
+        "raw": "Bad_Iburg",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-08T09:45:18Z"
+      },
+      {
         "raw": "BALTIC",
         "reason": "invalid_chars",
         "first_seen": "2026-10-19T18:42:34Z"
@@ -6098,6 +6103,11 @@
         "raw": "DE",
         "reason": "invalid_chars",
         "first_seen": "2026-09-25T08:25:08Z"
+      },
+      {
+        "raw": "DE-BW",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-08T09:45:18Z"
       },
       {
         "raw": "DE-BY",
