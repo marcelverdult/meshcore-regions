@@ -1166,6 +1166,11 @@
       "regions": []
     },
     {
+      "code": "de-dx",
+      "name": "dx",
+      "regions": []
+    },
+    {
       "code": "de-eic",
       "name": "eic",
       "regions": []
@@ -2718,6 +2723,11 @@
         {
           "code": "de-sn-vvo",
           "name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)",
+          "regions": []
+        },
+        {
+          "code": "de-sn-z",
+          "name": "z",
           "regions": []
         },
         {

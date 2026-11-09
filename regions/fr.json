@@ -150,6 +150,11 @@
       "regions": []
     },
     {
+      "code": "fr-49",
+      "name": "49",
+      "regions": []
+    },
+    {
       "code": "fr-54",
       "name": "54",
       "regions": []
@@ -241,6 +246,11 @@
       "regions": []
     },
     {
+      "code": "fr-79",
+      "name": "79",
+      "regions": []
+    },
+    {
       "code": "fr-83",
       "name": "83",
       "regions": [
@@ -254,6 +264,11 @@
     {
       "code": "fr-84",
       "name": "84",
+      "regions": []
+    },
+    {
+      "code": "fr-85",
+      "name": "85",
       "regions": []
     },
     {
