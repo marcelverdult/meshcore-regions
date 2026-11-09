@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:45:18Z",
+  "generated_at": "2026-11-09T10:44:18Z",
   "buckets": {
     "a": [
       {
@@ -3277,6 +3277,11 @@
         "first_seen": "2026-10-10T09:15:59Z"
       },
       {
+        "raw": "mittelfranken",
+        "reason": "no_root",
+        "first_seen": "2026-11-09T10:44:18Z"
+      },
+      {
         "raw": "mj",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
@@ -3824,6 +3829,11 @@
         "raw": "osnabrueck",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "ossola01",
+        "reason": "no_root",
+        "first_seen": "2026-11-09T10:44:18Z"
       },
       {
         "raw": "ost",
@@ -5311,6 +5321,11 @@
         "raw": "ukk",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "ulrichstein",
+        "reason": "no_root",
+        "first_seen": "2026-11-09T10:44:18Z"
       },
       {
         "raw": "unna",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:45:18Z",
+  "generated_at": "2026-11-09T10:44:18Z",
   "tree": [
     {
       "code": "ad",
@@ -5203,6 +5203,11 @@
           "regions": []
         },
         {
+          "code": "de-dx",
+          "name": "dx",
+          "regions": []
+        },
+        {
           "code": "de-eic",
           "name": "eic",
           "regions": []
@@ -6758,6 +6763,11 @@
               "regions": []
             },
             {
+              "code": "de-sn-z",
+              "name": "z",
+              "regions": []
+            },
+            {
               "code": "de-sn-zi",
               "name": "zi",
               "regions": []
@@ -7888,6 +7898,11 @@
           "regions": []
         },
         {
+          "code": "fr-49",
+          "name": "49",
+          "regions": []
+        },
+        {
           "code": "fr-54",
           "name": "54",
           "regions": []
@@ -7979,6 +7994,11 @@
           "regions": []
         },
         {
+          "code": "fr-79",
+          "name": "79",
+          "regions": []
+        },
+        {
           "code": "fr-83",
           "name": "83",
           "regions": [
@@ -7992,6 +8012,11 @@
         {
           "code": "fr-84",
           "name": "84",
+          "regions": []
+        },
+        {
+          "code": "fr-85",
+          "name": "85",
           "regions": []
         },
         {
@@ -18296,6 +18321,10 @@
       "name": "dus"
     },
     {
+      "path": "de-dx",
+      "name": "dx"
+    },
+    {
       "path": "de-eic",
       "name": "eic"
     },
@@ -19452,6 +19481,10 @@
       "name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)"
     },
     {
+      "path": "de-sn-z",
+      "name": "z"
+    },
+    {
       "path": "de-sn-zi",
       "name": "zi"
     },
@@ -20388,6 +20421,10 @@
       "name": "48"
     },
     {
+      "path": "fr-49",
+      "name": "49"
+    },
+    {
       "path": "fr-54",
       "name": "54"
     },
@@ -20460,12 +20497,20 @@
       "name": "78"
     },
     {
+      "path": "fr-79",
+      "name": "79"
+    },
+    {
       "path": "fr-83",
       "name": "83"
     },
     {
       "path": "fr-84",
       "name": "84"
+    },
+    {
+      "path": "fr-85",
+      "name": "85"
     },
     {
       "path": "fr-91",
