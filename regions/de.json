@@ -642,6 +642,11 @@
           "regions": []
         },
         {
+          "code": "de-by-co",
+          "name": "co",
+          "regions": []
+        },
+        {
           "code": "de-by-da",
           "name": "da",
           "regions": []
@@ -753,6 +758,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-by-kc",
+          "name": "kc",
+          "regions": []
         },
         {
           "code": "de-by-kg",
