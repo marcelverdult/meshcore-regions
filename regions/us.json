@@ -402,6 +402,11 @@
       "regions": []
     },
     {
+      "code": "us-gso",
+      "name": "gso",
+      "regions": []
+    },
+    {
       "code": "us-ky",
       "name": "Kentucky",
       "regions": []
@@ -522,6 +527,11 @@
     {
       "code": "us-pa",
       "name": "pa",
+      "regions": []
+    },
+    {
+      "code": "us-rdu",
+      "name": "rdu",
       "regions": []
     },
     {

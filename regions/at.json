@@ -239,6 +239,11 @@
       "name": "w",
       "regions": [
         {
+          "code": "at-w-1220",
+          "name": "1220",
+          "regions": []
+        },
+        {
           "code": "at-w-w",
           "name": "w",
           "regions": []
