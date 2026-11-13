@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:31:01Z",
+  "generated_at": "2026-11-13T10:24:21Z",
   "buckets": {
     "a": [
       {
@@ -1082,6 +1082,11 @@
         "raw": "de-th-slf-ru-cu",
         "reason": "missing_parent:de-th-slf",
         "first_seen": "2026-10-31T09:08:58Z"
+      },
+      {
+        "raw": "de-upper-rhine",
+        "reason": "missing_parent:de-upper",
+        "first_seen": "2026-11-13T10:24:21Z"
       },
       {
         "raw": "de-wn-str",
@@ -6200,6 +6205,11 @@
         "first_seen": "2026-10-11T09:32:59Z"
       },
       {
+        "raw": "DE-RP-Kilo39",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-13T10:24:21Z"
+      },
+      {
         "raw": "De-West",
         "reason": "invalid_chars",
         "first_seen": "2026-10-04T09:11:49Z"
@@ -6378,6 +6388,11 @@
         "raw": "NCE",
         "reason": "invalid_chars",
         "first_seen": "2026-09-05T07:16:15Z"
+      },
+      {
+        "raw": "NCR",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-13T10:24:21Z"
       },
       {
         "raw": "NRN",

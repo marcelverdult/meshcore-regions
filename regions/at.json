@@ -5,7 +5,13 @@
     {
       "code": "at-bgld",
       "name": "bgld",
-      "regions": []
+      "regions": [
+        {
+          "code": "at-bgld-op",
+          "name": "op",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "at-bl",
@@ -75,6 +81,11 @@
         {
           "code": "at-noe-bn",
           "name": "bn",
+          "regions": []
+        },
+        {
+          "code": "at-noe-md",
+          "name": "md",
           "regions": []
         },
         {
