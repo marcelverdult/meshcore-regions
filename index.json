@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:31:01Z",
+  "generated_at": "2026-11-13T10:24:21Z",
   "tree": [
     {
       "code": "ad",
@@ -63,7 +63,13 @@
         {
           "code": "at-bgld",
           "name": "bgld",
-          "regions": []
+          "regions": [
+            {
+              "code": "at-bgld-op",
+              "name": "op",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "at-bl",
@@ -133,6 +139,11 @@
             {
               "code": "at-noe-bn",
               "name": "bn",
+              "regions": []
+            },
+            {
+              "code": "at-noe-md",
+              "name": "md",
               "regions": []
             },
             {
@@ -5445,8 +5456,18 @@
                   "regions": []
                 },
                 {
+                  "code": "de-he-vb-grb",
+                  "name": "grb",
+                  "regions": []
+                },
+                {
                   "code": "de-he-vb-lat",
                   "name": "lat",
+                  "regions": []
+                },
+                {
+                  "code": "de-he-vb-swt",
+                  "name": "swt",
                   "regions": []
                 }
               ]
@@ -6476,6 +6497,11 @@
               "regions": []
             },
             {
+              "code": "de-rp-kus",
+              "name": "kus",
+              "regions": []
+            },
+            {
               "code": "de-rp-sp",
               "name": "sp",
               "regions": []
@@ -6627,6 +6653,11 @@
                   "regions": []
                 }
               ]
+            },
+            {
+              "code": "de-sh-rz",
+              "name": "rz",
+              "regions": []
             },
             {
               "code": "de-sh-se",
@@ -12509,6 +12540,11 @@
               "regions": []
             },
             {
+              "code": "us-ms-n",
+              "name": "n",
+              "regions": []
+            },
+            {
               "code": "us-ms-ne",
               "name": "NE MS Mesh Region",
               "regions": []
@@ -14115,6 +14151,10 @@
       "name": "bgld"
     },
     {
+      "path": "at-bgld-op",
+      "name": "op"
+    },
+    {
       "path": "at-bl",
       "name": "bl"
     },
@@ -14169,6 +14209,10 @@
     {
       "path": "at-noe-bn",
       "name": "bn"
+    },
+    {
+      "path": "at-noe-md",
+      "name": "md"
     },
     {
       "path": "at-noe-me",
@@ -18543,8 +18587,16 @@
       "name": "als"
     },
     {
+      "path": "de-he-vb-grb",
+      "name": "grb"
+    },
+    {
       "path": "de-he-vb-lat",
       "name": "lat"
+    },
+    {
+      "path": "de-he-vb-swt",
+      "name": "swt"
     },
     {
       "path": "de-he-wmk",
@@ -19291,6 +19343,10 @@
       "name": "koblenz"
     },
     {
+      "path": "de-rp-kus",
+      "name": "kus"
+    },
+    {
       "path": "de-rp-sp",
       "name": "sp"
     },
@@ -19405,6 +19461,10 @@
     {
       "path": "de-sh-rdeck-eck",
       "name": "eck"
+    },
+    {
+      "path": "de-sh-rz",
+      "name": "rz"
     },
     {
       "path": "de-sh-se",
@@ -24661,6 +24721,10 @@
     {
       "path": "us-ms-jan",
       "name": "Jackson MS Mesh Region"
+    },
+    {
+      "path": "us-ms-n",
+      "name": "n"
     },
     {
       "path": "us-ms-ne",

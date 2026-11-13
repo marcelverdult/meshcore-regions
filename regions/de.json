@@ -1403,8 +1403,18 @@
               "regions": []
             },
             {
+              "code": "de-he-vb-grb",
+              "name": "grb",
+              "regions": []
+            },
+            {
               "code": "de-he-vb-lat",
               "name": "lat",
+              "regions": []
+            },
+            {
+              "code": "de-he-vb-swt",
+              "name": "swt",
               "regions": []
             }
           ]
@@ -2434,6 +2444,11 @@
           "regions": []
         },
         {
+          "code": "de-rp-kus",
+          "name": "kus",
+          "regions": []
+        },
+        {
           "code": "de-rp-sp",
           "name": "sp",
           "regions": []
@@ -2585,6 +2600,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-sh-rz",
+          "name": "rz",
+          "regions": []
         },
         {
           "code": "de-sh-se",
