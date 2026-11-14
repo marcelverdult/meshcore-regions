@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:24:21Z",
+  "generated_at": "2026-11-14T09:41:34Z",
   "buckets": {
     "a": [
       {
@@ -1429,6 +1429,11 @@
         "first_seen": "2026-05-30T04:22:12Z"
       },
       {
+        "raw": "dk590",
+        "reason": "no_root",
+        "first_seen": "2026-11-14T09:41:34Z"
+      },
+      {
         "raw": "dk5900",
         "reason": "no_root",
         "first_seen": "2026-05-31T04:30:27Z"
@@ -2101,6 +2106,21 @@
         "raw": "fmo",
         "reason": "no_root",
         "first_seen": "2026-09-17T08:16:09Z"
+      },
+      {
+        "raw": "fr-reserved-1",
+        "reason": "missing_parent:fr-reserved",
+        "first_seen": "2026-11-14T09:41:34Z"
+      },
+      {
+        "raw": "fr-reserved-2",
+        "reason": "missing_parent:fr-reserved",
+        "first_seen": "2026-11-14T09:41:34Z"
+      },
+      {
+        "raw": "fr-reserved-3",
+        "reason": "missing_parent:fr-reserved",
+        "first_seen": "2026-11-14T09:41:34Z"
       },
       {
         "raw": "fr38",
@@ -2828,6 +2848,11 @@
         "first_seen": "2026-07-10T06:36:56Z"
       },
       {
+        "raw": "ko",
+        "reason": "no_root",
+        "first_seen": "2026-11-14T09:41:34Z"
+      },
+      {
         "raw": "koblenz",
         "reason": "no_root",
         "first_seen": "2026-07-16T05:32:42Z"
@@ -2908,6 +2933,11 @@
         "raw": "lancashire",
         "reason": "no_root",
         "first_seen": "2026-08-21T08:10:45Z"
+      },
+      {
+        "raw": "langwedel",
+        "reason": "no_root",
+        "first_seen": "2026-11-14T09:41:34Z"
       },
       {
         "raw": "lanzo",
@@ -4992,6 +5022,11 @@
         "raw": "sud",
         "reason": "no_root",
         "first_seen": "2026-10-30T09:22:42Z"
+      },
+      {
+        "raw": "sued",
+        "reason": "no_root",
+        "first_seen": "2026-11-14T09:41:34Z"
       },
       {
         "raw": "suisse",
