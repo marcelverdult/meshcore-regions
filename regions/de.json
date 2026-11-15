@@ -280,6 +280,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-bh",
+          "name": "bh",
+          "regions": []
+        },
+        {
           "code": "de-bw-bk",
           "name": "bk",
           "regions": []
@@ -1758,6 +1763,11 @@
           "regions": []
         },
         {
+          "code": "de-ni-cux",
+          "name": "cux",
+          "regions": []
+        },
+        {
           "code": "de-ni-dan",
           "name": "Wendland",
           "regions": []
@@ -2609,6 +2619,11 @@
         {
           "code": "de-sh-se",
           "name": "se",
+          "regions": []
+        },
+        {
+          "code": "de-sh-sl",
+          "name": "sl",
           "regions": []
         },
         {

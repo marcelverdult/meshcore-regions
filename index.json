@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:41:34Z",
+  "generated_at": "2026-11-15T10:14:51Z",
   "tree": [
     {
       "code": "ad",
@@ -4339,6 +4339,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-bh",
+              "name": "bh",
+              "regions": []
+            },
+            {
               "code": "de-bw-bk",
               "name": "bk",
               "regions": []
@@ -5817,6 +5822,11 @@
               "regions": []
             },
             {
+              "code": "de-ni-cux",
+              "name": "cux",
+              "regions": []
+            },
+            {
               "code": "de-ni-dan",
               "name": "Wendland",
               "regions": []
@@ -6668,6 +6678,11 @@
             {
               "code": "de-sh-se",
               "name": "se",
+              "regions": []
+            },
+            {
+              "code": "de-sh-sl",
+              "name": "sl",
               "regions": []
             },
             {
@@ -8642,7 +8657,13 @@
     {
       "code": "il",
       "name": "Israel",
-      "regions": []
+      "regions": [
+        {
+          "code": "il-lom",
+          "name": "lom",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "im",
@@ -11472,6 +11493,11 @@
         {
           "code": "ro-bv",
           "name": "bv",
+          "regions": []
+        },
+        {
+          "code": "ro-cj",
+          "name": "cj",
           "regions": []
         },
         {
@@ -17729,6 +17755,10 @@
       "name": "bc"
     },
     {
+      "path": "de-bw-bh",
+      "name": "bh"
+    },
+    {
       "path": "de-bw-bk",
       "name": "bk"
     },
@@ -18861,6 +18891,10 @@
       "name": "Landkreis Cloppenburg"
     },
     {
+      "path": "de-ni-cux",
+      "name": "cux"
+    },
+    {
       "path": "de-ni-dan",
       "name": "Wendland"
     },
@@ -19479,6 +19513,10 @@
     {
       "path": "de-sh-se",
       "name": "se"
+    },
+    {
+      "path": "de-sh-sl",
+      "name": "sl"
     },
     {
       "path": "de-sh-slfl",
@@ -21159,6 +21197,10 @@
     {
       "path": "il",
       "name": "Israel"
+    },
+    {
+      "path": "il-lom",
+      "name": "lom"
     },
     {
       "path": "im",
@@ -23635,6 +23677,10 @@
     {
       "path": "ro-bv",
       "name": "bv"
+    },
+    {
+      "path": "ro-cj",
+      "name": "cj"
     },
     {
       "path": "ro-cs",
