@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:41:34Z",
+  "generated_at": "2026-11-15T10:14:51Z",
   "buckets": {
     "a": [
       {
@@ -3207,6 +3207,11 @@
         "first_seen": "2026-08-07T14:55:38Z"
       },
       {
+        "raw": "mediamesh",
+        "reason": "no_root",
+        "first_seen": "2026-11-15T10:14:51Z"
+      },
+      {
         "raw": "meinerzhagen",
         "reason": "no_root",
         "first_seen": "2026-08-10T04:24:08Z"
@@ -6175,6 +6180,11 @@
         "first_seen": "2026-10-12T10:03:29Z"
       },
       {
+        "raw": "Burgenland",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-15T10:14:51Z"
+      },
+      {
         "raw": "CGN",
         "reason": "invalid_chars",
         "first_seen": "2026-10-12T10:03:29Z"
@@ -6288,6 +6298,11 @@
         "raw": "ESS",
         "reason": "invalid_chars",
         "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
+        "raw": "EU_868",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-15T10:14:51Z"
       },
       {
         "raw": "Europe",

@@ -1,5 +1,11 @@
 {
   "code": "il",
   "name": "Israel",
-  "regions": []
+  "regions": [
+    {
+      "code": "il-lom",
+      "name": "lom",
+      "regions": []
+    }
+  ]
 }
