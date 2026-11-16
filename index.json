@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:14:51Z",
+  "generated_at": "2026-11-16T10:27:43Z",
   "tree": [
     {
       "code": "ad",
@@ -3803,6 +3803,16 @@
           "regions": []
         },
         {
+          "code": "ch-bl",
+          "name": "bl",
+          "regions": []
+        },
+        {
+          "code": "ch-bs",
+          "name": "bs",
+          "regions": []
+        },
+        {
           "code": "ch-de",
           "name": "de",
           "regions": []
@@ -5477,8 +5487,18 @@
                   "regions": []
                 },
                 {
+                  "code": "de-he-vb-slz",
+                  "name": "slz",
+                  "regions": []
+                },
+                {
                   "code": "de-he-vb-swt",
                   "name": "swt",
+                  "regions": []
+                },
+                {
+                  "code": "de-he-vb-war",
+                  "name": "war",
                   "regions": []
                 }
               ]
@@ -6883,6 +6903,11 @@
             {
               "code": "de-st-md",
               "name": "Region Magdeburg",
+              "regions": []
+            },
+            {
+              "code": "de-st-mitte",
+              "name": "mitte",
               "regions": []
             },
             {
@@ -17263,6 +17288,14 @@
       "name": "be"
     },
     {
+      "path": "ch-bl",
+      "name": "bl"
+    },
+    {
+      "path": "ch-bs",
+      "name": "bs"
+    },
+    {
       "path": "ch-de",
       "name": "de"
     },
@@ -18635,8 +18668,16 @@
       "name": "lat"
     },
     {
+      "path": "de-he-vb-slz",
+      "name": "slz"
+    },
+    {
       "path": "de-he-vb-swt",
       "name": "swt"
+    },
+    {
+      "path": "de-he-vb-war",
+      "name": "war"
     },
     {
       "path": "de-he-wmk",
@@ -19673,6 +19714,10 @@
     {
       "path": "de-st-md",
       "name": "Region Magdeburg"
+    },
+    {
+      "path": "de-st-mitte",
+      "name": "mitte"
     },
     {
       "path": "de-st-saw",

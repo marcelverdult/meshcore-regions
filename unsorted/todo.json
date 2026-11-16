@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:14:51Z",
+  "generated_at": "2026-11-16T10:27:43Z",
   "buckets": {
     "a": [
       {
@@ -126,6 +126,11 @@
         "raw": "alsace",
         "reason": "no_root",
         "first_seen": "2026-06-08T04:31:32Z"
+      },
+      {
+        "raw": "altoreno",
+        "reason": "no_root",
+        "first_seen": "2026-11-16T10:27:43Z"
       },
       {
         "raw": "amateur",
@@ -1022,6 +1027,11 @@
         "raw": "de-he-gi-gi-allendorf-lahn",
         "reason": "missing_parent:de-he-gi-gi-allendorf",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "de-he-kkb-kf",
+        "reason": "missing_parent:de-he-kkb",
+        "first_seen": "2026-11-16T10:27:43Z"
       },
       {
         "raw": "de-hh--de-sh--de-nord",
@@ -2001,6 +2011,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "euskirchen",
+        "reason": "no_root",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "ex",
         "reason": "no_root",
         "first_seen": "2026-05-23T04:17:08Z"
@@ -2026,6 +2041,11 @@
         "raw": "falkensee",
         "reason": "no_root",
         "first_seen": "2026-10-11T09:32:59Z"
+      },
+      {
+        "raw": "fds",
+        "reason": "no_root",
+        "first_seen": "2026-11-16T10:27:43Z"
       },
       {
         "raw": "fdy",
@@ -5667,6 +5687,11 @@
         "first_seen": "2026-07-25T01:29:54Z"
       },
       {
+        "raw": "wardriving",
+        "reason": "no_root",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "wasenweiler",
         "reason": "no_root",
         "first_seen": "2026-09-17T08:16:09Z"
@@ -6120,6 +6145,11 @@
         "first_seen": "2026-10-12T10:03:29Z"
       },
       {
+        "raw": "ACY",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "Adrasec-74",
         "reason": "invalid_chars",
         "first_seen": "2026-09-27T08:49:08Z"
@@ -6128,6 +6158,11 @@
         "raw": "Adrasec-ara",
         "reason": "invalid_chars",
         "first_seen": "2026-09-23T08:09:53Z"
+      },
+      {
+        "raw": "AGC",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
       },
       {
         "raw": "AT",
@@ -6175,14 +6210,39 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "BOS",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "BRU",
         "reason": "invalid_chars",
         "first_seen": "2026-10-12T10:03:29Z"
       },
       {
+        "raw": "BUF",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "Burgenland",
         "reason": "invalid_chars",
         "first_seen": "2026-11-15T10:14:51Z"
+      },
+      {
+        "raw": "BWI",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "BYG",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "CDC",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
       },
       {
         "raw": "CGN",
@@ -6193,6 +6253,46 @@
         "raw": "CH",
         "reason": "invalid_chars",
         "first_seen": "2026-09-25T08:25:08Z"
+      },
+      {
+        "raw": "CHI",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "CLE",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "CLU",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "CMH",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "COA",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "CVG",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "DAB",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "DCA",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
       },
       {
         "raw": "DE",
@@ -6275,6 +6375,11 @@
         "first_seen": "2026-09-25T08:25:08Z"
       },
       {
+        "raw": "DLH",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "DTW",
         "reason": "invalid_chars",
         "first_seen": "2026-09-22T08:07:06Z"
@@ -6310,6 +6415,11 @@
         "first_seen": "2026-09-26T08:12:22Z"
       },
       {
+        "raw": "EWR",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "F",
         "reason": "invalid_chars",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -6318,6 +6428,11 @@
         "raw": "FEW",
         "reason": "invalid_chars",
         "first_seen": "2026-10-19T18:42:34Z"
+      },
+      {
+        "raw": "FKL",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
       },
       {
         "raw": "FRA",
@@ -6345,6 +6460,16 @@
         "first_seen": "2026-10-28T09:11:00Z"
       },
       {
+        "raw": "GJT",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "GTR",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "Hagen",
         "reason": "invalid_chars",
         "first_seen": "2026-09-19T07:42:18Z"
@@ -6360,6 +6485,11 @@
         "first_seen": "2026-10-19T18:42:34Z"
       },
       {
+        "raw": "HAR",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "HE",
         "reason": "invalid_chars",
         "first_seen": "2026-10-28T09:11:00Z"
@@ -6370,9 +6500,24 @@
         "first_seen": "2026-10-12T10:03:29Z"
       },
       {
+        "raw": "HVN",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "Illingen",
         "reason": "invalid_chars",
         "first_seen": "2026-06-13T04:30:26Z"
+      },
+      {
+        "raw": "ILM",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "INT",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
       },
       {
         "raw": "It-lig",
@@ -6400,9 +6545,29 @@
         "first_seen": "2026-10-12T10:03:29Z"
       },
       {
+        "raw": "LEX",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "LGA",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "LGB",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "LIN",
         "reason": "invalid_chars",
         "first_seen": "2026-10-20T08:04:42Z"
+      },
+      {
+        "raw": "LNS",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
       },
       {
         "raw": "Luebeck",
@@ -6430,6 +6595,11 @@
         "first_seen": "2026-09-29T09:21:04Z"
       },
       {
+        "raw": "MHK",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "MST",
         "reason": "invalid_chars",
         "first_seen": "2026-10-12T10:03:29Z"
@@ -6450,9 +6620,19 @@
         "first_seen": "2026-10-12T10:03:29Z"
       },
       {
+        "raw": "NTU",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
         "raw": "NTX",
         "reason": "invalid_chars",
         "first_seen": "2026-09-25T08:25:08Z"
+      },
+      {
+        "raw": "NUW",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
       },
       {
         "raw": "Nw",
@@ -6513,6 +6693,16 @@
         "raw": "THW",
         "reason": "invalid_chars",
         "first_seen": "2026-09-22T08:07:06Z"
+      },
+      {
+        "raw": "WOB",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "Wolfsburg",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-16T10:27:43Z"
       }
     ]
   }
