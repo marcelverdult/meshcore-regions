@@ -1418,8 +1418,18 @@
               "regions": []
             },
             {
+              "code": "de-he-vb-slz",
+              "name": "slz",
+              "regions": []
+            },
+            {
               "code": "de-he-vb-swt",
               "name": "swt",
+              "regions": []
+            },
+            {
+              "code": "de-he-vb-war",
+              "name": "war",
               "regions": []
             }
           ]
@@ -2824,6 +2834,11 @@
         {
           "code": "de-st-md",
           "name": "Region Magdeburg",
+          "regions": []
+        },
+        {
+          "code": "de-st-mitte",
+          "name": "mitte",
           "regions": []
         },
         {
