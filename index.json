@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:27:43Z",
+  "generated_at": "2026-11-17T11:23:40Z",
   "tree": [
     {
       "code": "ad",
@@ -8268,6 +8268,11 @@
         {
           "code": "fr-jura",
           "name": "jura",
+          "regions": []
+        },
+        {
+          "code": "fr-lys",
+          "name": "lys",
           "regions": []
         },
         {
@@ -20834,6 +20839,10 @@
     {
       "path": "fr-jura",
       "name": "jura"
+    },
+    {
+      "path": "fr-lys",
+      "name": "lys"
     },
     {
       "path": "fr-may",
