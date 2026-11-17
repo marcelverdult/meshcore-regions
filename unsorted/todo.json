@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:27:43Z",
+  "generated_at": "2026-11-17T11:23:40Z",
   "buckets": {
     "a": [
       {
@@ -3090,6 +3090,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "local-rep",
+        "reason": "no_root",
+        "first_seen": "2026-11-17T11:23:40Z"
+      },
+      {
         "raw": "lohmar",
         "reason": "no_root",
         "first_seen": "2026-07-31T05:58:52Z"
@@ -3360,6 +3365,11 @@
         "raw": "mittelfranken",
         "reason": "no_root",
         "first_seen": "2026-11-09T10:44:18Z"
+      },
+      {
+        "raw": "mittelhessen",
+        "reason": "no_root",
+        "first_seen": "2026-11-17T11:23:40Z"
       },
       {
         "raw": "mj",
@@ -4520,6 +4530,11 @@
         "raw": "ruhrgbiet",
         "reason": "no_root",
         "first_seen": "2026-10-24T07:47:38Z"
+      },
+      {
+        "raw": "ruwer",
+        "reason": "no_root",
+        "first_seen": "2026-11-17T11:23:40Z"
       }
     ],
     "s": [
@@ -6255,6 +6270,11 @@
         "first_seen": "2026-09-25T08:25:08Z"
       },
       {
+        "raw": "CH-DE",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-17T11:23:40Z"
+      },
+      {
         "raw": "CHI",
         "reason": "invalid_chars",
         "first_seen": "2026-11-16T10:27:43Z"
@@ -6440,6 +6460,11 @@
         "first_seen": "2026-10-12T10:03:29Z"
       },
       {
+        "raw": "France",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-17T11:23:40Z"
+      },
+      {
         "raw": "Fredericia",
         "reason": "invalid_chars",
         "first_seen": "2026-07-04T06:13:29Z"
@@ -6568,6 +6593,11 @@
         "raw": "LNS",
         "reason": "invalid_chars",
         "first_seen": "2026-11-16T10:27:43Z"
+      },
+      {
+        "raw": "Lot-et-Garonne",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-17T11:23:40Z"
       },
       {
         "raw": "Luebeck",
