@@ -85,6 +85,11 @@
       "name": "noe",
       "regions": [
         {
+          "code": "at-noe-bl",
+          "name": "bl",
+          "regions": []
+        },
+        {
           "code": "at-noe-bn",
           "name": "bn",
           "regions": []
