@@ -5,6 +5,17 @@
     {
       "code": "au-act",
       "name": "ACT",
+      "regions": [
+        {
+          "code": "au-act-cbr",
+          "name": "cbr",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "code": "au-cbr",
+      "name": "cbr",
       "regions": []
     },
     {

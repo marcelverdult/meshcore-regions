@@ -2649,6 +2649,11 @@
       ]
     },
     {
+      "code": "de-sha",
+      "name": "sha",
+      "regions": []
+    },
+    {
       "code": "de-si",
       "name": "si",
       "regions": []

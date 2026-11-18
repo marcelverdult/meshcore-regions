@@ -989,6 +989,11 @@
       "regions": []
     },
     {
+      "code": "nl-vr14",
+      "name": "vr14",
+      "regions": []
+    },
+    {
       "code": "nl-wag",
       "name": "wag",
       "regions": []
@@ -1069,6 +1074,11 @@
           "regions": []
         },
         {
+          "code": "nl-zh-kwk",
+          "name": "kwk",
+          "regions": []
+        },
+        {
           "code": "nl-zh-ldd",
           "name": "ldd",
           "regions": []
@@ -1094,13 +1104,28 @@
           "regions": []
         },
         {
+          "code": "nl-zh-nwk",
+          "name": "nwk",
+          "regions": []
+        },
+        {
           "code": "nl-zh-odu",
           "name": "odu",
           "regions": []
         },
         {
+          "code": "nl-zh-oge",
+          "name": "oge",
+          "regions": []
+        },
+        {
           "code": "nl-zh-pin",
           "name": "pin",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-rbg",
+          "name": "rbg",
           "regions": []
         },
         {

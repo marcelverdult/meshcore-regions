@@ -104,6 +104,11 @@
       "regions": []
     },
     {
+      "code": "es-centro",
+      "name": "centro",
+      "regions": []
+    },
+    {
       "code": "es-cl",
       "name": "Castilla y León",
       "regions": []

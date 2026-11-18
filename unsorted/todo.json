@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T11:23:40Z",
+  "generated_at": "2026-11-18T10:56:28Z",
   "buckets": {
     "a": [
       {
@@ -198,6 +198,11 @@
         "first_seen": "2026-11-03T10:21:38Z"
       },
       {
+        "raw": "at-süd",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-18T10:56:28Z"
+      },
+      {
         "raw": "atl",
         "reason": "no_root",
         "first_seen": "2026-07-21T05:42:27Z"
@@ -293,6 +298,11 @@
         "raw": "bamberg",
         "reason": "no_root",
         "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
+        "raw": "banat",
+        "reason": "no_root",
+        "first_seen": "2026-11-18T10:56:28Z"
       },
       {
         "raw": "banbridge",
@@ -2515,6 +2525,11 @@
         "raw": "hensemesh",
         "reason": "no_root",
         "first_seen": "2026-06-14T04:31:20Z"
+      },
+      {
+        "raw": "herbtown",
+        "reason": "no_root",
+        "first_seen": "2026-11-18T10:56:28Z"
       },
       {
         "raw": "hertford",
