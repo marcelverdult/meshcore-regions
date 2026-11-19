@@ -1,5 +1,11 @@
 {
   "code": "ne",
   "name": "Niger",
-  "regions": []
+  "regions": [
+    {
+      "code": "ne-ge",
+      "name": "ge",
+      "regions": []
+    }
+  ]
 }

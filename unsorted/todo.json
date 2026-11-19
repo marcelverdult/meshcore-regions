@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:56:28Z",
+  "generated_at": "2026-11-19T10:58:54Z",
   "buckets": {
     "a": [
       {
@@ -3584,6 +3584,11 @@
         "first_seen": "2026-07-09T14:55:01Z"
       },
       {
+        "raw": "nl-vr-vrzob",
+        "reason": "missing_parent:nl-vr",
+        "first_seen": "2026-11-19T10:58:54Z"
+      },
+      {
         "raw": "norderstedt",
         "reason": "no_root",
         "first_seen": "2026-09-20T08:10:07Z"
@@ -4967,6 +4972,11 @@
         "raw": "south-east",
         "reason": "no_root",
         "first_seen": "2026-05-26T11:23:36Z"
+      },
+      {
+        "raw": "south-serbia",
+        "reason": "no_root",
+        "first_seen": "2026-11-19T10:58:54Z"
       },
       {
         "raw": "south-west",
