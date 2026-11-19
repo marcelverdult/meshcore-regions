@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:56:28Z",
+  "generated_at": "2026-11-19T10:58:54Z",
   "tree": [
     {
       "code": "ad",
@@ -64,6 +64,11 @@
           "code": "at-bgld",
           "name": "bgld",
           "regions": [
+            {
+              "code": "at-bgld-nd",
+              "name": "nd",
+              "regions": []
+            },
             {
               "code": "at-bgld-op",
               "name": "op",
@@ -9435,7 +9440,13 @@
     {
       "code": "ne",
       "name": "Niger",
-      "regions": []
+      "regions": [
+        {
+          "code": "ne-ge",
+          "name": "ge",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "nf",
@@ -9509,6 +9520,16 @@
         {
           "code": "nl-ass",
           "name": "ass",
+          "regions": []
+        },
+        {
+          "code": "nl-blk",
+          "name": "blk",
+          "regions": []
+        },
+        {
+          "code": "nl-bll",
+          "name": "bll",
           "regions": []
         },
         {
@@ -10022,6 +10043,11 @@
               "regions": []
             },
             {
+              "code": "nl-nb-bll",
+              "name": "bll",
+              "regions": []
+            },
+            {
               "code": "nl-nb-brd",
               "name": "brd",
               "regions": []
@@ -10119,6 +10145,11 @@
               "regions": []
             },
             {
+              "code": "nl-nh-blk",
+              "name": "blk",
+              "regions": []
+            },
+            {
               "code": "nl-nh-bss",
               "name": "bss",
               "regions": []
@@ -10189,6 +10220,11 @@
               "regions": []
             },
             {
+              "code": "nl-nh-hrv",
+              "name": "hrv",
+              "regions": []
+            },
+            {
               "code": "nl-nh-hvs",
               "name": "hvs",
               "regions": []
@@ -10219,6 +10255,11 @@
               "regions": []
             },
             {
+              "code": "nl-nh-pur",
+              "name": "pur",
+              "regions": []
+            },
+            {
               "code": "nl-nh-sbc",
               "name": "sbc",
               "regions": []
@@ -10236,6 +10277,16 @@
             {
               "code": "nl-nh-wsp",
               "name": "wsp",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-zaa",
+              "name": "zaa",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-zwg",
+              "name": "zwg",
               "regions": []
             }
           ]
@@ -10473,6 +10524,11 @@
           "regions": []
         },
         {
+          "code": "nl-zaa",
+          "name": "zaa",
+          "regions": []
+        },
+        {
           "code": "nl-ze",
           "name": "Zeeland",
           "regions": [
@@ -10617,6 +10673,11 @@
         {
           "code": "nl-zut",
           "name": "zut",
+          "regions": []
+        },
+        {
+          "code": "nl-zwg",
+          "name": "zwg",
           "regions": []
         },
         {
@@ -14262,6 +14323,10 @@
     {
       "path": "at-bgld",
       "name": "bgld"
+    },
+    {
+      "path": "at-bgld-nd",
+      "name": "nd"
     },
     {
       "path": "at-bgld-op",
@@ -22088,6 +22153,10 @@
       "name": "Niger"
     },
     {
+      "path": "ne-ge",
+      "name": "ge"
+    },
+    {
       "path": "neng",
       "name": "Northern England"
     },
@@ -22154,6 +22223,14 @@
     {
       "path": "nl-ass",
       "name": "ass"
+    },
+    {
+      "path": "nl-blk",
+      "name": "blk"
+    },
+    {
+      "path": "nl-bll",
+      "name": "bll"
     },
     {
       "path": "nl-br",
@@ -22560,6 +22637,10 @@
       "name": "bee"
     },
     {
+      "path": "nl-nb-bll",
+      "name": "bll"
+    },
+    {
       "path": "nl-nb-brd",
       "name": "brd"
     },
@@ -22636,6 +22717,10 @@
       "name": "bla"
     },
     {
+      "path": "nl-nh-blk",
+      "name": "blk"
+    },
+    {
       "path": "nl-nh-bss",
       "name": "bss"
     },
@@ -22692,6 +22777,10 @@
       "name": "hrn"
     },
     {
+      "path": "nl-nh-hrv",
+      "name": "hrv"
+    },
+    {
       "path": "nl-nh-hvs",
       "name": "hvs"
     },
@@ -22716,6 +22805,10 @@
       "name": "odr"
     },
     {
+      "path": "nl-nh-pur",
+      "name": "pur"
+    },
+    {
       "path": "nl-nh-sbc",
       "name": "sbc"
     },
@@ -22730,6 +22823,14 @@
     {
       "path": "nl-nh-wsp",
       "name": "wsp"
+    },
+    {
+      "path": "nl-nh-zaa",
+      "name": "zaa"
+    },
+    {
+      "path": "nl-nh-zwg",
+      "name": "zwg"
     },
     {
       "path": "nl-nij",
@@ -22916,6 +23017,10 @@
       "name": "wsp"
     },
     {
+      "path": "nl-zaa",
+      "name": "zaa"
+    },
+    {
       "path": "nl-ze",
       "name": "Zeeland"
     },
@@ -23030,6 +23135,10 @@
     {
       "path": "nl-zut",
       "name": "zut"
+    },
+    {
+      "path": "nl-zwg",
+      "name": "zwg"
     },
     {
       "path": "nl-zwo",

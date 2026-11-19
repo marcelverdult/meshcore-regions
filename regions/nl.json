@@ -58,6 +58,16 @@
       "regions": []
     },
     {
+      "code": "nl-blk",
+      "name": "blk",
+      "regions": []
+    },
+    {
+      "code": "nl-bll",
+      "name": "bll",
+      "regions": []
+    },
+    {
       "code": "nl-br",
       "name": "br",
       "regions": []
@@ -568,6 +578,11 @@
           "regions": []
         },
         {
+          "code": "nl-nb-bll",
+          "name": "bll",
+          "regions": []
+        },
+        {
           "code": "nl-nb-brd",
           "name": "brd",
           "regions": []
@@ -665,6 +680,11 @@
           "regions": []
         },
         {
+          "code": "nl-nh-blk",
+          "name": "blk",
+          "regions": []
+        },
+        {
           "code": "nl-nh-bss",
           "name": "bss",
           "regions": []
@@ -735,6 +755,11 @@
           "regions": []
         },
         {
+          "code": "nl-nh-hrv",
+          "name": "hrv",
+          "regions": []
+        },
+        {
           "code": "nl-nh-hvs",
           "name": "hvs",
           "regions": []
@@ -765,6 +790,11 @@
           "regions": []
         },
         {
+          "code": "nl-nh-pur",
+          "name": "pur",
+          "regions": []
+        },
+        {
           "code": "nl-nh-sbc",
           "name": "sbc",
           "regions": []
@@ -782,6 +812,16 @@
         {
           "code": "nl-nh-wsp",
           "name": "wsp",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-zaa",
+          "name": "zaa",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-zwg",
+          "name": "zwg",
           "regions": []
         }
       ]
@@ -1019,6 +1059,11 @@
       "regions": []
     },
     {
+      "code": "nl-zaa",
+      "name": "zaa",
+      "regions": []
+    },
+    {
       "code": "nl-ze",
       "name": "Zeeland",
       "regions": [
@@ -1163,6 +1208,11 @@
     {
       "code": "nl-zut",
       "name": "zut",
+      "regions": []
+    },
+    {
+      "code": "nl-zwg",
+      "name": "zwg",
       "regions": []
     },
     {
