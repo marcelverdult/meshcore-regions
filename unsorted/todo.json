@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:58:54Z",
+  "generated_at": "2026-11-20T10:47:46Z",
   "buckets": {
     "a": [
       {
@@ -428,6 +428,11 @@
         "raw": "berk",
         "reason": "no_root",
         "first_seen": "2026-06-04T21:52:04Z"
+      },
+      {
+        "raw": "berlinmesh",
+        "reason": "no_root",
+        "first_seen": "2026-11-20T10:47:46Z"
       },
       {
         "raw": "bfc",
@@ -2138,6 +2143,11 @@
         "first_seen": "2026-09-17T08:16:09Z"
       },
       {
+        "raw": "fr-67-113-blaesheim",
+        "reason": "missing_parent:fr-67-113",
+        "first_seen": "2026-11-20T10:47:46Z"
+      },
+      {
         "raw": "fr-reserved-1",
         "reason": "missing_parent:fr-reserved",
         "first_seen": "2026-11-14T09:41:34Z"
@@ -3480,6 +3490,11 @@
         "raw": "muenchen",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "muensterland",
+        "reason": "no_root",
+        "first_seen": "2026-11-20T10:47:46Z"
       },
       {
         "raw": "murrhardt",
@@ -5284,6 +5299,11 @@
         "raw": "test9",
         "reason": "no_root",
         "first_seen": "2026-08-15T03:31:58Z"
+      },
+      {
+        "raw": "teuto",
+        "reason": "no_root",
+        "first_seen": "2026-11-20T10:47:46Z"
       },
       {
         "raw": "texas",

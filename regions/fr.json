@@ -13,6 +13,21 @@
       "regions": []
     },
     {
+      "code": "fr-03",
+      "name": "03",
+      "regions": []
+    },
+    {
+      "code": "fr-04",
+      "name": "04",
+      "regions": []
+    },
+    {
+      "code": "fr-05",
+      "name": "05",
+      "regions": []
+    },
+    {
       "code": "fr-06",
       "name": "06",
       "regions": []
@@ -423,6 +438,11 @@
     {
       "code": "fr-jura",
       "name": "jura",
+      "regions": []
+    },
+    {
+      "code": "fr-lyon",
+      "name": "lyon",
       "regions": []
     },
     {

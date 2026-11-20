@@ -174,6 +174,11 @@
       ]
     },
     {
+      "code": "de-bc",
+      "name": "bc",
+      "regions": []
+    },
+    {
       "code": "de-be",
       "name": "Berlin",
       "regions": [
@@ -190,6 +195,11 @@
         {
           "code": "de-be-gps",
           "name": "gps",
+          "regions": []
+        },
+        {
+          "code": "de-be-lichtenberg",
+          "name": "lichtenberg",
           "regions": []
         },
         {
@@ -1013,6 +1023,11 @@
           "regions": []
         },
         {
+          "code": "de-by-otr",
+          "name": "otr",
+          "regions": []
+        },
+        {
           "code": "de-by-pa",
           "name": "Stadt und Landkreis Passau",
           "regions": []
@@ -1507,6 +1522,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "de-katschutz",
+      "name": "katschutz",
+      "regions": []
     },
     {
       "code": "de-ki",
@@ -2763,6 +2783,11 @@
         {
           "code": "de-sn-mek",
           "name": "mek",
+          "regions": []
+        },
+        {
+          "code": "de-sn-mitte",
+          "name": "mitte",
           "regions": []
         },
         {
