@@ -1029,6 +1029,17 @@
       "regions": []
     },
     {
+      "code": "nl-vr06",
+      "name": "vr06",
+      "regions": [
+        {
+          "code": "nl-vr06-hrd",
+          "name": "hrd",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "nl-vr14",
       "name": "vr14",
       "regions": []

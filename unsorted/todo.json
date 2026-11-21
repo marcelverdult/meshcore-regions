@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:47:46Z",
+  "generated_at": "2026-11-21T10:30:30Z",
   "buckets": {
     "a": [
       {
@@ -81,6 +81,11 @@
         "raw": "aer",
         "reason": "no_root",
         "first_seen": "2026-07-06T07:05:04Z"
+      },
+      {
+        "raw": "afu",
+        "reason": "no_root",
+        "first_seen": "2026-11-21T10:30:30Z"
       },
       {
         "raw": "agh",
@@ -1494,6 +1499,11 @@
         "first_seen": "2026-10-26T08:21:00Z"
       },
       {
+        "raw": "dl-bw",
+        "reason": "no_root",
+        "first_seen": "2026-11-21T10:30:30Z"
+      },
+      {
         "raw": "dl-mitte",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -2305,6 +2315,21 @@
         "first_seen": "2026-10-14T08:16:16Z"
       },
       {
+        "raw": "gemeinde-ghdf",
+        "reason": "no_root",
+        "first_seen": "2026-11-21T10:30:30Z"
+      },
+      {
+        "raw": "gemeinde-ltj",
+        "reason": "no_root",
+        "first_seen": "2026-11-21T10:30:30Z"
+      },
+      {
+        "raw": "gemeinde-tritt",
+        "reason": "no_root",
+        "first_seen": "2026-11-21T10:30:30Z"
+      },
+      {
         "raw": "general",
         "reason": "no_root",
         "first_seen": "2026-05-26T11:23:08Z"
@@ -2660,6 +2685,11 @@
         "raw": "hunsrueck",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "huskat",
+        "reason": "no_root",
+        "first_seen": "2026-11-21T10:30:30Z"
       }
     ],
     "i": [
@@ -3617,6 +3647,11 @@
         "raw": "nordharz",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "nordhausen",
+        "reason": "no_root",
+        "first_seen": "2026-11-21T10:30:30Z"
       },
       {
         "raw": "nordheide",
@@ -5772,6 +5807,11 @@
         "first_seen": "2026-08-07T14:55:38Z"
       },
       {
+        "raw": "wd-ut",
+        "reason": "no_root",
+        "first_seen": "2026-11-21T10:30:30Z"
+      },
+      {
         "raw": "we-west",
         "reason": "no_root",
         "first_seen": "2026-06-17T04:31:21Z"
@@ -6203,6 +6243,11 @@
         "raw": "AAH",
         "reason": "invalid_chars",
         "first_seen": "2026-10-12T10:03:29Z"
+      },
+      {
+        "raw": "ABG-NIP",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-21T10:30:30Z"
       },
       {
         "raw": "ACY",
