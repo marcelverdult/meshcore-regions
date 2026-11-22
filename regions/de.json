@@ -1423,8 +1423,18 @@
               "regions": []
             },
             {
+              "code": "de-he-vb-ant",
+              "name": "ant",
+              "regions": []
+            },
+            {
               "code": "de-he-vb-grb",
               "name": "grb",
+              "regions": []
+            },
+            {
+              "code": "de-he-vb-kir",
+              "name": "kir",
               "regions": []
             },
             {
@@ -1577,6 +1587,11 @@
     {
       "code": "de-lb",
       "name": "lb",
+      "regions": []
+    },
+    {
+      "code": "de-lbc",
+      "name": "lbc",
       "regions": []
     },
     {
