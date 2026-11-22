@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:30:30Z",
+  "generated_at": "2026-11-22T10:35:06Z",
   "tree": [
     {
       "code": "ad",
@@ -5513,8 +5513,18 @@
                   "regions": []
                 },
                 {
+                  "code": "de-he-vb-ant",
+                  "name": "ant",
+                  "regions": []
+                },
+                {
                   "code": "de-he-vb-grb",
                   "name": "grb",
+                  "regions": []
+                },
+                {
+                  "code": "de-he-vb-kir",
+                  "name": "kir",
                   "regions": []
                 },
                 {
@@ -5667,6 +5677,11 @@
         {
           "code": "de-lb",
           "name": "lb",
+          "regions": []
+        },
+        {
+          "code": "de-lbc",
+          "name": "lbc",
           "regions": []
         },
         {
@@ -8878,6 +8893,11 @@
           "regions": []
         },
         {
+          "code": "it-emil",
+          "name": "emil",
+          "regions": []
+        },
+        {
           "code": "it-emr",
           "name": "Emilia Romagna",
           "regions": [
@@ -9344,8 +9364,18 @@
       "name": "Morocco",
       "regions": [
         {
+          "code": "ma-01",
+          "name": "01",
+          "regions": []
+        },
+        {
           "code": "ma-rv",
           "name": "rv",
+          "regions": []
+        },
+        {
+          "code": "ma-tng",
+          "name": "tng",
           "regions": []
         }
       ]
@@ -18871,8 +18901,16 @@
       "name": "als"
     },
     {
+      "path": "de-he-vb-ant",
+      "name": "ant"
+    },
+    {
       "path": "de-he-vb-grb",
       "name": "grb"
+    },
+    {
+      "path": "de-he-vb-kir",
+      "name": "kir"
     },
     {
       "path": "de-he-vb-lat",
@@ -18985,6 +19023,10 @@
     {
       "path": "de-lb",
       "name": "lb"
+    },
+    {
+      "path": "de-lbc",
+      "name": "lbc"
     },
     {
       "path": "de-le",
@@ -21591,6 +21633,10 @@
       "name": "emi"
     },
     {
+      "path": "it-emil",
+      "name": "emil"
+    },
+    {
       "path": "it-emr",
       "name": "Emilia Romagna"
     },
@@ -22047,8 +22093,16 @@
       "name": "Morocco"
     },
     {
+      "path": "ma-01",
+      "name": "01"
+    },
+    {
       "path": "ma-rv",
       "name": "rv"
+    },
+    {
+      "path": "ma-tng",
+      "name": "tng"
     },
     {
       "path": "madera",

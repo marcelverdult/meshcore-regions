@@ -3,8 +3,18 @@
   "name": "Morocco",
   "regions": [
     {
+      "code": "ma-01",
+      "name": "01",
+      "regions": []
+    },
+    {
       "code": "ma-rv",
       "name": "rv",
+      "regions": []
+    },
+    {
+      "code": "ma-tng",
+      "name": "tng",
       "regions": []
     }
   ]
