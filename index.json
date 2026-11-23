@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:35:06Z",
+  "generated_at": "2026-11-23T11:36:06Z",
   "tree": [
     {
       "code": "ad",
@@ -3604,6 +3604,11 @@
           "code": "bg-nw",
           "name": "nw",
           "regions": []
+        },
+        {
+          "code": "bg-sf",
+          "name": "sf",
+          "regions": []
         }
       ]
     },
@@ -4512,6 +4517,11 @@
             {
               "code": "de-bw-muel",
               "name": "Müllheim",
+              "regions": []
+            },
+            {
+              "code": "de-bw-nt",
+              "name": "nt",
               "regions": []
             },
             {
@@ -5978,6 +5988,11 @@
               "regions": []
             },
             {
+              "code": "de-ni-hk",
+              "name": "hk",
+              "regions": []
+            },
+            {
               "code": "de-ni-hm",
               "name": "hm",
               "regions": [
@@ -6466,6 +6481,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-nwm",
+          "name": "nwm",
+          "regions": []
         },
         {
           "code": "de-oa",
@@ -17261,6 +17281,10 @@
       "name": "nw"
     },
     {
+      "path": "bg-sf",
+      "name": "sf"
+    },
+    {
       "path": "bgo",
       "name": "Flesland/Bergen"
     },
@@ -18131,6 +18155,10 @@
     {
       "path": "de-bw-muel",
       "name": "Müllheim"
+    },
+    {
+      "path": "de-bw-nt",
+      "name": "nt"
     },
     {
       "path": "de-bw-obk",
@@ -19253,6 +19281,10 @@
       "name": "Region Hildesheim"
     },
     {
+      "path": "de-ni-hk",
+      "name": "hk"
+    },
+    {
       "path": "de-ni-hm",
       "name": "hm"
     },
@@ -19587,6 +19619,10 @@
     {
       "path": "de-nw-west",
       "name": "west"
+    },
+    {
+      "path": "de-nwm",
+      "name": "nwm"
     },
     {
       "path": "de-oa",

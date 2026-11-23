@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:35:06Z",
+  "generated_at": "2026-11-23T11:36:06Z",
   "buckets": {
     "a": [
       {
@@ -4026,6 +4026,11 @@
         "first_seen": "2026-05-26T04:25:53Z"
       },
       {
+        "raw": "osthessen",
+        "reason": "no_root",
+        "first_seen": "2026-11-23T11:36:06Z"
+      },
+      {
         "raw": "ostrachtal",
         "reason": "no_root",
         "first_seen": "2026-06-17T04:31:21Z"
@@ -6228,6 +6233,11 @@
         "raw": "*^ F\n de F\n de-mitte F\n de-st F\n magdeburg F",
         "reason": "invalid_chars",
         "first_seen": "2026-06-18T04:30:47Z"
+      },
+      {
+        "raw": "`nl",
+        "reason": "invalid_chars",
+        "first_seen": "2026-11-23T11:36:06Z"
       },
       {
         "raw": "$flynx",

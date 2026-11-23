@@ -425,6 +425,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-nt",
+          "name": "nt",
+          "regions": []
+        },
+        {
           "code": "de-bw-obk",
           "name": "obk",
           "regions": []
@@ -1888,6 +1893,11 @@
           "regions": []
         },
         {
+          "code": "de-ni-hk",
+          "name": "hk",
+          "regions": []
+        },
+        {
           "code": "de-ni-hm",
           "name": "hm",
           "regions": [
@@ -2376,6 +2386,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "de-nwm",
+      "name": "nwm",
+      "regions": []
     },
     {
       "code": "de-oa",
