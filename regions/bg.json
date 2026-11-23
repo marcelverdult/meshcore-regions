@@ -16,6 +16,11 @@
       "code": "bg-nw",
       "name": "nw",
       "regions": []
+    },
+    {
+      "code": "bg-sf",
+      "name": "sf",
+      "regions": []
     }
   ]
 }
