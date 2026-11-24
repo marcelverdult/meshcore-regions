@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:36:06Z",
+  "generated_at": "2026-11-24T13:09:01Z",
   "tree": [
     {
       "code": "ad",
@@ -2379,6 +2379,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "be-wha",
+          "name": "wha",
+          "regions": []
         },
         {
           "code": "be-wht",
@@ -6504,6 +6509,11 @@
           "regions": []
         },
         {
+          "code": "de-obb",
+          "name": "obb",
+          "regions": []
+        },
+        {
           "code": "de-os",
           "name": "os",
           "regions": []
@@ -7063,6 +7073,11 @@
           "code": "de-th",
           "name": "Thüringen",
           "regions": [
+            {
+              "code": "de-th-abg",
+              "name": "abg",
+              "regions": []
+            },
             {
               "code": "de-th-ap",
               "name": "ap",
@@ -10446,6 +10461,11 @@
               "regions": []
             },
             {
+              "code": "nl-ov-ree",
+              "name": "ree",
+              "regions": []
+            },
+            {
               "code": "nl-ov-rih",
               "name": "rih",
               "regions": []
@@ -10591,6 +10611,16 @@
         {
           "code": "nl-vnr",
           "name": "vnr",
+          "regions": []
+        },
+        {
+          "code": "nl-vr03",
+          "name": "vr03",
+          "regions": []
+        },
+        {
+          "code": "nl-vr04",
+          "name": "vr04",
           "regions": []
         },
         {
@@ -14983,6 +15013,10 @@
     {
       "path": "be-wbr",
       "name": "Brabant wallon"
+    },
+    {
+      "path": "be-wha",
+      "name": "wha"
     },
     {
       "path": "be-wht",
@@ -19637,6 +19671,10 @@
       "name": "oal"
     },
     {
+      "path": "de-obb",
+      "name": "obb"
+    },
+    {
       "path": "de-os",
       "name": "os"
     },
@@ -20067,6 +20105,10 @@
     {
       "path": "de-th",
       "name": "Thüringen"
+    },
+    {
+      "path": "de-th-abg",
+      "name": "abg"
     },
     {
       "path": "de-th-ap",
@@ -23073,6 +23115,10 @@
       "name": "nvd"
     },
     {
+      "path": "nl-ov-ree",
+      "name": "ree"
+    },
+    {
       "path": "nl-ov-rih",
       "name": "rih"
     },
@@ -23187,6 +23233,14 @@
     {
       "path": "nl-vnr",
       "name": "vnr"
+    },
+    {
+      "path": "nl-vr03",
+      "name": "vr03"
+    },
+    {
+      "path": "nl-vr04",
+      "name": "vr04"
     },
     {
       "path": "nl-vr06",

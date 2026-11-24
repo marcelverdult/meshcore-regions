@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:36:06Z",
+  "generated_at": "2026-11-24T13:09:01Z",
   "buckets": {
     "a": [
       {
@@ -1522,6 +1522,11 @@
         "raw": "dl-nord",
         "reason": "no_root",
         "first_seen": "2026-09-17T08:16:09Z"
+      },
+      {
+        "raw": "dl-oj",
+        "reason": "no_root",
+        "first_seen": "2026-11-24T13:09:01Z"
       },
       {
         "raw": "dmb",
@@ -3170,6 +3175,16 @@
         "first_seen": "2026-08-07T14:55:38Z"
       },
       {
+        "raw": "lom",
+        "reason": "no_root",
+        "first_seen": "2026-11-24T13:09:01Z"
+      },
+      {
+        "raw": "lom-va",
+        "reason": "no_root",
+        "first_seen": "2026-11-24T13:09:01Z"
+      },
+      {
         "raw": "lon",
         "reason": "no_root",
         "first_seen": "2026-07-16T05:32:42Z"
@@ -4153,6 +4168,21 @@
         "first_seen": "2026-06-06T09:27:12Z"
       },
       {
+        "raw": "pie",
+        "reason": "no_root",
+        "first_seen": "2026-11-24T13:09:01Z"
+      },
+      {
+        "raw": "pie-os",
+        "reason": "no_root",
+        "first_seen": "2026-11-24T13:09:01Z"
+      },
+      {
+        "raw": "pie-vb",
+        "reason": "no_root",
+        "first_seen": "2026-11-24T13:09:01Z"
+      },
+      {
         "raw": "piemonte",
         "reason": "no_root",
         "first_seen": "2026-09-30T09:11:36Z"
@@ -4475,6 +4505,11 @@
         "raw": "reutlingen",
         "reason": "no_root",
         "first_seen": "2026-08-13T04:45:49Z"
+      },
+      {
+        "raw": "rhein-mein",
+        "reason": "no_root",
+        "first_seen": "2026-11-24T13:09:01Z"
       },
       {
         "raw": "rheinberg",
