@@ -2409,6 +2409,11 @@
       "regions": []
     },
     {
+      "code": "de-obb",
+      "name": "obb",
+      "regions": []
+    },
+    {
       "code": "de-os",
       "name": "os",
       "regions": []
@@ -2968,6 +2973,11 @@
       "code": "de-th",
       "name": "Thüringen",
       "regions": [
+        {
+          "code": "de-th-abg",
+          "name": "abg",
+          "regions": []
+        },
         {
           "code": "de-th-ap",
           "name": "ap",
