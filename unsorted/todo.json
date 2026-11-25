@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:09:01Z",
+  "generated_at": "2026-11-25T11:57:05Z",
   "buckets": {
     "a": [
       {
@@ -2168,6 +2168,11 @@
         "first_seen": "2026-11-20T10:47:46Z"
       },
       {
+        "raw": "fr-75-115-paris",
+        "reason": "missing_parent:fr-75-115",
+        "first_seen": "2026-11-25T11:57:05Z"
+      },
+      {
         "raw": "fr-reserved-1",
         "reason": "missing_parent:fr-reserved",
         "first_seen": "2026-11-14T09:41:34Z"
@@ -2485,6 +2490,11 @@
         "raw": "h48",
         "reason": "no_root",
         "first_seen": "2026-06-12T04:30:42Z"
+      },
+      {
+        "raw": "hachenburg",
+        "reason": "no_root",
+        "first_seen": "2026-11-25T11:57:05Z"
       },
       {
         "raw": "had",
@@ -4959,6 +4969,11 @@
         "first_seen": "2026-09-07T18:13:20Z"
       },
       {
+        "raw": "siegen",
+        "reason": "no_root",
+        "first_seen": "2026-11-25T11:57:05Z"
+      },
+      {
         "raw": "siegerland",
         "reason": "no_root",
         "first_seen": "2026-08-31T09:09:53Z"
@@ -5384,6 +5399,11 @@
         "raw": "test9",
         "reason": "no_root",
         "first_seen": "2026-08-15T03:31:58Z"
+      },
+      {
+        "raw": "testherb",
+        "reason": "no_root",
+        "first_seen": "2026-11-25T11:57:05Z"
       },
       {
         "raw": "teuto",
