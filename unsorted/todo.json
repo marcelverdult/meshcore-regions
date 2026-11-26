@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:57:05Z",
+  "generated_at": "2026-11-26T11:45:23Z",
   "buckets": {
     "a": [
       {
@@ -41,6 +41,11 @@
         "raw": "abc123",
         "reason": "no_root",
         "first_seen": "2026-08-18T03:37:37Z"
+      },
+      {
+        "raw": "abe",
+        "reason": "no_root",
+        "first_seen": "2026-11-26T11:45:23Z"
       },
       {
         "raw": "abq",
@@ -678,6 +683,11 @@
         "raw": "bwe",
         "reason": "no_root",
         "first_seen": "2026-08-13T04:45:49Z"
+      },
+      {
+        "raw": "bwi",
+        "reason": "no_root",
+        "first_seen": "2026-11-26T11:45:23Z"
       },
       {
         "raw": "bx",
@@ -3165,6 +3175,11 @@
         "first_seen": "2026-08-21T03:43:49Z"
       },
       {
+        "raw": "lns",
+        "reason": "no_root",
+        "first_seen": "2026-11-26T11:45:23Z"
+      },
+      {
         "raw": "local",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -3320,6 +3335,11 @@
         "raw": "md-il",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "mdt",
+        "reason": "no_root",
+        "first_seen": "2026-11-26T11:45:23Z"
       },
       {
         "raw": "mediamesh",
@@ -4747,6 +4767,11 @@
         "raw": "sca",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "sce",
+        "reason": "no_root",
+        "first_seen": "2026-11-26T11:45:23Z"
       },
       {
         "raw": "schapen",
