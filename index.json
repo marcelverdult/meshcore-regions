@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:57:05Z",
+  "generated_at": "2026-11-26T11:45:23Z",
   "tree": [
     {
       "code": "ad",
@@ -5296,6 +5296,11 @@
           "regions": []
         },
         {
+          "code": "de-du",
+          "name": "du",
+          "regions": []
+        },
+        {
           "code": "de-dus",
           "name": "dus",
           "regions": []
@@ -6506,6 +6511,11 @@
         {
           "code": "de-oal",
           "name": "oal",
+          "regions": []
+        },
+        {
+          "code": "de-ob",
+          "name": "ob",
           "regions": []
         },
         {
@@ -18779,6 +18789,10 @@
       "name": "drg"
     },
     {
+      "path": "de-du",
+      "name": "du"
+    },
+    {
       "path": "de-dus",
       "name": "dus"
     },
@@ -19669,6 +19683,10 @@
     {
       "path": "de-oal",
       "name": "oal"
+    },
+    {
+      "path": "de-ob",
+      "name": "ob"
     },
     {
       "path": "de-obb",

@@ -1196,6 +1196,11 @@
       "regions": []
     },
     {
+      "code": "de-du",
+      "name": "du",
+      "regions": []
+    },
+    {
       "code": "de-dus",
       "name": "dus",
       "regions": []
@@ -2406,6 +2411,11 @@
     {
       "code": "de-oal",
       "name": "oal",
+      "regions": []
+    },
+    {
+      "code": "de-ob",
+      "name": "ob",
       "regions": []
     },
     {
