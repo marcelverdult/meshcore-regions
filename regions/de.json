@@ -2874,6 +2874,11 @@
           "code": "de-sn-zi",
           "name": "zi",
           "regions": []
+        },
+        {
+          "code": "de-sn-zwickau",
+          "name": "zwickau",
+          "regions": []
         }
       ]
     },

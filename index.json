@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:45:23Z",
+  "generated_at": "2026-11-27T11:38:52Z",
   "tree": [
     {
       "code": "ad",
@@ -6974,6 +6974,11 @@
               "code": "de-sn-zi",
               "name": "zi",
               "regions": []
+            },
+            {
+              "code": "de-sn-zwickau",
+              "name": "zwickau",
+              "regions": []
             }
           ]
         },
@@ -8232,6 +8237,11 @@
           "regions": []
         },
         {
+          "code": "fr-81",
+          "name": "81",
+          "regions": []
+        },
+        {
           "code": "fr-83",
           "name": "83",
           "regions": [
@@ -8352,6 +8362,11 @@
         {
           "code": "fr-cvl",
           "name": "cvl",
+          "regions": []
+        },
+        {
+          "code": "fr-els",
+          "name": "els",
           "regions": []
         },
         {
@@ -20045,6 +20060,10 @@
       "name": "zi"
     },
     {
+      "path": "de-sn-zwickau",
+      "name": "zwickau"
+    },
+    {
       "path": "de-solling",
       "name": "Solling"
     },
@@ -21081,6 +21100,10 @@
       "name": "79"
     },
     {
+      "path": "fr-81",
+      "name": "81"
+    },
+    {
       "path": "fr-83",
       "name": "83"
     },
@@ -21183,6 +21206,10 @@
     {
       "path": "fr-cvl",
       "name": "cvl"
+    },
+    {
+      "path": "fr-els",
+      "name": "els"
     },
     {
       "path": "fr-est",
