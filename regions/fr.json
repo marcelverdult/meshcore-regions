@@ -266,6 +266,11 @@
       "regions": []
     },
     {
+      "code": "fr-81",
+      "name": "81",
+      "regions": []
+    },
+    {
       "code": "fr-83",
       "name": "83",
       "regions": [
@@ -386,6 +391,11 @@
     {
       "code": "fr-cvl",
       "name": "cvl",
+      "regions": []
+    },
+    {
+      "code": "fr-els",
+      "name": "els",
       "regions": []
     },
     {
