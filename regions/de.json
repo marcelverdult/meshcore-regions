@@ -1990,6 +1990,11 @@
           ]
         },
         {
+          "code": "de-ni-stm",
+          "name": "stm",
+          "regions": []
+        },
+        {
           "code": "de-ni-sz",
           "name": "Salzgitter",
           "regions": []
@@ -2421,6 +2426,11 @@
     {
       "code": "de-obb",
       "name": "obb",
+      "regions": []
+    },
+    {
+      "code": "de-oeb",
+      "name": "oeb",
       "regions": []
     },
     {
@@ -2902,6 +2912,11 @@
           "regions": []
         },
         {
+          "code": "de-st-ga",
+          "name": "ga",
+          "regions": []
+        },
+        {
           "code": "de-st-hal",
           "name": "hal",
           "regions": []
@@ -2924,6 +2939,11 @@
         {
           "code": "de-st-mitte",
           "name": "mitte",
+          "regions": []
+        },
+        {
+          "code": "de-st-oeb",
+          "name": "oeb",
           "regions": []
         },
         {
@@ -3148,6 +3168,11 @@
     {
       "code": "de-wn",
       "name": "wn",
+      "regions": []
+    },
+    {
+      "code": "de-wob",
+      "name": "wob",
       "regions": []
     },
     {

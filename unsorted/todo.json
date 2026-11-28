@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:38:52Z",
+  "generated_at": "2026-11-28T11:14:07Z",
   "buckets": {
     "a": [
       {
@@ -1117,6 +1117,11 @@
         "raw": "de-ro-dbg",
         "reason": "missing_parent:de-ro",
         "first_seen": "2026-07-05T06:33:48Z"
+      },
+      {
+        "raw": "de-st-amk-ga",
+        "reason": "missing_parent:de-st-amk",
+        "first_seen": "2026-11-28T11:14:07Z"
       },
       {
         "raw": "de-süd",
@@ -2637,6 +2642,11 @@
         "first_seen": "2026-10-01T09:39:12Z"
       },
       {
+        "raw": "hh-sh",
+        "reason": "no_root",
+        "first_seen": "2026-11-28T11:14:07Z"
+      },
+      {
         "raw": "hig",
         "reason": "no_root",
         "first_seen": "2026-10-13T09:56:02Z"
@@ -3312,6 +3322,16 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "magdemesh",
+        "reason": "no_root",
+        "first_seen": "2026-11-28T11:14:07Z"
+      },
+      {
+        "raw": "magdemesh-burg",
+        "reason": "no_root",
+        "first_seen": "2026-11-28T11:14:07Z"
+      },
+      {
         "raw": "mainz",
         "reason": "no_root",
         "first_seen": "2026-06-09T04:25:33Z"
@@ -3340,6 +3360,11 @@
         "raw": "md-il",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "mdmesh",
+        "reason": "no_root",
+        "first_seen": "2026-11-28T11:14:07Z"
       },
       {
         "raw": "mdt",
@@ -3515,6 +3540,11 @@
         "raw": "moers",
         "reason": "no_root",
         "first_seen": "2026-09-26T08:12:22Z"
+      },
+      {
+        "raw": "moin",
+        "reason": "no_root",
+        "first_seen": "2026-11-28T11:14:07Z"
       },
       {
         "raw": "molfsee",
@@ -5202,6 +5232,11 @@
         "raw": "stk",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "stmesh",
+        "reason": "no_root",
+        "first_seen": "2026-11-28T11:14:07Z"
       },
       {
         "raw": "stmk",

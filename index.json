@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:38:52Z",
+  "generated_at": "2026-11-28T11:14:07Z",
   "tree": [
     {
       "code": "ad",
@@ -6090,6 +6090,11 @@
               ]
             },
             {
+              "code": "de-ni-stm",
+              "name": "stm",
+              "regions": []
+            },
+            {
               "code": "de-ni-sz",
               "name": "Salzgitter",
               "regions": []
@@ -6521,6 +6526,11 @@
         {
           "code": "de-obb",
           "name": "obb",
+          "regions": []
+        },
+        {
+          "code": "de-oeb",
+          "name": "oeb",
           "regions": []
         },
         {
@@ -7002,6 +7012,11 @@
               "regions": []
             },
             {
+              "code": "de-st-ga",
+              "name": "ga",
+              "regions": []
+            },
+            {
               "code": "de-st-hal",
               "name": "hal",
               "regions": []
@@ -7024,6 +7039,11 @@
             {
               "code": "de-st-mitte",
               "name": "mitte",
+              "regions": []
+            },
+            {
+              "code": "de-st-oeb",
+              "name": "oeb",
               "regions": []
             },
             {
@@ -7248,6 +7268,11 @@
         {
           "code": "de-wn",
           "name": "wn",
+          "regions": []
+        },
+        {
+          "code": "de-wob",
+          "name": "wob",
           "regions": []
         },
         {
@@ -9754,6 +9779,11 @@
             {
               "code": "nl-dr-gtn",
               "name": "gtn",
+              "regions": []
+            },
+            {
+              "code": "nl-dr-hov",
+              "name": "hov",
               "regions": []
             },
             {
@@ -19416,6 +19446,10 @@
       "name": "auetal"
     },
     {
+      "path": "de-ni-stm",
+      "name": "stm"
+    },
+    {
       "path": "de-ni-sz",
       "name": "Salzgitter"
     },
@@ -19706,6 +19740,10 @@
     {
       "path": "de-obb",
       "name": "obb"
+    },
+    {
+      "path": "de-oeb",
+      "name": "oeb"
     },
     {
       "path": "de-os",
@@ -20080,6 +20118,10 @@
       "name": "de"
     },
     {
+      "path": "de-st-ga",
+      "name": "ga"
+    },
+    {
       "path": "de-st-hal",
       "name": "hal"
     },
@@ -20098,6 +20140,10 @@
     {
       "path": "de-st-mitte",
       "name": "mitte"
+    },
+    {
+      "path": "de-st-oeb",
+      "name": "oeb"
     },
     {
       "path": "de-st-saw",
@@ -20270,6 +20316,10 @@
     {
       "path": "de-wn",
       "name": "wn"
+    },
+    {
+      "path": "de-wob",
+      "name": "wob"
     },
     {
       "path": "de-wtm",
@@ -22582,6 +22632,10 @@
     {
       "path": "nl-dr-gtn",
       "name": "gtn"
+    },
+    {
+      "path": "nl-dr-hov",
+      "name": "hov"
     },
     {
       "path": "nl-dr-klz",

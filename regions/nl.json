@@ -152,6 +152,11 @@
           "regions": []
         },
         {
+          "code": "nl-dr-hov",
+          "name": "hov",
+          "regions": []
+        },
+        {
           "code": "nl-dr-klz",
           "name": "klz",
           "regions": []
